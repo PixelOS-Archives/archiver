@@ -89,13 +89,11 @@ def main():
                         "size": filesize
                     })
 
-    # Sort pending_files to be deterministic, oldest to newest might be better?
-    # Sorting by filename is okay.
+    # Sort pending_files to be deterministic
     pending_files.sort(key=lambda x: x["filename"])
     
     print(f"Found {len(pending_files)} pending files.")
     
-    uploaded_count = 0
     dry_run = os.environ.get("DRY_RUN", "0") == "1"
     
     if dry_run:
@@ -104,38 +102,42 @@ def main():
             print(json.dumps(pending, indent=2))
         return
 
-    for f_info in pending_files:
-        if uploaded_count >= MAX_UPLOAD_PER_RUN:
-            print("Reached max upload limit for this run.")
-            break
-            
-        print(f"\nProcessing {f_info['filename']}...")
+    to_process = pending_files[:MAX_UPLOAD_PER_RUN]
+    
+    if not to_process:
+        print("No files to process.")
+        return
+
+    from concurrent.futures import ThreadPoolExecutor, as_completed
+    import threading
+
+    log_lock = threading.Lock()
+
+    def process_file(f_info):
         download_url = f_info["url"]
         local_filename = f_info["filename"]
         try:
-            # Download file
-            print(f"Downloading {local_filename} from {download_url}...")
-            subprocess.run(["wget", "-q", "--show-progress", "-O", local_filename, download_url], check=True)
+            print(f"[\u2193] Downloading {local_filename}...")
+            # Run wget
+            subprocess.run(["wget", "-q", "-O", local_filename, download_url], check=True)
             
-            # Calculate SHA256 before splitting
             sha256sum = get_sha256(local_filename)
-            
             tag = f"{f_info['codename']}-{f_info['version']}"
-            ensure_gh_release(tag, f_info['codename'])
+            
+            # Since threads might be updating the same release, lock the tag creation explicitly
+            with log_lock:
+                ensure_gh_release(tag, f_info['codename'])
             
             files_to_upload = []
             is_split = False
             
             actual_size = os.path.getsize(local_filename)
-            print(f"Downloaded size: {actual_size} bytes")
             if actual_size > SPLIT_SIZE_BYTES:
-                print(f"File {local_filename} is larger than 1.9GB. Splitting into {PART_SIZE_MB}...")
+                print(f"[*] File {local_filename} > 1.9GB. Splitting into {PART_SIZE_MB}...")
                 is_split = True
                 split_prefix = f"{local_filename}.part"
-                # use system split with numeric suffixes (-d) starting from 0, width 1 (-a 1)
                 subprocess.run(["split", "-b", PART_SIZE_MB, "-d", "-a", "1", local_filename, split_prefix], check=True)
                 
-                # find parts
                 for f in sorted(os.listdir(".")):
                     if f.startswith(split_prefix):
                         files_to_upload.append(f)
@@ -143,18 +145,16 @@ def main():
                 files_to_upload.append(local_filename)
                 
             for f_to_up in files_to_upload:
-                print(f"Uploading {f_to_up} to GitHub Releases tag {tag}...")
+                print(f"[\u2191] Uploading {f_to_up} to GitHub Releases tag {tag}...")
                 subprocess.run(["gh", "release", "upload", tag, f_to_up, "--clobber"], check=True)
             
             gh_base_url = f"https://github.com/{GH_REPO}/releases/download/{tag}"
             
-            # Form final URLs (gh cli puts it under the tag)
             if is_split:
                 gh_url = f"{gh_base_url}/{local_filename}.part*"
             else:
                 gh_url = f"{gh_base_url}/{local_filename}"
 
-            # Log successful upload
             log_entry = {
                 "filename": f_info["filename"],
                 "size": actual_size,
@@ -163,27 +163,32 @@ def main():
                 "GH URL": gh_url,
                 "parts": is_split
             }
-            log_data.append(log_entry)
             
-            # Remove downloaded parts
+            with log_lock:
+                log_data.append(log_entry)
+                with open(LOG_FILE, "w") as f:
+                    json.dump(log_data, f, indent=4)
+                    
+            print(f"[\u2713] Successfully handled {local_filename}")
+
+        except Exception as e:
+            print(f"[!] Error processing {local_filename}: {e}")
+            
+        finally:
             if os.path.exists(local_filename):
                 os.remove(local_filename)
-            for f in files_to_upload:
-                if f != local_filename and os.path.exists(f):
-                    os.remove(f)
-                    
-            uploaded_count += 1
-            
-            # Save log cumulatively
-            with open(LOG_FILE, "w") as f:
-                json.dump(log_data, f, indent=4)
-                
-        except Exception as e:
-            print(f"Error processing {local_filename}: {e}")
-            # Ensure partial cleanup
-            if os.path.exists(local_filename): os.remove(local_filename)
-            # breaking out of loop on error
-            break
+            try:
+                for f in files_to_upload:
+                    if f != local_filename and os.path.exists(f):
+                        os.remove(f)
+            except Exception:
+                pass
+
+
+    with ThreadPoolExecutor(max_workers=3) as executor:
+        futures = [executor.submit(process_file, item) for item in to_process]
+        for future in as_completed(futures):
+            future.result()
 
 if __name__ == "__main__":
     main()
