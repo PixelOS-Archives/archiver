@@ -1,11 +1,7 @@
 name: Mirror SourceForge to GitHub Releases
 
 on:
-  schedule:
-    # Run every 4 hours, or any interval you want to process batches
-    - cron: '0 */4 * * *'
   workflow_dispatch:
-    # Allow manual triggering
 
 jobs:
   mirror:
