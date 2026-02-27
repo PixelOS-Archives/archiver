@@ -7,7 +7,7 @@ import hashlib
 import sys
 
 LOG_FILE = "log.json"
-MAX_UPLOAD_PER_RUN = 10
+MAX_UPLOAD_PER_RUN = 40
 SPLIT_SIZE_BYTES = int(1.9 * 1024**3)
 PART_SIZE_MB = "1600M" # for split command
 GH_REPO = os.environ.get("GITHUB_REPOSITORY", "user/repo")
