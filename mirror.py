@@ -6,6 +6,13 @@ import subprocess
 import hashlib
 import sys
 import time
+import logging
+
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s [%(threadName)s] %(levelname)s: %(message)s',
+    datefmt='%Y-%m-%d %H:%M:%S'
+)
 
 LOG_FILE = "log.json"
 MAX_UPLOAD_PER_RUN = 40
@@ -39,7 +46,7 @@ def main():
     processed_urls = {item["SF URL"] for item in log_data if "SF URL" in item}
     
     url = 'https://sourceforge.net/projects/pixelos-releases/rss?limit=10000'
-    print(f"Fetching RSS: {url}")
+    logging.info(f"Fetching RSS: {url}")
     # Using a User-Agent so SF won't block the request occasionally
     req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
     xml_data = urllib.request.urlopen(req).read().decode('utf-8')
@@ -91,20 +98,20 @@ def main():
     # Sort pending_files to be deterministic
     pending_files.sort(key=lambda x: x["filename"])
     
-    print(f"Found {len(pending_files)} pending files.")
+    logging.info(f"Found {len(pending_files)} pending files.")
     
     dry_run = os.environ.get("DRY_RUN", "0") == "1"
     
     if dry_run:
-        print("Dry run requested, here are the first 10 items:")
+        logging.info("Dry run requested, here are the first 10 items:")
         for pending in pending_files[:10]:
-            print(json.dumps(pending, indent=2))
+            logging.info(json.dumps(pending, indent=2))
         return
 
     to_process = pending_files[:MAX_UPLOAD_PER_RUN]
     
     if not to_process:
-        print("No files to process.")
+        logging.info("No files to process.")
         return
 
     from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -116,7 +123,7 @@ def main():
         download_url = f_info["url"]
         local_filename = f_info["filename"]
         try:
-            print(f"[\u2193] Downloading {local_filename}...")
+            logging.info(f"[\u2193] Downloading {local_filename}...")
             start_dl = time.time()
             subprocess.run(["wget", "-q", "-O", local_filename, download_url], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=True)
             dl_time = max(time.time() - start_dl, 0.001)
@@ -133,10 +140,10 @@ def main():
             
             actual_size = os.path.getsize(local_filename)
             dl_speed = (actual_size / 1024 / 1024) / dl_time
-            print(f"[\u2713] Downloaded {local_filename} at {dl_speed:.2f} MB/s")
+            logging.info(f"[\u2713] Downloaded {local_filename} at {dl_speed:.2f} MB/s")
             
             if actual_size > SPLIT_SIZE_BYTES:
-                print(f"[*] File {local_filename} > 1.9GB. Splitting into {PART_SIZE_MB}...")
+                logging.info(f"[*] File {local_filename} > 1.9GB. Splitting into {PART_SIZE_MB}...")
                 is_split = True
                 split_prefix = f"{local_filename}.part"
                 subprocess.run(["split", "-b", PART_SIZE_MB, "-d", "-a", "1", local_filename, split_prefix], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=True)
@@ -154,7 +161,7 @@ def main():
                 subprocess.run(["gh", "release", "upload", tag, f_to_up, "--clobber"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=True)
             up_time = max(time.time() - up_start, 0.001)
             up_speed = (total_up_size / 1024 / 1024) / up_time
-            print(f"[\u2191] Uploaded {local_filename} at {up_speed:.2f} MB/s")
+            logging.info(f"[\u2191] Uploaded {local_filename} at {up_speed:.2f} MB/s")
             
             gh_base_url = f"https://github.com/{GH_REPO}/releases/download/{tag}"
             
@@ -177,10 +184,10 @@ def main():
                 with open(LOG_FILE, "w") as f:
                     json.dump(log_data, f, indent=4)
                     
-            print(f"[*] Successfully recorded {local_filename} to log.json")
+            logging.info(f"[*] Successfully recorded {local_filename} to log.json")
 
         except Exception as e:
-            print(f"[!] Error processing {local_filename}: {e}")
+            logging.error(f"[!] Error processing {local_filename}: {e}")
             
         finally:
             if os.path.exists(local_filename):
