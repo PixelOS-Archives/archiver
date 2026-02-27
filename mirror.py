@@ -5,6 +5,7 @@ import xml.etree.ElementTree as ET
 import subprocess
 import hashlib
 import sys
+import time
 
 LOG_FILE = "log.json"
 MAX_UPLOAD_PER_RUN = 40
@@ -116,8 +117,9 @@ def main():
         local_filename = f_info["filename"]
         try:
             print(f"[\u2193] Downloading {local_filename}...")
-            # Run wget quietly
+            start_dl = time.time()
             subprocess.run(["wget", "-q", "-O", local_filename, download_url], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=True)
+            dl_time = max(time.time() - start_dl, 0.001)
             
             sha256sum = get_sha256(local_filename)
             tag = f"{f_info['codename']}-{f_info['version']}"
@@ -130,6 +132,9 @@ def main():
             is_split = False
             
             actual_size = os.path.getsize(local_filename)
+            dl_speed = (actual_size / 1024 / 1024) / dl_time
+            print(f"[\u2713] Downloaded {local_filename} at {dl_speed:.2f} MB/s")
+            
             if actual_size > SPLIT_SIZE_BYTES:
                 print(f"[*] File {local_filename} > 1.9GB. Splitting into {PART_SIZE_MB}...")
                 is_split = True
@@ -142,8 +147,14 @@ def main():
             else:
                 files_to_upload.append(local_filename)
                 
+            total_up_size = 0
+            up_start = time.time()
             for f_to_up in files_to_upload:
+                total_up_size += os.path.getsize(f_to_up)
                 subprocess.run(["gh", "release", "upload", tag, f_to_up, "--clobber"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=True)
+            up_time = max(time.time() - up_start, 0.001)
+            up_speed = (total_up_size / 1024 / 1024) / up_time
+            print(f"[\u2191] Uploaded {local_filename} at {up_speed:.2f} MB/s")
             
             gh_base_url = f"https://github.com/{GH_REPO}/releases/download/{tag}"
             
@@ -166,7 +177,7 @@ def main():
                 with open(LOG_FILE, "w") as f:
                     json.dump(log_data, f, indent=4)
                     
-            print(f"[\u2713] Successfully handled {local_filename}")
+            print(f"[*] Successfully recorded {local_filename} to log.json")
 
         except Exception as e:
             print(f"[!] Error processing {local_filename}: {e}")
