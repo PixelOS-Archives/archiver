@@ -1,0 +1,82 @@
+[
+    {
+        "filename": "PixelOS_G-13.0-20230124-1432.zip",
+        "size": 1445278128,
+        "SHA256": "2c208cb882731242287f98b5ec3b2eb7f03b814254a08c31cd5f0593f979fe1e",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/G/PixelOS_G-13.0-20230124-1432.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/G-thirteen/PixelOS_G-13.0-20230124-1432.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_G-13.0-20230214-2055.zip",
+        "size": 1442982408,
+        "SHA256": "bada84f9059dc79badfaf21452ca0ce7b26a986f71511057d93780d046c55279",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/G/PixelOS_G-13.0-20230214-2055.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/G-thirteen/PixelOS_G-13.0-20230214-2055.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_G-13.0-20230508-2141.zip",
+        "size": 1442166917,
+        "SHA256": "12618d54144587694cc234987d6863f2de01a22fe629640a19f1781d12280fca",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/G/PixelOS_G-13.0-20230508-2141.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/G-thirteen/PixelOS_G-13.0-20230508-2141.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_G-13.0-20230914-1945.zip",
+        "size": 1424433405,
+        "SHA256": "a83830c67c7cd612a358ad3a793cd738a347d51d5fda8181f19be47096010ad0",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/G/PixelOS_G-13.0-20230914-1945.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/G-thirteen/PixelOS_G-13.0-20230914-1945.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_G-14.0-20231124-0441.zip",
+        "size": 1609770777,
+        "SHA256": "1315a882c5f2e9e29619896ac2abcee8139a168bd250430e555006abbbc032f6",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/G/PixelOS_G-14.0-20231124-0441.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/G-fourteen/PixelOS_G-14.0-20231124-0441.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_G-14.0-20231222-2005.zip",
+        "size": 1663218498,
+        "SHA256": "12660f6627ded3626cd6fa24cdd902ec24ceb663f4287031c8b1250ab2001dfb",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/G/PixelOS_G-14.0-20231222-2005.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/G-fourteen/PixelOS_G-14.0-20231222-2005.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_G-14.0-20240128-1239.zip",
+        "size": 1667668988,
+        "SHA256": "c10bb1dea005139a4be732c8677e9dd43e102159adf973725897417a96f6902e",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/G/PixelOS_G-14.0-20240128-1239.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/G-fourteen/PixelOS_G-14.0-20240128-1239.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_G-14.0-20240820-0152.zip",
+        "size": 1758627343,
+        "SHA256": "bd019ace17bb9b33e3eb03692641e4fd21ccf1f9c0d647a7b1a57864a6b51b31",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/G/PixelOS_G-14.0-20240820-0152.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/G-fourteen/PixelOS_G-14.0-20240820-0152.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX1941-12.0-20220211-2021.zip",
+        "size": 1522552864,
+        "SHA256": "1ccdc0918fdfe1acd8a8c1e9a3ab96db5df0d78ba6506393f6bd9f8ac7314676",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/RMX1941/PixelOS_RMX1941-12.0-20220211-2021.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX1941-twelve/PixelOS_RMX1941-12.0-20220211-2021.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX1941-12.0-20220311-0800.zip",
+        "size": 1761624495,
+        "SHA256": "44a0d896ab587c2e5cd576b498ce7b9a30ffb90a6a45e1c2385e6911d42725fb",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/RMX1941/PixelOS_RMX1941-12.0-20220311-0800.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX1941-twelve/PixelOS_RMX1941-12.0-20220311-0800.zip",
+        "parts": false
+    }
+]
