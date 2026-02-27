@@ -13,7 +13,6 @@ PART_SIZE_MB = "1600M" # for split command
 GH_REPO = os.environ.get("GITHUB_REPOSITORY", "user/repo")
 
 def get_sha256(filepath):
-    print(f"Calculating SHA256 for {filepath}...")
     sha256_hash = hashlib.sha256()
     with open(filepath, "rb") as f:
         for byte_block in iter(lambda: f.read(4096), b""):
@@ -22,10 +21,9 @@ def get_sha256(filepath):
 
 def ensure_gh_release(tag, codename):
     # Check if release exists
-    res = subprocess.run(["gh", "release", "view", tag], capture_output=True, text=True)
+    res = subprocess.run(["gh", "release", "view", tag], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
     if res.returncode != 0:
-        print(f"Release {tag} not found, creating it...")
-        subprocess.run(["gh", "release", "create", tag, "--title", f"Releases for {codename}", "--notes", f"Automated mirror of SourceForge releases for {codename}"], check=True)
+        subprocess.run(["gh", "release", "create", tag, "--title", f"Releases for {codename}", "--notes", f"Automated mirror of SourceForge releases for {codename}"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
 
 def main():
     if os.path.exists(LOG_FILE):
@@ -118,8 +116,8 @@ def main():
         local_filename = f_info["filename"]
         try:
             print(f"[\u2193] Downloading {local_filename}...")
-            # Run wget
-            subprocess.run(["wget", "-q", "-O", local_filename, download_url], check=True)
+            # Run wget quietly
+            subprocess.run(["wget", "-q", "-O", local_filename, download_url], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=True)
             
             sha256sum = get_sha256(local_filename)
             tag = f"{f_info['codename']}-{f_info['version']}"
@@ -136,7 +134,7 @@ def main():
                 print(f"[*] File {local_filename} > 1.9GB. Splitting into {PART_SIZE_MB}...")
                 is_split = True
                 split_prefix = f"{local_filename}.part"
-                subprocess.run(["split", "-b", PART_SIZE_MB, "-d", "-a", "1", local_filename, split_prefix], check=True)
+                subprocess.run(["split", "-b", PART_SIZE_MB, "-d", "-a", "1", local_filename, split_prefix], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=True)
                 
                 for f in sorted(os.listdir(".")):
                     if f.startswith(split_prefix):
@@ -145,8 +143,7 @@ def main():
                 files_to_upload.append(local_filename)
                 
             for f_to_up in files_to_upload:
-                print(f"[\u2191] Uploading {f_to_up} to GitHub Releases tag {tag}...")
-                subprocess.run(["gh", "release", "upload", tag, f_to_up, "--clobber"], check=True)
+                subprocess.run(["gh", "release", "upload", tag, f_to_up, "--clobber"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=True)
             
             gh_base_url = f"https://github.com/{GH_REPO}/releases/download/{tag}"
             
