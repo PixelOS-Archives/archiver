@@ -132,8 +132,8 @@ def main():
                 print(f"File {local_filename} is larger than 1.9GB. Splitting into {PART_SIZE_MB}...")
                 is_split = True
                 split_prefix = f"{local_filename}.part"
-                # use system split
-                subprocess.run(["split", "-b", PART_SIZE_MB, local_filename, split_prefix], check=True)
+                # use system split with numeric suffixes (-d) starting from 0, width 1 (-a 1)
+                subprocess.run(["split", "-b", PART_SIZE_MB, "-d", "-a", "1", local_filename, split_prefix], check=True)
                 
                 # find parts
                 for f in sorted(os.listdir(".")):

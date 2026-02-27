@@ -11,4 +11,4 @@ This repository automates the mirroring of large Android ROMs from the [PixelOS 
 A SourceForge format like:
 `/fourteen/RMX2020/PixelOS_RMX2020-14.0-XXX.zip`
 
-Becomes a Github Release under the **RMX2020-fourteen** tag containing the ZIP file.
+Becomes a Github Release under the **RMX2020-fourteen** tag explicitly, containing the ZIP file (or its `.part0`, `.part1` pieces). All ROM builds for the same device and version are grouped into this single tag.
