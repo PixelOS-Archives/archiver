@@ -165,8 +165,17 @@ def main():
             
             gh_base_url = f"https://github.com/{GH_REPO}/releases/download/{tag}"
             
+            part_details = []
+            
             if is_split:
                 gh_url = f"{gh_base_url}/{local_filename}.part*"
+                for f_part in files_to_upload:
+                    part_details.append({
+                        "filename": f_part,
+                        "size": os.path.getsize(f_part),
+                        "SHA256": get_sha256(f_part),
+                        "GH URL": f"{gh_base_url}/{f_part}"
+                    })
             else:
                 gh_url = f"{gh_base_url}/{local_filename}"
 
@@ -176,7 +185,7 @@ def main():
                 "SHA256": sha256sum,
                 "SF URL": download_url,
                 "GH URL": gh_url,
-                "parts": is_split
+                "parts": part_details if is_split else False
             }
             
             with log_lock:
