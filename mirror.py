@@ -27,6 +27,16 @@ def get_sha256(filepath):
             sha256_hash.update(byte_block)
     return sha256_hash.hexdigest()
 
+def run_with_retry(cmd, max_retries=3, **kwargs):
+    for attempt in range(max_retries):
+        try:
+            return subprocess.run(cmd, check=True, **kwargs)
+        except subprocess.CalledProcessError as e:
+            if attempt == max_retries - 1:
+                raise
+            logging.warning(f"Command failed (attempt {attempt+1}/{max_retries}): {e}. Retrying in 5s...")
+            time.sleep(5)
+
 def ensure_gh_release(tag, codename):
     # Check if release exists
     res = subprocess.run(["gh", "release", "view", tag], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
@@ -125,7 +135,7 @@ def main():
         try:
             logging.info(f"[\u2193] Downloading {local_filename}...")
             start_dl = time.time()
-            subprocess.run(["wget", "-q", "-O", local_filename, download_url], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=True)
+            run_with_retry(["wget", "-q", "-O", local_filename, download_url], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
             dl_time = max(time.time() - start_dl, 0.001)
             
             sha256sum = get_sha256(local_filename)
@@ -158,7 +168,7 @@ def main():
             up_start = time.time()
             for f_to_up in files_to_upload:
                 total_up_size += os.path.getsize(f_to_up)
-                subprocess.run(["gh", "release", "upload", tag, f_to_up, "--clobber"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=True)
+                run_with_retry(["gh", "release", "upload", tag, f_to_up, "--clobber"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
             up_time = max(time.time() - up_start, 0.001)
             up_speed = (total_up_size / 1024 / 1024) / up_time
             logging.info(f"[\u2191] Uploaded {local_filename} at {up_speed:.2f} MB/s")
@@ -209,7 +219,7 @@ def main():
                 pass
 
 
-    with ThreadPoolExecutor(max_workers=3) as executor:
+    with ThreadPoolExecutor(max_workers=20) as executor:
         futures = [executor.submit(process_file, item) for item in to_process]
         for future in as_completed(futures):
             future.result()
