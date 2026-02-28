@@ -1,0 +1,962 @@
+[
+    {
+        "filename": "PixelOS_G-13.0-20230214-2055.zip",
+        "size": 1442982408,
+        "SHA256": "bada84f9059dc79badfaf21452ca0ce7b26a986f71511057d93780d046c55279",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/G/PixelOS_G-13.0-20230214-2055.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/G-thirteen/PixelOS_G-13.0-20230214-2055.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_G-13.0-20230508-2141.zip",
+        "size": 1442166917,
+        "SHA256": "12618d54144587694cc234987d6863f2de01a22fe629640a19f1781d12280fca",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/G/PixelOS_G-13.0-20230508-2141.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/G-thirteen/PixelOS_G-13.0-20230508-2141.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_G-13.0-20230124-1432.zip",
+        "size": 1445278128,
+        "SHA256": "2c208cb882731242287f98b5ec3b2eb7f03b814254a08c31cd5f0593f979fe1e",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/G/PixelOS_G-13.0-20230124-1432.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/G-thirteen/PixelOS_G-13.0-20230124-1432.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_G-13.0-20230914-1945.zip",
+        "size": 1424433405,
+        "SHA256": "a83830c67c7cd612a358ad3a793cd738a347d51d5fda8181f19be47096010ad0",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/G/PixelOS_G-13.0-20230914-1945.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/G-thirteen/PixelOS_G-13.0-20230914-1945.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_G-14.0-20231124-0441.zip",
+        "size": 1609770777,
+        "SHA256": "1315a882c5f2e9e29619896ac2abcee8139a168bd250430e555006abbbc032f6",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/G/PixelOS_G-14.0-20231124-0441.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/G-fourteen/PixelOS_G-14.0-20231124-0441.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_G-14.0-20231222-2005.zip",
+        "size": 1663218498,
+        "SHA256": "12660f6627ded3626cd6fa24cdd902ec24ceb663f4287031c8b1250ab2001dfb",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/G/PixelOS_G-14.0-20231222-2005.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/G-fourteen/PixelOS_G-14.0-20231222-2005.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_G-14.0-20240128-1239.zip",
+        "size": 1667668988,
+        "SHA256": "c10bb1dea005139a4be732c8677e9dd43e102159adf973725897417a96f6902e",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/G/PixelOS_G-14.0-20240128-1239.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/G-fourteen/PixelOS_G-14.0-20240128-1239.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX1941-12.0-20220211-2021.zip",
+        "size": 1522552864,
+        "SHA256": "1ccdc0918fdfe1acd8a8c1e9a3ab96db5df0d78ba6506393f6bd9f8ac7314676",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/RMX1941/PixelOS_RMX1941-12.0-20220211-2021.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX1941-twelve/PixelOS_RMX1941-12.0-20220211-2021.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX1941-12.0-20220311-0800.zip",
+        "size": 1761624495,
+        "SHA256": "44a0d896ab587c2e5cd576b498ce7b9a30ffb90a6a45e1c2385e6911d42725fb",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/RMX1941/PixelOS_RMX1941-12.0-20220311-0800.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX1941-twelve/PixelOS_RMX1941-12.0-20220311-0800.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX1941-12.0-20220313-0654.zip",
+        "size": 1743480789,
+        "SHA256": "931e959b62a43654c8b5f14ac31e0a60dafcaf95a3da9d6dae079d1cafa68319",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/RMX1941/PixelOS_RMX1941-12.0-20220313-0654.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX1941-twelve/PixelOS_RMX1941-12.0-20220313-0654.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX2001L1-14.0-20231222-1906.zip",
+        "size": 1988509094,
+        "SHA256": "e45ef22021f6f40f6590f5d36d6bf218dfb0a7c21434d36455130902f3233e7c",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/RMX2001L1/PixelOS_RMX2001L1-14.0-20231222-1906.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2001L1-fourteen/PixelOS_RMX2001L1-14.0-20231222-1906.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX2001L1-14.0-20240117-1359.zip",
+        "size": 1989695395,
+        "SHA256": "e73f7e528fcd24ba2a2de02798f666f9d7b3c2a1ff0909fc0183984d606f9cde",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/RMX2001L1/PixelOS_RMX2001L1-14.0-20240117-1359.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2001L1-fourteen/PixelOS_RMX2001L1-14.0-20240117-1359.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX2001L1-14.0-20240417-1810.zip",
+        "size": 1923226653,
+        "SHA256": "f66e1cab40dd43c97fac64ac4212a846e40c6ada5b5dddfd8f5c173445f44f83",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/RMX2001L1/PixelOS_RMX2001L1-14.0-20240417-1810.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2001L1-fourteen/PixelOS_RMX2001L1-14.0-20240417-1810.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX2001L1-14.0-20240528-0839.zip",
+        "size": 1984423382,
+        "SHA256": "dc6d1b8d46c0b7ac9ca8e56b4c71588c749d8782b62bd2ed86bf3a1848b0ae41",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/RMX2001L1/PixelOS_RMX2001L1-14.0-20240528-0839.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2001L1-fourteen/PixelOS_RMX2001L1-14.0-20240528-0839.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX2001L1-14.0-20240820-0933.zip",
+        "size": 2115149881,
+        "SHA256": "fe6fa5a5862a4d70ccaaf8eb09e429b3a62d53fde11250558e5da24a47595e88",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/RMX2001L1/PixelOS_RMX2001L1-14.0-20240820-0933.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2001L1-fourteen/PixelOS_RMX2001L1-14.0-20240820-0933.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_RMX2001L1-14.0-20240801-1747.zip",
+        "size": 2246146060,
+        "SHA256": "c50d4186c1e1ba9b99c98f29115cf87ac1e4a55d49fa04d358f2ead5063122ed",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/RMX2001L1/PixelOS_RMX2001L1-14.0-20240801-1747.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2001L1-fourteen/PixelOS_RMX2001L1-14.0-20240801-1747.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_RMX2001L1-14.0-20240922-1357.zip",
+        "size": 2108189196,
+        "SHA256": "0294d47f68e39a8baf1a0bfa1f62483a34e799288e5c46e6ca2060bfb83be696",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/RMX2001L1/PixelOS_RMX2001L1-14.0-20240922-1357.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2001L1-fourteen/PixelOS_RMX2001L1-14.0-20240922-1357.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_RMX2001L1-14.0-20241015-1433.zip",
+        "size": 2107783889,
+        "SHA256": "d6068680c1f533a77c79d8059f99d84bef1d193562e5ac7bfe2b4ec3f49c5daf",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/RMX2001L1/PixelOS_RMX2001L1-14.0-20241015-1433.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2001L1-fourteen/PixelOS_RMX2001L1-14.0-20241015-1433.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_RMX2001L1-15.0-20250217-1630.zip",
+        "size": 2166762659,
+        "SHA256": "c1555b6191bdedba12795f081e6501d73736f9401dd8145e6228b7d1f9ea7b18",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/RMX2001L1/PixelOS_RMX2001L1-15.0-20250217-1630.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2001L1-fifteen/PixelOS_RMX2001L1-15.0-20250217-1630.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_RMX2020-12.1-20220403-1745.zip",
+        "size": 1775422563,
+        "SHA256": "df08fac18ae2586cef627c3f0217f02ae647cb62c3932aff0d76367aae724378",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/RMX2020/PixelOS_RMX2020-12.1-20220403-1745.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2020-twelve/PixelOS_RMX2020-12.1-20220403-1745.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX2020-12.1-20220409-1417.zip",
+        "size": 1761416106,
+        "SHA256": "f6baafb08097f38894e39b67042723df740a9bf5ac6e819671d977d5d33cc8d1",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/RMX2020/PixelOS_RMX2020-12.1-20220409-1417.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2020-twelve/PixelOS_RMX2020-12.1-20220409-1417.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_G-14.0-20240820-0152.zip",
+        "size": 1758627343,
+        "SHA256": "bd019ace17bb9b33e3eb03692641e4fd21ccf1f9c0d647a7b1a57864a6b51b31",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/G/PixelOS_G-14.0-20240820-0152.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/G-fourteen/PixelOS_G-14.0-20240820-0152.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX2020-12.1-20220502-0956.zip",
+        "size": 1770839497,
+        "SHA256": "2bb056b427236e3c945381a751e412f8e3ad0a92f0321519f0848cb12aab3d07",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/RMX2020/PixelOS_RMX2020-12.1-20220502-0956.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2020-twelve/PixelOS_RMX2020-12.1-20220502-0956.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX2020-12.1-20220511-0547.zip",
+        "size": 1770923264,
+        "SHA256": "29c36a0275726bf8e0f0ece4eb394f6e6b691245f9fc38ee21eb98b285c807cc",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/RMX2020/PixelOS_RMX2020-12.1-20220511-0547.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2020-twelve/PixelOS_RMX2020-12.1-20220511-0547.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX2020-12.1-20220611-1718.zip",
+        "size": 1774370456,
+        "SHA256": "c71fbbd93c7eb5aea5cfe96f9ad3c95053d64898fe99ae9db821a2091a71f9f5",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/RMX2020/PixelOS_RMX2020-12.1-20220611-1718.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2020-twelve/PixelOS_RMX2020-12.1-20220611-1718.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX2001L1-15.0-20250411-2158.zip",
+        "size": 2207678380,
+        "SHA256": "77fdc1a97ab7be06336e19f6633a78049e279d568297f5d51b1db8379c209cfc",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/RMX2001L1/PixelOS_RMX2001L1-15.0-20250411-2158.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2001L1-fifteen/PixelOS_RMX2001L1-15.0-20250411-2158.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_RMX2020-12.1-20220618-1021.zip",
+        "size": 1774696944,
+        "SHA256": "fbb050cb8aee6107bc60cc6a6fa03b2c6b73eab3bb16ac4fe3b85d82c49803c9",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/RMX2020/PixelOS_RMX2020-12.1-20220618-1021.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2020-twelve/PixelOS_RMX2020-12.1-20220618-1021.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX2020-12.1-20220708-1010.zip",
+        "size": 1799040836,
+        "SHA256": "421e80daa09f43c5fd88ce35d6cd690d59e7e5b4a5b8ec3f219a81877a936cb5",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/RMX2020/PixelOS_RMX2020-12.1-20220708-1010.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2020-twelve/PixelOS_RMX2020-12.1-20220708-1010.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX2020-12.1-20220812-0656.zip",
+        "size": 1777768837,
+        "SHA256": "9a49ab6174a6e2cff5966544185dc4fb2ac1d35bda7ddd8131beafa7fb22e801",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/RMX2020/PixelOS_RMX2020-12.1-20220812-0656.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2020-twelve/PixelOS_RMX2020-12.1-20220812-0656.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX2020-13.0-20220911-1748.zip",
+        "size": 1790375220,
+        "SHA256": "bb810bbbc1d6a1b658c4da4c914abcb98543998240d8625eaed57f59e82be7f0",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/RMX2020/PixelOS_RMX2020-13.0-20220911-1748.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2020-thirteen/PixelOS_RMX2020-13.0-20220911-1748.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX2020-13.0-20221101-1700.zip",
+        "size": 1686110208,
+        "SHA256": "743656dde4214fa8ef7c385cfe8a72e31aff159ba78a1554a20410c2ad9acf61",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/RMX2020/PixelOS_RMX2020-13.0-20221101-1700.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2020-thirteen/PixelOS_RMX2020-13.0-20221101-1700.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX2020-13.0-20221116-1625.zip",
+        "size": 1848776823,
+        "SHA256": "99f7e04b33121627476b68d2b4e6a794d6929c600899aad82562ac989feb670f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/RMX2020/PixelOS_RMX2020-13.0-20221116-1625.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2020-thirteen/PixelOS_RMX2020-13.0-20221116-1625.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX2020-13.0-20221128-1415.zip",
+        "size": 1850463748,
+        "SHA256": "4934399dc8f8a96040d18ca1d6873711f1f0633a2857ba310ebf70a4b3d92e7a",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/RMX2020/PixelOS_RMX2020-13.0-20221128-1415.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2020-thirteen/PixelOS_RMX2020-13.0-20221128-1415.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX2020-13.0-20230126-0046.zip",
+        "size": 1723587698,
+        "SHA256": "531de2e312b7bd267f9d2437afe73099458da90a9993409ee268d190d4931cd2",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/RMX2020/PixelOS_RMX2020-13.0-20230126-0046.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2020-thirteen/PixelOS_RMX2020-13.0-20230126-0046.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX2020-13.0-20230214-2010.zip",
+        "size": 1724987906,
+        "SHA256": "86cc8024678a672e19f9928329313a937fbe280f83462a3f0bef47414793681b",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/RMX2020/PixelOS_RMX2020-13.0-20230214-2010.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2020-thirteen/PixelOS_RMX2020-13.0-20230214-2010.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX2020-13.0-20230416-1826.zip",
+        "size": 1743302134,
+        "SHA256": "0c1c1d7e410931cd9e0e28362b59850e85d6db718fa42b70638ca3c1906e067e",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/RMX2020/PixelOS_RMX2020-13.0-20230416-1826.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2020-thirteen/PixelOS_RMX2020-13.0-20230416-1826.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX2020-13.0-20230509-1040.zip",
+        "size": 1728138730,
+        "SHA256": "c12842969afa6d228e974a143c191cfeba9a81c0f21968cc67d1f3341104da34",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/RMX2020/PixelOS_RMX2020-13.0-20230509-1040.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2020-thirteen/PixelOS_RMX2020-13.0-20230509-1040.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX2020-13.0-20230705-2124.zip",
+        "size": 1918002004,
+        "SHA256": "0f0348dad3636b7e03d7c3624a9bfe7e66596da550f884b98416763841f8034a",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/RMX2020/PixelOS_RMX2020-13.0-20230705-2124.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2020-thirteen/PixelOS_RMX2020-13.0-20230705-2124.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX2020-13.0-20230708-0408.zip",
+        "size": 1928613608,
+        "SHA256": "5b700ea19c74b2cf5789b35f365a9d0d30577342ad86a83c0a6fee5f9e2d06aa",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/RMX2020/PixelOS_RMX2020-13.0-20230708-0408.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2020-thirteen/PixelOS_RMX2020-13.0-20230708-0408.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX2020-13.0-20230819-0406.zip",
+        "size": 1865301611,
+        "SHA256": "ae25ad3c2f832d6d6677e48511127cbf872d542a3cca137b5b4bc1b9960e26a7",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/RMX2020/PixelOS_RMX2020-13.0-20230819-0406.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2020-thirteen/PixelOS_RMX2020-13.0-20230819-0406.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX2020-13.0-20231002-0834.zip",
+        "size": 1901302534,
+        "SHA256": "8f01fa185b85a5ca03edaef909dca150bf419817604f5a10460279a12e0b0236",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/RMX2020/PixelOS_RMX2020-13.0-20231002-0834.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2020-thirteen/PixelOS_RMX2020-13.0-20231002-0834.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX2020-14.0-20231109-1454.zip",
+        "size": 1852327324,
+        "SHA256": "0de957083e74658752fbcc522f155b3f8cd9ae4aad556ec00ffb95d7527f4474",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/RMX2020/PixelOS_RMX2020-14.0-20231109-1454.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2020-fourteen/PixelOS_RMX2020-14.0-20231109-1454.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX2020-14.0-20231117-1726.zip",
+        "size": 1860856307,
+        "SHA256": "f7e8ea6f74425a2aed55768e500d7652ee4f962472ad22db99fd219a31f36f89",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/RMX2020/PixelOS_RMX2020-14.0-20231117-1726.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2020-fourteen/PixelOS_RMX2020-14.0-20231117-1726.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX2020-14.0-20231126-1149.zip",
+        "size": 1870801665,
+        "SHA256": "b931fa2eba0304039a3a0a5b2ba9380223e73d5e3bd88a523253f62f85b28a1e",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/RMX2020/PixelOS_RMX2020-14.0-20231126-1149.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2020-fourteen/PixelOS_RMX2020-14.0-20231126-1149.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX2020-14.0-20231223-1220.zip",
+        "size": 1925854181,
+        "SHA256": "5afcc9803c0f9e5101ed3f8751f7848502e53825db9b25a9ff15ce0d9e4f1918",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/RMX2020/PixelOS_RMX2020-14.0-20231223-1220.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2020-fourteen/PixelOS_RMX2020-14.0-20231223-1220.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX2020-14.0-20240227-1345.zip",
+        "size": 1887798710,
+        "SHA256": "b50ab53ab0f05f87a0589e40b720f4c6d1c396f900b83c1088ecf3fb98e2932a",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/RMX2020/PixelOS_RMX2020-14.0-20240227-1345.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2020-fourteen/PixelOS_RMX2020-14.0-20240227-1345.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX2020-14.0-20240503-1341.zip",
+        "size": 1856309764,
+        "SHA256": "b853c310c93fe70cbe704d3a77937a57c5c9ee2f9a44e14d5480a17dd17f57af",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/RMX2020/PixelOS_RMX2020-14.0-20240503-1341.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2020-fourteen/PixelOS_RMX2020-14.0-20240503-1341.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX2020-14.0-20240511-0536.zip",
+        "size": 1908065514,
+        "SHA256": "d3f2e1d42e6ec770750151e69991a4a4450ae4f7866f5525e050f1de155c8607",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/RMX2020/PixelOS_RMX2020-14.0-20240511-0536.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2020-fourteen/PixelOS_RMX2020-14.0-20240511-0536.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX2020-14.0-20240528-0701.zip",
+        "size": 1909584119,
+        "SHA256": "f42085437549d48fd016c07dc87b4db85646f98c9446cc888ae205d73061b06e",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/RMX2020/PixelOS_RMX2020-14.0-20240528-0701.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2020-fourteen/PixelOS_RMX2020-14.0-20240528-0701.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX2020-14.0-20240724-2019.zip",
+        "size": 2170568978,
+        "SHA256": "fb3a068ede37d749a29303faa464d4074504c2024c4a662c1c261766a943b331",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/RMX2020/PixelOS_RMX2020-14.0-20240724-2019.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2020-fourteen/PixelOS_RMX2020-14.0-20240724-2019.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_RMX2020-14.0-20240729-1329.zip",
+        "size": 2170442860,
+        "SHA256": "f91f317039e75a992f1646653fbf522aff360755774d8cb0061beea076a5cae2",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/RMX2020/PixelOS_RMX2020-14.0-20240729-1329.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2020-fourteen/PixelOS_RMX2020-14.0-20240729-1329.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_RMX2020-14.0-20240819-2112.zip",
+        "size": 2032285828,
+        "SHA256": "e435f7d2df0d32873a48d19d949272ca8a8f0fb583da9caa0ed5eec7de7852e1",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/RMX2020/PixelOS_RMX2020-14.0-20240819-2112.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2020-fourteen/PixelOS_RMX2020-14.0-20240819-2112.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX2020-14.0-20241015-1318.zip",
+        "size": 2016636195,
+        "SHA256": "94fe3d057b931d90ed1b09f75d16ce54af3c6f911871737d22183d2e504f61c9",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/RMX2020/PixelOS_RMX2020-14.0-20241015-1318.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2020-fourteen/PixelOS_RMX2020-14.0-20241015-1318.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX2020-15.0-20241216-0837.zip",
+        "size": 2003880448,
+        "SHA256": "67d0a8d0810e55ede353ccb28d8372123eed5ab921c80c19a13761afc414f55b",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/RMX2020/PixelOS_RMX2020-15.0-20241216-0837.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2020-fifteen/PixelOS_RMX2020-15.0-20241216-0837.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX2020-15.0-20250118-2011.zip",
+        "size": 2017169797,
+        "SHA256": "cc6df55b57cbc5d2c0381b5b91802fcad0f86f2b7640cd0c78733312c20f3e42",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/RMX2020/PixelOS_RMX2020-15.0-20250118-2011.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2020-fifteen/PixelOS_RMX2020-15.0-20250118-2011.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX2020-15.0-20250217-1302.zip",
+        "size": 2024384088,
+        "SHA256": "10dc6d89c36618a8625648cb69f5c1f43cc1b23f23d6a58b3860860556cc2138",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/RMX2020/PixelOS_RMX2020-15.0-20250217-1302.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2020-fifteen/PixelOS_RMX2020-15.0-20250217-1302.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_RMX2020-15.0-20250517-0503.zip",
+        "size": 2056525159,
+        "SHA256": "4a1cacb392ee636a712a887b0ea982592727d578348ae9f7ce2d38f04fe86856",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/RMX2020/PixelOS_RMX2020-15.0-20250517-0503.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2020-fifteen/PixelOS_RMX2020-15.0-20250517-0503.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_RMX2020-15.0-20250425-1338.zip",
+        "size": 2056002261,
+        "SHA256": "d6e49b7e3c1aa19d4cc536f7c7e7cc054d9c3cf8a539a444ffed513d26e618eb",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/RMX2020/PixelOS_RMX2020-15.0-20250425-1338.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2020-fifteen/PixelOS_RMX2020-15.0-20250425-1338.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_RMX2020-16.1-20260126-1633.zip",
+        "size": 2281715194,
+        "SHA256": "1faa3c0c6d1e68eaa601cd51a7d4e83cc10ed3354492c6dfb480f7c0e9289a67",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/RMX2020/PixelOS_RMX2020-16.1-20260126-1633.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2020-sixteen/PixelOS_RMX2020-16.1-20260126-1633.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_RMX2020-16.2-20260226-1746.zip",
+        "size": 2302138180,
+        "SHA256": "0e099b9caa2a73488afbf1cc3d1225427f7d9e949bdad72ff503753fc643cba0",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/RMX2020/PixelOS_RMX2020-16.2-20260226-1746.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2020-sixteen/PixelOS_RMX2020-16.2-20260226-1746.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_RMX2020-16.1-20260125-0929.zip",
+        "size": 2281520547,
+        "SHA256": "f930dbd4299d9a1082e99d9b04568ed3de126327ead1907a4c8f7a07506b8895",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/RMX2020/PixelOS_RMX2020-16.1-20260125-0929.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/RMX2020-sixteen/PixelOS_RMX2020-16.1-20260125-0929.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_alioth-12.0-20220101-1329.zip",
+        "size": 1723576017,
+        "SHA256": "2f2e6e57e0db8aa884a23ce4c77ad14e9fa495733c3f689bb588231981a7cac5",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/alioth/PixelOS_alioth-12.0-20220101-1329.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-twelve/PixelOS_alioth-12.0-20220101-1329.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_alioth-12.0-20220116-0623.zip",
+        "size": 1753846412,
+        "SHA256": "572648029679ed3e0ebe04bcc6e9ff113c1dcb4e36fa712e6fba95b2e58579ab",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/alioth/PixelOS_alioth-12.0-20220116-0623.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-twelve/PixelOS_alioth-12.0-20220116-0623.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_alioth-12.0-20220211-2143.zip",
+        "size": 1796325077,
+        "SHA256": "862b13b010f38c04c5980021dc04defb0681d11de0de0db5d7d5832b454d0ba8",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/alioth/PixelOS_alioth-12.0-20220211-2143.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-twelve/PixelOS_alioth-12.0-20220211-2143.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_alioth-12.0-20220314-1025.zip",
+        "size": 1877191629,
+        "SHA256": "073a7e0816353ca189d224992b1004c60754d9c2167d999aa121613082ca0b0c",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/alioth/PixelOS_alioth-12.0-20220314-1025.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-twelve/PixelOS_alioth-12.0-20220314-1025.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_alioth-12.1-20220409-1624.zip",
+        "size": 1846314706,
+        "SHA256": "709b1ad073be66f68c64853b0d464a9348a264ca95f515fab0d3eddccdad84c9",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/alioth/PixelOS_alioth-12.1-20220409-1624.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-twelve/PixelOS_alioth-12.1-20220409-1624.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_alioth-12.1-20220427-0741.zip",
+        "size": 1850502313,
+        "SHA256": "1b7f8f9ed02951dd09e6bc0f739347334b6afeb6bdd5832aae1d043f04a2bd38",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/alioth/PixelOS_alioth-12.1-20220427-0741.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-twelve/PixelOS_alioth-12.1-20220427-0741.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_alioth-12.1-20220509-0858.zip",
+        "size": 1890676845,
+        "SHA256": "c57fa65fdca6b6c2f24ab44c28039335763cbb33f0c5d7aa39ca9b1aa4ebb10a",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/alioth/PixelOS_alioth-12.1-20220509-0858.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-twelve/PixelOS_alioth-12.1-20220509-0858.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_alioth-12.1-20220620-1636.zip",
+        "size": 1842710217,
+        "SHA256": "6d9a3c919064bd405b4c38f0ff4bb3cfc97d25cd6370b400938570a4e9014b79",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/alioth/PixelOS_alioth-12.1-20220620-1636.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-twelve/PixelOS_alioth-12.1-20220620-1636.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_alioth-13.0-20221117-1659.zip",
+        "size": 1881337694,
+        "SHA256": "1c95cd6c21b8d021560cfe0bd51053acd3db4788a9dde46b278e401ef12aacad",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/alioth/PixelOS_alioth-13.0-20221117-1659.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-thirteen/PixelOS_alioth-13.0-20221117-1659.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_alioth-13.0-20230122-1037.zip",
+        "size": 1874952723,
+        "SHA256": "1f7e9eb2664d9ef2e53e665307336efb8b507a877b3ceeeb68fbc36e9582ff3f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/alioth/PixelOS_alioth-13.0-20230122-1037.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-thirteen/PixelOS_alioth-13.0-20230122-1037.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_alioth-13.0-20230218-1840.zip",
+        "size": 1810150365,
+        "SHA256": "148d3d0103dec012db8c703814c6ebb43062b158bbda6ab204903970362fa466",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/alioth/PixelOS_alioth-13.0-20230218-1840.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-thirteen/PixelOS_alioth-13.0-20230218-1840.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_alioth-13.0-20230414-0407.zip",
+        "size": 1968726047,
+        "SHA256": "7465d348c342a00f0b0f97e74985553ee0eb085e24edb2c0a7fd15e9f45f8312",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/alioth/PixelOS_alioth-13.0-20230414-0407.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-thirteen/PixelOS_alioth-13.0-20230414-0407.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_alioth-13.0-20230415-0710.zip",
+        "size": 1968694288,
+        "SHA256": "96001f107a9cb80eb303921a2cbda79beb0ee3b59e157cb0322f90187bee7fc1",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/alioth/PixelOS_alioth-13.0-20230415-0710.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-thirteen/PixelOS_alioth-13.0-20230415-0710.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_alioth-13.0-20230512-0549.zip",
+        "size": 1960562140,
+        "SHA256": "cc6331d457e2840669d447def1ef7969e21a96b1eb01787ce9779ef48300ce21",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/alioth/PixelOS_alioth-13.0-20230512-0549.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-thirteen/PixelOS_alioth-13.0-20230512-0549.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_alioth-13.0-20230705-1735.zip",
+        "size": 1957230396,
+        "SHA256": "375210755283470ae6d3438aadff59a3f7978f8fa4b0f926de1bbc144eee33fd",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/alioth/PixelOS_alioth-13.0-20230705-1735.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-thirteen/PixelOS_alioth-13.0-20230705-1735.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_alioth-13.0-20230706-1119.zip",
+        "size": 1967662546,
+        "SHA256": "9c1f655ca2566665d65fcf16c6a65736a29fb9151dbc60cc62bddbffbde48b86",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/alioth/PixelOS_alioth-13.0-20230706-1119.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-thirteen/PixelOS_alioth-13.0-20230706-1119.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_alioth-13.0-20230712-1241.zip",
+        "size": 1971581838,
+        "SHA256": "bd7622b8ff33fa8741d4780491c9ecec50d300a26c5b30fdbdbccd992125a779",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/alioth/PixelOS_alioth-13.0-20230712-1241.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-thirteen/PixelOS_alioth-13.0-20230712-1241.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_alioth-13.0-20230818-0237.zip",
+        "size": 1906567750,
+        "SHA256": "51f274e07d1327e3a6bfd66d9a2212e21bf9dcd93cc30c2598f85d23a877defa",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/alioth/PixelOS_alioth-13.0-20230818-0237.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-thirteen/PixelOS_alioth-13.0-20230818-0237.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_alioth-13.0-20230821-1332.zip",
+        "size": 1897119326,
+        "SHA256": "0065d73e2900e6a090488c9e2bb7bba204c1cf71fbc2b122226e2083ce9976bd",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/alioth/PixelOS_alioth-13.0-20230821-1332.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-thirteen/PixelOS_alioth-13.0-20230821-1332.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_alioth-13.0-20230914-1207.zip",
+        "size": 1905326785,
+        "SHA256": "eec10dd917dbe3a2a133bca6913057f4c4d78c5a6a0957032055ab2ca8754ade",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/alioth/PixelOS_alioth-13.0-20230914-1207.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-thirteen/PixelOS_alioth-13.0-20230914-1207.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_alioth-13.0-20230915-1250.zip",
+        "size": 1905333119,
+        "SHA256": "5726421b3e3645bd813d54800306701e87ff79823db2e1ff24f7eb329ab5058d",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/alioth/PixelOS_alioth-13.0-20230915-1250.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-thirteen/PixelOS_alioth-13.0-20230915-1250.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_alioth-13.0-20231029-1351.zip",
+        "size": 1931870429,
+        "SHA256": "c84c4f814e8d21befea1ebcd3eb2bf80b898ffbe2d09d1bd6a53e5c1c8b1b376",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/alioth/PixelOS_alioth-13.0-20231029-1351.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-thirteen/PixelOS_alioth-13.0-20231029-1351.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_alioth-14.0-20231110-1647.zip",
+        "size": 2039218929,
+        "SHA256": "d899853d41c73c01e038c6478db874327597400d5fe10192fe971e7f4d79822f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/alioth/PixelOS_alioth-14.0-20231110-1647.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-fourteen/PixelOS_alioth-14.0-20231110-1647.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_alioth-14.0-20231118-1247.zip",
+        "size": 2062837617,
+        "SHA256": "b7ca79ce3fa24f03da229cfa7b0b6577ca5f02920327ea2e4a4b944edf589c4c",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/alioth/PixelOS_alioth-14.0-20231118-1247.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-fourteen/PixelOS_alioth-14.0-20231118-1247.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_alioth-14.0-20231128-1107.zip",
+        "size": 2067558598,
+        "SHA256": "ee6972ca85f2a7ef2ee9f83b495feaee4c4d8dbf24bf609ad26f07b38b6f7230",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/alioth/PixelOS_alioth-14.0-20231128-1107.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-fourteen/PixelOS_alioth-14.0-20231128-1107.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_alioth-14.0-20231222-0029.zip",
+        "size": 2117595746,
+        "SHA256": "e93eb638880c0a75edab13ab2c12b3b4ff494321275c25b85eff81ff71afbd82",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/alioth/PixelOS_alioth-14.0-20231222-0029.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-fourteen/PixelOS_alioth-14.0-20231222-0029.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_alioth-14.0-20240117-1855.zip",
+        "size": 2123901091,
+        "SHA256": "a02b45d15e66a38452bc61bf90263f2028526aaf689132364ea0e5f31e5cbaab",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/alioth/PixelOS_alioth-14.0-20240117-1855.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-fourteen/PixelOS_alioth-14.0-20240117-1855.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_alioth-14.0-20240218-1443.zip",
+        "size": 2060746239,
+        "SHA256": "da45feedad4220dc5b05ee09cf3cc636b5292663a939e2bbac2e5cba6dafc4da",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/alioth/PixelOS_alioth-14.0-20240218-1443.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-fourteen/PixelOS_alioth-14.0-20240218-1443.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_alioth-14.0-20240428-2007.zip",
+        "size": 1923054787,
+        "SHA256": "82932d80e7108983879a2f6203926822d4eea9524b98f27765700da5ea235393",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/alioth/PixelOS_alioth-14.0-20240428-2007.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-fourteen/PixelOS_alioth-14.0-20240428-2007.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_alioth-14.0-20240511-2256.zip",
+        "size": 2131996846,
+        "SHA256": "6e0bf8e41f944800991d32762b0c4a38e31ecce0661f74169d5b6311cb1e7c6d",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/alioth/PixelOS_alioth-14.0-20240511-2256.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-fourteen/PixelOS_alioth-14.0-20240511-2256.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_alioth-14.0-20240527-1743.zip",
+        "size": 2133326179,
+        "SHA256": "23bfef946b3e999d623cde0953bc6857e372cc99d4e14a9db9da2d60504d748a",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/alioth/PixelOS_alioth-14.0-20240527-1743.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-fourteen/PixelOS_alioth-14.0-20240527-1743.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_alioth-14.0-20240725-1043.zip",
+        "size": 2337139745,
+        "SHA256": "97ad47e33cc8ddcbfc5dcef5d16167e80af10f6a15ba85eac53501cbe6d152d5",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/alioth/PixelOS_alioth-14.0-20240725-1043.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-fourteen/PixelOS_alioth-14.0-20240725-1043.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_alioth-14.0-20240820-2333.zip",
+        "size": 2252766183,
+        "SHA256": "4d12ac59c1e65736d9254135aa6b49783e2b7f7e4787b82a6c23db290b72d3c4",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/alioth/PixelOS_alioth-14.0-20240820-2333.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-fourteen/PixelOS_alioth-14.0-20240820-2333.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_alioth-14.0-20241026-0915.zip",
+        "size": 2233172243,
+        "SHA256": "1fd6b76d3a0703d04ac50ae353e90cadc4b986842e99cbc0e7c5df5eeb9b788a",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/alioth/PixelOS_alioth-14.0-20241026-0915.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-fourteen/PixelOS_alioth-14.0-20241026-0915.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_alioth-14.0-20240926-1344.zip",
+        "size": 2241455143,
+        "SHA256": "4cd7587267175705e9f25e27d1cd6f0b3c1255ed6ccc93c702a9f37a787c93a5",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/alioth/PixelOS_alioth-14.0-20240926-1344.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-fourteen/PixelOS_alioth-14.0-20240926-1344.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_alioth-15.0-20250130-2345.zip",
+        "size": 2143106235,
+        "SHA256": "2700ea60cf6c2bf39ee8a2c2df3b9d13c140f3969c09118762f833f76a2beb0b",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/alioth/PixelOS_alioth-15.0-20250130-2345.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-fifteen/PixelOS_alioth-15.0-20250130-2345.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_alioth-15.0-20250228-1046.zip",
+        "size": 2138249113,
+        "SHA256": "cfc6381ebb38925f644bd60f759877f29047b62e9408e656669e930ad46b0373",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/alioth/PixelOS_alioth-15.0-20250228-1046.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-fifteen/PixelOS_alioth-15.0-20250228-1046.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_alioth-15.0-20250425-1002.zip",
+        "size": 2178102590,
+        "SHA256": "c296f28bae62720f688222687d0118dceb0ad91ad62c8c9c7f472be1203b4795",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/alioth/PixelOS_alioth-15.0-20250425-1002.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-fifteen/PixelOS_alioth-15.0-20250425-1002.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_alioth-15.0-20250625-0247.zip",
+        "size": 2137810475,
+        "SHA256": "4bf3c325c6b5965a40a8117f1e527ccf720f06b3c95d41d657b67e40dc665129",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/alioth/PixelOS_alioth-15.0-20250625-0247.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-fifteen/PixelOS_alioth-15.0-20250625-0247.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_alioth-15.0-20250604-0754.zip",
+        "size": 2175885196,
+        "SHA256": "600ec463f580e5c5538ed01a499028221ff88e412dc90dacc685eecb6de13f34",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/alioth/PixelOS_alioth-15.0-20250604-0754.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-fifteen/PixelOS_alioth-15.0-20250604-0754.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_alioth-15.0-20250623-1413.zip",
+        "size": 2137797313,
+        "SHA256": "a5d29d8304ff57b3acc190ccc79c96a1ccb742a9c17c849898d9868e80e4b4bc",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/alioth/PixelOS_alioth-15.0-20250623-1413.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-fifteen/PixelOS_alioth-15.0-20250623-1413.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_alioth-16.1-20260118-1400.zip",
+        "size": 2349362128,
+        "SHA256": "f5b933af7a00769078a7fffe78f50a2b487e6cff7990006ab746f45a6695c6a8",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/alioth/PixelOS_alioth-16.1-20260118-1400.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-sixteen/PixelOS_alioth-16.1-20260118-1400.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_alioth-16.2-20260224-1447.zip",
+        "size": 2368587927,
+        "SHA256": "87679edf4ec981e7fe392ea0e5557c51a3bdaadfa81aff2c409b3c1635271a0a",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/alioth/PixelOS_alioth-16.2-20260224-1447.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-sixteen/PixelOS_alioth-16.2-20260224-1447.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_apollo-14.0-20240424-1408.zip",
+        "size": 2149601391,
+        "SHA256": "db209f309fc80a0a2ac3b87cd839deef163d513abe088d61c56be26c933bb8bf",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/apollo/PixelOS_apollo-14.0-20240424-1408.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/apollo-fourteen/PixelOS_apollo-14.0-20240424-1408.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_apollo-14.0-20240427-1002.zip",
+        "size": 2344361144,
+        "SHA256": "831d20344a1768d57f4e9e0647e18b77a99606b80b9270c14a373558ec8c37f3",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/apollo/PixelOS_apollo-14.0-20240427-1002.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/apollo-fourteen/PixelOS_apollo-14.0-20240427-1002.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_alioth-16.1-20251222-1437.zip",
+        "size": 2337207951,
+        "SHA256": "4b24c395c51bcf6f8d9510df7acd697ddf0b4346ac4f4c2538b1ba6b9c1d1cf6",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/alioth/PixelOS_alioth-16.1-20251222-1437.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/alioth-sixteen/PixelOS_alioth-16.1-20251222-1437.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_apollo-14.0-20240511-1850.zip",
+        "size": 2199085576,
+        "SHA256": "00f75d27f0be05b8204cbb53fdc497060be4e90c9fdf0d00f1b7d80ecde64565",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/apollo/PixelOS_apollo-14.0-20240511-1850.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/apollo-fourteen/PixelOS_apollo-14.0-20240511-1850.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_apollo-14.0-20240604-1435.zip",
+        "size": 2149193485,
+        "SHA256": "6822fa388005d1ae1391ee678f1ac1fac27d16b51262a93f20be94c6ad45d000",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/apollo/PixelOS_apollo-14.0-20240604-1435.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/apollo-fourteen/PixelOS_apollo-14.0-20240604-1435.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_apollo-14.0-20240723-1707.zip",
+        "size": 2396451402,
+        "SHA256": "6c54b5016bb61607a04f828cdeee24d9109b4c4fd86671b0851294f576b95a6e",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/apollo/PixelOS_apollo-14.0-20240723-1707.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/apollo-fourteen/PixelOS_apollo-14.0-20240723-1707.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_apollo-14.0-20240730-0556.zip",
+        "size": 2397286985,
+        "SHA256": "410fb588228b24604d07827f96cc2244091820e4b9f77c1876059fc709df2bbd",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/apollo/PixelOS_apollo-14.0-20240730-0556.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/apollo-fourteen/PixelOS_apollo-14.0-20240730-0556.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_apollo-14.0-20240822-0427.zip",
+        "size": 2266494846,
+        "SHA256": "6caf741a9374823d42cf0cb763a59896dd58f42520652b8aaf46f22e42c69f3a",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/apollo/PixelOS_apollo-14.0-20240822-0427.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/apollo-fourteen/PixelOS_apollo-14.0-20240822-0427.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_apollo-15.0-20250218-0728.zip",
+        "size": 2346092229,
+        "SHA256": "10c14a844cfd9f6673650855ca4a910a4db3270f1fd4f0d1416828a01de425ff",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/apollo/PixelOS_apollo-15.0-20250218-0728.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/apollo-fifteen/PixelOS_apollo-15.0-20250218-0728.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_apollo-14.0-20241016-2005.zip",
+        "size": 2279844080,
+        "SHA256": "fa79ecb5af7ddc571cdac83c8bbb54726e0bf63f0bcd43b8fef1144ba5718aaa",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/apollo/PixelOS_apollo-14.0-20241016-2005.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/apollo-fourteen/PixelOS_apollo-14.0-20241016-2005.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_aston-14.0-20240821-0628.zip",
+        "size": 2995267719,
+        "SHA256": "4e810ede538f2f0cae4167501643b2752cc641056c57d814a2349ce92da570aa",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/aston/PixelOS_aston-14.0-20240821-0628.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/aston-fourteen/PixelOS_aston-14.0-20240821-0628.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_aston-14.0-20240920-0856.zip",
+        "size": 2973007511,
+        "SHA256": "90b612d0481d9a2e5cf0008851de49d83bb394302e4e06299bc5f181f60aac77",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/aston/PixelOS_aston-14.0-20240920-0856.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/aston-fourteen/PixelOS_aston-14.0-20240920-0856.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_aston-14.0-20240923-1450.zip",
+        "size": 2973009081,
+        "SHA256": "e8c77ea7ec98db32e6a12f75f029fa669c64a25a022fbe645a0692938777797d",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/aston/PixelOS_aston-14.0-20240923-1450.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/aston-fourteen/PixelOS_aston-14.0-20240923-1450.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_aston-15.0-20250119-0821.zip",
+        "size": 2703137189,
+        "SHA256": "546fdf19d5776aa753d16a3545c23b4f654c99ba5618064c054854f735d00fdb",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/aston/PixelOS_aston-15.0-20250119-0821.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/aston-fifteen/PixelOS_aston-15.0-20250119-0821.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_aston-14.0-20241018-1605.zip",
+        "size": 2972800695,
+        "SHA256": "07b37caa0870f70996af4b09aba15a7f995beaa841508593b109b5990d7ebd6d",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/aston/PixelOS_aston-14.0-20241018-1605.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/aston-fourteen/PixelOS_aston-14.0-20241018-1605.zip.part*",
+        "parts": true
+    },
+    {
+        "filename": "PixelOS_aston-15.0-20250121-1747.zip",
+        "size": 2703137170,
+        "SHA256": "1cedc941941e3ae8168965ac4ae9627864d7ec9c34d39e2301fadabddee39152",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/aston/PixelOS_aston-15.0-20250121-1747.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/aston-fifteen/PixelOS_aston-15.0-20250121-1747.zip.part*",
+        "parts": true
+    }
+]
