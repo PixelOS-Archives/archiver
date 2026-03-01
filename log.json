@@ -3259,5 +3259,1602 @@
                 "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cancunf-fifteen/PixelOS_cancunf-15.0-20250705-1051.zip.part1"
             }
         ]
+    },
+    {
+        "filename": "PixelOS_beyond2lte-14.0-20241019-0441.zip",
+        "size": 1888164889,
+        "SHA256": "def2b258ed1de04bd1d2306e8fc466d50ace073bc39a34de26186042799d540e",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beyond2lte/PixelOS_beyond2lte-14.0-20241019-0441.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beyond2lte-fourteen/PixelOS_beyond2lte-14.0-20241019-0441.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_cheetah-13.0-20231003-0850.zip",
+        "size": 1771551699,
+        "SHA256": "5fafeb9237ce4200df6cff03a77dad6c0073e13a33dcfb117edc4b00e8b04832",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/cheetah/PixelOS_cheetah-13.0-20231003-0850.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cheetah-thirteen/PixelOS_cheetah-13.0-20231003-0850.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_coral-13.0-20230821-0803.zip",
+        "size": 1657165595,
+        "SHA256": "e09bcd342b1aef0798701e88e74dbe5a5a0a4271e1ab31963ee298c20f020d81",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/coral/PixelOS_coral-13.0-20230821-0803.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/coral-thirteen/PixelOS_coral-13.0-20230821-0803.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_coral-13.0-20231003-1028.zip",
+        "size": 1669189244,
+        "SHA256": "6d15a6d366bda5376e7eb0acae5d3f9bf7348923f0b70c8a4e61ea1b1575a395",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/coral/PixelOS_coral-13.0-20231003-1028.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/coral-thirteen/PixelOS_coral-13.0-20231003-1028.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_coral-13.0-20230707-0057.zip",
+        "size": 1725744742,
+        "SHA256": "b2bf48871b00f3952041c1612944ab18f0f757c6fbc0c499a3a6437e3f14ccec",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/coral/PixelOS_coral-13.0-20230707-0057.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/coral-thirteen/PixelOS_coral-13.0-20230707-0057.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_citrus-13.0-20230424-1921.zip",
+        "size": 1803396834,
+        "SHA256": "bd31ccf2d5666d5bc9c214a07b6f6116a9e7f68e92fa2854d5e9954e04a90290",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/citrus/PixelOS_citrus-13.0-20230424-1921.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/citrus-thirteen/PixelOS_citrus-13.0-20230424-1921.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_coral-13.0-20230705-0923.zip",
+        "size": 1715054314,
+        "SHA256": "a3b465810bd5ae0ddd081859feed09eff7ac59c3a6bc22d714f1a1adb68278a5",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/coral/PixelOS_coral-13.0-20230705-0923.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/coral-thirteen/PixelOS_coral-13.0-20230705-0923.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_citrus-13.0-20230729-0546.zip",
+        "size": 1846940961,
+        "SHA256": "50a17cac6cb8046e88824599a7b053a0f6d10617442bfbd8843fd502bbe4259a",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/citrus/PixelOS_citrus-13.0-20230729-0546.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/citrus-thirteen/PixelOS_citrus-13.0-20230729-0546.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_courbet-12.1-20220626-1408.zip",
+        "size": 2001202317,
+        "SHA256": "589f2e88f58d71e2c6796b1d5531f6ddbfb58341725d9fcda4eced4f7f8c03b0",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/courbet/PixelOS_courbet-12.1-20220626-1408.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-twelve/PixelOS_courbet-12.1-20220626-1408.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_citrus-13.0-20230510-1234.zip",
+        "size": 1800013554,
+        "SHA256": "05f18a17c6e5f356e86fe53b2a91ce3018e4e9b6fc508d417e27a5eeeca68670",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/citrus/PixelOS_citrus-13.0-20230510-1234.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/citrus-thirteen/PixelOS_citrus-13.0-20230510-1234.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_courbet-12.1-20220718-1232.zip",
+        "size": 2090795834,
+        "SHA256": "a5cc98b7d408fad61a2c8c9dff86eb689d8aae5664490dac76d74d74884f74ac",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/courbet/PixelOS_courbet-12.1-20220718-1232.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-twelve/PixelOS_courbet-12.1-20220718-1232.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_courbet-12.1-20220718-1232.zip.part0",
+                "size": 1677721600,
+                "SHA256": "4e8fd663f6d6e630e7d332d0ff2888dfa2f50186b37e423f0d15593a4fc7792c",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-twelve/PixelOS_courbet-12.1-20220718-1232.zip.part0"
+            },
+            {
+                "filename": "PixelOS_courbet-12.1-20220718-1232.zip.part1",
+                "size": 413074234,
+                "SHA256": "ef93e8f86c9e399c20f9ba7bdff9b1fb43207bc3ac06c923132480710be1df06",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-twelve/PixelOS_courbet-12.1-20220718-1232.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_courbet-12.1-20220609-1619.zip",
+        "size": 2102467701,
+        "SHA256": "6ea431ca362c857e4736efd34306cb84fb0ccffc2c15c82df0c6ca77d5d1edde",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/courbet/PixelOS_courbet-12.1-20220609-1619.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-twelve/PixelOS_courbet-12.1-20220609-1619.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_courbet-12.1-20220609-1619.zip.part0",
+                "size": 1677721600,
+                "SHA256": "1fbc30848cf36bc6160115bc2c751a8a0a188b9df6f731a2f62745d40a7e06c9",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-twelve/PixelOS_courbet-12.1-20220609-1619.zip.part0"
+            },
+            {
+                "filename": "PixelOS_courbet-12.1-20220609-1619.zip.part1",
+                "size": 424746101,
+                "SHA256": "33fddfc5d7ef3b7f955d92d751c276c21400758e35dcfdca8ce2a39e73f764ed",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-twelve/PixelOS_courbet-12.1-20220609-1619.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_courbet-12.1-20220812-0316.zip",
+        "size": 2113612100,
+        "SHA256": "c8072a36ba285d4223111f3dcccf004cee6eec64738c728842f18f5a15ca9ccc",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/courbet/PixelOS_courbet-12.1-20220812-0316.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-twelve/PixelOS_courbet-12.1-20220812-0316.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_courbet-12.1-20220812-0316.zip.part0",
+                "size": 1677721600,
+                "SHA256": "177a429669ac29329f3cb76790db8e66be5355039bfa65e74b8760670f12ebc8",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-twelve/PixelOS_courbet-12.1-20220812-0316.zip.part0"
+            },
+            {
+                "filename": "PixelOS_courbet-12.1-20220812-0316.zip.part1",
+                "size": 435890500,
+                "SHA256": "41d8ffe5b219c13be91e115a18be7202f79f7807559796c6367c86edc2d257f7",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-twelve/PixelOS_courbet-12.1-20220812-0316.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_cepheus-14.0-20231112-0137.zip",
+        "size": 2130214157,
+        "SHA256": "09e9cfb1021a87effe6b2ee2adcb966767c25d2183e213cc5a980f5b061a0b46",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cepheus/PixelOS_cepheus-14.0-20231112-0137.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fourteen/PixelOS_cepheus-14.0-20231112-0137.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_cepheus-14.0-20231112-0137.zip.part0",
+                "size": 1677721600,
+                "SHA256": "688d63ffd1f0bc3f31b6b23577f3237f3471190e3782d278f214fe2b8eb023c3",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fourteen/PixelOS_cepheus-14.0-20231112-0137.zip.part0"
+            },
+            {
+                "filename": "PixelOS_cepheus-14.0-20231112-0137.zip.part1",
+                "size": 452492557,
+                "SHA256": "1a1d5ee83a043212b9346c97605fa6d78ad39f5f8eb80ad160f9c1408e0bca5a",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fourteen/PixelOS_cepheus-14.0-20231112-0137.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_cepheus-15.0-20250118-0034.zip",
+        "size": 2392178469,
+        "SHA256": "535002b30aa8694b58c4ea8a115f6567095dc54aa128d61eece81eca9b13cffa",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/cepheus/PixelOS_cepheus-15.0-20250118-0034.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fifteen/PixelOS_cepheus-15.0-20250118-0034.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_cepheus-15.0-20250118-0034.zip.part0",
+                "size": 1677721600,
+                "SHA256": "3f2f132cab4e6fb7bfb8ea22118159a29d082c08149e56ffac047eac0108d5ba",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fifteen/PixelOS_cepheus-15.0-20250118-0034.zip.part0"
+            },
+            {
+                "filename": "PixelOS_cepheus-15.0-20250118-0034.zip.part1",
+                "size": 714456869,
+                "SHA256": "5454eb8af4fe65f5e0ea3df9e393d855c555b4bcaacdbb30c88b4cce4000e60d",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fifteen/PixelOS_cepheus-15.0-20250118-0034.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_cepheus-14.0-20241016-1517.zip",
+        "size": 2369356869,
+        "SHA256": "b208a2d2e562739d722e70ae94640a83395b2e36efae5fed4258e26ccb99ec8b",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cepheus/PixelOS_cepheus-14.0-20241016-1517.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fourteen/PixelOS_cepheus-14.0-20241016-1517.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_cepheus-14.0-20241016-1517.zip.part0",
+                "size": 1677721600,
+                "SHA256": "f25d7ed5979fb44b9ace1aaec49b1e1af9b1b4e00a84ef2a7d7b7997486881dd",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fourteen/PixelOS_cepheus-14.0-20241016-1517.zip.part0"
+            },
+            {
+                "filename": "PixelOS_cepheus-14.0-20241016-1517.zip.part1",
+                "size": 691635269,
+                "SHA256": "85ef9e69ec7d3fa4b7ec0d6b9e1290e908cf37c7673aec251d58fc3fa9efaccd",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fourteen/PixelOS_cepheus-14.0-20241016-1517.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_cepheus-14.0-20240921-2309.zip",
+        "size": 2368893783,
+        "SHA256": "a6474cadb03a2725e8c4a5634ef7db0601936938e6e733fe9bb0ed5c085c446b",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cepheus/PixelOS_cepheus-14.0-20240921-2309.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fourteen/PixelOS_cepheus-14.0-20240921-2309.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_cepheus-14.0-20240921-2309.zip.part0",
+                "size": 1677721600,
+                "SHA256": "c17d7cceffe11882eda96421b9124a362c7241e0bfe3b6ae70658e640a8b9d2f",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fourteen/PixelOS_cepheus-14.0-20240921-2309.zip.part0"
+            },
+            {
+                "filename": "PixelOS_cepheus-14.0-20240921-2309.zip.part1",
+                "size": 691172183,
+                "SHA256": "781e1a3178d3291955fcfbdebd641c794e0983a7dd72a5eb1a50e8f614029e67",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fourteen/PixelOS_cepheus-14.0-20240921-2309.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_cepheus-14.0-20240825-1543.zip",
+        "size": 2375592867,
+        "SHA256": "417dca647aa7690d28e763860177bd07add96cb4e902cdccc809c3eefd45114e",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cepheus/PixelOS_cepheus-14.0-20240825-1543.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fourteen/PixelOS_cepheus-14.0-20240825-1543.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_cepheus-14.0-20240825-1543.zip.part0",
+                "size": 1677721600,
+                "SHA256": "71900eda01a11575113de42d659dfab134ba96991d8e6be4e4e25866c5eb3588",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fourteen/PixelOS_cepheus-14.0-20240825-1543.zip.part0"
+            },
+            {
+                "filename": "PixelOS_cepheus-14.0-20240825-1543.zip.part1",
+                "size": 697871267,
+                "SHA256": "c9b85317e10bc5e57bbbc27505458fbf67b49b27f9b83d7e276f3010141841d0",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fourteen/PixelOS_cepheus-14.0-20240825-1543.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_aston-15.0-20250216-1704.zip",
+        "size": 2706797337,
+        "SHA256": "f62919c8d7fd670f3012419c75eeb385ed80d0e11c28a0e639b84bbda72b2f7f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/aston/PixelOS_aston-15.0-20250216-1704.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/aston-fifteen/PixelOS_aston-15.0-20250216-1704.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_aston-15.0-20250216-1704.zip.part0",
+                "size": 1677721600,
+                "SHA256": "6f09d79b0cf1cde3db2b2d892749bba0acb742dea1dc0dadd99975927f2f5629",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/aston-fifteen/PixelOS_aston-15.0-20250216-1704.zip.part0"
+            },
+            {
+                "filename": "PixelOS_aston-15.0-20250216-1704.zip.part1",
+                "size": 1029075737,
+                "SHA256": "c7bffc9919f583c28b95e1639df86e163b0a60481f46485ae33418c787ff189d",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/aston-fifteen/PixelOS_aston-15.0-20250216-1704.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_courbet-13.0-20221029-0429.zip",
+        "size": 2081744105,
+        "SHA256": "f66cb18c2380606b578ca03ead0552e1e634371499cbe88f5446049d3bb856c6",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/courbet/PixelOS_courbet-13.0-20221029-0429.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-thirteen/PixelOS_courbet-13.0-20221029-0429.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_courbet-13.0-20221029-0429.zip.part0",
+                "size": 1677721600,
+                "SHA256": "3dafc927b5c95d9ff28ec40ee2fd300325b0e1536c5bd2477b3443971600dbaf",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-thirteen/PixelOS_courbet-13.0-20221029-0429.zip.part0"
+            },
+            {
+                "filename": "PixelOS_courbet-13.0-20221029-0429.zip.part1",
+                "size": 404022505,
+                "SHA256": "56dd7542ea497d313ef997f945f4ce2f1ef8d233bbf66d54e7265b5adec7f542",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-thirteen/PixelOS_courbet-13.0-20221029-0429.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_courbet-13.0-20221125-2252.zip",
+        "size": 2159746312,
+        "SHA256": "d5dd2c60c1f5ce19eb3c9f57cdb39694bd761403c5affd0d718c03d0481dbc93",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/courbet/PixelOS_courbet-13.0-20221125-2252.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-thirteen/PixelOS_courbet-13.0-20221125-2252.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_courbet-13.0-20221125-2252.zip.part0",
+                "size": 1677721600,
+                "SHA256": "d17e9d7f7f47e914f32b9b08cba7426de8c172044c1cfc86d4abfaf4d4546b61",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-thirteen/PixelOS_courbet-13.0-20221125-2252.zip.part0"
+            },
+            {
+                "filename": "PixelOS_courbet-13.0-20221125-2252.zip.part1",
+                "size": 482024712,
+                "SHA256": "235164193d41658dbb70bc7bee406a3a85c68af4a550fc60827618c709dc02c6",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-thirteen/PixelOS_courbet-13.0-20221125-2252.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_courbet-13.0-20230131-1437.zip",
+        "size": 2050856904,
+        "SHA256": "f4c296f796f345b21f1c8ea7365d01ec42df4ef7e569482c708281c4422014b9",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/courbet/PixelOS_courbet-13.0-20230131-1437.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-thirteen/PixelOS_courbet-13.0-20230131-1437.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_courbet-13.0-20230131-1437.zip.part0",
+                "size": 1677721600,
+                "SHA256": "0ed454601c399d366c80178880e8bdc5069f5a84b0c696a46f87a2f0e214feb2",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-thirteen/PixelOS_courbet-13.0-20230131-1437.zip.part0"
+            },
+            {
+                "filename": "PixelOS_courbet-13.0-20230131-1437.zip.part1",
+                "size": 373135304,
+                "SHA256": "7b6724febbe2efa6d6333b20a079bdc6033bd25393dbfd954e4d6cfe7f23e4f8",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-thirteen/PixelOS_courbet-13.0-20230131-1437.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_courbet-13.0-20230214-2201.zip",
+        "size": 2046081159,
+        "SHA256": "53732ec6e3386415d0ab38ba05400dfcc04365c35893dfb1e0374b3dc12f876a",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/courbet/PixelOS_courbet-13.0-20230214-2201.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-thirteen/PixelOS_courbet-13.0-20230214-2201.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_courbet-13.0-20230214-2201.zip.part0",
+                "size": 1677721600,
+                "SHA256": "94ab1bd87764f1af37c03c91bbbdc6e7d6b299cceef8a18cfcf43312d1a18b5c",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-thirteen/PixelOS_courbet-13.0-20230214-2201.zip.part0"
+            },
+            {
+                "filename": "PixelOS_courbet-13.0-20230214-2201.zip.part1",
+                "size": 368359559,
+                "SHA256": "7f97d86e0faa7849603ed6a80f02eafb77afd30af1e31799aa060eac7ae0cbfa",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-thirteen/PixelOS_courbet-13.0-20230214-2201.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_crownlte-12.1-20220814-0918.zip",
+        "size": 1535927722,
+        "SHA256": "2dc514f0ea9089a0b6359046f3ea8781d6039b095bc76ed701f788cc37181840",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/crownlte/PixelOS_crownlte-12.1-20220814-0918.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/crownlte-twelve/PixelOS_crownlte-12.1-20220814-0918.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_courbet-13.0-20230510-2119.zip",
+        "size": 2047469280,
+        "SHA256": "254cc533fccd52f200a6548e6fa48d289b97cd4b35761cb6ec85ecbc6ef2687c",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/courbet/PixelOS_courbet-13.0-20230510-2119.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-thirteen/PixelOS_courbet-13.0-20230510-2119.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_courbet-13.0-20230510-2119.zip.part0",
+                "size": 1677721600,
+                "SHA256": "46bf3135eddacd147cf1d73f5caab6b97b88aafcaba0476be647f7073911521a",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-thirteen/PixelOS_courbet-13.0-20230510-2119.zip.part0"
+            },
+            {
+                "filename": "PixelOS_courbet-13.0-20230510-2119.zip.part1",
+                "size": 369747680,
+                "SHA256": "ae1bde17efc085f0684eb4f11bcc1672826c739e1b7f20c3bd0fa9c4c19c5c5f",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-thirteen/PixelOS_courbet-13.0-20230510-2119.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_courbet-13.0-20230418-0505.zip",
+        "size": 2062120796,
+        "SHA256": "1252be71cd73fead6270ecd50f24086a4659fa1c73d99a5eb76e3851b428a7db",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/courbet/PixelOS_courbet-13.0-20230418-0505.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-thirteen/PixelOS_courbet-13.0-20230418-0505.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_courbet-13.0-20230418-0505.zip.part0",
+                "size": 1677721600,
+                "SHA256": "1ffda57aeada1c8a4d3cba133d63bbbdc45a8e0bda3c2474626298068575d388",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-thirteen/PixelOS_courbet-13.0-20230418-0505.zip.part0"
+            },
+            {
+                "filename": "PixelOS_courbet-13.0-20230418-0505.zip.part1",
+                "size": 384399196,
+                "SHA256": "46d48834dd07925cd20024e356338ce8da7893d444f56c5fb96283863f1bf62e",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-thirteen/PixelOS_courbet-13.0-20230418-0505.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_courbet-13.0-20230829-1452.zip",
+        "size": 2072472995,
+        "SHA256": "b3edbd7b9d562b11833f5afcbadc7809d7813b3d2db8e1275751a7c896d6654f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/courbet/PixelOS_courbet-13.0-20230829-1452.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-thirteen/PixelOS_courbet-13.0-20230829-1452.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_courbet-13.0-20230829-1452.zip.part0",
+                "size": 1677721600,
+                "SHA256": "2931b625d71922d9b4eab6f7f738f845cdab0bbc55db65caa2880ddc01a72e4f",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-thirteen/PixelOS_courbet-13.0-20230829-1452.zip.part0"
+            },
+            {
+                "filename": "PixelOS_courbet-13.0-20230829-1452.zip.part1",
+                "size": 394751395,
+                "SHA256": "06ac467f4394a9462c5dd2bcb528bd71977b4f0d84fc7a063375455000bd15c6",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-thirteen/PixelOS_courbet-13.0-20230829-1452.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_crownlte-12.1-20220619-0303.zip",
+        "size": 1504794782,
+        "SHA256": "ddb5a566cb170807c1321afa0a6f06733943b036b268c686238c2ae4750ddb43",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/crownlte/PixelOS_crownlte-12.1-20220619-0303.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/crownlte-twelve/PixelOS_crownlte-12.1-20220619-0303.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_courbet-14.0-20240730-1824.zip",
+        "size": 2586525973,
+        "SHA256": "cc23b77a8717507f53a1a6299a1a0e037f3798cdf7a0f3c6291060d196cddd12",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/courbet/PixelOS_courbet-14.0-20240730-1824.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-fourteen/PixelOS_courbet-14.0-20240730-1824.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_courbet-14.0-20240730-1824.zip.part0",
+                "size": 1677721600,
+                "SHA256": "ded9a10ee1d5f64a5032c54ce02ae054e759689e1e35bc3f6d924fc12bb48f44",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-fourteen/PixelOS_courbet-14.0-20240730-1824.zip.part0"
+            },
+            {
+                "filename": "PixelOS_courbet-14.0-20240730-1824.zip.part1",
+                "size": 908804373,
+                "SHA256": "800a5a752d1c45ee9519e352f5bfad539b794ead0fd3111dcb07044893fe0cc9",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-fourteen/PixelOS_courbet-14.0-20240730-1824.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_crownlte-12.1-20220709-1246.zip",
+        "size": 1556725740,
+        "SHA256": "31754d557cb6325dd8d0fce0cd4e82d57b0337a271025654c949584028078674",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/crownlte/PixelOS_crownlte-12.1-20220709-1246.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/crownlte-twelve/PixelOS_crownlte-12.1-20220709-1246.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_courbet-14.0-20240611-1837.zip",
+        "size": 2308164673,
+        "SHA256": "3a497cf3f8dfe5eee777e1b1812e47a6c07e6fd29740a68b5c811fab4a18d704",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/courbet/PixelOS_courbet-14.0-20240611-1837.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-fourteen/PixelOS_courbet-14.0-20240611-1837.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_courbet-14.0-20240611-1837.zip.part0",
+                "size": 1677721600,
+                "SHA256": "fa67792274bb27ca7034c23bd57ffef8b2e5c13be9481a4c6fda306540b79dce",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-fourteen/PixelOS_courbet-14.0-20240611-1837.zip.part0"
+            },
+            {
+                "filename": "PixelOS_courbet-14.0-20240611-1837.zip.part1",
+                "size": 630443073,
+                "SHA256": "eed5bb8d8b242850c19c951baa2c0200a0ee1ee3f6b639ad1a73be946f795d66",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-fourteen/PixelOS_courbet-14.0-20240611-1837.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_courbet-14.0-20231231-1125.zip",
+        "size": 2382009480,
+        "SHA256": "a2ce4037c8c994d80ad9b3a88b61b5f56a2dc0d076dc5833b5d9e912c58bea25",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/courbet/PixelOS_courbet-14.0-20231231-1125.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-fourteen/PixelOS_courbet-14.0-20231231-1125.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_courbet-14.0-20231231-1125.zip.part0",
+                "size": 1677721600,
+                "SHA256": "c3edd52bf241d72f4befefe62d9a6c556b36881881fa6ea735c7dc76890dc49f",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-fourteen/PixelOS_courbet-14.0-20231231-1125.zip.part0"
+            },
+            {
+                "filename": "PixelOS_courbet-14.0-20231231-1125.zip.part1",
+                "size": 704287880,
+                "SHA256": "4abed5a4ec8e1872f3b05fc69238f81bfd3cda5cb3c1bf21e4a7a69a57f0c526",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-fourteen/PixelOS_courbet-14.0-20231231-1125.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_courbet-14.0-20240129-1820.zip",
+        "size": 2378342411,
+        "SHA256": "27efdc4a54f5c30a7c0d44503de8f25bc729a6682619d6f617810c00ec76731d",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/courbet/PixelOS_courbet-14.0-20240129-1820.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-fourteen/PixelOS_courbet-14.0-20240129-1820.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_courbet-14.0-20240129-1820.zip.part0",
+                "size": 1677721600,
+                "SHA256": "29da3bf338d71264657f71c99797d85f38756b1c4615d96dcafca4f6a90e6c8c",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-fourteen/PixelOS_courbet-14.0-20240129-1820.zip.part0"
+            },
+            {
+                "filename": "PixelOS_courbet-14.0-20240129-1820.zip.part1",
+                "size": 700620811,
+                "SHA256": "121b304ae09629fc7e68ed3135ff507b1ea25aede163224bf1bdc58dac9364c2",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-fourteen/PixelOS_courbet-14.0-20240129-1820.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_courbet-14.0-20240628-1757.zip",
+        "size": 2572361676,
+        "SHA256": "5f64c6cbab7682a68a21748ba02dd9233a0c9cf1c18dfc20c6a18316c346b417",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/courbet/PixelOS_courbet-14.0-20240628-1757.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-fourteen/PixelOS_courbet-14.0-20240628-1757.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_courbet-14.0-20240628-1757.zip.part0",
+                "size": 1677721600,
+                "SHA256": "b7898c7bfeac7ce79f91158bd229fa880a3ddd3a6282a1f5218f1662a56e2747",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-fourteen/PixelOS_courbet-14.0-20240628-1757.zip.part0"
+            },
+            {
+                "filename": "PixelOS_courbet-14.0-20240628-1757.zip.part1",
+                "size": 894640076,
+                "SHA256": "b6bf8ae563378ef5d368b4752f7f053d5d0569a29b0e100559cd9f0f73ec02b0",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-fourteen/PixelOS_courbet-14.0-20240628-1757.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_courbet-14.0-20240722-2026.zip",
+        "size": 2586985862,
+        "SHA256": "b9d16f9c5ad5cd4c74d3cfb2ec631b79b7a816c3c3413330658776d3a3579b64",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/courbet/PixelOS_courbet-14.0-20240722-2026.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-fourteen/PixelOS_courbet-14.0-20240722-2026.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_courbet-14.0-20240722-2026.zip.part0",
+                "size": 1677721600,
+                "SHA256": "d06c9ff9f859204e1cc6ebf1e60bc039c7d7e6bcc2245a2d93d5f16ffcda07ef",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-fourteen/PixelOS_courbet-14.0-20240722-2026.zip.part0"
+            },
+            {
+                "filename": "PixelOS_courbet-14.0-20240722-2026.zip.part1",
+                "size": 909264262,
+                "SHA256": "a4a576511c303f2545fbaa42bb2fa56d21136995978c2f2313c2493c79bd0311",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-fourteen/PixelOS_courbet-14.0-20240722-2026.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_cupid-15.0-20250504-1448.zip",
+        "size": 2440532597,
+        "SHA256": "2ef60db3a01fb5d927b4f347153ae135fd5d063cd5abc15bad5006273cabef2b",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/cupid/PixelOS_cupid-15.0-20250504-1448.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cupid-fifteen/PixelOS_cupid-15.0-20250504-1448.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_cupid-15.0-20250504-1448.zip.part0",
+                "size": 1677721600,
+                "SHA256": "9a633998e45200647e8971de9027d86fd47a0167a981489f7c0d4ea849942e42",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cupid-fifteen/PixelOS_cupid-15.0-20250504-1448.zip.part0"
+            },
+            {
+                "filename": "PixelOS_cupid-15.0-20250504-1448.zip.part1",
+                "size": 762810997,
+                "SHA256": "8e360698c46cb6b938c6e73053b96b413e4fbad01e726e064106a08495cc47b5",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cupid-fifteen/PixelOS_cupid-15.0-20250504-1448.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_cupid-14.0-20240430-1822.zip",
+        "size": 2367380477,
+        "SHA256": "28b6b1ad48732b958b37a6c795c778d9a375b8685542bca1b1f2c3da33487e21",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cupid/PixelOS_cupid-14.0-20240430-1822.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cupid-fourteen/PixelOS_cupid-14.0-20240430-1822.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_cupid-14.0-20240430-1822.zip.part0",
+                "size": 1677721600,
+                "SHA256": "459d73f4a3c761e4350f5a317d964d696a5c358c43d5e68ac90cc993ec151262",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cupid-fourteen/PixelOS_cupid-14.0-20240430-1822.zip.part0"
+            },
+            {
+                "filename": "PixelOS_cupid-14.0-20240430-1822.zip.part1",
+                "size": 689658877,
+                "SHA256": "7ab3763c6a23e424e2a8dc0318673ea4d75ed303ffd44d84ba64d5713202caae",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cupid-fourteen/PixelOS_cupid-14.0-20240430-1822.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_cupid-14.0-20240424-1647.zip",
+        "size": 2368133737,
+        "SHA256": "66326fc93f74b740f540617e8ad1094f0eebed2a8b4bf85e2b8609e4df9dcf37",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cupid/PixelOS_cupid-14.0-20240424-1647.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cupid-fourteen/PixelOS_cupid-14.0-20240424-1647.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_cupid-14.0-20240424-1647.zip.part0",
+                "size": 1677721600,
+                "SHA256": "3335739ccbeec3fe723c22d0b2fa3b8a19cb7785035f683a363d3efa82a14af7",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cupid-fourteen/PixelOS_cupid-14.0-20240424-1647.zip.part0"
+            },
+            {
+                "filename": "PixelOS_cupid-14.0-20240424-1647.zip.part1",
+                "size": 690412137,
+                "SHA256": "31e9cca6342e291c76f46e6dab82c5903c2768ca01222bc3f644c063750ed6dd",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cupid-fourteen/PixelOS_cupid-14.0-20240424-1647.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_d1-13.0-20230223-1633.zip",
+        "size": 1573492354,
+        "SHA256": "326b1b263624d727276da97bc27ee0895b0ad749cb17ed0c50965944144ea892",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/d1/PixelOS_d1-13.0-20230223-1633.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/d1-thirteen/PixelOS_d1-13.0-20230223-1633.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_d1-13.0-20230423-0014.zip",
+        "size": 1601526093,
+        "SHA256": "56a41f637b771b52fb208f02a09cfa9657016fd18efc204df3aafd080d3de5e1",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/d1/PixelOS_d1-13.0-20230423-0014.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/d1-thirteen/PixelOS_d1-13.0-20230423-0014.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_d1-13.0-20230721-1534.zip",
+        "size": 1645053450,
+        "SHA256": "1a385a34c01a6fbe96c8a68f28e0425abac82fe1b1f6008ee9e4cd86eebe5ae6",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/d1/PixelOS_d1-13.0-20230721-1534.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/d1-thirteen/PixelOS_d1-13.0-20230721-1534.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_cupid-14.0-20240511-1313.zip",
+        "size": 2395060799,
+        "SHA256": "eee31ab0eab69d6bfdedaf1fba6ae73d3a04cbdc3c8fd7d79641c7ad4a245d1a",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cupid/PixelOS_cupid-14.0-20240511-1313.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cupid-fourteen/PixelOS_cupid-14.0-20240511-1313.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_cupid-14.0-20240511-1313.zip.part0",
+                "size": 1677721600,
+                "SHA256": "f72e389c261f2c523ac81cd4a37aaa5872a06183bdc88306cf70c381aaf45747",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cupid-fourteen/PixelOS_cupid-14.0-20240511-1313.zip.part0"
+            },
+            {
+                "filename": "PixelOS_cupid-14.0-20240511-1313.zip.part1",
+                "size": 717339199,
+                "SHA256": "9c9e3838ced8f62adcb78c520bb9c5dabe899f60943eb777e299f7437164f85c",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cupid-fourteen/PixelOS_cupid-14.0-20240511-1313.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_d1-14.0-20231130-0523.zip",
+        "size": 1734872119,
+        "SHA256": "90970bc425fe72a6afd89015059002a1c94f60d3c42a95b33838723e048eccc3",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/d1/PixelOS_d1-14.0-20231130-0523.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/d1-fourteen/PixelOS_d1-14.0-20231130-0523.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_cupid-14.0-20240529-0715.zip",
+        "size": 2402986745,
+        "SHA256": "31506ff84bcd23a56afa162b28d8162e67170406597afe34d40403144f209daf",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cupid/PixelOS_cupid-14.0-20240529-0715.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cupid-fourteen/PixelOS_cupid-14.0-20240529-0715.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_cupid-14.0-20240529-0715.zip.part0",
+                "size": 1677721600,
+                "SHA256": "6a3175ad99700c3bdfda7f8506792b9534e3ab28881f4431bfb7eac6acada141",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cupid-fourteen/PixelOS_cupid-14.0-20240529-0715.zip.part0"
+            },
+            {
+                "filename": "PixelOS_cupid-14.0-20240529-0715.zip.part1",
+                "size": 725265145,
+                "SHA256": "ec4484856ff98c45d4488b6abd0cd7d617c55fac050f585d0a227120444c84c5",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cupid-fourteen/PixelOS_cupid-14.0-20240529-0715.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_d1-14.0-20240512-0442.zip",
+        "size": 1759161507,
+        "SHA256": "e2ca9edbfd30a88f9d26d6e613f93f8d6e40e66f2f1bc04b07d878c275228390",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/d1/PixelOS_d1-14.0-20240512-0442.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/d1-fourteen/PixelOS_d1-14.0-20240512-0442.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_cupid-15.0-20250215-1754.zip",
+        "size": 2374921924,
+        "SHA256": "6d85e9894e3be1ceaf2d11e92326ece6703ed3777a7fd871d0bb52c8e089575d",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/cupid/PixelOS_cupid-15.0-20250215-1754.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cupid-fifteen/PixelOS_cupid-15.0-20250215-1754.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_cupid-15.0-20250215-1754.zip.part0",
+                "size": 1677721600,
+                "SHA256": "bd44af79ee3bbf8c0b682f9b2beef757eeb827a43fbe1a4c6ce8006899cfa437",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cupid-fifteen/PixelOS_cupid-15.0-20250215-1754.zip.part0"
+            },
+            {
+                "filename": "PixelOS_cupid-15.0-20250215-1754.zip.part1",
+                "size": 697200324,
+                "SHA256": "f813345de48fbfed33d2d71b28cd741ad542fb42442a44171bcfea70341e4683",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cupid-fifteen/PixelOS_cupid-15.0-20250215-1754.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_d1-14.0-20240730-1517.zip",
+        "size": 2017059781,
+        "SHA256": "b6e7e02a1864e48f2864e419b1aa18c545d921a80657967640900198557c0f51",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/d1/PixelOS_d1-14.0-20240730-1517.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/d1-fourteen/PixelOS_d1-14.0-20240730-1517.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_d1-14.0-20240920-1541.zip",
+        "size": 1877659748,
+        "SHA256": "17becd3a9145dce20ac62d4e5c4eba2d5f430c47b1dd88ad2d35677f623aea18",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/d1/PixelOS_d1-14.0-20240920-1541.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/d1-fourteen/PixelOS_d1-14.0-20240920-1541.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_d2s-13.0-20230223-1650.zip",
+        "size": 1576029686,
+        "SHA256": "44a0a6a924aec569e15409cb0aa8363f9bf6483975658157576ae9a5308b0cdc",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/d2s/PixelOS_d2s-13.0-20230223-1650.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/d2s-thirteen/PixelOS_d2s-13.0-20230223-1650.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_d1x-14.0-20240920-1411.zip",
+        "size": 1884258864,
+        "SHA256": "fa76a0bdddcd925d0fa0fe58a74e6e2547b8460972dbcc09c11ea6d2618361d9",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/d1x/PixelOS_d1x-14.0-20240920-1411.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/d1x-fourteen/PixelOS_d1x-14.0-20240920-1411.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_d2s-13.0-20230423-0033.zip",
+        "size": 1605403880,
+        "SHA256": "4f4ae2acc32a3bd65ec11ccfdd13b0c424d0ca85ca1706cbe596ead889e0ad16",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/d2s/PixelOS_d2s-13.0-20230423-0033.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/d2s-thirteen/PixelOS_d2s-13.0-20230423-0033.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_d1x-14.0-20240730-1532.zip",
+        "size": 2021912236,
+        "SHA256": "010bc8ab1c669f1a8aa22a017035da1fd831484146434c1e9ff49e1db9640b49",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/d1x/PixelOS_d1x-14.0-20240730-1532.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/d1x-fourteen/PixelOS_d1x-14.0-20240730-1532.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_d1x-14.0-20241019-1811.zip",
+        "size": 1884570544,
+        "SHA256": "b13b7a75e30fd437fde36663ccd428ab1ed95d7f447040e9166ca2b6604a6b40",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/d1x/PixelOS_d1x-14.0-20241019-1811.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/d1x-fourteen/PixelOS_d1x-14.0-20241019-1811.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_d2s-13.0-20230721-1552.zip",
+        "size": 1648627903,
+        "SHA256": "b7b70f9bdc6a07e31e684df10b3bde38fdf688672e9515ed52b625824d34a716",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/d2s/PixelOS_d2s-13.0-20230721-1552.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/d2s-thirteen/PixelOS_d2s-13.0-20230721-1552.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_d2s-14.0-20240512-0428.zip",
+        "size": 1762551438,
+        "SHA256": "3251b620e486619fd1f9877f08858a7b38d903f6dd0246c4de8676d942081b41",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/d2s/PixelOS_d2s-14.0-20240512-0428.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/d2s-fourteen/PixelOS_d2s-14.0-20240512-0428.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_d2s-14.0-20231130-0614.zip",
+        "size": 1736938803,
+        "SHA256": "ddd36820ccc773e1334ce1a5fc81d07d38e60d525bb37e665ff6a16b1718c105",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/d2s/PixelOS_d2s-14.0-20231130-0614.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/d2s-fourteen/PixelOS_d2s-14.0-20231130-0614.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_d2s-14.0-20241019-0525.zip",
+        "size": 1875008280,
+        "SHA256": "08a744fd69740cb0e2f34a9d127ff94af65e83a668b40b304ad202f0b39a93a0",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/d2s/PixelOS_d2s-14.0-20241019-0525.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/d2s-fourteen/PixelOS_d2s-14.0-20241019-0525.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_d2x-13.0-20230223-1706.zip",
+        "size": 1575043645,
+        "SHA256": "64c1b7248380a4df51a812401d4949d1fac1e82476d6d622bab5991487db2087",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/d2x/PixelOS_d2x-13.0-20230223-1706.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/d2x-thirteen/PixelOS_d2x-13.0-20230223-1706.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_d2x-13.0-20230423-0052.zip",
+        "size": 1604256954,
+        "SHA256": "37d23855f5fbb4c089368c9df2de23826911b80d09b151fd8f2ec0bcafa1fc5b",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/d2x/PixelOS_d2x-13.0-20230423-0052.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/d2x-thirteen/PixelOS_d2x-13.0-20230423-0052.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_d2x-13.0-20230721-1609.zip",
+        "size": 1646871725,
+        "SHA256": "524eb16f6516ce9c2705eac490cff69caa616b635ec8e47dfacee978b47af3e5",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/d2x/PixelOS_d2x-13.0-20230721-1609.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/d2x-thirteen/PixelOS_d2x-13.0-20230721-1609.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_d2s-14.0-20240730-1549.zip",
+        "size": 2019126632,
+        "SHA256": "459af4bb2371df42b963bece6307ba8847d0d438c287da367271576b48be37ec",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/d2s/PixelOS_d2s-14.0-20240730-1549.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/d2s-fourteen/PixelOS_d2s-14.0-20240730-1549.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_d1-14.0-20241019-1840.zip",
+        "size": 1878153890,
+        "SHA256": "750a66c3c323f4cdf0f1ba90d913093cb852d9a92d4e1fe40ce57d59e905c4cd",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/d1/PixelOS_d1-14.0-20241019-1840.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/d1-fourteen/PixelOS_d1-14.0-20241019-1840.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_d2s-14.0-20240920-1512.zip",
+        "size": 1875068307,
+        "SHA256": "803a8bcbde22d9d2871469d09485a17ac3f896530e9971a74bcc6d5cbcb798d0",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/d2s/PixelOS_d2s-14.0-20240920-1512.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/d2s-fourteen/PixelOS_d2s-14.0-20240920-1512.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_d2x-14.0-20231130-0703.zip",
+        "size": 1735979382,
+        "SHA256": "817944a69dc3085df76725bf43ae96d9eb80ab895a34a063bde4625a12c718dd",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/d2x/PixelOS_d2x-14.0-20231130-0703.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/d2x-fourteen/PixelOS_d2x-14.0-20231130-0703.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_d2x-14.0-20240512-0459.zip",
+        "size": 1803851168,
+        "SHA256": "052fcaf62da40824eaa76cbf05d8f05a73647fa43d0cb29868dd396d27743d34",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/d2x/PixelOS_d2x-14.0-20240512-0459.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/d2x-fourteen/PixelOS_d2x-14.0-20240512-0459.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_d2x-14.0-20240730-1605.zip",
+        "size": 2058711745,
+        "SHA256": "76eb10511f370d93b0822b07214c71fa0c5ef7a91f55e3bcf52f4935c29d35df",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/d2x/PixelOS_d2x-14.0-20240730-1605.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/d2x-fourteen/PixelOS_d2x-14.0-20240730-1605.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_d2x-14.0-20240730-1605.zip.part0",
+                "size": 1677721600,
+                "SHA256": "f5908b980534397d75460efdcef1bda7ab6fa3bb50de4b414a84d0bfe6816518",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/d2x-fourteen/PixelOS_d2x-14.0-20240730-1605.zip.part0"
+            },
+            {
+                "filename": "PixelOS_d2x-14.0-20240730-1605.zip.part1",
+                "size": 380990145,
+                "SHA256": "e99ead1e2e418c7724799f7292b2f60be0a1d352ef216a666aad5eb44e346a6d",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/d2x-fourteen/PixelOS_d2x-14.0-20240730-1605.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_davinci-12.0-20220101-0023.zip",
+        "size": 1720693498,
+        "SHA256": "a92d6af6dd197deba89ece39268e4eef55fc0e35f9837a00d6b12c8d8c31a40d",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/davinci/PixelOS_davinci-12.0-20220101-0023.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-twelve/PixelOS_davinci-12.0-20220101-0023.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_davinci-12.0-20220101-1231.zip",
+        "size": 1721004941,
+        "SHA256": "6af5a9347a311f121934876bf0f6565c9ed33d3bfa8fef138de48b81dc64076d",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/davinci/PixelOS_davinci-12.0-20220101-1231.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-twelve/PixelOS_davinci-12.0-20220101-1231.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_davinci-12.0-20220115-1159.zip",
+        "size": 1720691511,
+        "SHA256": "c24e0f5dfc0a1513615873745bc53e6f0a6541c46f9b96bc59e11309a1ffbfba",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/davinci/PixelOS_davinci-12.0-20220115-1159.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-twelve/PixelOS_davinci-12.0-20220115-1159.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_d2x-14.0-20241019-0455.zip",
+        "size": 1914385020,
+        "SHA256": "89eee904bbec0f1d4d23a145b66a71bcf76eb4d892d936d5a71d26eab3b0f5d8",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/d2x/PixelOS_d2x-14.0-20241019-0455.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/d2x-fourteen/PixelOS_d2x-14.0-20241019-0455.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_d2x-14.0-20240920-1526.zip",
+        "size": 1914523412,
+        "SHA256": "a8d5481f52938248414ab0c645b91672ce04046ebd254ee610f5a60f1f586c84",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/d2x/PixelOS_d2x-14.0-20240920-1526.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/d2x-fourteen/PixelOS_d2x-14.0-20240920-1526.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_davinci-12.0-20220212-0010.zip",
+        "size": 1731869745,
+        "SHA256": "607168326c93f03c53e2c4378f061a01c07ac6319c873aa20d2fe31453dd883f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/davinci/PixelOS_davinci-12.0-20220212-0010.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-twelve/PixelOS_davinci-12.0-20220212-0010.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_davinci-12.0-20220311-2011.zip",
+        "size": 1796784250,
+        "SHA256": "96504c62b46c5be159f56c23a288b7403a620abd4471715d63fe0534fa956983",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/davinci/PixelOS_davinci-12.0-20220311-2011.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-twelve/PixelOS_davinci-12.0-20220311-2011.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_davinci-12.1-20220402-1709.zip",
+        "size": 1841687205,
+        "SHA256": "1ba4f3ee5bc34eb0208b33c2106272e8732dcc17513d4974802191309c6fc7dc",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/davinci/PixelOS_davinci-12.1-20220402-1709.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-twelve/PixelOS_davinci-12.1-20220402-1709.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_davinci-12.1-20220409-2021.zip",
+        "size": 1835197293,
+        "SHA256": "3cb9fa943daa53d4c48221987d4066a4c8daefb2c090a62ee18bddffeae27617",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/davinci/PixelOS_davinci-12.1-20220409-2021.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-twelve/PixelOS_davinci-12.1-20220409-2021.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_davinci-12.1-20220427-0634.zip",
+        "size": 1829393603,
+        "SHA256": "a490138143ad160829fd0c42a351ada4527b58d0f4ddeeba16743d6088cecdf6",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/davinci/PixelOS_davinci-12.1-20220427-0634.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-twelve/PixelOS_davinci-12.1-20220427-0634.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_davinci-12.1-20220430-0156.zip",
+        "size": 1830073801,
+        "SHA256": "3c4a0fc6069b32d3d229221ef57980b0d3f07f2705b91df0ebdae5f3456eb8a7",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/davinci/PixelOS_davinci-12.1-20220430-0156.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-twelve/PixelOS_davinci-12.1-20220430-0156.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_davinci-12.1-20220505-1948.zip",
+        "size": 1829266691,
+        "SHA256": "727329de16c380cab9e8c62ac5c8ad17eca43ac6f2cca380d89876a87b53d17b",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/davinci/PixelOS_davinci-12.1-20220505-1948.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-twelve/PixelOS_davinci-12.1-20220505-1948.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_davinci-12.1-20220506-0617.zip",
+        "size": 1828987290,
+        "SHA256": "434582069dcc88c3b1ac0375137669330b93d3a4e3e782adaf611a28c4a1a7ce",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/davinci/PixelOS_davinci-12.1-20220506-0617.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-twelve/PixelOS_davinci-12.1-20220506-0617.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_davinci-12.1-20220609-2048.zip",
+        "size": 1909066321,
+        "SHA256": "3303e5033f6d284291d909bd057eb6a1d51739d97a01ec55e90fc37e131aaa03",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/davinci/PixelOS_davinci-12.1-20220609-2048.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-twelve/PixelOS_davinci-12.1-20220609-2048.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_davinci-12.1-20220626-1945.zip",
+        "size": 1912686736,
+        "SHA256": "e0647a0669c20bacb9361d30576fa99df0230f80bffc05370a9e21f7013423ac",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/davinci/PixelOS_davinci-12.1-20220626-1945.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-twelve/PixelOS_davinci-12.1-20220626-1945.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_davinci-12.1-20220713-0120.zip",
+        "size": 1918629492,
+        "SHA256": "8a8c1620cdcc5820702824ee8b018ab6ff32a343ec14729bafa869e62555fc94",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/davinci/PixelOS_davinci-12.1-20220713-0120.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-twelve/PixelOS_davinci-12.1-20220713-0120.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_davinci-12.1-20220730-0251.zip",
+        "size": 1926208106,
+        "SHA256": "65999a5e44219f45d957aa3f2a58690e025b1278edd030b0eed21cbc68cd97a8",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/davinci/PixelOS_davinci-12.1-20220730-0251.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-twelve/PixelOS_davinci-12.1-20220730-0251.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_davinci-12.1-20220812-1445.zip",
+        "size": 1931003659,
+        "SHA256": "73bb637e4569821c37f084e37cd42c05c9271b0ba7ea379d28f363af34db9a8d",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/davinci/PixelOS_davinci-12.1-20220812-1445.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-twelve/PixelOS_davinci-12.1-20220812-1445.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_davinci-13.0-20230131-1640.zip",
+        "size": 1970235755,
+        "SHA256": "36cf3fcf7284ce6055a35da6513eea58c75e2f54e7107d32df7958319df6388b",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/davinci/PixelOS_davinci-13.0-20230131-1640.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-thirteen/PixelOS_davinci-13.0-20230131-1640.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_davinci-12.1-20220812-0222.zip",
+        "size": 1931176208,
+        "SHA256": "5105c8b0ea6e50bc498fa4b974ca1f551e4404db65cb399a4d8c421b4b27fd51",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/davinci/PixelOS_davinci-12.1-20220812-0222.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-twelve/PixelOS_davinci-12.1-20220812-0222.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_davinci-12.1-20220618-0642.zip",
+        "size": 1910490782,
+        "SHA256": "8d4243b2112704d7ae7f0fcbfe5214b42e059da12f50356dcc4671c622c167c0",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/davinci/PixelOS_davinci-12.1-20220618-0642.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-twelve/PixelOS_davinci-12.1-20220618-0642.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_davinci-13.0-20221029-0229.zip",
+        "size": 2000342067,
+        "SHA256": "6bdebaf8d1e7ddcd8fe456deac78ac55aa60562a4c81414cbf24366206bff5f0",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/davinci/PixelOS_davinci-13.0-20221029-0229.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-thirteen/PixelOS_davinci-13.0-20221029-0229.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_davinci-13.0-20221125-2116.zip",
+        "size": 2077245011,
+        "SHA256": "8d541e41840e5e056c191000f35e54c7361bb0706c62b0388466f444c6439f11",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/davinci/PixelOS_davinci-13.0-20221125-2116.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-thirteen/PixelOS_davinci-13.0-20221125-2116.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_davinci-13.0-20221125-2116.zip.part0",
+                "size": 1677721600,
+                "SHA256": "d3c35301201ffa96c3af10795694be400d0f3474fa5ee9eb0cc41578dfa94a72",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-thirteen/PixelOS_davinci-13.0-20221125-2116.zip.part0"
+            },
+            {
+                "filename": "PixelOS_davinci-13.0-20221125-2116.zip.part1",
+                "size": 399523411,
+                "SHA256": "3ffbb7317d344e1d643805e309361f66d3ebe472f6acdbeaef2a4a6404ae658b",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-thirteen/PixelOS_davinci-13.0-20221125-2116.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_davinci-13.0-20230215-1533.zip",
+        "size": 1965079927,
+        "SHA256": "3a18e2a35cf68e7f77d0e5084df0f944f4a27d697d639e9e2c3a2b219bb81a22",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/davinci/PixelOS_davinci-13.0-20230215-1533.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-thirteen/PixelOS_davinci-13.0-20230215-1533.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_davinci-13.0-20230416-0525.zip",
+        "size": 1979578593,
+        "SHA256": "a9fbfefcba8ebed294c3cf80b6162926e97305350ef453cac06fa1dfcd131059",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/davinci/PixelOS_davinci-13.0-20230416-0525.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-thirteen/PixelOS_davinci-13.0-20230416-0525.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_davinci-13.0-20230526-1410.zip",
+        "size": 1950449100,
+        "SHA256": "c29aaeca442089fc9b5a2f5c79c406191d774020cd80dbd50135b914f166c16f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/davinci/PixelOS_davinci-13.0-20230526-1410.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-thirteen/PixelOS_davinci-13.0-20230526-1410.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_davinci-13.0-20230709-0858.zip",
+        "size": 2021406137,
+        "SHA256": "b7e54edbd86b827db83385be4e6312065a298e67bff8ba0689eea2ee080e0ece",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/davinci/PixelOS_davinci-13.0-20230709-0858.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-thirteen/PixelOS_davinci-13.0-20230709-0858.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_davinci-13.0-20230831-0603.zip",
+        "size": 1952167666,
+        "SHA256": "ed82b8e75a8a6a4205b7e7c6d43e3b302a691a58c1692874716651514bf65fef",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/davinci/PixelOS_davinci-13.0-20230831-0603.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-thirteen/PixelOS_davinci-13.0-20230831-0603.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_davinci-14.0-20231119-1752.zip",
+        "size": 2133116829,
+        "SHA256": "3fae997768eeded84eacc1a1137b1842b6a1a4a934ce4d7421c20152519bb044",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/davinci/PixelOS_davinci-14.0-20231119-1752.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fourteen/PixelOS_davinci-14.0-20231119-1752.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_davinci-14.0-20231119-1752.zip.part0",
+                "size": 1677721600,
+                "SHA256": "9270709ed7a6c877259349e65c42a792a5a5a84d52bd3da9a6a3dfc16f3b4b80",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fourteen/PixelOS_davinci-14.0-20231119-1752.zip.part0"
+            },
+            {
+                "filename": "PixelOS_davinci-14.0-20231119-1752.zip.part1",
+                "size": 455395229,
+                "SHA256": "684363162dc9e5118eeab42690bf8ce89c61c29c2d004361cc6fbc74afe17554",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fourteen/PixelOS_davinci-14.0-20231119-1752.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_davinci-14.0-20231228-1056.zip",
+        "size": 2211578573,
+        "SHA256": "ae569a914c77fb8e771f8c7f83c6323a5c401ccef9727b2f81548cd0b42e55ea",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/davinci/PixelOS_davinci-14.0-20231228-1056.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fourteen/PixelOS_davinci-14.0-20231228-1056.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_davinci-14.0-20231228-1056.zip.part0",
+                "size": 1677721600,
+                "SHA256": "1c74b555e9ce5e8f00bfcb4b3afac7f1518d27cb534121493b4e47e53c7ef712",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fourteen/PixelOS_davinci-14.0-20231228-1056.zip.part0"
+            },
+            {
+                "filename": "PixelOS_davinci-14.0-20231228-1056.zip.part1",
+                "size": 533856973,
+                "SHA256": "acb02c262248749cef214aec3c4d450d7fe5828e737953d98edfff45e9a361e1",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fourteen/PixelOS_davinci-14.0-20231228-1056.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_davinci-14.0-20240129-1726.zip",
+        "size": 2222495622,
+        "SHA256": "eaff1f26f7bddcdb8d49f0614c9fe825d3a03e21f3cee315bbdb9929a2da7085",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/davinci/PixelOS_davinci-14.0-20240129-1726.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fourteen/PixelOS_davinci-14.0-20240129-1726.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_davinci-14.0-20240129-1726.zip.part0",
+                "size": 1677721600,
+                "SHA256": "b2f9a6dfbb07f030931a1e23d42b69bacaa0b5d7c0e33a34cc339fb12536ce17",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fourteen/PixelOS_davinci-14.0-20240129-1726.zip.part0"
+            },
+            {
+                "filename": "PixelOS_davinci-14.0-20240129-1726.zip.part1",
+                "size": 544774022,
+                "SHA256": "23c78393a4e48a2a37e6b2cbede7e86b55ad86f778f6076b3cdaee6aee18e818",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fourteen/PixelOS_davinci-14.0-20240129-1726.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_davinci-14.0-20240503-2053.zip",
+        "size": 2145119175,
+        "SHA256": "8c88684f122c84544dcf573cc253f4eae003de42d3f2405a9704eeaa1a1cc84f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/davinci/PixelOS_davinci-14.0-20240503-2053.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fourteen/PixelOS_davinci-14.0-20240503-2053.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_davinci-14.0-20240503-2053.zip.part0",
+                "size": 1677721600,
+                "SHA256": "04b9d83c95e647f099c79a949fa6e848cf3d2278b1af4576d36223e919bd1c4f",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fourteen/PixelOS_davinci-14.0-20240503-2053.zip.part0"
+            },
+            {
+                "filename": "PixelOS_davinci-14.0-20240503-2053.zip.part1",
+                "size": 467397575,
+                "SHA256": "908e0d883bfe7dbd3fe60dc2b9ff645f4ce320b8bd007ed2d6d2fc281b5df429",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fourteen/PixelOS_davinci-14.0-20240503-2053.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_diting-14.0-20240417-1453.zip",
+        "size": 2560683870,
+        "SHA256": "92138384943d87cf94e8ffa75f60122b222dc8cb5519cff1f0247215e6be9b7f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/diting/PixelOS_diting-14.0-20240417-1453.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/diting-fourteen/PixelOS_diting-14.0-20240417-1453.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_diting-14.0-20240417-1453.zip.part0",
+                "size": 1677721600,
+                "SHA256": "b91f1b0d8c2b7d87ca5305a469605c191232424570f20258b46facd4afc4b52a",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/diting-fourteen/PixelOS_diting-14.0-20240417-1453.zip.part0"
+            },
+            {
+                "filename": "PixelOS_diting-14.0-20240417-1453.zip.part1",
+                "size": 882962270,
+                "SHA256": "242c04ab8739f979ccb0cc504c853a4e4f5e8f04177c76229f851bddd48f3950",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/diting-fourteen/PixelOS_diting-14.0-20240417-1453.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_davinci-14.0-20240527-2100.zip",
+        "size": 2179102540,
+        "SHA256": "33d6ae7e76ccdabbf376f3a1bc4f607b265b80e1e17255ea1b4937f95e8716b5",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/davinci/PixelOS_davinci-14.0-20240527-2100.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fourteen/PixelOS_davinci-14.0-20240527-2100.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_davinci-14.0-20240527-2100.zip.part0",
+                "size": 1677721600,
+                "SHA256": "7efadef5f366572caf471bd8b91bb35dc2cae3f9096687fc2f6a8132ffa00c45",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fourteen/PixelOS_davinci-14.0-20240527-2100.zip.part0"
+            },
+            {
+                "filename": "PixelOS_davinci-14.0-20240527-2100.zip.part1",
+                "size": 501380940,
+                "SHA256": "09d85eee0361b647e3d69eec90d2068b321b6ea3a91c74d25f43246105af8c0c",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fourteen/PixelOS_davinci-14.0-20240527-2100.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_davinci-14.0-20240530-1605.zip",
+        "size": 2180046185,
+        "SHA256": "948bf19aa19b7b5b5b0eb734be968e35ac01af91356950b48e373271c7be2cc5",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/davinci/PixelOS_davinci-14.0-20240530-1605.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fourteen/PixelOS_davinci-14.0-20240530-1605.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_davinci-14.0-20240530-1605.zip.part0",
+                "size": 1677721600,
+                "SHA256": "0d2cc08d3b32e81d69fdc8cb363d193aa6bd67b0d186a780cb52f071ea80652f",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fourteen/PixelOS_davinci-14.0-20240530-1605.zip.part0"
+            },
+            {
+                "filename": "PixelOS_davinci-14.0-20240530-1605.zip.part1",
+                "size": 502324585,
+                "SHA256": "a2ce610435d6e9e6f499aaeed5d2f1eca3e3ba380558cae2192cab4a68d00657",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fourteen/PixelOS_davinci-14.0-20240530-1605.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_davinci-14.0-20241002-0018.zip",
+        "size": 2299475425,
+        "SHA256": "1a41fb6c0b89944e2e57f6dedcabf698109ab5d0b1ea643ad386c5aef76dd8b7",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/davinci/PixelOS_davinci-14.0-20241002-0018.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fourteen/PixelOS_davinci-14.0-20241002-0018.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_davinci-14.0-20241002-0018.zip.part0",
+                "size": 1677721600,
+                "SHA256": "74b459777806d2759e2059a71af662f0e3e15ac371812eb22910bcf58f9edb1a",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fourteen/PixelOS_davinci-14.0-20241002-0018.zip.part0"
+            },
+            {
+                "filename": "PixelOS_davinci-14.0-20241002-0018.zip.part1",
+                "size": 621753825,
+                "SHA256": "ac468788a77019a1a34f031368159c1bc161aca7a2bbdbd33ac92bdf7a3ea5a8",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fourteen/PixelOS_davinci-14.0-20241002-0018.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_davinci-14.0-20241020-2056.zip",
+        "size": 2300378279,
+        "SHA256": "3571a3806d38e6b1564e21e26bf9887e439c522a4ae0cb58ebab9fd7bcc97006",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/davinci/PixelOS_davinci-14.0-20241020-2056.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fourteen/PixelOS_davinci-14.0-20241020-2056.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_davinci-14.0-20241020-2056.zip.part0",
+                "size": 1677721600,
+                "SHA256": "1974fa7104be0b6a9b177925620661687b2aa0a1509d2fbe07035e41ff2cd4d3",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fourteen/PixelOS_davinci-14.0-20241020-2056.zip.part0"
+            },
+            {
+                "filename": "PixelOS_davinci-14.0-20241020-2056.zip.part1",
+                "size": 622656679,
+                "SHA256": "41bba30376cc4a789d4a4dfee6035456ce99741b2ef75dd74468c15caf95b31a",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fourteen/PixelOS_davinci-14.0-20241020-2056.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_davinci-14.0-20240730-1806.zip",
+        "size": 2452382590,
+        "SHA256": "2931ac7942a99b3e22ca05509d820f62097d2a7531a873b2949f3c1b66c62a1c",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/davinci/PixelOS_davinci-14.0-20240730-1806.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fourteen/PixelOS_davinci-14.0-20240730-1806.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_davinci-14.0-20240730-1806.zip.part0",
+                "size": 1677721600,
+                "SHA256": "cbd6356b7366f04e3d48d36ceef8a7d2a499f82f13197c4e4f266ace621fcf47",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fourteen/PixelOS_davinci-14.0-20240730-1806.zip.part0"
+            },
+            {
+                "filename": "PixelOS_davinci-14.0-20240730-1806.zip.part1",
+                "size": 774660990,
+                "SHA256": "5e1cbc71c8dca65f6353c5cc53dd21a3709f7245ea115a2851c541e3124821bc",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fourteen/PixelOS_davinci-14.0-20240730-1806.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_davinci-14.0-20240628-1740.zip",
+        "size": 2439500346,
+        "SHA256": "55587ca78e77df0575792bb5284c966f3d84aa87e181bc5ab2e2c4778dcb33c6",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/davinci/PixelOS_davinci-14.0-20240628-1740.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fourteen/PixelOS_davinci-14.0-20240628-1740.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_davinci-14.0-20240628-1740.zip.part0",
+                "size": 1677721600,
+                "SHA256": "c499234a597c5acae3f495c82feb6d41b23531ca92ec0ea0381666095915d810",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fourteen/PixelOS_davinci-14.0-20240628-1740.zip.part0"
+            },
+            {
+                "filename": "PixelOS_davinci-14.0-20240628-1740.zip.part1",
+                "size": 761778746,
+                "SHA256": "c77f909a78a15675bdb7619478e6048b7bc7fd8caa355c1617cb9bbc91200d63",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fourteen/PixelOS_davinci-14.0-20240628-1740.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_davinci-14.0-20240722-2010.zip",
+        "size": 2452721409,
+        "SHA256": "b10432c687b3c6e61f39c280773f0a462f42513fe4654b258a99c2a49c1ffb7c",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/davinci/PixelOS_davinci-14.0-20240722-2010.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fourteen/PixelOS_davinci-14.0-20240722-2010.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_davinci-14.0-20240722-2010.zip.part0",
+                "size": 1677721600,
+                "SHA256": "a741baa4373bcc361bfae5c13e607e099411263661ef0d37bdbf53d40d94d164",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fourteen/PixelOS_davinci-14.0-20240722-2010.zip.part0"
+            },
+            {
+                "filename": "PixelOS_davinci-14.0-20240722-2010.zip.part1",
+                "size": 774999809,
+                "SHA256": "2cdba8ec5ee172f3b6d4c535e505e4a2ef15f5bac0691c66fbba9081a7903634",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fourteen/PixelOS_davinci-14.0-20240722-2010.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_dubai-13.0-20230215-0256.zip",
+        "size": 1589641216,
+        "SHA256": "6637a8fb3975de02452d0555744262b875e3acad7ceaef0c7c58d9c7fbbc91b7",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/dubai/PixelOS_dubai-13.0-20230215-0256.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/dubai-thirteen/PixelOS_dubai-13.0-20230215-0256.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_dubai-13.0-20230131-2214.zip",
+        "size": 1995010265,
+        "SHA256": "cc9866d3ad394ddbc65e249efd08de610fc8f7e0b6b8d5be65ce1b4c09bc7a8d",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/dubai/PixelOS_dubai-13.0-20230131-2214.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/dubai-thirteen/PixelOS_dubai-13.0-20230131-2214.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_davinci-15.0-20250118-0018.zip",
+        "size": 2354361661,
+        "SHA256": "bcbc56db3f5c463495670f7669c9d92fd09842196385133a5bd00a973efc0437",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/davinci/PixelOS_davinci-15.0-20250118-0018.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fifteen/PixelOS_davinci-15.0-20250118-0018.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_davinci-15.0-20250118-0018.zip.part0",
+                "size": 1677721600,
+                "SHA256": "00873647b4335d0a0231f91a18f60f51d17b16f59f9831dc01df2c624e419d1b",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fifteen/PixelOS_davinci-15.0-20250118-0018.zip.part0"
+            },
+            {
+                "filename": "PixelOS_davinci-15.0-20250118-0018.zip.part1",
+                "size": 676640061,
+                "SHA256": "f3dbb8adb3f1864f8380ca952bb4719558e89a46924dcaf5e5b7923c84499021",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fifteen/PixelOS_davinci-15.0-20250118-0018.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_davinci-15.0-20250505-1521.zip",
+        "size": 2406986398,
+        "SHA256": "ef54b66d7364f09effecffba290169471faa3083161997e65cfa1be1f61862ec",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/davinci/PixelOS_davinci-15.0-20250505-1521.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fifteen/PixelOS_davinci-15.0-20250505-1521.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_davinci-15.0-20250505-1521.zip.part0",
+                "size": 1677721600,
+                "SHA256": "b68414d3e55ca4b0e2cb97b77dfa52513f8f6a0b170e73a4715498052150acc2",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fifteen/PixelOS_davinci-15.0-20250505-1521.zip.part0"
+            },
+            {
+                "filename": "PixelOS_davinci-15.0-20250505-1521.zip.part1",
+                "size": 729264798,
+                "SHA256": "0d9db47b1a645964e65c9e9df8db732bd536b09a8a832bdc8e70804f9f3bc664",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fifteen/PixelOS_davinci-15.0-20250505-1521.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_davinci-16.0-20251201-0021.zip",
+        "size": 2548734592,
+        "SHA256": "4def49bd3ac5551ff499d76387057493f8792136639f0b79d8179c48bdc53cf5",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/davinci/PixelOS_davinci-16.0-20251201-0021.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-sixteen/PixelOS_davinci-16.0-20251201-0021.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_davinci-16.0-20251201-0021.zip.part0",
+                "size": 1677721600,
+                "SHA256": "0973e0efb05146d4fe5778d813de74fc435461def44bdd70df19f948748eecd8",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-sixteen/PixelOS_davinci-16.0-20251201-0021.zip.part0"
+            },
+            {
+                "filename": "PixelOS_davinci-16.0-20251201-0021.zip.part1",
+                "size": 871012992,
+                "SHA256": "2cdbe784701141d30fc16b7a0dc05a8a5f02a7711d4e4b466a85256272f0b50d",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-sixteen/PixelOS_davinci-16.0-20251201-0021.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_dubai-13.0-20230317-0909.zip",
+        "size": 1882894558,
+        "SHA256": "e380779544a6555e5f5c82043fc079168e372114319cf0bbad11a7e943dd21fb",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/dubai/PixelOS_dubai-13.0-20230317-0909.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/dubai-thirteen/PixelOS_dubai-13.0-20230317-0909.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_dubai-13.0-20230216-0450.zip",
+        "size": 1882216043,
+        "SHA256": "91938055abfb19f30b93d7e78a75497026d1d8ef4c6fde127c1021b92fcbc28a",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/dubai/PixelOS_dubai-13.0-20230216-0450.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/dubai-thirteen/PixelOS_dubai-13.0-20230216-0450.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_davinci-15.0-20250517-1508.zip",
+        "size": 2408184544,
+        "SHA256": "7ffb9c1c6f2bad2a01c71fafc30fc86cc5be1a2c0ea8949e45b07fc2f421ea0f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/davinci/PixelOS_davinci-15.0-20250517-1508.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fifteen/PixelOS_davinci-15.0-20250517-1508.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_davinci-15.0-20250517-1508.zip.part0",
+                "size": 1677721600,
+                "SHA256": "0aa5e827885f3703227e7bc2017c54262da4e17fdc8649fb86823af4278ab5f6",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fifteen/PixelOS_davinci-15.0-20250517-1508.zip.part0"
+            },
+            {
+                "filename": "PixelOS_davinci-15.0-20250517-1508.zip.part1",
+                "size": 730462944,
+                "SHA256": "41eb3a7bdaf18d092044bdd197500e3898c2a4d9e5f726a29c70ab5ed857ebdf",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fifteen/PixelOS_davinci-15.0-20250517-1508.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_dubai-13.0-20230416-0833.zip",
+        "size": 1889070177,
+        "SHA256": "2908c8454627c74126a724e0bb96249209fd104ba712889eb42dc48f2a01654c",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/dubai/PixelOS_dubai-13.0-20230416-0833.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/dubai-thirteen/PixelOS_dubai-13.0-20230416-0833.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_dubai-13.0-20230508-1911.zip",
+        "size": 1891912065,
+        "SHA256": "23a5e080118cbe6777ee47b63918081ecdb1a7036b73e3569b52b3112f9c448c",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/dubai/PixelOS_dubai-13.0-20230508-1911.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/dubai-thirteen/PixelOS_dubai-13.0-20230508-1911.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_davinci-14.0-20231231-0819.zip",
+        "size": 2219357870,
+        "SHA256": "8f38df3297a64a54bc23198ec9d3fe83b6586d0ba010e7d2334ddc995cdceffa",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/davinci/PixelOS_davinci-14.0-20231231-0819.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fourteen/PixelOS_davinci-14.0-20231231-0819.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_davinci-14.0-20231231-0819.zip.part0",
+                "size": 1677721600,
+                "SHA256": "b00891cbabeb35005fd270c2a88e38784f74a8e102198dbf2ab237098c29e394",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fourteen/PixelOS_davinci-14.0-20231231-0819.zip.part0"
+            },
+            {
+                "filename": "PixelOS_davinci-14.0-20231231-0819.zip.part1",
+                "size": 541636270,
+                "SHA256": "25b08cf3536f1b588167e28d1ca760f886f5aa3d62570ddeec06dcf7e59f3f5c",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-fourteen/PixelOS_davinci-14.0-20231231-0819.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_crownlte-12.1-20220625-1238.zip",
+        "size": 1532634747,
+        "SHA256": "2720b6ec5f75b4ce9a5be18ee0a06b40c640bc86b448721ebfe01e2e0d004dcc",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/crownlte/PixelOS_crownlte-12.1-20220625-1238.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/crownlte-twelve/PixelOS_crownlte-12.1-20220625-1238.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_davinci-16.2-20260225-1948.zip",
+        "size": 2674832816,
+        "SHA256": "f2ed93a43376fd57cffbc43b3cbee49f9088a0e07d815530e73fdd9a9b9db542",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/davinci/PixelOS_davinci-16.2-20260225-1948.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-sixteen/PixelOS_davinci-16.2-20260225-1948.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_davinci-16.2-20260225-1948.zip.part0",
+                "size": 1677721600,
+                "SHA256": "9f806671c647bfcca8495c2991f4539ac294d7a2516ccb126f76e412f0a28a3c",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-sixteen/PixelOS_davinci-16.2-20260225-1948.zip.part0"
+            },
+            {
+                "filename": "PixelOS_davinci-16.2-20260225-1948.zip.part1",
+                "size": 997111216,
+                "SHA256": "a6ce2148637403f834f71fd76bee69c570459f955467e32ed797b20eec818e02",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-sixteen/PixelOS_davinci-16.2-20260225-1948.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_courbet-12.1-20220712-0639.zip",
+        "size": 2101540692,
+        "SHA256": "6e9eb9d710592d5841fc3521ffa08ac0ce78c13bca86701405b429e343cf8638",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/courbet/PixelOS_courbet-12.1-20220712-0639.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-twelve/PixelOS_courbet-12.1-20220712-0639.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_courbet-12.1-20220712-0639.zip.part0",
+                "size": 1677721600,
+                "SHA256": "4a2d94567c5c720702ce5ad55c7d1427e1cbd03bd82cde1f760a6668abc5dc07",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-twelve/PixelOS_courbet-12.1-20220712-0639.zip.part0"
+            },
+            {
+                "filename": "PixelOS_courbet-12.1-20220712-0639.zip.part1",
+                "size": 423819092,
+                "SHA256": "611abfe10bc65da5cbb0e5f487bf115a801b75b2a5ede6940d6fa78d916b10fd",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-twelve/PixelOS_courbet-12.1-20220712-0639.zip.part1"
+            }
+        ]
     }
 ]
