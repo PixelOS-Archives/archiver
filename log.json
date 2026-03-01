@@ -4856,5 +4856,1641 @@
                 "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/courbet-twelve/PixelOS_courbet-12.1-20220712-0639.zip.part1"
             }
         ]
+    },
+    {
+        "filename": "PixelOS_flame-13.0-20231003-1208.zip",
+        "size": 1668756311,
+        "SHA256": "ec4d6847c9a900df273eb332ac529571ac5789cf65493faa39179a772b4bfd34",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/flame/PixelOS_flame-13.0-20231003-1208.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/flame-thirteen/PixelOS_flame-13.0-20231003-1208.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_garnet-16.1-20260125-1028.zip",
+        "size": 2695023235,
+        "SHA256": "4259d258777f763a69c0ed1a770af25e2ce31cde1bd6a209ac7fa3b509bd3fbf",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/garnet/PixelOS_garnet-16.1-20260125-1028.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/garnet-sixteen/PixelOS_garnet-16.1-20260125-1028.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_garnet-16.1-20260125-1028.zip.part0",
+                "size": 1677721600,
+                "SHA256": "64da6a948a0fe3405508a4d5dc8eb0ca7d16c1d4cff168f1a4eacabb1bbd3689",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/garnet-sixteen/PixelOS_garnet-16.1-20260125-1028.zip.part0"
+            },
+            {
+                "filename": "PixelOS_garnet-16.1-20260125-1028.zip.part1",
+                "size": 1017301635,
+                "SHA256": "074443a86c526bc81a78addd0ea87709e3757e16b866fa3b58ddb644e892590a",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/garnet-sixteen/PixelOS_garnet-16.1-20260125-1028.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_f62-13.0-20230707-2218.zip",
+        "size": 1638704792,
+        "SHA256": "0617452f24bfa8404e3e34bf70fc5d0ecf97f6490865949ff2f92e8089aabf3f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/f62/PixelOS_f62-13.0-20230707-2218.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/f62-thirteen/PixelOS_f62-13.0-20230707-2218.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_f62-14.0-20240512-0516.zip",
+        "size": 1783743981,
+        "SHA256": "c15901371bda9dc2f75c605d13d46c493bc17d8b29ad78ae3641ae582775fc2e",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/f62/PixelOS_f62-14.0-20240512-0516.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/f62-fourteen/PixelOS_f62-14.0-20240512-0516.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_f62-14.0-20231130-0754.zip",
+        "size": 1733271500,
+        "SHA256": "d0383e56506674782f57e291c25af12ec25de1568bf12b133972050998efe073",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/f62/PixelOS_f62-14.0-20231130-0754.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/f62-fourteen/PixelOS_f62-14.0-20231130-0754.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_f62-14.0-20240920-1451.zip",
+        "size": 1902862083,
+        "SHA256": "fc8c26e61b7edeb3baa3e12085d2f32a1493aed008f14251344bf9af432d2ae9",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/f62/PixelOS_f62-14.0-20240920-1451.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/f62-fourteen/PixelOS_f62-14.0-20240920-1451.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_gauguin-12.0-20220101-0839.zip",
+        "size": 1956061804,
+        "SHA256": "7990d675347d9687e6ec07e0ef5035d37938a3bfd1a450d7ac117ada23c2c3ea",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/gauguin/PixelOS_gauguin-12.0-20220101-0839.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-twelve/PixelOS_gauguin-12.0-20220101-0839.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_gauguin-12.0-20220115-0711.zip",
+        "size": 1956893178,
+        "SHA256": "b715a29d6e60c48a087ad2dc1ffb52af29214de961819c7f49ffd2b625483b9e",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/gauguin/PixelOS_gauguin-12.0-20220115-0711.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-twelve/PixelOS_gauguin-12.0-20220115-0711.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_gauguin-12.1-20220618-1105.zip",
+        "size": 2048318861,
+        "SHA256": "f88aa4acf29a250c797091eb0f57b1b5983530349584a74ba5a858e10c3101ab",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/gauguin/PixelOS_gauguin-12.1-20220618-1105.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-twelve/PixelOS_gauguin-12.1-20220618-1105.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-12.1-20220618-1105.zip.part0",
+                "size": 1677721600,
+                "SHA256": "c158dfef55f5acf3f30b52bd7651f400913f261a28d32894b6e90ea53eff9d83",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-twelve/PixelOS_gauguin-12.1-20220618-1105.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-12.1-20220618-1105.zip.part1",
+                "size": 370597261,
+                "SHA256": "856a4403dbe1c4a186d6cd5a2a324a195893abb41bdc06ab57b3a14f46d26274",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-twelve/PixelOS_gauguin-12.1-20220618-1105.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_gauguin-13.0-20221029-1019.zip",
+        "size": 2052207689,
+        "SHA256": "adbf82aaf9f9e6f88ed8e07d12c37c444d9efe0184dd21c7eca7fb1e278a80d5",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/gauguin/PixelOS_gauguin-13.0-20221029-1019.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-thirteen/PixelOS_gauguin-13.0-20221029-1019.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-13.0-20221029-1019.zip.part0",
+                "size": 1677721600,
+                "SHA256": "bc346ac127e14916fe3b39d9dd48ad65c260cd6a60897f216c1947423b17bba9",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-thirteen/PixelOS_gauguin-13.0-20221029-1019.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-13.0-20221029-1019.zip.part1",
+                "size": 374486089,
+                "SHA256": "88701fd36a350ea403206724a4e38e93f868253454df01b0bb6e3717a21d5c42",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-thirteen/PixelOS_gauguin-13.0-20221029-1019.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_gauguin-13.0-20221026-0907.zip",
+        "size": 2061589000,
+        "SHA256": "31e39c3a0d9976d781a80524db8845be09a9194a47d33f77fc27ae3b6b9d95b9",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/gauguin/PixelOS_gauguin-13.0-20221026-0907.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-thirteen/PixelOS_gauguin-13.0-20221026-0907.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-13.0-20221026-0907.zip.part0",
+                "size": 1677721600,
+                "SHA256": "ae30437e4baa67dfb2b68d8cb2a165abf64ed3c76dbdb86bec1703d71af12d73",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-thirteen/PixelOS_gauguin-13.0-20221026-0907.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-13.0-20221026-0907.zip.part1",
+                "size": 383867400,
+                "SHA256": "84450472fcfe4c9ba6df090a7b19066e6db98603cf06d705394e654932b8a212",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-thirteen/PixelOS_gauguin-13.0-20221026-0907.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_flame-13.0-20230821-1043.zip",
+        "size": 1656673423,
+        "SHA256": "3dce213dae562b822e6003683cec7e199d2fbd79121f76be4f008770ad578b52",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/flame/PixelOS_flame-13.0-20230821-1043.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/flame-thirteen/PixelOS_flame-13.0-20230821-1043.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_flame-13.0-20230707-0159.zip",
+        "size": 1725181983,
+        "SHA256": "e46d66900b431190410d94574f3cf90900a6b4e54f820dd9fc7ebd841cd6480b",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/flame/PixelOS_flame-13.0-20230707-0159.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/flame-thirteen/PixelOS_flame-13.0-20230707-0159.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_flame-13.0-20230705-1034.zip",
+        "size": 1714697149,
+        "SHA256": "f88a7411b26f2e0ccf39a4709c404fb9156b7f22c95d08e66dce8d541bf7e233",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/flame/PixelOS_flame-13.0-20230705-1034.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/flame-thirteen/PixelOS_flame-13.0-20230705-1034.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_gauguin-12.0-20220211-2240.zip",
+        "size": 1962044218,
+        "SHA256": "c9fb150e2259a649e66adcc638d7736f43ea70292d67c4e047aac482f7708ee2",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/gauguin/PixelOS_gauguin-12.0-20220211-2240.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-twelve/PixelOS_gauguin-12.0-20220211-2240.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_gauguin-12.1-20220724-1310.zip",
+        "size": 2047393540,
+        "SHA256": "212fe00e83e8f2010c85df13519c18c40880f67a905d6b5e120e91aae1cdd9a3",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/gauguin/PixelOS_gauguin-12.1-20220724-1310.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-twelve/PixelOS_gauguin-12.1-20220724-1310.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-12.1-20220724-1310.zip.part0",
+                "size": 1677721600,
+                "SHA256": "ec581f2d0a5f0ecc60c77c5553077b5d6a0981f302362aa9f823889398b697f0",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-twelve/PixelOS_gauguin-12.1-20220724-1310.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-12.1-20220724-1310.zip.part1",
+                "size": 369671940,
+                "SHA256": "6da9be50903e4206bbdfe3f49baead4bf3d7a1045d419f571025e3e1fbfb369a",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-twelve/PixelOS_gauguin-12.1-20220724-1310.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_gauguin-12.0-20220115-1506.zip",
+        "size": 1956860300,
+        "SHA256": "6818074a64aeb1bef7750a447c004b10e3992ac35fe1a1c191fa16bad689769d",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/gauguin/PixelOS_gauguin-12.0-20220115-1506.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-twelve/PixelOS_gauguin-12.0-20220115-1506.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_f62-14.0-20240730-1503.zip",
+        "size": 2039952818,
+        "SHA256": "f8175b64a8c156c9f3ce7787d7fc0b19c93bb67718f4611c8852d6fd6575b3d6",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/f62/PixelOS_f62-14.0-20240730-1503.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/f62-fourteen/PixelOS_f62-14.0-20240730-1503.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_gauguin-12.1-20220613-1142.zip",
+        "size": 2044653988,
+        "SHA256": "00271ae7167bdea7b1326772a05b708880db9183fb7ef2e97da3a49546f5e181",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/gauguin/PixelOS_gauguin-12.1-20220613-1142.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-twelve/PixelOS_gauguin-12.1-20220613-1142.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-12.1-20220613-1142.zip.part0",
+                "size": 1677721600,
+                "SHA256": "dc616acca94e6b1ab68026562e490ca1bb2510ca49b4a2323aee446d67269d37",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-twelve/PixelOS_gauguin-12.1-20220613-1142.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-12.1-20220613-1142.zip.part1",
+                "size": 366932388,
+                "SHA256": "45f82d563d8eb9a18536c1c513e8e7db13ec1bb5d7f6d14457ac081ae7bd195d",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-twelve/PixelOS_gauguin-12.1-20220613-1142.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_gauguin-12.1-20220716-1533.zip",
+        "size": 2050129379,
+        "SHA256": "5b39c54f8034bd3cc84c4015ad1e8005741331682012ac57a6cdb0c7bb8cd0f1",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/gauguin/PixelOS_gauguin-12.1-20220716-1533.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-twelve/PixelOS_gauguin-12.1-20220716-1533.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-12.1-20220716-1533.zip.part0",
+                "size": 1677721600,
+                "SHA256": "eae777cd04068af4c0e6bf902014584fb3b63e3f9b632bbd075838d0500c123b",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-twelve/PixelOS_gauguin-12.1-20220716-1533.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-12.1-20220716-1533.zip.part1",
+                "size": 372407779,
+                "SHA256": "17180f606d842a0e204369accdd2fdef04793838f8c2f125050d514cbf54326a",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-twelve/PixelOS_gauguin-12.1-20220716-1533.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_gauguin-13.0-20221102-1349.zip",
+        "size": 2139623363,
+        "SHA256": "a2cc0d89e863afe2a74843d3d1ef959a3faaebb9cd68d6b7c259dd939acc7677",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/gauguin/PixelOS_gauguin-13.0-20221102-1349.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-thirteen/PixelOS_gauguin-13.0-20221102-1349.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-13.0-20221102-1349.zip.part0",
+                "size": 1677721600,
+                "SHA256": "87ddd11021ef3bdd930c6b124daf174b995f780a3360fbf139bc22a64000f8ea",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-thirteen/PixelOS_gauguin-13.0-20221102-1349.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-13.0-20221102-1349.zip.part1",
+                "size": 461901763,
+                "SHA256": "beafb9155029836c5241e02512935b858e0dd5168d978baeb897bd6729842954",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-thirteen/PixelOS_gauguin-13.0-20221102-1349.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_dubai-16.1-20260101-1622.zip",
+        "size": 2386332181,
+        "SHA256": "08a617cda9df55c7546618f97c67dae4e1646e764c63db1a8c603175cd937308",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/dubai/PixelOS_dubai-16.1-20260101-1622.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/dubai-sixteen/PixelOS_dubai-16.1-20260101-1622.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_dubai-16.1-20260101-1622.zip.part0",
+                "size": 1677721600,
+                "SHA256": "e028128b1938856b43a240f5b914109253a73564d572074c053c43e8dbc8586f",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/dubai-sixteen/PixelOS_dubai-16.1-20260101-1622.zip.part0"
+            },
+            {
+                "filename": "PixelOS_dubai-16.1-20260101-1622.zip.part1",
+                "size": 708610581,
+                "SHA256": "c06d387a644b61e8907567d57f494a3139310caf554b5317ac8c5916481468d8",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/dubai-sixteen/PixelOS_dubai-16.1-20260101-1622.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_gauguin-13.0-20230220-0831.zip",
+        "size": 2196035137,
+        "SHA256": "1526edff1768b5e462e361b5b1dcfa6dc3ac2485e76f41e517e2d8019014d18d",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/gauguin/PixelOS_gauguin-13.0-20230220-0831.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-thirteen/PixelOS_gauguin-13.0-20230220-0831.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-13.0-20230220-0831.zip.part0",
+                "size": 1677721600,
+                "SHA256": "6873c65fd01bdb5ce63ee6ebc47cd8c6f686460ed7e417e28765b6473441a7f9",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-thirteen/PixelOS_gauguin-13.0-20230220-0831.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-13.0-20230220-0831.zip.part1",
+                "size": 518313537,
+                "SHA256": "c97c02dcddb810bdf094411098e5737e576bcfa94cf2de3401c255fdec06451e",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-thirteen/PixelOS_gauguin-13.0-20230220-0831.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_gauguin-12.1-20220612-0414.zip",
+        "size": 2062428551,
+        "SHA256": "caf82f7b1244437ebc46bc6bc984579533ae123ce49fb6cb7cfbfb8ebf06d939",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/gauguin/PixelOS_gauguin-12.1-20220612-0414.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-twelve/PixelOS_gauguin-12.1-20220612-0414.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-12.1-20220612-0414.zip.part0",
+                "size": 1677721600,
+                "SHA256": "f9839bab1dbabb79490576ea700013c91cff726838ea9721d42009675ebb52cb",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-twelve/PixelOS_gauguin-12.1-20220612-0414.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-12.1-20220612-0414.zip.part1",
+                "size": 384706951,
+                "SHA256": "ae3780c14a238fd39202f6e4768efe3f58fbc2478a82457f7379311421fff547",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-twelve/PixelOS_gauguin-12.1-20220612-0414.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_gauguin-13.0-20221119-0354.zip",
+        "size": 2221156640,
+        "SHA256": "a895cdd203a59ad0fd29634e044052d0a08bca60550f732571d140cbf71379e7",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/gauguin/PixelOS_gauguin-13.0-20221119-0354.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-thirteen/PixelOS_gauguin-13.0-20221119-0354.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-13.0-20221119-0354.zip.part0",
+                "size": 1677721600,
+                "SHA256": "fc948396719ec2d2ee0ea19e7003a771c0f7f77b1ec927623d9f77d5b26cf678",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-thirteen/PixelOS_gauguin-13.0-20221119-0354.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-13.0-20221119-0354.zip.part1",
+                "size": 543435040,
+                "SHA256": "d6e6c27cc34eb764fc62f635597bfde51d47dfbe90014adcf186e61364503eab",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-thirteen/PixelOS_gauguin-13.0-20221119-0354.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_gauguin-13.0-20230909-0902.zip",
+        "size": 2021414591,
+        "SHA256": "0bd05d1c3a70491530d85a30f89a56be74bb55a21b067620c51c59c1ec454ca9",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/gauguin/PixelOS_gauguin-13.0-20230909-0902.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-thirteen/PixelOS_gauguin-13.0-20230909-0902.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_gauguin-13.0-20230805-1330.zip",
+        "size": 2092621523,
+        "SHA256": "105adbf233e6ebe70ec856e48709ac311458a854904976d90840284260bb2296",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/gauguin/PixelOS_gauguin-13.0-20230805-1330.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-thirteen/PixelOS_gauguin-13.0-20230805-1330.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-13.0-20230805-1330.zip.part0",
+                "size": 1677721600,
+                "SHA256": "b489cdb50aa4b344009d5f760d8d771b829ab51fc85069636c74db3d672fd7bf",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-thirteen/PixelOS_gauguin-13.0-20230805-1330.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-13.0-20230805-1330.zip.part1",
+                "size": 414899923,
+                "SHA256": "95c1fd8373051395b94f691a9a68ec52025dbb2e583435aa16a629c0bb2b9337",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-thirteen/PixelOS_gauguin-13.0-20230805-1330.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_gauguin-14.0-20231125-0401.zip",
+        "size": 2198731031,
+        "SHA256": "80ef9f4c24e29fc83f2dd86c0034fddf06144979605602ca7fcae1c8e8b16dc5",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/gauguin/PixelOS_gauguin-14.0-20231125-0401.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20231125-0401.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-14.0-20231125-0401.zip.part0",
+                "size": 1677721600,
+                "SHA256": "d2b20ec01a2fbcaad0667a7405ea39eacc7c3824dd583a6831c862c8518f492e",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20231125-0401.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-14.0-20231125-0401.zip.part1",
+                "size": 521009431,
+                "SHA256": "bc444491b55716b86d0b1c2dd8825796457a9d6430ebf8bf7fced07a9f1bd40b",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20231125-0401.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_garnet-16.0-20251120-1819.zip",
+        "size": 2617097248,
+        "SHA256": "d6b454e942bdc7ff2b5cd2b9b364778273ca5fb99053e20db52d68e2026e9869",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/garnet/PixelOS_garnet-16.0-20251120-1819.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/garnet-sixteen/PixelOS_garnet-16.0-20251120-1819.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_garnet-16.0-20251120-1819.zip.part0",
+                "size": 1677721600,
+                "SHA256": "0c8eef4ff947c5116754375fd5edb439adb5950beb3b263f76499a9eae734026",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/garnet-sixteen/PixelOS_garnet-16.0-20251120-1819.zip.part0"
+            },
+            {
+                "filename": "PixelOS_garnet-16.0-20251120-1819.zip.part1",
+                "size": 939375648,
+                "SHA256": "88fb981f80bda18bdbc5d35a7d18310a1d5bed40cc21dcacfbdd6eea74945568",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/garnet-sixteen/PixelOS_garnet-16.0-20251120-1819.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_gauguin-13.0-20231001-0352.zip",
+        "size": 2038603150,
+        "SHA256": "c5f294fbb0c6dd2d9254fa6bca951ae152a0ec1d655ea5b3141b7c8ecded5731",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/gauguin/PixelOS_gauguin-13.0-20231001-0352.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-thirteen/PixelOS_gauguin-13.0-20231001-0352.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_gauguin-13.0-20230221-1006.zip",
+        "size": 2195746500,
+        "SHA256": "94004f269da3f51c05d282f71a157614aa657cbaa789117c1676a132e037f45e",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/gauguin/PixelOS_gauguin-13.0-20230221-1006.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-thirteen/PixelOS_gauguin-13.0-20230221-1006.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-13.0-20230221-1006.zip.part0",
+                "size": 1677721600,
+                "SHA256": "49bba9710ff1da4ee065abde4df3bccd8b5e15712808968eeb1512c3355409fd",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-thirteen/PixelOS_gauguin-13.0-20230221-1006.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-13.0-20230221-1006.zip.part1",
+                "size": 518024900,
+                "SHA256": "7143513b96cc47720f29c37a2a5ae9043b30663bbe4c2a7ef6aec7d2e04b2a40",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-thirteen/PixelOS_gauguin-13.0-20230221-1006.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_gauguin-14.0-20231206-1323.zip",
+        "size": 2210113866,
+        "SHA256": "bd5d908faa58406c678f5219cda7b2db0ce72b6cb39c786a241a98c609b89331",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/gauguin/PixelOS_gauguin-14.0-20231206-1323.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20231206-1323.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-14.0-20231206-1323.zip.part0",
+                "size": 1677721600,
+                "SHA256": "2f44262312d4d344455056c4afdf4ecb665e4c270edcf37d8809a67637ec5418",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20231206-1323.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-14.0-20231206-1323.zip.part1",
+                "size": 532392266,
+                "SHA256": "24143a5d753820e7aaf13513ee6a6ed5df9ad07f3567268d8242f4c50c49ad35",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20231206-1323.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_gauguin-14.0-20231112-1837.zip",
+        "size": 2182405772,
+        "SHA256": "0ad12668019bd65a671684c625c807c4aba0ce8ffba7dad8a610017e81dc1905",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/gauguin/PixelOS_gauguin-14.0-20231112-1837.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20231112-1837.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-14.0-20231112-1837.zip.part0",
+                "size": 1677721600,
+                "SHA256": "1a5ea9e66842d084ebc22cacc3c94f5b3de0c7065424f976061f956d2cc7d3ed",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20231112-1837.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-14.0-20231112-1837.zip.part1",
+                "size": 504684172,
+                "SHA256": "ca95fa3db5c8845d8dd482765d101f38b4685d999863d7db33b3e4cc38e90ec2",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20231112-1837.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_gauguin-14.0-20231206-1825.zip",
+        "size": 2208761920,
+        "SHA256": "d66a826dd7529e1bf1e0a6d07f04ca326772254f43b2edbaf3f4968569d28962",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/gauguin/PixelOS_gauguin-14.0-20231206-1825.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20231206-1825.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-14.0-20231206-1825.zip.part0",
+                "size": 1677721600,
+                "SHA256": "107f4449b06462c91e7be373e93541856ca59034c27d248dbd7f170c48c21fb2",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20231206-1825.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-14.0-20231206-1825.zip.part1",
+                "size": 531040320,
+                "SHA256": "2b33a004da1857fbaa3c1a45e6023d68d4aae381b5fb5494d3abdeb7b3df7ec6",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20231206-1825.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_gauguin-14.0-20240511-1451.zip",
+        "size": 2204248232,
+        "SHA256": "db67c7de9651bdf7437591f2bbc95079449fcdcf574026758ef2fbb8400d0203",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/gauguin/PixelOS_gauguin-14.0-20240511-1451.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240511-1451.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-14.0-20240511-1451.zip.part0",
+                "size": 1677721600,
+                "SHA256": "724ad2b534ca569c035606ccfb594723d08829e04f6aaca676bee9f64b02b0c8",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240511-1451.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-14.0-20240511-1451.zip.part1",
+                "size": 526526632,
+                "SHA256": "751c0644483f36c5a38b617b4de7cfa8f5b48bd7c559e8c339aaca0e968c9130",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240511-1451.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_gauguin-14.0-20231223-1126.zip",
+        "size": 2329840526,
+        "SHA256": "eeec8cbb8953417c4102a19c5d1355836502fee550fea4833383930d92087d18",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/gauguin/PixelOS_gauguin-14.0-20231223-1126.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20231223-1126.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-14.0-20231223-1126.zip.part0",
+                "size": 1677721600,
+                "SHA256": "ca06cbb9fe44ef2eb72a84d958b99f0500053cc41f2fefc57ade8b8ac27e0f00",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20231223-1126.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-14.0-20231223-1126.zip.part1",
+                "size": 652118926,
+                "SHA256": "485d2fadea5ed5db9a23b6166cd3680f8c9f6ecca20760e9827d91d63ed20c53",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20231223-1126.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_gauguin-14.0-20231231-1217.zip",
+        "size": 2332444952,
+        "SHA256": "ddfa7f7d9fd63ca9bb797c2ae90bc8c4ee8d6368ac281d2431123ece17ed0b38",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/gauguin/PixelOS_gauguin-14.0-20231231-1217.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20231231-1217.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-14.0-20231231-1217.zip.part0",
+                "size": 1677721600,
+                "SHA256": "ffebd6c90890b57de7b9e6996de4264e83bc0d2c3cba43e07ed68ee8221a4ca6",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20231231-1217.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-14.0-20231231-1217.zip.part1",
+                "size": 654723352,
+                "SHA256": "fd17b3640b7fba4024178778c980318ec9f8a632ecff50042ad10c7505bc4b33",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20231231-1217.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_gauguin-14.0-20240125-1329.zip",
+        "size": 2330413976,
+        "SHA256": "4c8b65549a6dc4ad48870c18c7a31284335215a2614bdd4cc079d034994e5612",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/gauguin/PixelOS_gauguin-14.0-20240125-1329.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240125-1329.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-14.0-20240125-1329.zip.part0",
+                "size": 1677721600,
+                "SHA256": "de089aefbe9d2f984c8e3787877039c2a7bb44631aee27914ef81bbb5a2cff0f",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240125-1329.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-14.0-20240125-1329.zip.part1",
+                "size": 652692376,
+                "SHA256": "a402caa435866b729e429677e334f7c5d62ae1f40620280adb9713dc1978849f",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240125-1329.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_gauguin-14.0-20240125-1908.zip",
+        "size": 2330839849,
+        "SHA256": "bb7faed50034b7ecf93d1fdef52d8b49419b45042c9c0260a98208a0707c14bc",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/gauguin/PixelOS_gauguin-14.0-20240125-1908.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240125-1908.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-14.0-20240125-1908.zip.part0",
+                "size": 1677721600,
+                "SHA256": "0b11bd07a5fe5945c6140b23034a6013d980ddc2461b58fdea2123015826e0c1",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240125-1908.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-14.0-20240125-1908.zip.part1",
+                "size": 653118249,
+                "SHA256": "dcd27ddde3bc88000b727ad06902c13ca52692cd12b50f9bab02fcd37ef218ff",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240125-1908.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_gauguin-14.0-20240101-1833.zip",
+        "size": 2333011813,
+        "SHA256": "d132a8529975c31fc63c9e0b5a78c7e41279247a859e818f30af0676dc655e9c",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/gauguin/PixelOS_gauguin-14.0-20240101-1833.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240101-1833.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-14.0-20240101-1833.zip.part0",
+                "size": 1677721600,
+                "SHA256": "c35e64e15b8b1391091587d8b1ae5e0de95fc530ee4b8e36836d2ab77edda955",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240101-1833.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-14.0-20240101-1833.zip.part1",
+                "size": 655290213,
+                "SHA256": "f240965dbc831f282f5a0b4646ff9828e07f7a8bde2b00979023e5afb69ed7b8",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240101-1833.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_gauguin-14.0-20240302-0543.zip",
+        "size": 2191067020,
+        "SHA256": "7d37a870a37f7d6ec7f1d088e0d0001a12e09568cda8438ef7822f7175848502",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/gauguin/PixelOS_gauguin-14.0-20240302-0543.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240302-0543.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-14.0-20240302-0543.zip.part0",
+                "size": 1677721600,
+                "SHA256": "b104d3e1cff808d81f5f6854ce9296ada296e7e0a81e4afee5b178b86f07162c",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240302-0543.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-14.0-20240302-0543.zip.part1",
+                "size": 513345420,
+                "SHA256": "546b830554c78b41fdbd6c6f6b3887cbf921e2157e1350a0c479016c8a5799af",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240302-0543.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_gauguin-14.0-20240723-1758.zip",
+        "size": 2476722729,
+        "SHA256": "e9e59fb37f1472ac9d357f2cb2832e1816e57e5914c5d6d65122a87baa81b043",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/gauguin/PixelOS_gauguin-14.0-20240723-1758.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240723-1758.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-14.0-20240723-1758.zip.part0",
+                "size": 1677721600,
+                "SHA256": "1edc6f3b60a9fe02aef9e1d67c0f8aa2b5be8c71e20b704804874bd0e384bf90",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240723-1758.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-14.0-20240723-1758.zip.part1",
+                "size": 799001129,
+                "SHA256": "d7eeae079f2a0cb957644cdc223d573850d038edc665ff22bbe43079e8c21d98",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240723-1758.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_ginkgo-12.0-20220115-1025.zip",
+        "size": 1587006192,
+        "SHA256": "250b3a67329ff730cfe762d87afa672a26180d294c23479d3be3f5e4ca073ebf",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/ginkgo/PixelOS_ginkgo-12.0-20220115-1025.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/ginkgo-twelve/PixelOS_ginkgo-12.0-20220115-1025.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_gauguin-14.0-20240607-0514.zip",
+        "size": 2200316862,
+        "SHA256": "7edafd0fe820d40c8e8e4422c379c1b4335be8295ffcafb1e7d128cec3a9528b",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/gauguin/PixelOS_gauguin-14.0-20240607-0514.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240607-0514.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-14.0-20240607-0514.zip.part0",
+                "size": 1677721600,
+                "SHA256": "193bd7b2968025fdf579f3e39c868ef80bc258ee1a5948f15eed8768f36019bf",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240607-0514.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-14.0-20240607-0514.zip.part1",
+                "size": 522595262,
+                "SHA256": "db7313b7b314e010edae1ac0e61c1ad945996470cf9b5584017327541e0b2b7b",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240607-0514.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_ginkgo-12.0-20220101-1205.zip",
+        "size": 1587065567,
+        "SHA256": "83902ed0431679f9b93617f9e6f3396083f3184349e211f3c6504ad625eee457",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/ginkgo/PixelOS_ginkgo-12.0-20220101-1205.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/ginkgo-twelve/PixelOS_ginkgo-12.0-20220101-1205.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_ginkgo-12.0-20220312-0616.zip",
+        "size": 1663555678,
+        "SHA256": "bfc6e6d67a08ea5bca147f344c5aa3827edc10f32047a31263483d4f7d915068",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/ginkgo/PixelOS_ginkgo-12.0-20220312-0616.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/ginkgo-twelve/PixelOS_ginkgo-12.0-20220312-0616.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_gauguin-14.0-20240422-1508.zip",
+        "size": 2150451422,
+        "SHA256": "370681e5c8333232598c349034bd9fe27fa50a1c13701c72df1f7bc0b6ed910c",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/gauguin/PixelOS_gauguin-14.0-20240422-1508.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240422-1508.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-14.0-20240422-1508.zip.part0",
+                "size": 1677721600,
+                "SHA256": "1dc0944d697071711fc5e80bff4dfc7667eda3081ae49f70567b73368d3e4df8",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240422-1508.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-14.0-20240422-1508.zip.part1",
+                "size": 472729822,
+                "SHA256": "7edaa14d365106e3997c27346e7b2a5069db8ff4524b7e83b53b4885de02d6fb",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240422-1508.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_ginkgo-12.0-20220211-1750.zip",
+        "size": 1598155731,
+        "SHA256": "af895fc5431a823be5e80288b7de47c04529090417f5d706b0698bd94188db89",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/ginkgo/PixelOS_ginkgo-12.0-20220211-1750.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/ginkgo-twelve/PixelOS_ginkgo-12.0-20220211-1750.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_gauguin-14.0-20240531-0852.zip",
+        "size": 2201421948,
+        "SHA256": "538c099a9bf8568dffdbcfc02d2dc7b4c7bdb3daea4fe83a89d13cf091965fc2",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/gauguin/PixelOS_gauguin-14.0-20240531-0852.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240531-0852.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-14.0-20240531-0852.zip.part0",
+                "size": 1677721600,
+                "SHA256": "d7088b5c469f0ebbefe20942964444e13748648e5056f66d02d7eba78d97567d",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240531-0852.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-14.0-20240531-0852.zip.part1",
+                "size": 523700348,
+                "SHA256": "2472c1d8db271879c0c61bdd853fa540ec85f542cf84429656dff48410dcbf76",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240531-0852.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_ginkgo-12.1-20220409-1108.zip",
+        "size": 1693947175,
+        "SHA256": "69ac9327a1c94c0668412c1123c95906f90ce1e137101e5212775710f5790b97",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/ginkgo/PixelOS_ginkgo-12.1-20220409-1108.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/ginkgo-twelve/PixelOS_ginkgo-12.1-20220409-1108.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_ginkgo-12.1-20220402-2051.zip",
+        "size": 1700479070,
+        "SHA256": "5be2f62410b8090096b3eb53659a82aeed3407cfd7172b3301ceed0a0ec8a4e9",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/ginkgo/PixelOS_ginkgo-12.1-20220402-2051.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/ginkgo-twelve/PixelOS_ginkgo-12.1-20220402-2051.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_gauguin-14.0-20240214-1805.zip",
+        "size": 2190608654,
+        "SHA256": "9a9ade289148f11f2a38ec4f06c2b778cfd17f665b61c037758f9bb205bf0d3f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/gauguin/PixelOS_gauguin-14.0-20240214-1805.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240214-1805.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-14.0-20240214-1805.zip.part0",
+                "size": 1677721600,
+                "SHA256": "bc5212c5e58d408d0e06ff3f897af12b3b9752fd641b4618e10a4e09b6d1ae9a",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240214-1805.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-14.0-20240214-1805.zip.part1",
+                "size": 512887054,
+                "SHA256": "159a7fc8461bdf5e896dac8ab827811837650d7a2b9bafa7f141cbe1f72aed27",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240214-1805.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_ginkgo-12.1-20220426-1121.zip",
+        "size": 1693911395,
+        "SHA256": "860f7f4a898a3de46319259c201ba1abcb2d9c5664de4fb35ba342f75db1abc0",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/ginkgo/PixelOS_ginkgo-12.1-20220426-1121.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/ginkgo-twelve/PixelOS_ginkgo-12.1-20220426-1121.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_ginkgo-12.1-20220506-0349.zip",
+        "size": 1708041892,
+        "SHA256": "53470ea00b94e7fbd3046558035dc1c210947acf1d6e4ae407d999b2a2154fe0",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/ginkgo/PixelOS_ginkgo-12.1-20220506-0349.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/ginkgo-twelve/PixelOS_ginkgo-12.1-20220506-0349.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_ginkgo-12.1-20220505-1557.zip",
+        "size": 1707717629,
+        "SHA256": "5756ad4b7c55d6ecd135347e057ce0fdaeda51067b661a96e59286283fd3023c",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/ginkgo/PixelOS_ginkgo-12.1-20220505-1557.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/ginkgo-twelve/PixelOS_ginkgo-12.1-20220505-1557.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_gauguin-14.0-20240529-0232.zip",
+        "size": 2203945855,
+        "SHA256": "45bedaf4969fbefb4489e54a26ebe59d7db5e1541f2367dfaca09b3b428de93c",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/gauguin/PixelOS_gauguin-14.0-20240529-0232.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240529-0232.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-14.0-20240529-0232.zip.part0",
+                "size": 1677721600,
+                "SHA256": "09d9de3ef086dfacb3d6a9abea9eddfd337857b1bd9c2b8845851e4c856410d2",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240529-0232.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-14.0-20240529-0232.zip.part1",
+                "size": 526224255,
+                "SHA256": "682067cdd8465e50c51cdb38591cf66d93823769c26c404712cbddd2686dad9a",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240529-0232.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_gauguin-14.0-20240620-0547.zip",
+        "size": 2201438713,
+        "SHA256": "f995c8abebeaee1e819bfcba4992871e261f48113b3989950d8511fa4797f01f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/gauguin/PixelOS_gauguin-14.0-20240620-0547.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240620-0547.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-14.0-20240620-0547.zip.part0",
+                "size": 1677721600,
+                "SHA256": "0fbade356573977e36128300d6b13a40215417d8174daf14db77630dbeb5bfa9",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240620-0547.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-14.0-20240620-0547.zip.part1",
+                "size": 523717113,
+                "SHA256": "c2ed0e69afca704919332431e2f3f9f79d80f552921e6c99f43c1e88ace85126",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240620-0547.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_ginkgo-12.1-20220618-0548.zip",
+        "size": 1711490970,
+        "SHA256": "5d653c42151b8d8be4170c4237b6a9ffd6b405c19cdee624aed9316627422b5c",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/ginkgo/PixelOS_ginkgo-12.1-20220618-0548.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/ginkgo-twelve/PixelOS_ginkgo-12.1-20220618-0548.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_ginkgo-12.1-20220610-0144.zip",
+        "size": 1711600029,
+        "SHA256": "083d4f9ea39d9b1061569c581b678ab173b6bdb7753df838f37f4b60f098f0d3",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/ginkgo/PixelOS_ginkgo-12.1-20220610-0144.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/ginkgo-twelve/PixelOS_ginkgo-12.1-20220610-0144.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_ginkgo-12.1-20220708-0913.zip",
+        "size": 1736769251,
+        "SHA256": "b1eb751df889d9e5e24f7cc807ea24be7a6b7ee5284df7c3b0c69c8af96ce2fb",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/ginkgo/PixelOS_ginkgo-12.1-20220708-0913.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/ginkgo-twelve/PixelOS_ginkgo-12.1-20220708-0913.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_ginkgo-12.1-20220609-0638.zip",
+        "size": 1711916622,
+        "SHA256": "fa0d432a8374f37b8b2c818ed9ad00ee2fcf6c76d425e35cf69bc1fce5051fc1",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/ginkgo/PixelOS_ginkgo-12.1-20220609-0638.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/ginkgo-twelve/PixelOS_ginkgo-12.1-20220609-0638.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_ginkgo-12.1-20220812-1350.zip",
+        "size": 1715951887,
+        "SHA256": "18e9bc9bc478e1cf565ed67da16c37ee48ae7c33fb7a7ae41d894e18ce4b1135",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/ginkgo/PixelOS_ginkgo-12.1-20220812-1350.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/ginkgo-twelve/PixelOS_ginkgo-12.1-20220812-1350.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_ginkgo-13.0-20220401-1728.zip",
+        "size": 1700474790,
+        "SHA256": "536488e6746f279af4dcc3c5d8cf93783344d875edc93fb31823de20128ca64b",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/ginkgo/PixelOS_ginkgo-13.0-20220401-1728.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/ginkgo-twelve/PixelOS_ginkgo-13.0-20220401-1728.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_gauguin-14.0-20241017-1357.zip",
+        "size": 2320328519,
+        "SHA256": "c85b6a0382fc581ebaac2a1589f062ac6ba0cf29109b12da249dac35b0689733",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/gauguin/PixelOS_gauguin-14.0-20241017-1357.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20241017-1357.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-14.0-20241017-1357.zip.part0",
+                "size": 1677721600,
+                "SHA256": "514595335db6ef102a7c1a48ef4b81f8d38cc8a82a3144f7467ec7431f6ec07c",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20241017-1357.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-14.0-20241017-1357.zip.part1",
+                "size": 642606919,
+                "SHA256": "9261b7abd68f204f2e2b60c8b10b04d296e58a85fed08f95a35639573a3d3ace",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20241017-1357.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_ginkgo-13.0-20230122-0553.zip",
+        "size": 1696936382,
+        "SHA256": "0e637218871c5e57075cccd2be463450ee6c26587eab27133e773f9d7031a615",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/ginkgo/PixelOS_ginkgo-13.0-20230122-0553.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/ginkgo-thirteen/PixelOS_ginkgo-13.0-20230122-0553.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_gauguin-14.0-20240922-1550.zip",
+        "size": 2324849790,
+        "SHA256": "abe434ebdb482eef31178e97262df12931e0b94d72ee2b1c8d7be5169032068f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/gauguin/PixelOS_gauguin-14.0-20240922-1550.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240922-1550.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-14.0-20240922-1550.zip.part0",
+                "size": 1677721600,
+                "SHA256": "ac6d7696c19bfc11b59b42d0810c451a2402f6089cd44adda2b32e804050a38b",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240922-1550.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-14.0-20240922-1550.zip.part1",
+                "size": 647128190,
+                "SHA256": "cca7b40652fe5009f989b1b98514068d042db2eb0bb24ffa435b444c9cf700ad",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240922-1550.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_ginkgo-13.0-20220911-1631.zip",
+        "size": 1775571219,
+        "SHA256": "faa691d12cc63a04c2fe57975372bdc250936782a09e22f1d9cd9223c1f6db06",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/ginkgo/PixelOS_ginkgo-13.0-20220911-1631.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/ginkgo-thirteen/PixelOS_ginkgo-13.0-20220911-1631.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_ginkgo-13.0-20230509-0250.zip",
+        "size": 1698590313,
+        "SHA256": "9d9e1f26f6593be2179acdec131c0a13266089dab98c7d7af2299870b4f68499",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/ginkgo/PixelOS_ginkgo-13.0-20230509-0250.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/ginkgo-thirteen/PixelOS_ginkgo-13.0-20230509-0250.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_ginkgo-13.0-20230414-0632.zip",
+        "size": 1715154557,
+        "SHA256": "7c724f7cd3913d1e2857820db4a79d76818df63f4a553ca8dddcfdd11c29b0c1",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/ginkgo/PixelOS_ginkgo-13.0-20230414-0632.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/ginkgo-thirteen/PixelOS_ginkgo-13.0-20230414-0632.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_ginkgo-13.0-20221024-1403.zip",
+        "size": 1746343290,
+        "SHA256": "d621e1cd797f0aa22463a4584ed7b2b788bba9b285a7ed61a8b4642d69ec5980",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/ginkgo/PixelOS_ginkgo-13.0-20221024-1403.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/ginkgo-thirteen/PixelOS_ginkgo-13.0-20221024-1403.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_gauguin-14.0-20240802-1723.zip",
+        "size": 2476605192,
+        "SHA256": "09e81c13377f1c674b3e5f63c9e270f78fb40e08d28239f8c4446b0712699e3d",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/gauguin/PixelOS_gauguin-14.0-20240802-1723.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240802-1723.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-14.0-20240802-1723.zip.part0",
+                "size": 1677721600,
+                "SHA256": "a56a766064d7136fcbd02dd6a3f1978fae1d7d6d15a098ccc5ef4685cc0f446d",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240802-1723.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-14.0-20240802-1723.zip.part1",
+                "size": 798883592,
+                "SHA256": "124db0192c1fb51f83b710e451c7a5350e7a820af811f104bfe588a132e84196",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_gauguin-14.0-20240802-1723.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_ginkgo-13.0-20230705-0510.zip",
+        "size": 1734289575,
+        "SHA256": "9880e56b73f2f3e5d1f4d10ba93f2399b916d57e1c989f8b5caf57ee88a70153",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/ginkgo/PixelOS_ginkgo-13.0-20230705-0510.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/ginkgo-thirteen/PixelOS_ginkgo-13.0-20230705-0510.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_ginkgo-13.0-20230215-0423.zip",
+        "size": 1699655170,
+        "SHA256": "64d9e876001cd69c2a3fa73c90c4e6050d813ed1123e08f952d9054c38402ef5",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/ginkgo/PixelOS_ginkgo-13.0-20230215-0423.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/ginkgo-thirteen/PixelOS_ginkgo-13.0-20230215-0423.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_ginkgo-13.0-20230707-1013.zip",
+        "size": 1745557250,
+        "SHA256": "ff22efd62eaaa591098c9d5b5baa089d4a80be88c5de47f4d1a1e2d4d9fa1810",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/ginkgo/PixelOS_ginkgo-13.0-20230707-1013.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/ginkgo-thirteen/PixelOS_ginkgo-13.0-20230707-1013.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_ginkgo-13.0-20230709-1013.zip",
+        "size": 1749518101,
+        "SHA256": "3f8dcdd4c5f5aa4102ab7217bded58c8339a3b33aa93fd4b6da49b8f7ef90828",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/ginkgo/PixelOS_ginkgo-13.0-20230709-1013.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/ginkgo-thirteen/PixelOS_ginkgo-13.0-20230709-1013.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_ginkgo-14.0-20231225-2001.zip",
+        "size": 1903037805,
+        "SHA256": "b15c169f0ee0ea105888471d338e1f44f843e5ad535b1a7e2dbb3add3b5f333b",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/ginkgo/PixelOS_ginkgo-14.0-20231225-2001.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/ginkgo-fourteen/PixelOS_ginkgo-14.0-20231225-2001.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_ginkgo-14.0-20240125-2012.zip",
+        "size": 1907932700,
+        "SHA256": "a75a5a97ca917acae0c3a15a873763c7382c10179d2f0ef062d4969445474f9d",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/ginkgo/PixelOS_ginkgo-14.0-20240125-2012.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/ginkgo-fourteen/PixelOS_ginkgo-14.0-20240125-2012.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_gauguin-15.0-20241212-1340.zip",
+        "size": 2350713059,
+        "SHA256": "9c12bcd0d41401152eddb876032ac9a548bf3ad65f9ed93543d96332d007a911",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/gauguin/PixelOS_gauguin-15.0-20241212-1340.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fifteen/PixelOS_gauguin-15.0-20241212-1340.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-15.0-20241212-1340.zip.part0",
+                "size": 1677721600,
+                "SHA256": "256b330ac0028e4ab4302f45938c374d0707937c00f0ef7c09eede462f946ed8",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fifteen/PixelOS_gauguin-15.0-20241212-1340.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-15.0-20241212-1340.zip.part1",
+                "size": 672991459,
+                "SHA256": "997fb206466863d268d0825a86bb994adb512219c18fffc0ec389ffe15b5c418",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fifteen/PixelOS_gauguin-15.0-20241212-1340.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_ginkgo-14.0-20240220-1356.zip",
+        "size": 1868310384,
+        "SHA256": "445fb0bbd0fb83e858f912285bd76f0876c046a7357d1dbcd97bf24fd340d34f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/ginkgo/PixelOS_ginkgo-14.0-20240220-1356.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/ginkgo-fourteen/PixelOS_ginkgo-14.0-20240220-1356.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_gauguin-15.0-20250216-0840.zip",
+        "size": 2369484297,
+        "SHA256": "87892927a9d3d832830346dba58b16fed279a4738a702ed79bd4edb2bee2987d",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/gauguin/PixelOS_gauguin-15.0-20250216-0840.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fifteen/PixelOS_gauguin-15.0-20250216-0840.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-15.0-20250216-0840.zip.part0",
+                "size": 1677721600,
+                "SHA256": "91c318f5eb9e2ed74f74831a9ac393f74132b4b106791674e9365a3d57bac286",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fifteen/PixelOS_gauguin-15.0-20250216-0840.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-15.0-20250216-0840.zip.part1",
+                "size": 691762697,
+                "SHA256": "955c71233d61eda291a0133fc7c61cbeab848c2d11d0c772c1e9dae439b9ecb7",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fifteen/PixelOS_gauguin-15.0-20250216-0840.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_ginkgo-14.0-20240116-2321.zip",
+        "size": 1908181418,
+        "SHA256": "fecded868b6d9ee2d25ba7e9ca5f65744f31b3e64299e7587bdd534791452634",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/ginkgo/PixelOS_ginkgo-14.0-20240116-2321.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/ginkgo-fourteen/PixelOS_ginkgo-14.0-20240116-2321.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_ginkgo-14.0-20240429-0746.zip",
+        "size": 1832352133,
+        "SHA256": "786f309611ad90165e4e7739a7857fdb4beb390e1154d20eaf6105532737104c",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/ginkgo/PixelOS_ginkgo-14.0-20240429-0746.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/ginkgo-fourteen/PixelOS_ginkgo-14.0-20240429-0746.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_guamp-14.0-20240530-0837.zip",
+        "size": 1608197377,
+        "SHA256": "125097bdfa755c06cb65edd06a1b75cb1e376aab8ccd347106bbb493bd002082",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/guamp/PixelOS_guamp-14.0-20240530-0837.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/guamp-fourteen/PixelOS_guamp-14.0-20240530-0837.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_gauguin-15.0-20250218-1700.zip",
+        "size": 2365699384,
+        "SHA256": "dbb0d11e2927f4b39ebb92904255a616bfc8a64676dc97b5ad6e2f1ae733f223",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/gauguin/PixelOS_gauguin-15.0-20250218-1700.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fifteen/PixelOS_gauguin-15.0-20250218-1700.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-15.0-20250218-1700.zip.part0",
+                "size": 1677721600,
+                "SHA256": "1df82c2a27fa657f93c032f96664e7dd90c70a459286dd2aaa2e332b421348c7",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fifteen/PixelOS_gauguin-15.0-20250218-1700.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-15.0-20250218-1700.zip.part1",
+                "size": 687977784,
+                "SHA256": "e977ab5c232de5f96f5176a7c42d87cc661f5193c512c2d93ce5cecd1e0050d2",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fifteen/PixelOS_gauguin-15.0-20250218-1700.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_gauguin-15.0-20250506-1448.zip",
+        "size": 2419975199,
+        "SHA256": "dce3e5dc705ab1a95c3a22b5ec6296a50f77bd9f1ab4980f92c7d42e30a5cee5",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/gauguin/PixelOS_gauguin-15.0-20250506-1448.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fifteen/PixelOS_gauguin-15.0-20250506-1448.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-15.0-20250506-1448.zip.part0",
+                "size": 1677721600,
+                "SHA256": "60c1355246e56adae5493a3e0aaf6c6d52368d436600fd85859030d1bf6ee468",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fifteen/PixelOS_gauguin-15.0-20250506-1448.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-15.0-20250506-1448.zip.part1",
+                "size": 742253599,
+                "SHA256": "ef83ed8e9f4826e1123975e7f3060de90c630df44a66f96d8f9ea4854fba5f6c",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fifteen/PixelOS_gauguin-15.0-20250506-1448.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_gauguin-15.0-20250117-1907.zip",
+        "size": 2364283926,
+        "SHA256": "9109ab15f652eaf2e56f3b8bb06304deda0b470abee1ba290cbcef8378f8fe27",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/gauguin/PixelOS_gauguin-15.0-20250117-1907.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fifteen/PixelOS_gauguin-15.0-20250117-1907.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-15.0-20250117-1907.zip.part0",
+                "size": 1677721600,
+                "SHA256": "191e76570927da1d3c03eccf40aad10b1acc46ce9095cc61a414f3e81c41f491",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fifteen/PixelOS_gauguin-15.0-20250117-1907.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-15.0-20250117-1907.zip.part1",
+                "size": 686562326,
+                "SHA256": "d0c07a07215cf25f2f9f057b534256b708c05234c0f39a05eb82d1615488e4fe",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fifteen/PixelOS_gauguin-15.0-20250117-1907.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_ginkgo-14.0-20240528-0217.zip",
+        "size": 1881266280,
+        "SHA256": "cc53066a2629945d0aff61c2a27420051bd97b9b7a38357b4831d512a5aea038",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/ginkgo/PixelOS_ginkgo-14.0-20240528-0217.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/ginkgo-fourteen/PixelOS_ginkgo-14.0-20240528-0217.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_gauguin-15.0-20250331-2202.zip",
+        "size": 2419405909,
+        "SHA256": "f7eeef547ed1c1866e1649179c252ec867757005be31c89808aa4f41e677b68e",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/gauguin/PixelOS_gauguin-15.0-20250331-2202.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fifteen/PixelOS_gauguin-15.0-20250331-2202.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-15.0-20250331-2202.zip.part0",
+                "size": 1677721600,
+                "SHA256": "2d67b96fcab30aca0d1486ec04b80aa54795399089140d657712a15fd8f3101b",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fifteen/PixelOS_gauguin-15.0-20250331-2202.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-15.0-20250331-2202.zip.part1",
+                "size": 741684309,
+                "SHA256": "b1e79084ced66b968ee80382e2a6c4468d9bc729c6975ecbe2da7684918eef11",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fifteen/PixelOS_gauguin-15.0-20250331-2202.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_gauguin-15.0-20250422-1840.zip",
+        "size": 2419393881,
+        "SHA256": "d48ee22a7774a88e212a117b5929dc17f0a7fcb89c6df5084bf73dabb0fa2671",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/gauguin/PixelOS_gauguin-15.0-20250422-1840.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fifteen/PixelOS_gauguin-15.0-20250422-1840.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-15.0-20250422-1840.zip.part0",
+                "size": 1677721600,
+                "SHA256": "d3db60afe84411132c89149ceedf6a06b290600a31e80bfab405ea2f2d0a0ba8",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fifteen/PixelOS_gauguin-15.0-20250422-1840.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-15.0-20250422-1840.zip.part1",
+                "size": 741672281,
+                "SHA256": "07ee59f9f6192ce9fd4a12a345c0b901d89fce9fac95b9addb702834966687ba",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fifteen/PixelOS_gauguin-15.0-20250422-1840.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_gauguin-15.0-20250510-0741.zip",
+        "size": 2419912592,
+        "SHA256": "4bc914c358f7032f49235261472ff0eabe7671a8702424989a7820ce093f64aa",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/gauguin/PixelOS_gauguin-15.0-20250510-0741.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fifteen/PixelOS_gauguin-15.0-20250510-0741.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-15.0-20250510-0741.zip.part0",
+                "size": 1677721600,
+                "SHA256": "9e9c8d77353cff8062c804ac142c20b1e7095ad5d2acfdf2a4167e90200109fb",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fifteen/PixelOS_gauguin-15.0-20250510-0741.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-15.0-20250510-0741.zip.part1",
+                "size": 742190992,
+                "SHA256": "d64e7f39fa24147eb512919562117fd499f632ac57828c1ef36682de5004682c",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fifteen/PixelOS_gauguin-15.0-20250510-0741.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_grus-14.0-20240922-0247.zip",
+        "size": 2021148077,
+        "SHA256": "978312c4db5b3bf37c7f87200bc0751b98d510141d21a5864ecc4341139cc174",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/grus/PixelOS_grus-14.0-20240922-0247.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/grus-fourteen/PixelOS_grus-14.0-20240922-0247.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_guamp-14.0-20240628-1945.zip",
+        "size": 1832930438,
+        "SHA256": "089ceb8a8d33a9ea344632dd51472bae2272e316f6c85d92a77ab2005b20244b",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/guamp/PixelOS_guamp-14.0-20240628-1945.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/guamp-fourteen/PixelOS_guamp-14.0-20240628-1945.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_guamp-14.0-20240722-1800.zip",
+        "size": 1863768960,
+        "SHA256": "d1a19ac78e37188553ac6faad9a0ca05607aed0acacc1bf26fac75e084c6dbbf",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/guamp/PixelOS_guamp-14.0-20240722-1800.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/guamp-fourteen/PixelOS_guamp-14.0-20240722-1800.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_dubai-16.2-20260224-0107.zip",
+        "size": 2417013316,
+        "SHA256": "cd0e7b0b3a0e2df00f3127d84364ca919ac6deeefd12b892bd5832dd411aae47",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/dubai/PixelOS_dubai-16.2-20260224-0107.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/dubai-sixteen/PixelOS_dubai-16.2-20260224-0107.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_dubai-16.2-20260224-0107.zip.part0",
+                "size": 1677721600,
+                "SHA256": "07044656c7a06e81e05554dc1b599cb731a2c03b72809bd85cff457c7e2d3777",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/dubai-sixteen/PixelOS_dubai-16.2-20260224-0107.zip.part0"
+            },
+            {
+                "filename": "PixelOS_dubai-16.2-20260224-0107.zip.part1",
+                "size": 739291716,
+                "SHA256": "360d4c310dd360be972f1bea146abfcb19e7088788e1e1918c8baec8fd36e227",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/dubai-sixteen/PixelOS_dubai-16.2-20260224-0107.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_juice-12.1-20220507-1357.zip",
+        "size": 1491324916,
+        "SHA256": "268ae963f783c24ca1ceb4a453bfd328ef799ce12c56a3aec5e99cf15bb6ca3f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/juice/PixelOS_juice-12.1-20220507-1357.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/juice-twelve/PixelOS_juice-12.1-20220507-1357.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_garnet-16.1-20251214-0716.zip",
+        "size": 2684851902,
+        "SHA256": "067a6a76c14536e07c3df8ce5072dffd402c22e6303ab9e2363f8dbce26204b8",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/garnet/PixelOS_garnet-16.1-20251214-0716.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/garnet-sixteen/PixelOS_garnet-16.1-20251214-0716.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_garnet-16.1-20251214-0716.zip.part0",
+                "size": 1677721600,
+                "SHA256": "1834d3a644ed5f3e865f760e45cb154edfc8c046c6b26ab9c4f9a8012345910a",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/garnet-sixteen/PixelOS_garnet-16.1-20251214-0716.zip.part0"
+            },
+            {
+                "filename": "PixelOS_garnet-16.1-20251214-0716.zip.part1",
+                "size": 1007130302,
+                "SHA256": "f2cc2f5335e48c8adf940b8a653faa2d981a59c0b0afc980739d982c08fdd35c",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/garnet-sixteen/PixelOS_garnet-16.1-20251214-0716.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_hotdogg-12.1-20220728-1935.zip",
+        "size": 1845078301,
+        "SHA256": "6cc7b462b09957f52047a0ddf56e5c18039f714fba2c71cdf346615ee99e3baf",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/hotdogg/PixelOS_hotdogg-12.1-20220728-1935.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/hotdogg-twelve/PixelOS_hotdogg-12.1-20220728-1935.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_hotdog-12.1-20220817-1214.zip",
+        "size": 1851544047,
+        "SHA256": "60e65735f290dcb37dc615447ba4319b0273a122bce98e0bd158130cfafed74f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/hotdog/PixelOS_hotdog-12.1-20220817-1214.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/hotdog-twelve/PixelOS_hotdog-12.1-20220817-1214.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_juice-12.1-20220410-0752.zip",
+        "size": 1505917003,
+        "SHA256": "25aa1e45a6a7c958b42cb55750aa98aaf1e045d7f62649618b4dbf4fd4fcc96b",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/juice/PixelOS_juice-12.1-20220410-0752.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/juice-twelve/PixelOS_juice-12.1-20220410-0752.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_hotdog-12.1-20220728-2144.zip",
+        "size": 1851499729,
+        "SHA256": "71757045cd231c606a2bc26be516e183cbb62993872a238b41b904b3e06f3d8d",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/hotdog/PixelOS_hotdog-12.1-20220728-2144.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/hotdog-twelve/PixelOS_hotdog-12.1-20220728-2144.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_hotdogg-12.1-20220817-1259.zip",
+        "size": 1845130111,
+        "SHA256": "a38e8b2d98abcfed8c13f83240f3d4f398ff64376bad86a8f27a895ec82ca98d",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/hotdogg/PixelOS_hotdogg-12.1-20220817-1259.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/hotdogg-twelve/PixelOS_hotdogg-12.1-20220817-1259.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_juice-12.1-20220618-0507.zip",
+        "size": 1805230531,
+        "SHA256": "ca080055cb7587a9a64a13cd8d24d802aac4b77e833f166242ab4d0fc4bf9089",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/juice/PixelOS_juice-12.1-20220618-0507.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/juice-twelve/PixelOS_juice-12.1-20220618-0507.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_juice-12.1-20220708-1700.zip",
+        "size": 1813125529,
+        "SHA256": "85a6c5d288361fafc605a3a0ba26fc58d0371d19d2d14bac79c23f4ef31acb4b",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/juice/PixelOS_juice-12.1-20220708-1700.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/juice-twelve/PixelOS_juice-12.1-20220708-1700.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_hotdogg-12.1-20220814-1104.zip",
+        "size": 1845128607,
+        "SHA256": "822a4d7f54e3b09296f328f252bdae8a1e46afeaeceb90c6398fd186248b05d8",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/hotdogg/PixelOS_hotdogg-12.1-20220814-1104.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/hotdogg-twelve/PixelOS_hotdogg-12.1-20220814-1104.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_hotdog-12.1-20220814-1155.zip",
+        "size": 1851546147,
+        "SHA256": "eac9ebb66aa94d9b425cea96c121bfa1e2a3f34070e0615310fbed59c70135ac",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/hotdog/PixelOS_hotdog-12.1-20220814-1155.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/hotdog-twelve/PixelOS_hotdog-12.1-20220814-1155.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_juice-13.0-20220911-1916.zip",
+        "size": 1890076914,
+        "SHA256": "d73e356a8ea2fc4e5c9b0a7a7646135f9eba23937525e7f8784eca75846388dd",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/juice/PixelOS_juice-13.0-20220911-1916.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/juice-thirteen/PixelOS_juice-13.0-20220911-1916.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_juice-13.0-20220914-1020.zip",
+        "size": 1890042056,
+        "SHA256": "068d16431a5e34bc9476fd89963821671306e0fa126075ff6ca0e1a7879f824c",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/juice/PixelOS_juice-13.0-20220914-1020.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/juice-thirteen/PixelOS_juice-13.0-20220914-1020.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_juice-12.1-20220813-1129.zip",
+        "size": 1823091630,
+        "SHA256": "a7a966ccd4544777a78128c246e2e34c0ff9eded51da89afeae7894d09d71da9",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/juice/PixelOS_juice-12.1-20220813-1129.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/juice-twelve/PixelOS_juice-12.1-20220813-1129.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_juice-13.0-20221021-0311.zip",
+        "size": 1879487999,
+        "SHA256": "31db031bb9a89efbaada4c4286d404faf81d11e41c0b4482bfc9fcf21eb5363f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/juice/PixelOS_juice-13.0-20221021-0311.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/juice-thirteen/PixelOS_juice-13.0-20221021-0311.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_garnet-16.2-20260301-1316.zip",
+        "size": 2719330322,
+        "SHA256": "2d2d53f45fc5ed01fb7b28a8de52cb9af27752b6134ab1f2ff26669ce2ad1753",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/garnet/PixelOS_garnet-16.2-20260301-1316.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/garnet-sixteen/PixelOS_garnet-16.2-20260301-1316.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_garnet-16.2-20260301-1316.zip.part0",
+                "size": 1677721600,
+                "SHA256": "cd645888126687ac73e59227f156c4c5deee0c05b831781d5c8c582ba3d913bf",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/garnet-sixteen/PixelOS_garnet-16.2-20260301-1316.zip.part0"
+            },
+            {
+                "filename": "PixelOS_garnet-16.2-20260301-1316.zip.part1",
+                "size": 1041608722,
+                "SHA256": "f89f1043652c4775b43cc0544b3eb40fb2a3a6b73615c6701a485d3933265fc0",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/garnet-sixteen/PixelOS_garnet-16.2-20260301-1316.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_dubai-16.1-20260131-1323.zip",
+        "size": 2386978629,
+        "SHA256": "a4bdf447422fe625ae92721df46da7ee2066d3d8c30cd5a9cf28eacc0f719b49",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/dubai/PixelOS_dubai-16.1-20260131-1323.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/dubai-sixteen/PixelOS_dubai-16.1-20260131-1323.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_dubai-16.1-20260131-1323.zip.part0",
+                "size": 1677721600,
+                "SHA256": "561059abbb249318be9c0bbde65296622fdb60f94474b9398827f916cdb41c23",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/dubai-sixteen/PixelOS_dubai-16.1-20260131-1323.zip.part0"
+            },
+            {
+                "filename": "PixelOS_dubai-16.1-20260131-1323.zip.part1",
+                "size": 709257029,
+                "SHA256": "bb1385d086e89d7755949802d7243ed49b60547e5090aad3911fc19f6f70a6a1",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/dubai-sixteen/PixelOS_dubai-16.1-20260131-1323.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_gauguin-16.2-20260224-0253.zip",
+        "size": 2654159190,
+        "SHA256": "0df8e3003b73fcbb4af2ec61d298e68b1d826defc0e9065e63f2b0c29d985d2c",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/gauguin/PixelOS_gauguin-16.2-20260224-0253.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-sixteen/PixelOS_gauguin-16.2-20260224-0253.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-16.2-20260224-0253.zip.part0",
+                "size": 1677721600,
+                "SHA256": "05da5e277462ce924abc60795864ebde09399fa417cb969930bae8641946333d",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-sixteen/PixelOS_gauguin-16.2-20260224-0253.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-16.2-20260224-0253.zip.part1",
+                "size": 976437590,
+                "SHA256": "d220cf7c773b693a32a60560421f83cb565ddd18eec407081f999224a7ef0ec7",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-sixteen/PixelOS_gauguin-16.2-20260224-0253.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_ginkgo-14.0-20240511-0453.zip",
+        "size": 1880213742,
+        "SHA256": "85a44deb9c63c4bdaf1a18d2c66342512e3c35a1bf6ac2daf694034f04d1dd0a",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/ginkgo/PixelOS_ginkgo-14.0-20240511-0453.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/ginkgo-fourteen/PixelOS_ginkgo-14.0-20240511-0453.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_gauguin-16.1-20251213-1617.zip",
+        "size": 2619389900,
+        "SHA256": "0fbe16aa4bdc0433944b7f01970c651a83edd4eabf0613347df84563e469907f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/gauguin/PixelOS_gauguin-16.1-20251213-1617.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-sixteen/PixelOS_gauguin-16.1-20251213-1617.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-16.1-20251213-1617.zip.part0",
+                "size": 1677721600,
+                "SHA256": "cbc80492d749989ce19067b0ec4c6ca4847c3562b2980379137534605647543b",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-sixteen/PixelOS_gauguin-16.1-20251213-1617.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-16.1-20251213-1617.zip.part1",
+                "size": 941668300,
+                "SHA256": "c18fe107b5a7b00916ac9c998d2ce09fa1fe6d8e1d3e45258dfeb39a9fbf7136",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-sixteen/PixelOS_gauguin-16.1-20251213-1617.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_gauguin-16.1-20260117-1137.zip",
+        "size": 2631742695,
+        "SHA256": "82f966d912705db2fbf29e18633ad5e2ffe3c6c118624314c5f4163567986d66",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/gauguin/PixelOS_gauguin-16.1-20260117-1137.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-sixteen/PixelOS_gauguin-16.1-20260117-1137.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-16.1-20260117-1137.zip.part0",
+                "size": 1677721600,
+                "SHA256": "91a77cd6644618e73905ac083eee1bd1c681ec2c716cb426f5fc74c7e01c2e9d",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-sixteen/PixelOS_gauguin-16.1-20260117-1137.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-16.1-20260117-1137.zip.part1",
+                "size": 954021095,
+                "SHA256": "939aa6e5101621b05d632ac158378fd2dfd3afd91402e012a55b546eb1948c92",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-sixteen/PixelOS_gauguin-16.1-20260117-1137.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_guamp-14.0-20240731-0919.zip",
+        "size": 1849320841,
+        "SHA256": "6199006b918f61036e2adf71041fc68b24d3dbd9435a69baa1e984b5368201fc",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/guamp/PixelOS_guamp-14.0-20240731-0919.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/guamp-fourteen/PixelOS_guamp-14.0-20240731-0919.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_grus-14.0-20241019-1515.zip",
+        "size": 2021650139,
+        "SHA256": "2fdf4e242d45071542f892a1c98e8b3e3105039d34f78b6df68e3714e3190d40",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/grus/PixelOS_grus-14.0-20241019-1515.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/grus-fourteen/PixelOS_grus-14.0-20241019-1515.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_dubai-16.1-20260114-0641.zip",
+        "size": 2386988821,
+        "SHA256": "28179a52eea4c9a0b4a79c035d8ac270c1a61aa627141abf411021556e025762",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/dubai/PixelOS_dubai-16.1-20260114-0641.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/dubai-sixteen/PixelOS_dubai-16.1-20260114-0641.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_dubai-16.1-20260114-0641.zip.part0",
+                "size": 1677721600,
+                "SHA256": "95d14abb643a56fb90cfaf12079f09dbb6f0e5d7e6bb888ccb1553ae44cf8313",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/dubai-sixteen/PixelOS_dubai-16.1-20260114-0641.zip.part0"
+            },
+            {
+                "filename": "PixelOS_dubai-16.1-20260114-0641.zip.part1",
+                "size": 709267221,
+                "SHA256": "01a488bb82593653861a3dc1fe52430d0bc7ddbd7e18adf977743a080c95702d",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/dubai-sixteen/PixelOS_dubai-16.1-20260114-0641.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_f62-14.0-20241019-1855.zip",
+        "size": 1904202356,
+        "SHA256": "ccf4d063e47a700ad183e0563ad02a354165f312503b22047f29ce46442a2c24",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/f62/PixelOS_f62-14.0-20241019-1855.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/f62-fourteen/PixelOS_f62-14.0-20241019-1855.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_ginkgo-13.0-20230817-2335.zip",
+        "size": 1681521562,
+        "SHA256": "a3e279a5eb0e3001f8510a44fca63adae689f8636a0b2a7642eee6331ae0160b",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/ginkgo/PixelOS_ginkgo-13.0-20230817-2335.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/ginkgo-thirteen/PixelOS_ginkgo-13.0-20230817-2335.zip",
+        "parts": false
     }
 ]
