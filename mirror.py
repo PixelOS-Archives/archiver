@@ -134,11 +134,11 @@ def main():
     # and a separate mechanism/queue to process uploads once downloaded
     # Wget because sf lacks range header support.
     
-    def download_file(f_info):
+    def download_file(f_info, dl_index, total_count):
         download_url = f_info["url"]
         local_filename = f_info["filename"]
         try:
-            logging.info(f"[\u2193] Downloading {local_filename}...")
+            logging.info(f"[{dl_index}/{total_count}] [\u2193] Downloading {local_filename}...")
             start_dl = time.time()
             run_with_retry(["wget", "-q", "-O", local_filename, download_url], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
             dl_time = max(time.time() - start_dl, 0.001)
@@ -152,7 +152,7 @@ def main():
             logging.error(f"[!] Error downloading {local_filename}: {e}")
             return f_info, -1, local_filename, -1
 
-    def process_and_upload(f_info, dl_time, local_filename, actual_size):
+    def process_and_upload(f_info, dl_time, local_filename, actual_size, up_index, total_count):
         if actual_size < 0:
             return # Download failed
 
@@ -187,7 +187,7 @@ def main():
                 run_with_retry(["gh", "release", "upload", tag, f_to_up, "--clobber"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
             up_time = max(time.time() - up_start, 0.001)
             up_speed = (total_up_size / 1024 / 1024) / up_time
-            logging.info(f"[\u2191] Uploaded {local_filename} at {up_speed:.2f} MB/s")
+            logging.info(f"[{up_index}/{total_count}] [\u2191] Uploaded {local_filename} at {up_speed:.2f} MB/s")
             
             gh_base_url = f"https://github.com/{GH_REPO}/releases/download/{tag}"
             
@@ -240,14 +240,20 @@ def main():
     # 30 workers for processing/uploading
     
     with ThreadPoolExecutor(max_workers=30) as download_pool, ThreadPoolExecutor(max_workers=20) as upload_pool:
-        dl_futures = {download_pool.submit(download_file, item): item for item in to_process}
+        total_to_process = len(to_process)
+        dl_futures = {}
+        for idx, item in enumerate(to_process, 1):
+            future = download_pool.submit(download_file, item, idx, total_to_process)
+            dl_futures[future] = item
         
         # As soon as a download finishes, ship it immediately to the upload pool while the DL pool pulls the next file
         up_futures = []
+        uploaded_count = 0
         for future in as_completed(dl_futures):
             f_info, dl_time, local_filename, actual_size = future.result()
             if actual_size > 0:
-                up_futures.append(upload_pool.submit(process_and_upload, f_info, dl_time, local_filename, actual_size))
+                uploaded_count += 1
+                up_futures.append(upload_pool.submit(process_and_upload, f_info, dl_time, local_filename, actual_size, uploaded_count, total_to_process))
                 
         # Wait for all uploads to complete
         for future in as_completed(up_futures):
