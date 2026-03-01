@@ -126,10 +126,15 @@ def main():
 
     from concurrent.futures import ThreadPoolExecutor, as_completed
     import threading
+    import queue
 
     log_lock = threading.Lock()
-
-    def process_file(f_info):
+    
+    # We will use a dedicated executor so we only download up to 20 at once
+    # and a separate mechanism/queue to process uploads once downloaded
+    # Wget because sf lacks range header support.
+    
+    def download_file(f_info):
         download_url = f_info["url"]
         local_filename = f_info["filename"]
         try:
@@ -138,6 +143,21 @@ def main():
             run_with_retry(["wget", "-q", "-O", local_filename, download_url], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
             dl_time = max(time.time() - start_dl, 0.001)
             
+            actual_size = os.path.getsize(local_filename)
+            dl_speed = (actual_size / 1024 / 1024) / dl_time
+            logging.info(f"[\u2713] Downloaded {local_filename} at {dl_speed:.2f} MB/s")
+            
+            return f_info, dl_time, local_filename, actual_size
+        except Exception as e:
+            logging.error(f"[!] Error downloading {local_filename}: {e}")
+            return f_info, -1, local_filename, -1
+
+    def process_and_upload(f_info, dl_time, local_filename, actual_size):
+        if actual_size < 0:
+            return # Download failed
+
+        download_url = f_info["url"]
+        try:
             sha256sum = get_sha256(local_filename)
             tag = f"{f_info['codename']}-{f_info['version']}"
             
@@ -147,10 +167,6 @@ def main():
             
             files_to_upload = []
             is_split = False
-            
-            actual_size = os.path.getsize(local_filename)
-            dl_speed = (actual_size / 1024 / 1024) / dl_time
-            logging.info(f"[\u2713] Downloaded {local_filename} at {dl_speed:.2f} MB/s")
             
             if actual_size > SPLIT_SIZE_BYTES:
                 logging.info(f"[*] File {local_filename} > 1.9GB. Splitting into {PART_SIZE_MB}...")
@@ -219,9 +235,22 @@ def main():
                 pass
 
 
-    with ThreadPoolExecutor(max_workers=20) as executor:
-        futures = [executor.submit(process_file, item) for item in to_process]
-        for future in as_completed(futures):
+    # Orchestrate full duplexity
+    # 30 workers for downloading explicitly
+    # 30 workers for processing/uploading
+    
+    with ThreadPoolExecutor(max_workers=30) as download_pool, ThreadPoolExecutor(max_workers=20) as upload_pool:
+        dl_futures = {download_pool.submit(download_file, item): item for item in to_process}
+        
+        # As soon as a download finishes, ship it immediately to the upload pool while the DL pool pulls the next file
+        up_futures = []
+        for future in as_completed(dl_futures):
+            f_info, dl_time, local_filename, actual_size = future.result()
+            if actual_size > 0:
+                up_futures.append(upload_pool.submit(process_and_upload, f_info, dl_time, local_filename, actual_size))
+                
+        # Wait for all uploads to complete
+        for future in as_completed(up_futures):
             future.result()
 
 if __name__ == "__main__":
