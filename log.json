@@ -1582,5 +1582,1682 @@
                 "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/aston-fifteen/PixelOS_aston-15.0-20250121-1747.zip.part1"
             }
         ]
+    },
+    {
+        "filename": "PixelOS_aston-16.0-20251123-0302.zip",
+        "size": 3277304489,
+        "SHA256": "bfb711e1dd503f506de291a8f2d924320076acb31a3081c825f8e922bf262987",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/aston/PixelOS_aston-16.0-20251123-0302.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/aston-sixteen/PixelOS_aston-16.0-20251123-0302.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_aston-16.0-20251123-0302.zip.part0",
+                "size": 1677721600,
+                "SHA256": "cd32596936d9d853f360557731537d813f20828ba896dabef99430b9631eb7f9",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/aston-sixteen/PixelOS_aston-16.0-20251123-0302.zip.part0"
+            },
+            {
+                "filename": "PixelOS_aston-16.0-20251123-0302.zip.part1",
+                "size": 1599582889,
+                "SHA256": "cdf45964c8259d25dc144ee0e629488c7ab9a67693648dd161481f80bfaa23c4",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/aston-sixteen/PixelOS_aston-16.0-20251123-0302.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_benz-16.0-20251122-0129.zip",
+        "size": 3347542015,
+        "SHA256": "498bc71c4272d00b2c40878a901b3ac42ed8170f4a9f6186f6a5762112f26721",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/benz/PixelOS_benz-16.0-20251122-0129.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/benz-sixteen/PixelOS_benz-16.0-20251122-0129.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_benz-16.0-20251122-0129.zip.part0",
+                "size": 1677721600,
+                "SHA256": "dbea49c80c01f04006c0bd201c75da95d86a607614716ebf8b99fd003a193504",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/benz-sixteen/PixelOS_benz-16.0-20251122-0129.zip.part0"
+            },
+            {
+                "filename": "PixelOS_benz-16.0-20251122-0129.zip.part1",
+                "size": 1669820415,
+                "SHA256": "ec3361fd91a0f79cb217f6ce14cecb744fac7ca8c6abfcbcc2d2e2d589c35a9b",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/benz-sixteen/PixelOS_benz-16.0-20251122-0129.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_beryllium-12.0-20220212-0535.zip",
+        "size": 1627217072,
+        "SHA256": "dee3e44bb1bcca9384ac8f482ed9636c18c3253dffc8a55d49c7015ef515b09e",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/beryllium/PixelOS_beryllium-12.0-20220212-0535.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-twelve/PixelOS_beryllium-12.0-20220212-0535.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_aston-15.0-20250227-1011.zip",
+        "size": 2703064432,
+        "SHA256": "59de9d787c759318329a0934cf8fe2925e916662cb1c80192ae3d0822b6a34b4",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/aston/PixelOS_aston-15.0-20250227-1011.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/aston-fifteen/PixelOS_aston-15.0-20250227-1011.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_aston-15.0-20250227-1011.zip.part0",
+                "size": 1677721600,
+                "SHA256": "ba315b6da309e2695d94f3018346b00b47d75b01d2e5e3dfee29bcd1682c6e35",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/aston-fifteen/PixelOS_aston-15.0-20250227-1011.zip.part0"
+            },
+            {
+                "filename": "PixelOS_aston-15.0-20250227-1011.zip.part1",
+                "size": 1025342832,
+                "SHA256": "213ac2de80950cea1c7525ad97bde367f7854d9bb1ae8562b1d399ac56a4b886",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/aston-fifteen/PixelOS_aston-15.0-20250227-1011.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_aston-15.0-20250424-0937.zip",
+        "size": 2747475573,
+        "SHA256": "fd4d623439bad964b357f91e9869b824f779e2bbec417c9472e48980e6edae9d",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/aston/PixelOS_aston-15.0-20250424-0937.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/aston-fifteen/PixelOS_aston-15.0-20250424-0937.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_aston-15.0-20250424-0937.zip.part0",
+                "size": 1677721600,
+                "SHA256": "45356579605c7d9ea9269d53107a701fe2cccc38be3f794eeb08e58a650f959e",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/aston-fifteen/PixelOS_aston-15.0-20250424-0937.zip.part0"
+            },
+            {
+                "filename": "PixelOS_aston-15.0-20250424-0937.zip.part1",
+                "size": 1069753973,
+                "SHA256": "4d688d73274625b5dc2225cd1d627c8afd6f8f270f0fa337a50346649d98d42a",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/aston-fifteen/PixelOS_aston-15.0-20250424-0937.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_beryllium-12.0-20220311-0936.zip",
+        "size": 1690423318,
+        "SHA256": "a098bbde71351003b223e5ee5350f78dc5031b5b3a5b43873cba12e5ec14401f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/beryllium/PixelOS_beryllium-12.0-20220311-0936.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-twelve/PixelOS_beryllium-12.0-20220311-0936.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_aston-15.0-20250506-1245.zip",
+        "size": 2747836982,
+        "SHA256": "75c393857da92230abdedc0f860f6833910933861b116539954ec793bbc15c40",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/aston/PixelOS_aston-15.0-20250506-1245.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/aston-fifteen/PixelOS_aston-15.0-20250506-1245.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_aston-15.0-20250506-1245.zip.part0",
+                "size": 1677721600,
+                "SHA256": "fb9abcf93361ef07276e75ace2a8689245d36ee496a5091a3bf2fd09cf500a7c",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/aston-fifteen/PixelOS_aston-15.0-20250506-1245.zip.part0"
+            },
+            {
+                "filename": "PixelOS_aston-15.0-20250506-1245.zip.part1",
+                "size": 1070115382,
+                "SHA256": "e88f3133334965c9c29aca6e5c706f885bb0c1283d8a40864344776474a1e95c",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/aston-fifteen/PixelOS_aston-15.0-20250506-1245.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_beryllium-12.1-20220410-0445.zip",
+        "size": 1730944824,
+        "SHA256": "01b0e00b25bc08828f52b73ca806d94f9e2dc152a7853faa7c20ae7a03fa87a1",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/beryllium/PixelOS_beryllium-12.1-20220410-0445.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-twelve/PixelOS_beryllium-12.1-20220410-0445.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_aston-15.0-20250422-1610.zip",
+        "size": 2747479098,
+        "SHA256": "69d8d300387b49358496837d5b7b093c3387377929f1a81a090080ea2eb8e361",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/aston/PixelOS_aston-15.0-20250422-1610.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/aston-fifteen/PixelOS_aston-15.0-20250422-1610.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_aston-15.0-20250422-1610.zip.part0",
+                "size": 1677721600,
+                "SHA256": "6e6c3d5272b894777b9110a22a71b680a957642a88916ed76ca222f9e5833bbc",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/aston-fifteen/PixelOS_aston-15.0-20250422-1610.zip.part0"
+            },
+            {
+                "filename": "PixelOS_aston-15.0-20250422-1610.zip.part1",
+                "size": 1069757498,
+                "SHA256": "62c0fc8cf9e96a4490f4aee01ab997c7fbb9c17bfbc14b11569f0c05eeca62cb",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/aston-fifteen/PixelOS_aston-15.0-20250422-1610.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_beryllium-12.1-20220430-0900.zip",
+        "size": 1731275435,
+        "SHA256": "cbe2f4e779bc691ce2d90592fae0fa03c6de9f174d17e3539958307163e2bfa4",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/beryllium/PixelOS_beryllium-12.1-20220430-0900.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-twelve/PixelOS_beryllium-12.1-20220430-0900.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_aston-15.0-20250401-0733.zip",
+        "size": 2747227847,
+        "SHA256": "48db69a9eb0fdc6b0372e66fd961d925e8be2c17292dd8c990a6e56f3a11d56e",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/aston/PixelOS_aston-15.0-20250401-0733.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/aston-fifteen/PixelOS_aston-15.0-20250401-0733.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_aston-15.0-20250401-0733.zip.part0",
+                "size": 1677721600,
+                "SHA256": "ee3dbcc9b73a1a4b90b13bec65fa6d6db294c249c57ed817b48bfe9856f00870",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/aston-fifteen/PixelOS_aston-15.0-20250401-0733.zip.part0"
+            },
+            {
+                "filename": "PixelOS_aston-15.0-20250401-0733.zip.part1",
+                "size": 1069506247,
+                "SHA256": "48f77d60ff1532f6725532367b494ce6b56f02ef3857838095992725bbb708c7",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/aston-fifteen/PixelOS_aston-15.0-20250401-0733.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_beryllium-12.1-20220509-1530.zip",
+        "size": 1730974157,
+        "SHA256": "17ea4fdfb0936bb02fd1b0d99b1b5c18ab8668d54e5dbd1beac2c4b05a71d7fc",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/beryllium/PixelOS_beryllium-12.1-20220509-1530.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-twelve/PixelOS_beryllium-12.1-20220509-1530.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_benz-15.0-20250228-1511.zip",
+        "size": 2826960477,
+        "SHA256": "5220ba5831791009054110f575ecb1f615f0a0d6756b94ab661a42419d10ff3f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/benz/PixelOS_benz-15.0-20250228-1511.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/benz-fifteen/PixelOS_benz-15.0-20250228-1511.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_benz-15.0-20250228-1511.zip.part0",
+                "size": 1677721600,
+                "SHA256": "91402bda3d99b26f891a1b8355cda2f0a78cd3de736d463729ff08e9f264e3a1",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/benz-fifteen/PixelOS_benz-15.0-20250228-1511.zip.part0"
+            },
+            {
+                "filename": "PixelOS_benz-15.0-20250228-1511.zip.part1",
+                "size": 1149238877,
+                "SHA256": "b151607077f6bb00fb7b77843be650dc4190f17813620ec0b37e1f5b38b9a1b7",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/benz-fifteen/PixelOS_benz-15.0-20250228-1511.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_benz-15.0-20250423-0700.zip",
+        "size": 2874164766,
+        "SHA256": "2b6702c0ae4eafb2fd4a76141d3a5759b145a43ea7130902f29746e12a374222",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/benz/PixelOS_benz-15.0-20250423-0700.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/benz-fifteen/PixelOS_benz-15.0-20250423-0700.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_benz-15.0-20250423-0700.zip.part0",
+                "size": 1677721600,
+                "SHA256": "5227bd6c47b05dd3ab24a0403ec03d39541871e56616db646fab148d5cf839ec",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/benz-fifteen/PixelOS_benz-15.0-20250423-0700.zip.part0"
+            },
+            {
+                "filename": "PixelOS_benz-15.0-20250423-0700.zip.part1",
+                "size": 1196443166,
+                "SHA256": "8ab52d4d69d040d659b5e7f2c2a55d9d44461c82825ab9c487ed22a5bcd29fb0",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/benz-fifteen/PixelOS_benz-15.0-20250423-0700.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_benz-15.0-20250403-0330.zip",
+        "size": 2874777878,
+        "SHA256": "f0a71460e4d08f0d1ced34f735510edc30e147d5a8ed2bc31b01699e8c05f1d4",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/benz/PixelOS_benz-15.0-20250403-0330.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/benz-fifteen/PixelOS_benz-15.0-20250403-0330.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_benz-15.0-20250403-0330.zip.part0",
+                "size": 1677721600,
+                "SHA256": "7c958302410a488c61331ff89bc51e01a9ede0f019ecc720e69149ec77484567",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/benz-fifteen/PixelOS_benz-15.0-20250403-0330.zip.part0"
+            },
+            {
+                "filename": "PixelOS_benz-15.0-20250403-0330.zip.part1",
+                "size": 1197056278,
+                "SHA256": "e33bbc0ec8740f7a89ba553ffb752e2597add2922786bf603ab52be454521465",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/benz-fifteen/PixelOS_benz-15.0-20250403-0330.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_beryllium-12.1-20220613-1525.zip",
+        "size": 1741431810,
+        "SHA256": "adac5031573d69dc933e52f7cbaba6cde7a2bd442d94463f3983ddeeff2e9ec2",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/beryllium/PixelOS_beryllium-12.1-20220613-1525.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-twelve/PixelOS_beryllium-12.1-20220613-1525.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_aston-15.0-20250525-1055.zip",
+        "size": 3088781249,
+        "SHA256": "8803fac0846eeb5f9c8ec740d70e8e88f0edd06c71958c8e868dff7d47ae125b",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/aston/PixelOS_aston-15.0-20250525-1055.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/aston-fifteen/PixelOS_aston-15.0-20250525-1055.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_aston-15.0-20250525-1055.zip.part0",
+                "size": 1677721600,
+                "SHA256": "4a75a6757c2fe8eb240293d0b42b176f3a668bb8208b2d9b9bb94095782f6215",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/aston-fifteen/PixelOS_aston-15.0-20250525-1055.zip.part0"
+            },
+            {
+                "filename": "PixelOS_aston-15.0-20250525-1055.zip.part1",
+                "size": 1411059649,
+                "SHA256": "c786554c67fd6f116bde6f6a977607913e3b7e226cf05c429a95c04bdcfb0e9a",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/aston-fifteen/PixelOS_aston-15.0-20250525-1055.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_beryllium-12.1-20220708-1614.zip",
+        "size": 1766563599,
+        "SHA256": "f89ddb198cc13fbf79faa7566d5bc95a2181f03991ab3017a9ed64f6260c095b",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/beryllium/PixelOS_beryllium-12.1-20220708-1614.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-twelve/PixelOS_beryllium-12.1-20220708-1614.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_beryllium-12.1-20220618-1154.zip",
+        "size": 1741612255,
+        "SHA256": "2e00e18849ff9a8f5378f299cf196f048d0981d69876c92d807d86c690c53054",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/beryllium/PixelOS_beryllium-12.1-20220618-1154.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-twelve/PixelOS_beryllium-12.1-20220618-1154.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_aston-15.0-20250516-0237.zip",
+        "size": 3091756652,
+        "SHA256": "1b576daa634e232c4605627a8df185507161ec1cd6169a313e5aaae36c7258fe",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/aston/PixelOS_aston-15.0-20250516-0237.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/aston-fifteen/PixelOS_aston-15.0-20250516-0237.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_aston-15.0-20250516-0237.zip.part0",
+                "size": 1677721600,
+                "SHA256": "94df5d9e7fbb7f990274587390d9d28cf1139aa114c730d76576b5913502b3e3",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/aston-fifteen/PixelOS_aston-15.0-20250516-0237.zip.part0"
+            },
+            {
+                "filename": "PixelOS_aston-15.0-20250516-0237.zip.part1",
+                "size": 1414035052,
+                "SHA256": "b310f04a35b14b90bfd77d5d992a448e4eefffa3d6da7a1e795ccf02b534ef93",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/aston-fifteen/PixelOS_aston-15.0-20250516-0237.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_beryllium-12.1-20220812-1127.zip",
+        "size": 1742182784,
+        "SHA256": "7a211c17408cf1a65a29fff77d267d3911b3cbea44baa5535a7aeb6604d63799",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/beryllium/PixelOS_beryllium-12.1-20220812-1127.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-twelve/PixelOS_beryllium-12.1-20220812-1127.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_beryllium-13.0-20220912-0636.zip",
+        "size": 1790815159,
+        "SHA256": "9531905aad9adb76657445ba935e670343953d3b3164425457764856cfbe57b3",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/beryllium/PixelOS_beryllium-13.0-20220912-0636.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-thirteen/PixelOS_beryllium-13.0-20220912-0636.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_benz-15.0-20250516-0424.zip",
+        "size": 3220918333,
+        "SHA256": "ff3fd5af1af2dc61bc67662a0300a2432bd1eebebed1f5e1c49d2a568fb3bf08",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/benz/PixelOS_benz-15.0-20250516-0424.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/benz-fifteen/PixelOS_benz-15.0-20250516-0424.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_benz-15.0-20250516-0424.zip.part0",
+                "size": 1677721600,
+                "SHA256": "026b147d582d5c1662e132a0fb4a56e0d91da15edda8ddf7d2c17acd0aaf9876",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/benz-fifteen/PixelOS_benz-15.0-20250516-0424.zip.part0"
+            },
+            {
+                "filename": "PixelOS_benz-15.0-20250516-0424.zip.part1",
+                "size": 1543196733,
+                "SHA256": "f1dcadc56230c1c3d7fb2760d8f6e2e4403c44fa33fd871bf8b153843772440e",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/benz-fifteen/PixelOS_benz-15.0-20250516-0424.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_benz-15.0-20250621-1543.zip",
+        "size": 3217257074,
+        "SHA256": "61a6cd4e6f7d264342fcd1fa1a9992efd1cf0957b7b758ed462e3ee1073e73fd",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/benz/PixelOS_benz-15.0-20250621-1543.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/benz-fifteen/PixelOS_benz-15.0-20250621-1543.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_benz-15.0-20250621-1543.zip.part0",
+                "size": 1677721600,
+                "SHA256": "4700b8adf7e1ca955db53aa01babe54adac06e38ff8c439d287132d415ce33a0",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/benz-fifteen/PixelOS_benz-15.0-20250621-1543.zip.part0"
+            },
+            {
+                "filename": "PixelOS_benz-15.0-20250621-1543.zip.part1",
+                "size": 1539535474,
+                "SHA256": "92058a757bb5d8abaf3532657dd9abc68bfe7dfec877440e8466513a7cba82fa",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/benz-fifteen/PixelOS_benz-15.0-20250621-1543.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_benz-15.0-20250527-0206.zip",
+        "size": 3217632280,
+        "SHA256": "21a08522c2e6981fc680b077042b1fa645aa2a59e0dcbdb4512a0c13d5f6e8a2",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/benz/PixelOS_benz-15.0-20250527-0206.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/benz-fifteen/PixelOS_benz-15.0-20250527-0206.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_benz-15.0-20250527-0206.zip.part0",
+                "size": 1677721600,
+                "SHA256": "1a6391f394ade44003a4b73c54297d37796de7953e57607ccc39158c846ff1b5",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/benz-fifteen/PixelOS_benz-15.0-20250527-0206.zip.part0"
+            },
+            {
+                "filename": "PixelOS_benz-15.0-20250527-0206.zip.part1",
+                "size": 1539910680,
+                "SHA256": "7fec41beadeb9f12e63f740645950380be137173dffbaac3f437ebf8105f753d",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/benz-fifteen/PixelOS_benz-15.0-20250527-0206.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_benz-15.0-20250525-1139.zip",
+        "size": 3217631588,
+        "SHA256": "b07ca3bf3263d93aca5cf2183357e56b97dfcbc12f60a03bb863616421352dcf",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/benz/PixelOS_benz-15.0-20250525-1139.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/benz-fifteen/PixelOS_benz-15.0-20250525-1139.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_benz-15.0-20250525-1139.zip.part0",
+                "size": 1677721600,
+                "SHA256": "0acef6fab175f6185a1ad7b8bd688ce7055eba9c5252ff69ab2b41beb679da41",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/benz-fifteen/PixelOS_benz-15.0-20250525-1139.zip.part0"
+            },
+            {
+                "filename": "PixelOS_benz-15.0-20250525-1139.zip.part1",
+                "size": 1539909988,
+                "SHA256": "79b7ffcfbe996f9548e245b8248e7f36a1750f370a60c495aa3088140741dd19",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/benz-fifteen/PixelOS_benz-15.0-20250525-1139.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_aston-16.0-20251120-0832.zip",
+        "size": 3277281157,
+        "SHA256": "49cfb1b5579a2dd84ff46eb3a3b3349169ad10b492d7911b5105018112242609",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/aston/PixelOS_aston-16.0-20251120-0832.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/aston-sixteen/PixelOS_aston-16.0-20251120-0832.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_aston-16.0-20251120-0832.zip.part0",
+                "size": 1677721600,
+                "SHA256": "4a2b69c3c89c35a1c22641cd5d20383affeb2b3a3d668a2571e15be306087278",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/aston-sixteen/PixelOS_aston-16.0-20251120-0832.zip.part0"
+            },
+            {
+                "filename": "PixelOS_aston-16.0-20251120-0832.zip.part1",
+                "size": 1599559557,
+                "SHA256": "9c7aad46ce6fd689885fb367602beaa264b53125ffa4d4974b68867a5d1a83bb",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/aston-sixteen/PixelOS_aston-16.0-20251120-0832.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_aston-15.0-20250621-1428.zip",
+        "size": 3094043368,
+        "SHA256": "d6ac00d2001f62508a296a70816283e7dbb9dccd3bcc855abf105103c04773b3",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/aston/PixelOS_aston-15.0-20250621-1428.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/aston-fifteen/PixelOS_aston-15.0-20250621-1428.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_aston-15.0-20250621-1428.zip.part0",
+                "size": 1677721600,
+                "SHA256": "7fe4965548d4006337c1e4bf58933fce70ce3b8774a9dabecb93354ba8903ce1",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/aston-fifteen/PixelOS_aston-15.0-20250621-1428.zip.part0"
+            },
+            {
+                "filename": "PixelOS_aston-15.0-20250621-1428.zip.part1",
+                "size": 1416321768,
+                "SHA256": "e973e24157579bd7bd520ab1b1cd7b171df21c34837e3ecadde053587e2a982a",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/aston-fifteen/PixelOS_aston-15.0-20250621-1428.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_beryllium-13.0-20221021-0853.zip",
+        "size": 1753292530,
+        "SHA256": "365e1be39a612ef596fadfbfeae4feb0cc884d5c21b63936a275641f54058e9c",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/beryllium/PixelOS_beryllium-13.0-20221021-0853.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-thirteen/PixelOS_beryllium-13.0-20221021-0853.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_beryllium-13.0-20221118-1615.zip",
+        "size": 1834514563,
+        "SHA256": "40665ef9a2aeb45ee62b068f85dc476d0204951f7848e63cf15bdf34924bcec6",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/beryllium/PixelOS_beryllium-13.0-20221118-1615.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-thirteen/PixelOS_beryllium-13.0-20221118-1615.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_beryllium-13.0-20230122-2205.zip",
+        "size": 1848407759,
+        "SHA256": "ba3a367e2bef4240c8de47c99871a03bd4bf746247a8fa7b0a6f81a6273c80b0",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/beryllium/PixelOS_beryllium-13.0-20230122-2205.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-thirteen/PixelOS_beryllium-13.0-20230122-2205.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_beryllium-13.0-20230216-0211.zip",
+        "size": 1780783282,
+        "SHA256": "08c1e3369ccb73876ba8c886cba575af6485424c3aed9e251a57eec22b5d3c36",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/beryllium/PixelOS_beryllium-13.0-20230216-0211.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-thirteen/PixelOS_beryllium-13.0-20230216-0211.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_beryllium-13.0-20230414-0815.zip",
+        "size": 1786343335,
+        "SHA256": "70f9d92d621ab1376eb752777647cb982c52fa69d5bbaa5bf2f233a702bcbbd3",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/beryllium/PixelOS_beryllium-13.0-20230414-0815.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-thirteen/PixelOS_beryllium-13.0-20230414-0815.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_beryllium-13.0-20230417-0843.zip",
+        "size": 1785941896,
+        "SHA256": "7057b24fd0f46d047e67f3669bd1609a7130cfcdc707f8abc130c2387947912d",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/beryllium/PixelOS_beryllium-13.0-20230417-0843.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-thirteen/PixelOS_beryllium-13.0-20230417-0843.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_beryllium-14.0-20241014-1953.zip",
+        "size": 2151619030,
+        "SHA256": "b5bafc349404076fdade1cfb39a0a1cb60cb7800900a8e0f0af910767518166c",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beryllium/PixelOS_beryllium-14.0-20241014-1953.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-fourteen/PixelOS_beryllium-14.0-20241014-1953.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_beryllium-14.0-20241014-1953.zip.part0",
+                "size": 1677721600,
+                "SHA256": "f7640b00381afdb14e88049bc772e1d3b2eab1ddfb80fd1d6197b6529e6c87bf",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-fourteen/PixelOS_beryllium-14.0-20241014-1953.zip.part0"
+            },
+            {
+                "filename": "PixelOS_beryllium-14.0-20241014-1953.zip.part1",
+                "size": 473897430,
+                "SHA256": "ed521524ad23e12e51a084cc8ebcf4e1621a41825fca4489d4132fcdde8f57dd",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-fourteen/PixelOS_beryllium-14.0-20241014-1953.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_beryllium-15.0-20241203-1030.zip",
+        "size": 2043998350,
+        "SHA256": "71e1a5e31d832245280721c28b85b02644e38313e1cb9ea82ed6df1d0097a908",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/beryllium/PixelOS_beryllium-15.0-20241203-1030.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-fifteen/PixelOS_beryllium-15.0-20241203-1030.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_beryllium-15.0-20241203-1030.zip.part0",
+                "size": 1677721600,
+                "SHA256": "5ab78e8091ae578e9422d48ccbc5d3f764bd9069b231e020aac68bdd6735ad86",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-fifteen/PixelOS_beryllium-15.0-20241203-1030.zip.part0"
+            },
+            {
+                "filename": "PixelOS_beryllium-15.0-20241203-1030.zip.part1",
+                "size": 366276750,
+                "SHA256": "4c0be11f5a3d7126de2fe5030b7e2f7ab0c95a3f348240e619b70973d47286c0",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-fifteen/PixelOS_beryllium-15.0-20241203-1030.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_beryllium-13.0-20230510-1931.zip",
+        "size": 1774300601,
+        "SHA256": "07dc560e77631bf464dd5f7cbf98f48c8aa10bf0f439fb33fdfdb059663efce8",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/beryllium/PixelOS_beryllium-13.0-20230510-1931.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-thirteen/PixelOS_beryllium-13.0-20230510-1931.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_beryllium-13.0-20230706-0754.zip",
+        "size": 1768969937,
+        "SHA256": "bee18cf986bac9e5f0d974dff54a05fe066034a14b0c88d45b9b1192d68ee683",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/beryllium/PixelOS_beryllium-13.0-20230706-0754.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-thirteen/PixelOS_beryllium-13.0-20230706-0754.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_beryllium-13.0-20231013-1447.zip",
+        "size": 1718941654,
+        "SHA256": "f6e2138aef334e6427324a5f6219dbfbbce1edb14f55e46ecbb2043c58578e0c",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/beryllium/PixelOS_beryllium-13.0-20231013-1447.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-thirteen/PixelOS_beryllium-13.0-20231013-1447.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_beryllium-13.0-20230819-2029.zip",
+        "size": 1690487012,
+        "SHA256": "e07270c7b3763cef2ee58c5ec8ed81c4984c8f9a5690e63d935f941633b3e642",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/beryllium/PixelOS_beryllium-13.0-20230819-2029.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-thirteen/PixelOS_beryllium-13.0-20230819-2029.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_beryllium-14.0-20231127-2235.zip",
+        "size": 1877487468,
+        "SHA256": "686f95f3af17b5c48c070baf7f218f2675f5751a3f0e379bf9b9dd79186a7f1c",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beryllium/PixelOS_beryllium-14.0-20231127-2235.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-fourteen/PixelOS_beryllium-14.0-20231127-2235.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_beyond0lte-13.0-20230223-1722.zip",
+        "size": 1560940086,
+        "SHA256": "78c0059b42ec27fe42b34b2d2595b8dccb2ca7af4c7ebb41d528575f2387f8a1",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/beyond0lte/PixelOS_beyond0lte-13.0-20230223-1722.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beyond0lte-thirteen/PixelOS_beyond0lte-13.0-20230223-1722.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_beryllium-14.0-20231228-0701.zip",
+        "size": 2052868040,
+        "SHA256": "c955c368d7c355bf275cfaf752aa4a55f4269bd5af35a04043bf5194e9c64bb2",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beryllium/PixelOS_beryllium-14.0-20231228-0701.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-fourteen/PixelOS_beryllium-14.0-20231228-0701.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_beryllium-14.0-20231228-0701.zip.part0",
+                "size": 1677721600,
+                "SHA256": "b8f8c87bc1721ab28d44c62bb287ab48f742a7f338251576022b638d59041937",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-fourteen/PixelOS_beryllium-14.0-20231228-0701.zip.part0"
+            },
+            {
+                "filename": "PixelOS_beryllium-14.0-20231228-0701.zip.part1",
+                "size": 375146440,
+                "SHA256": "ecffa0085bc40b32577e6e8fd7613047668bb91a4bcfed7efcc7223c640f7479",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-fourteen/PixelOS_beryllium-14.0-20231228-0701.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_beryllium-14.0-20240125-1001.zip",
+        "size": 2058112618,
+        "SHA256": "7c37d8593c3ae0ed7192652c854e35c89133125513dd4f4c3c4f304f3b68d3e5",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beryllium/PixelOS_beryllium-14.0-20240125-1001.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-fourteen/PixelOS_beryllium-14.0-20240125-1001.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_beryllium-14.0-20240125-1001.zip.part0",
+                "size": 1677721600,
+                "SHA256": "07dd06566821d1673db3eb3fe277baf5a257d3149f84525b26a27112fece03bf",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-fourteen/PixelOS_beryllium-14.0-20240125-1001.zip.part0"
+            },
+            {
+                "filename": "PixelOS_beryllium-14.0-20240125-1001.zip.part1",
+                "size": 380391018,
+                "SHA256": "e6e73245a898e0374c8101bdedd0786dfccd3eef6d3ed29620e8fb37d8911d9b",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-fourteen/PixelOS_beryllium-14.0-20240125-1001.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_beryllium-14.0-20240512-1027.zip",
+        "size": 2030872795,
+        "SHA256": "94c572915351073dacb6b9a04712aff056e1081aa02353e3782f3bbf5291bc65",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beryllium/PixelOS_beryllium-14.0-20240512-1027.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-fourteen/PixelOS_beryllium-14.0-20240512-1027.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_beryllium-14.0-20240528-0408.zip",
+        "size": 2032615247,
+        "SHA256": "051c5ed34fef73a8d7ffb2cd5f13add99573bd362c33f0ac4032f32562285389",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beryllium/PixelOS_beryllium-14.0-20240528-0408.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-fourteen/PixelOS_beryllium-14.0-20240528-0408.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_beyond0lte-13.0-20230422-2258.zip",
+        "size": 1588682044,
+        "SHA256": "eb3a92ad954b71545a408fa0512d7d0000e1576b408ea1a0a93a51b420a358d3",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/beyond0lte/PixelOS_beyond0lte-13.0-20230422-2258.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beyond0lte-thirteen/PixelOS_beyond0lte-13.0-20230422-2258.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_beryllium-14.0-20240920-0942.zip",
+        "size": 2151614452,
+        "SHA256": "aa3091a3ac3c3ec5cd393d34b477d7d980e2bba4aa0027dff3dfe3f79695aee1",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beryllium/PixelOS_beryllium-14.0-20240920-0942.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-fourteen/PixelOS_beryllium-14.0-20240920-0942.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_beryllium-14.0-20240920-0942.zip.part0",
+                "size": 1677721600,
+                "SHA256": "ed7bd4729da1fd1a5a8f1535f7ad6abb2e4f42e949474754b3f093c8f1af76af",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-fourteen/PixelOS_beryllium-14.0-20240920-0942.zip.part0"
+            },
+            {
+                "filename": "PixelOS_beryllium-14.0-20240920-0942.zip.part1",
+                "size": 473892852,
+                "SHA256": "f5d6ad954cc3f3461473a19b0809e594fec220994434c050ca69573275047346",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-fourteen/PixelOS_beryllium-14.0-20240920-0942.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_beyond0lte-13.0-20230721-1301.zip",
+        "size": 1632691567,
+        "SHA256": "ce6abcd898f9bc2d69272efd4c4a037eea0bfc00664a93c534dc292c2a668651",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/beyond0lte/PixelOS_beyond0lte-13.0-20230721-1301.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beyond0lte-thirteen/PixelOS_beyond0lte-13.0-20230721-1301.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_beryllium-14.0-20240820-0859.zip",
+        "size": 2159375935,
+        "SHA256": "bb8fdd58962aecaf45a43fb2d3589de341a110218151e7ff8fd1a72f3de99b63",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beryllium/PixelOS_beryllium-14.0-20240820-0859.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-fourteen/PixelOS_beryllium-14.0-20240820-0859.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_beryllium-14.0-20240820-0859.zip.part0",
+                "size": 1677721600,
+                "SHA256": "64d29718bfca90384fa998ce103c313e9e04ea3ebb04a83284e0920095359829",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-fourteen/PixelOS_beryllium-14.0-20240820-0859.zip.part0"
+            },
+            {
+                "filename": "PixelOS_beryllium-14.0-20240820-0859.zip.part1",
+                "size": 481654335,
+                "SHA256": "3e86ba656ac9d4202757db3e2f69d65cbdd84996c2cb818288227fbfad48ce7f",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-fourteen/PixelOS_beryllium-14.0-20240820-0859.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_beryllium-14.0-20240628-1812.zip",
+        "size": 2273532208,
+        "SHA256": "e28acb1c19359f356ce942790c844973aaad1d0c0e3afbbc65a51426cdc2761c",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beryllium/PixelOS_beryllium-14.0-20240628-1812.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-fourteen/PixelOS_beryllium-14.0-20240628-1812.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_beryllium-14.0-20240628-1812.zip.part0",
+                "size": 1677721600,
+                "SHA256": "38ea790ee1966895137e8fef23efb65938a71df53d79ce5f71b40802248c0b34",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-fourteen/PixelOS_beryllium-14.0-20240628-1812.zip.part0"
+            },
+            {
+                "filename": "PixelOS_beryllium-14.0-20240628-1812.zip.part1",
+                "size": 595810608,
+                "SHA256": "1af7edd739b1a9046eeeb39e4ee34c5325a2689f0b31214ff03307eed9649aee",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-fourteen/PixelOS_beryllium-14.0-20240628-1812.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_beyond0lte-14.0-20231130-0205.zip",
+        "size": 1722616677,
+        "SHA256": "3548fe999331d443cee57d22cd58c7ae08a2152766af3e7b091efca8a86d6e0b",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beyond0lte/PixelOS_beyond0lte-14.0-20231130-0205.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beyond0lte-fourteen/PixelOS_beyond0lte-14.0-20231130-0205.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_beryllium-14.0-20240731-0649.zip",
+        "size": 2289996340,
+        "SHA256": "5a571d1af6ec31e3d65d0d6a874b150cbb0ea93c4028e8f945ac497af1e9d2b6",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beryllium/PixelOS_beryllium-14.0-20240731-0649.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-fourteen/PixelOS_beryllium-14.0-20240731-0649.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_beryllium-14.0-20240731-0649.zip.part0",
+                "size": 1677721600,
+                "SHA256": "106c50aebb48ff954a6cc3ab4840dd99937d2e3f7a3d2551dafa6df8c375f376",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-fourteen/PixelOS_beryllium-14.0-20240731-0649.zip.part0"
+            },
+            {
+                "filename": "PixelOS_beryllium-14.0-20240731-0649.zip.part1",
+                "size": 612274740,
+                "SHA256": "9cf1d91eeb11a358bdce4a7fa53e69fe3082a1f0a3241f740e41535083123740",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beryllium-fourteen/PixelOS_beryllium-14.0-20240731-0649.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_beyond0lte-14.0-20240512-0309.zip",
+        "size": 1771093807,
+        "SHA256": "de99855f3610eaf388837c4ec97b9ec2a3be9ea479fea991ddafb98ffb06d0b3",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beyond0lte/PixelOS_beyond0lte-14.0-20240512-0309.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beyond0lte-fourteen/PixelOS_beyond0lte-14.0-20240512-0309.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_beyond0lte-14.0-20240730-1417.zip",
+        "size": 2027025904,
+        "SHA256": "ba585447082b3f12d7fd9b3e54b8ac0ba2ebc2e062568eec67f4cdfded317152",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beyond0lte/PixelOS_beyond0lte-14.0-20240730-1417.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beyond0lte-fourteen/PixelOS_beyond0lte-14.0-20240730-1417.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_beyond1lte-13.0-20230721-1441.zip",
+        "size": 1635919955,
+        "SHA256": "e20726f474061cb3499eeb2d0c1d98cfe96881dee14fac1a6209dc7757bdcd78",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/beyond1lte/PixelOS_beyond1lte-13.0-20230721-1441.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beyond1lte-thirteen/PixelOS_beyond1lte-13.0-20230721-1441.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_beyond0lte-14.0-20240920-1320.zip",
+        "size": 1889516465,
+        "SHA256": "319b187cce9d2aa8e18106b89ad0d67ed2907b4ce39e0786a59d67ebc9e61bc1",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beyond0lte/PixelOS_beyond0lte-14.0-20240920-1320.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beyond0lte-fourteen/PixelOS_beyond0lte-14.0-20240920-1320.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_beyond1lte-14.0-20231130-0255.zip",
+        "size": 1725455016,
+        "SHA256": "dcd7cc40533acd5d6da8a9bc71beb7f486d7ce0d46731d4dc9aba4d0fa2371e6",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beyond1lte/PixelOS_beyond1lte-14.0-20231130-0255.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beyond1lte-fourteen/PixelOS_beyond1lte-14.0-20231130-0255.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_beyond1lte-14.0-20240512-0358.zip",
+        "size": 1777312337,
+        "SHA256": "fd81894b2e71b45b3f5e5fb1ae19302327d4b21bf2ddf62e4115c6a4b29c4ab6",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beyond1lte/PixelOS_beyond1lte-14.0-20240512-0358.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beyond1lte-fourteen/PixelOS_beyond1lte-14.0-20240512-0358.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_beyond2lte-13.0-20230422-2336.zip",
+        "size": 1591052672,
+        "SHA256": "1fe9e801d2a73b125aea3846c3ab678b83e18c60e0753c384386698fc02b2e40",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/beyond2lte/PixelOS_beyond2lte-13.0-20230422-2336.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beyond2lte-thirteen/PixelOS_beyond2lte-13.0-20230422-2336.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_beyond2lte-13.0-20230223-1602.zip",
+        "size": 1563829094,
+        "SHA256": "0fd0c7f82407b527522e84f6397198e15fc1eba87aa78cf554fda5fc4f519966",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/beyond2lte/PixelOS_beyond2lte-13.0-20230223-1602.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beyond2lte-thirteen/PixelOS_beyond2lte-13.0-20230223-1602.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_beyond1lte-14.0-20240730-1348.zip",
+        "size": 2031885752,
+        "SHA256": "67e097f582f8e30b596aa22194cc98e0d2867fc49fd854234daac8840f2b2fa3",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beyond1lte/PixelOS_beyond1lte-14.0-20240730-1348.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beyond1lte-fourteen/PixelOS_beyond1lte-14.0-20240730-1348.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_beyond2lte-13.0-20230721-1458.zip",
+        "size": 1636661594,
+        "SHA256": "017b2cedf08385878dd4f3c24cb51c083b40e3d7f13cf95f6b76c12677ef1d6c",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/beyond2lte/PixelOS_beyond2lte-13.0-20230721-1458.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beyond2lte-thirteen/PixelOS_beyond2lte-13.0-20230721-1458.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_beyond1lte-14.0-20240920-1225.zip",
+        "size": 1887904096,
+        "SHA256": "4ea8f2f1ff9cc8b415b2fae06b069dd7da45c061ae7123c6a5b5e7a7da5a5826",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beyond1lte/PixelOS_beyond1lte-14.0-20240920-1225.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beyond1lte-fourteen/PixelOS_beyond1lte-14.0-20240920-1225.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_beyond2lte-14.0-20231130-0344.zip",
+        "size": 1725276404,
+        "SHA256": "4e5a39c5bb241af4723c3d563c49d5f771442d7b5431289e9d4b62478afca303",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beyond2lte/PixelOS_beyond2lte-14.0-20231130-0344.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beyond2lte-fourteen/PixelOS_beyond2lte-14.0-20231130-0344.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_beyondx-13.0-20230223-1617.zip",
+        "size": 1563853542,
+        "SHA256": "d7eacbd543bfa9b5e5c59f0eae1fe01c02b288071684f9cb4c7ce406d7255457",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/beyondx/PixelOS_beyondx-13.0-20230223-1617.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beyondx-thirteen/PixelOS_beyondx-13.0-20230223-1617.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_beyond2lte-14.0-20240512-0413.zip",
+        "size": 1777758513,
+        "SHA256": "85ccf8c29f4514b17e6808f225c6e401773e392bffc0e4d3e3cfc58b457b13dc",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beyond2lte/PixelOS_beyond2lte-14.0-20240512-0413.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beyond2lte-fourteen/PixelOS_beyond2lte-14.0-20240512-0413.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_beyondx-13.0-20230422-2355.zip",
+        "size": 1591535419,
+        "SHA256": "2cdab9fe6c05bb7f392844ad3351350004a25c079446e2f41c6d5f839d3af6fe",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/beyondx/PixelOS_beyondx-13.0-20230422-2355.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beyondx-thirteen/PixelOS_beyondx-13.0-20230422-2355.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_beyond2lte-14.0-20240920-1351.zip",
+        "size": 1888340979,
+        "SHA256": "b4be970eaa18536e3f7675cfc77e4d9dc26cc94858ff5c1dd00a0b039317d3ac",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beyond2lte/PixelOS_beyond2lte-14.0-20240920-1351.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beyond2lte-fourteen/PixelOS_beyond2lte-14.0-20240920-1351.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_beyond2lte-14.0-20240730-1448.zip",
+        "size": 2032143889,
+        "SHA256": "90d2a1ad4e6959bcd021fa0a08531ffd4e9c7b85912b0f8a27befd2e6052a25d",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beyond2lte/PixelOS_beyond2lte-14.0-20240730-1448.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beyond2lte-fourteen/PixelOS_beyond2lte-14.0-20240730-1448.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_beyondx-13.0-20230721-1516.zip",
+        "size": 1635101381,
+        "SHA256": "eeff34d217951b1d90c7bbb316d1e21e12c0fcf7da93136dfbd3d31488e3f6a0",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/beyondx/PixelOS_beyondx-13.0-20230721-1516.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beyondx-thirteen/PixelOS_beyondx-13.0-20230721-1516.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_beyondx-14.0-20231130-0434.zip",
+        "size": 1726850862,
+        "SHA256": "3f2c5e32709c8954096e7b80e1f506223fd515985a4e04b1036c8c1532201d30",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beyondx/PixelOS_beyondx-14.0-20231130-0434.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beyondx-fourteen/PixelOS_beyondx-14.0-20231130-0434.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_beyondx-14.0-20240512-0532.zip",
+        "size": 1789285435,
+        "SHA256": "046958b43b4c648b318ae2e7893dcc24cfb4633940c231796d7d68fb5114e6ce",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beyondx/PixelOS_beyondx-14.0-20240512-0532.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beyondx-fourteen/PixelOS_beyondx-14.0-20240512-0532.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_beyondx-14.0-20240730-1433.zip",
+        "size": 2046809142,
+        "SHA256": "b765bfcdd2f54ef6673c8356b7d87955c5cfce8569709994035714bff6c6c644",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beyondx/PixelOS_beyondx-14.0-20240730-1433.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beyondx-fourteen/PixelOS_beyondx-14.0-20240730-1433.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_beyondx-14.0-20240730-1433.zip.part0",
+                "size": 1677721600,
+                "SHA256": "0476d8e352c7ec270d9db7fc30c1bbb46496966ed547afcc97d9be2813806e8e",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beyondx-fourteen/PixelOS_beyondx-14.0-20240730-1433.zip.part0"
+            },
+            {
+                "filename": "PixelOS_beyondx-14.0-20240730-1433.zip.part1",
+                "size": 369087542,
+                "SHA256": "f5045ce4739d2e95da49f742b91427bef011a4ec9996ae44b6ae70015b63f84d",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beyondx-fourteen/PixelOS_beyondx-14.0-20240730-1433.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_beyond0lte-14.0-20241019-0540.zip",
+        "size": 1889807038,
+        "SHA256": "e063b50172f1ee3c6a7aefab5328964471e1e4a60b3d4f623abf6c929587a91b",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beyond0lte/PixelOS_beyond0lte-14.0-20241019-0540.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beyond0lte-fourteen/PixelOS_beyond0lte-14.0-20241019-0540.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_beyondx-14.0-20240920-1431.zip",
+        "size": 1901416951,
+        "SHA256": "74f30998b99ea3b80b1ce45359496a3a8b3f2271509f5ae431d96af1d9e98d9f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beyondx/PixelOS_beyondx-14.0-20240920-1431.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beyondx-fourteen/PixelOS_beyondx-14.0-20240920-1431.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_caihong-16.0-20251121-2334.zip",
+        "size": 3001376196,
+        "SHA256": "60a738f2379e955ceaae4cc02b4d2c255051f55cc250410f9f493761893776b0",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/caihong/PixelOS_caihong-16.0-20251121-2334.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/caihong-sixteen/PixelOS_caihong-16.0-20251121-2334.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_caihong-16.0-20251121-2334.zip.part0",
+                "size": 1677721600,
+                "SHA256": "cd8f387b5d29bc872047943a156eb9f44b2db22ca65cf8fca1a4a84945eb651b",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/caihong-sixteen/PixelOS_caihong-16.0-20251121-2334.zip.part0"
+            },
+            {
+                "filename": "PixelOS_caihong-16.0-20251121-2334.zip.part1",
+                "size": 1323654596,
+                "SHA256": "1fa4ba978a0b7bc5c6d0d03944067700bbfdde0d866a49a955353ee543f9992e",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/caihong-sixteen/PixelOS_caihong-16.0-20251121-2334.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_bitra-13.0-20220916-0156.zip",
+        "size": 2404171219,
+        "SHA256": "ee4adf421a4dacf5740bcc998c5cfaa01111014337853a68012432e2d15fc5aa",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/bitra/PixelOS_bitra-13.0-20220916-0156.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/bitra-thirteen/PixelOS_bitra-13.0-20220916-0156.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_bitra-13.0-20220916-0156.zip.part0",
+                "size": 1677721600,
+                "SHA256": "102c82ad8a7e57b177af0266070a8d5f5eb861b8705eafbd226adce3f135f175",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/bitra-thirteen/PixelOS_bitra-13.0-20220916-0156.zip.part0"
+            },
+            {
+                "filename": "PixelOS_bitra-13.0-20220916-0156.zip.part1",
+                "size": 726449619,
+                "SHA256": "d3f2762a2fb0a33972be883d3d12b6760eee3162b79e777222e7704e792b6d93",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/bitra-thirteen/PixelOS_bitra-13.0-20220916-0156.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_bitra-13.0-20230124-1155.zip",
+        "size": 2369522570,
+        "SHA256": "08aa798ae268aa34918a1f2aa1997fbcf56ecf7f916a12491766e59ae5913782",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/bitra/PixelOS_bitra-13.0-20230124-1155.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/bitra-thirteen/PixelOS_bitra-13.0-20230124-1155.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_bitra-13.0-20230124-1155.zip.part0",
+                "size": 1677721600,
+                "SHA256": "1c22992c3ae7c7cf747f06eb31b8e14ce9cbd7b5434f6f314a5fad35633eb0bf",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/bitra-thirteen/PixelOS_bitra-13.0-20230124-1155.zip.part0"
+            },
+            {
+                "filename": "PixelOS_bitra-13.0-20230124-1155.zip.part1",
+                "size": 691800970,
+                "SHA256": "d95de254a0585d0396b2aa18e1002d4e1cbccc742ee8890e2622718b5a3c14e3",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/bitra-thirteen/PixelOS_bitra-13.0-20230124-1155.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_bitra-13.0-20230124-0315.zip",
+        "size": 2361846447,
+        "SHA256": "090b79b22a30f0ad37ca06ec9e15ef29af5fb1802790cfa3483d9b80f190ebd5",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/bitra/PixelOS_bitra-13.0-20230124-0315.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/bitra-thirteen/PixelOS_bitra-13.0-20230124-0315.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_bitra-13.0-20230124-0315.zip.part0",
+                "size": 1677721600,
+                "SHA256": "aa8b1e7196c5b7cac3cee7c181bdeaf2819314a83d36cdde4f21c6a9a8d37f8a",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/bitra-thirteen/PixelOS_bitra-13.0-20230124-0315.zip.part0"
+            },
+            {
+                "filename": "PixelOS_bitra-13.0-20230124-0315.zip.part1",
+                "size": 684124847,
+                "SHA256": "13fed6299283808857b9a60b49f8d5ee98e21985e5f967290237ed0b54ce7189",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/bitra-thirteen/PixelOS_bitra-13.0-20230124-0315.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_bitra-13.0-20230510-1837.zip",
+        "size": 2377366740,
+        "SHA256": "bb4c022a314631e2380c4b11a1b83e1723636de96a84d35d95b9f0389f8d7119",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/bitra/PixelOS_bitra-13.0-20230510-1837.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/bitra-thirteen/PixelOS_bitra-13.0-20230510-1837.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_bitra-13.0-20230510-1837.zip.part0",
+                "size": 1677721600,
+                "SHA256": "72f0a6149da3739335fe152edc5e4ae210576d2e79f9b11349cc038b0ceb45ca",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/bitra-thirteen/PixelOS_bitra-13.0-20230510-1837.zip.part0"
+            },
+            {
+                "filename": "PixelOS_bitra-13.0-20230510-1837.zip.part1",
+                "size": 699645140,
+                "SHA256": "b6c0fc791d7e63beeb8b721c26033932bda04a620d788313e9ce1dd5485dc486",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/bitra-thirteen/PixelOS_bitra-13.0-20230510-1837.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_beyond1lte-14.0-20241019-0428.zip",
+        "size": 1887655943,
+        "SHA256": "4cdfb3298515c3e9d4165271fc43c274c259d2c7ad61114d11561705fc44c767",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beyond1lte/PixelOS_beyond1lte-14.0-20241019-0428.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beyond1lte-fourteen/PixelOS_beyond1lte-14.0-20241019-0428.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_bitra-13.0-20230216-2157.zip",
+        "size": 2376392545,
+        "SHA256": "6229ef500447995faca60ef3632a96f8c1fdf69256d13b805aa1fa1afd858f84",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/bitra/PixelOS_bitra-13.0-20230216-2157.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/bitra-thirteen/PixelOS_bitra-13.0-20230216-2157.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_bitra-13.0-20230216-2157.zip.part0",
+                "size": 1677721600,
+                "SHA256": "b838b5d4332134b53fe73fec4a018e9d86037bbc211ffab78902fb14a50bf924",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/bitra-thirteen/PixelOS_bitra-13.0-20230216-2157.zip.part0"
+            },
+            {
+                "filename": "PixelOS_bitra-13.0-20230216-2157.zip.part1",
+                "size": 698670945,
+                "SHA256": "2b18a322fc9e5006298a78e3add6c7c1cc9c0afa88e113ef54d04797aae9043f",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/bitra-thirteen/PixelOS_bitra-13.0-20230216-2157.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_cancunf-14.0-20241016-0640.zip",
+        "size": 2295219957,
+        "SHA256": "075d7a040be888e1218deaaa7086072157d75f91c0137972b6393286d56c7d65",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cancunf/PixelOS_cancunf-14.0-20241016-0640.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cancunf-fourteen/PixelOS_cancunf-14.0-20241016-0640.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_cancunf-14.0-20241016-0640.zip.part0",
+                "size": 1677721600,
+                "SHA256": "963d669eb1f845244b62d4315fd4fa74f3743cf8b5d46b4de5137cae46f210c9",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cancunf-fourteen/PixelOS_cancunf-14.0-20241016-0640.zip.part0"
+            },
+            {
+                "filename": "PixelOS_cancunf-14.0-20241016-0640.zip.part1",
+                "size": 617498357,
+                "SHA256": "59b588e1c2460235033817b189af0dbfc65ba3175dcef25ce43852b5968ed16b",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cancunf-fourteen/PixelOS_cancunf-14.0-20241016-0640.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_cancunf-15.0-20241215-2113.zip",
+        "size": 2313068676,
+        "SHA256": "509136951586b25ca6becb461b2d7e5d10827e5f93b900a8976e923d627872f2",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/cancunf/PixelOS_cancunf-15.0-20241215-2113.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cancunf-fifteen/PixelOS_cancunf-15.0-20241215-2113.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_cancunf-15.0-20241215-2113.zip.part0",
+                "size": 1677721600,
+                "SHA256": "d112a9d97f7456fe7187ab404f4fc8b9ad9b988cec4ceb29c0bba5051c9764ad",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cancunf-fifteen/PixelOS_cancunf-15.0-20241215-2113.zip.part0"
+            },
+            {
+                "filename": "PixelOS_cancunf-15.0-20241215-2113.zip.part1",
+                "size": 635347076,
+                "SHA256": "e46dcc9213166a0194fdd5825d2d46473554a232a6818cb13a872896074d7a21",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cancunf-fifteen/PixelOS_cancunf-15.0-20241215-2113.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_cancunf-15.0-20250118-2049.zip",
+        "size": 2327286211,
+        "SHA256": "5b6de9fb7b2e422cb8d760f4f3de73a72439be135bffe494f26405b59d3465b8",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/cancunf/PixelOS_cancunf-15.0-20250118-2049.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cancunf-fifteen/PixelOS_cancunf-15.0-20250118-2049.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_cancunf-15.0-20250118-2049.zip.part0",
+                "size": 1677721600,
+                "SHA256": "d8ff94a204154a4e16bc6827bd46da5a3c4c6bba8528e3398af31abb084fb1b3",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cancunf-fifteen/PixelOS_cancunf-15.0-20250118-2049.zip.part0"
+            },
+            {
+                "filename": "PixelOS_cancunf-15.0-20250118-2049.zip.part1",
+                "size": 649564611,
+                "SHA256": "73cd762e730e2bf2176887bd087158dcc3784dd3f6a7e72546cdaebafc9ac1ce",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cancunf-fifteen/PixelOS_cancunf-15.0-20250118-2049.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_caihong-15.0-20250505-1659.zip",
+        "size": 2974761964,
+        "SHA256": "7b0ba36afe0246a904e80166b5c0a6f2f07a1b47fad8ee7f91bf1f0ca8b3185c",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/caihong/PixelOS_caihong-15.0-20250505-1659.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/caihong-fifteen/PixelOS_caihong-15.0-20250505-1659.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_caihong-15.0-20250505-1659.zip.part0",
+                "size": 1677721600,
+                "SHA256": "fd513246ffc04f98542fafa2786d49906a6b6c88479036c3d5bf1b3246c9a941",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/caihong-fifteen/PixelOS_caihong-15.0-20250505-1659.zip.part0"
+            },
+            {
+                "filename": "PixelOS_caihong-15.0-20250505-1659.zip.part1",
+                "size": 1297040364,
+                "SHA256": "12b6f74e85674b93f80b895319de5f2fc8e92b7443d60fb51447b6c426ff419d",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/caihong-fifteen/PixelOS_caihong-15.0-20250505-1659.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_cepheus-12.1-20220812-0450.zip",
+        "size": 1838743889,
+        "SHA256": "857143578b9188fbbdcb9778e29cffa266f893f0e0213bf259a814a279091792",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/cepheus/PixelOS_cepheus-12.1-20220812-0450.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-twelve/PixelOS_cepheus-12.1-20220812-0450.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_caihong-15.0-20250524-0445.zip",
+        "size": 2877627071,
+        "SHA256": "76aa2f3f9e817b9fb083d241a653fef1b96c243f9ae4a54e71e3cdf308123847",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/caihong/PixelOS_caihong-15.0-20250524-0445.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/caihong-fifteen/PixelOS_caihong-15.0-20250524-0445.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_caihong-15.0-20250524-0445.zip.part0",
+                "size": 1677721600,
+                "SHA256": "7544e446bf4d90279b2ff2d31ebab46f3997239ee817fe25eac2df1e6ac3570c",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/caihong-fifteen/PixelOS_caihong-15.0-20250524-0445.zip.part0"
+            },
+            {
+                "filename": "PixelOS_caihong-15.0-20250524-0445.zip.part1",
+                "size": 1199905471,
+                "SHA256": "bdd7fcd93579d2e99422427a7cfc79e5d290784f376d6f7c4b81ec70c88d5380",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/caihong-fifteen/PixelOS_caihong-15.0-20250524-0445.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_caihong-15.0-20250516-0334.zip",
+        "size": 3327667953,
+        "SHA256": "7f9fba0c9ed26ca95c6eb853b0e43673288761a3df55b9061372424c9798e97f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/caihong/PixelOS_caihong-15.0-20250516-0334.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/caihong-fifteen/PixelOS_caihong-15.0-20250516-0334.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_caihong-15.0-20250516-0334.zip.part0",
+                "size": 1677721600,
+                "SHA256": "a38cf8de1b636f23a8739c5f8113e300bda3be6db8d606939e178a429695cd84",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/caihong-fifteen/PixelOS_caihong-15.0-20250516-0334.zip.part0"
+            },
+            {
+                "filename": "PixelOS_caihong-15.0-20250516-0334.zip.part1",
+                "size": 1649946353,
+                "SHA256": "3fc264b6342ff8f261406904ebf7ddee163bf2271d75386c50e2f94f5533e3e7",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/caihong-fifteen/PixelOS_caihong-15.0-20250516-0334.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_cancunf-15.0-20250516-1406.zip",
+        "size": 2361646829,
+        "SHA256": "63f79e5de53ca410ea6aae81b6d05327553f3192f873224d43a20ee24f1d78c7",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/cancunf/PixelOS_cancunf-15.0-20250516-1406.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cancunf-fifteen/PixelOS_cancunf-15.0-20250516-1406.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_cancunf-15.0-20250516-1406.zip.part0",
+                "size": 1677721600,
+                "SHA256": "248ba50ded4d0a50e8549cf77e4267d80bfca4cf3d31ebdfdda43e4d288dcce1",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cancunf-fifteen/PixelOS_cancunf-15.0-20250516-1406.zip.part0"
+            },
+            {
+                "filename": "PixelOS_cancunf-15.0-20250516-1406.zip.part1",
+                "size": 683925229,
+                "SHA256": "dbbbed215b9edaf84ddde0047e5b1882db8c9865b408b2d6f31c5ef76dc4bf89",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cancunf-fifteen/PixelOS_cancunf-15.0-20250516-1406.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_caihong-15.0-20250517-1548.zip",
+        "size": 3327677408,
+        "SHA256": "679931d8a941212d73ce830538bc02213bf6539113dd6d1a9beb758cba3dad0f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/caihong/PixelOS_caihong-15.0-20250517-1548.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/caihong-fifteen/PixelOS_caihong-15.0-20250517-1548.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_caihong-15.0-20250517-1548.zip.part0",
+                "size": 1677721600,
+                "SHA256": "1b6372fd42336494cd2a1addc13d00939d27ba13993ac8a3ff36fde107dfb503",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/caihong-fifteen/PixelOS_caihong-15.0-20250517-1548.zip.part0"
+            },
+            {
+                "filename": "PixelOS_caihong-15.0-20250517-1548.zip.part1",
+                "size": 1649955808,
+                "SHA256": "a568a65706701f532db32ca8246887becf241c848795673dbec293a0a30f4802",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/caihong-fifteen/PixelOS_caihong-15.0-20250517-1548.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_cepheus-13.0-20221020-2358.zip",
+        "size": 1963988612,
+        "SHA256": "cbc465b70437cd61d06a2d873571143270b6447aee57b29289126fcc5bbe9c5c",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/cepheus/PixelOS_cepheus-13.0-20221020-2358.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-thirteen/PixelOS_cepheus-13.0-20221020-2358.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_cancunf-16.2-20260224-1356.zip",
+        "size": 2829720402,
+        "SHA256": "ec5e479098d88ea31efcd71b9e885bd080aedaedb3e75121428900b6486e626b",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/cancunf/PixelOS_cancunf-16.2-20260224-1356.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cancunf-sixteen/PixelOS_cancunf-16.2-20260224-1356.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_cancunf-16.2-20260224-1356.zip.part0",
+                "size": 1677721600,
+                "SHA256": "b7f4846ac704b1d79dbbdf0aaca69da986bda6755ed87c68d25712efc948b14e",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cancunf-sixteen/PixelOS_cancunf-16.2-20260224-1356.zip.part0"
+            },
+            {
+                "filename": "PixelOS_cancunf-16.2-20260224-1356.zip.part1",
+                "size": 1151998802,
+                "SHA256": "b90179b6ff6190bd4fdc66175cfec09eb61e880ba888b3bb2bd1b33140327464",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cancunf-sixteen/PixelOS_cancunf-16.2-20260224-1356.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_beyondx-14.0-20241019-0510.zip",
+        "size": 1901156067,
+        "SHA256": "0213deb8a0eefd3b13b9797407add62320c073be897b507cbed7d1ac87441bb3",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beyondx/PixelOS_beyondx-14.0-20241019-0510.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/beyondx-fourteen/PixelOS_beyondx-14.0-20241019-0510.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_cepheus-13.0-20221116-1145.zip",
+        "size": 2059747844,
+        "SHA256": "f5adb058c4553d691c79cc23225a70d689a52b1fad267aa321551d7f897a25a2",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/cepheus/PixelOS_cepheus-13.0-20221116-1145.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-thirteen/PixelOS_cepheus-13.0-20221116-1145.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_cepheus-13.0-20221116-1145.zip.part0",
+                "size": 1677721600,
+                "SHA256": "ad57436322f1329a46d9783abc9af5c5ffc7eace6b25601f4ab92f4c9695dc12",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-thirteen/PixelOS_cepheus-13.0-20221116-1145.zip.part0"
+            },
+            {
+                "filename": "PixelOS_cepheus-13.0-20221116-1145.zip.part1",
+                "size": 382026244,
+                "SHA256": "6e1252a023521ccfc845dcdcf2fb3be2ed7c0fa2976ff3a670d06f3035f90591",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-thirteen/PixelOS_cepheus-13.0-20221116-1145.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_cepheus-13.0-20221101-2147.zip",
+        "size": 2076524993,
+        "SHA256": "6a1cf92b91afc8022f4c70504861423ab79dea6809aeb8ed417ec8e5e61e889c",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/cepheus/PixelOS_cepheus-13.0-20221101-2147.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-thirteen/PixelOS_cepheus-13.0-20221101-2147.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_cepheus-13.0-20221101-2147.zip.part0",
+                "size": 1677721600,
+                "SHA256": "631a198c337a3ad676bda4da37b83d7fc31879e927e3ffbdff76d6569018259d",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-thirteen/PixelOS_cepheus-13.0-20221101-2147.zip.part0"
+            },
+            {
+                "filename": "PixelOS_cepheus-13.0-20221101-2147.zip.part1",
+                "size": 398803393,
+                "SHA256": "8405b276429ceab43a89674ac75bd3f695221b7eec452b39a17f22492e0fae71",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-thirteen/PixelOS_cepheus-13.0-20221101-2147.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_cepheus-13.0-20230416-1638.zip",
+        "size": 1974706208,
+        "SHA256": "8ae617f0806c3626ca3eff345643772fb269a2a2e2998ee4199ec4896a3d557c",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/cepheus/PixelOS_cepheus-13.0-20230416-1638.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-thirteen/PixelOS_cepheus-13.0-20230416-1638.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_cepheus-13.0-20230123-0939.zip",
+        "size": 2282771102,
+        "SHA256": "8b998f17582b2a05401933f1eb56ed829b4ffc38f9421200bf04938e57bd2de7",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/cepheus/PixelOS_cepheus-13.0-20230123-0939.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-thirteen/PixelOS_cepheus-13.0-20230123-0939.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_cepheus-13.0-20230123-0939.zip.part0",
+                "size": 1677721600,
+                "SHA256": "147788d194489e0f055ed546f984358ebddf30dd39e2c1b3c5d0a735e3fdc92e",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-thirteen/PixelOS_cepheus-13.0-20230123-0939.zip.part0"
+            },
+            {
+                "filename": "PixelOS_cepheus-13.0-20230123-0939.zip.part1",
+                "size": 605049502,
+                "SHA256": "c1493523765eb9692b69ef59ec75a18d7ee12032aff8f35cfb5ab5763514e432",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-thirteen/PixelOS_cepheus-13.0-20230123-0939.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_cepheus-13.0-20230223-0200.zip",
+        "size": 1962007674,
+        "SHA256": "2c5382d423079b98cd818f9eddd3a70413eacdcd5c6299b55e0aa89dc731be70",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/cepheus/PixelOS_cepheus-13.0-20230223-0200.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-thirteen/PixelOS_cepheus-13.0-20230223-0200.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_cepheus-13.0-20230510-2239.zip",
+        "size": 1975573080,
+        "SHA256": "245919205c8244f510e551cfc4dcd101ea26e8fba411c508ae183dfcb7f7582d",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/cepheus/PixelOS_cepheus-13.0-20230510-2239.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-thirteen/PixelOS_cepheus-13.0-20230510-2239.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_cepheus-13.0-20230709-1126.zip",
+        "size": 2000547316,
+        "SHA256": "d8b39ca4e7dc5c3ac3cdcf90ff8d90b2648205ba1b5f74163e0b624c5513088b",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/cepheus/PixelOS_cepheus-13.0-20230709-1126.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-thirteen/PixelOS_cepheus-13.0-20230709-1126.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_cepheus-13.0-20231003-1544.zip",
+        "size": 1963075678,
+        "SHA256": "b4fac841a642d14b0d35aa7893e2e921431b1df2a62b1b72c95176f4bd2d0cde",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/cepheus/PixelOS_cepheus-13.0-20231003-1544.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-thirteen/PixelOS_cepheus-13.0-20231003-1544.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_cepheus-13.0-20230821-0447.zip",
+        "size": 1933315924,
+        "SHA256": "914c0dc1ef76698e389d505a5389b1ed03db4491fcfe429c2a5c0b756dcb2224",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/cepheus/PixelOS_cepheus-13.0-20230821-0447.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-thirteen/PixelOS_cepheus-13.0-20230821-0447.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_cepheus-13.0-20231030-0208.zip",
+        "size": 1962166261,
+        "SHA256": "ecf220e6489fc37ab4d300840d9200705f8147fbc0f929e353af3a18c9e88740",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/cepheus/PixelOS_cepheus-13.0-20231030-0208.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-thirteen/PixelOS_cepheus-13.0-20231030-0208.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_cepheus-14.0-20231112-0137.zip",
+        "size": 2130214157,
+        "SHA256": "09e9cfb1021a87effe6b2ee2adcb966767c25d2183e213cc5a980f5b061a0b46",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/gauguin/PixelOS_cepheus-14.0-20231112-0137.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_cepheus-14.0-20231112-0137.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_cepheus-14.0-20231112-0137.zip.part0",
+                "size": 1677721600,
+                "SHA256": "688d63ffd1f0bc3f31b6b23577f3237f3471190e3782d278f214fe2b8eb023c3",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_cepheus-14.0-20231112-0137.zip.part0"
+            },
+            {
+                "filename": "PixelOS_cepheus-14.0-20231112-0137.zip.part1",
+                "size": 452492557,
+                "SHA256": "1a1d5ee83a043212b9346c97605fa6d78ad39f5f8eb80ad160f9c1408e0bca5a",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-fourteen/PixelOS_cepheus-14.0-20231112-0137.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_cepheus-14.0-20231224-2152.zip",
+        "size": 2189728502,
+        "SHA256": "cedb5ce2baee36f5087ec7cc5aa5f02d1e4822adad0b59577579e8650be42910",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cepheus/PixelOS_cepheus-14.0-20231224-2152.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fourteen/PixelOS_cepheus-14.0-20231224-2152.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_cepheus-14.0-20231224-2152.zip.part0",
+                "size": 1677721600,
+                "SHA256": "00df8244d0eb1f9cb1b418b792a50f34c18e918fe579ea2ecec039ef052bcf12",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fourteen/PixelOS_cepheus-14.0-20231224-2152.zip.part0"
+            },
+            {
+                "filename": "PixelOS_cepheus-14.0-20231224-2152.zip.part1",
+                "size": 512006902,
+                "SHA256": "6c426920934628d33cd4dfc7548b02780e5087f3f32839feb1712f42b24227c1",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fourteen/PixelOS_cepheus-14.0-20231224-2152.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_cepheus-14.0-20231128-0036.zip",
+        "size": 2130654166,
+        "SHA256": "85088c37f2c8c8c9c99a6a019753de569a2c6cefd4e1db78a37d4282eb30a40f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cepheus/PixelOS_cepheus-14.0-20231128-0036.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fourteen/PixelOS_cepheus-14.0-20231128-0036.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_cepheus-14.0-20231128-0036.zip.part0",
+                "size": 1677721600,
+                "SHA256": "19832be8439beef16ccd122d3fe88d2e58dece78277b96d170bd00ce3876dd16",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fourteen/PixelOS_cepheus-14.0-20231128-0036.zip.part0"
+            },
+            {
+                "filename": "PixelOS_cepheus-14.0-20231128-0036.zip.part1",
+                "size": 452932566,
+                "SHA256": "ef85e66898fd12a174d04c13372035c1569d386a8691b0d86fd6577dba480792",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fourteen/PixelOS_cepheus-14.0-20231128-0036.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_cepheus-14.0-20240129-2128.zip",
+        "size": 2194476462,
+        "SHA256": "4474224739d8cffb5ccec9b55ed08053f88a8016f7581ff620b85232d69f900b",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cepheus/PixelOS_cepheus-14.0-20240129-2128.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fourteen/PixelOS_cepheus-14.0-20240129-2128.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_cepheus-14.0-20240129-2128.zip.part0",
+                "size": 1677721600,
+                "SHA256": "4c11dc263360b2e41ac1f97c392b423c4c826b8a2003308c9e2f192f817131dd",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fourteen/PixelOS_cepheus-14.0-20240129-2128.zip.part0"
+            },
+            {
+                "filename": "PixelOS_cepheus-14.0-20240129-2128.zip.part1",
+                "size": 516754862,
+                "SHA256": "57d14cd03baf7877d656efd24d8f76fde9ee33e3190a0491b27d0593894c5801",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fourteen/PixelOS_cepheus-14.0-20240129-2128.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_cepheus-14.0-20240217-0129.zip",
+        "size": 2248709999,
+        "SHA256": "cb6a45d5ed7e3714e76c1b332b341294440f855392f8bb248cda2f276e28f8e2",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cepheus/PixelOS_cepheus-14.0-20240217-0129.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fourteen/PixelOS_cepheus-14.0-20240217-0129.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_cepheus-14.0-20240217-0129.zip.part0",
+                "size": 1677721600,
+                "SHA256": "a3859868151eb81241ee58c245b816e1a5a3f48cd4fc0fb009c321b45cd30b52",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fourteen/PixelOS_cepheus-14.0-20240217-0129.zip.part0"
+            },
+            {
+                "filename": "PixelOS_cepheus-14.0-20240217-0129.zip.part1",
+                "size": 570988399,
+                "SHA256": "66883490c24b931e32ad55b334e4f92d4480a8642e6adfd33f435f4809cbc257",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fourteen/PixelOS_cepheus-14.0-20240217-0129.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_cepheus-14.0-20240423-0108.zip",
+        "size": 2214704632,
+        "SHA256": "7648e4dc4bd5124f71461eba172ce5f826a872e661a7b6563f37ed62e72428be",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cepheus/PixelOS_cepheus-14.0-20240423-0108.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fourteen/PixelOS_cepheus-14.0-20240423-0108.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_cepheus-14.0-20240423-0108.zip.part0",
+                "size": 1677721600,
+                "SHA256": "c3c45befaf168e9c1cbbd694486b950a19c10aad60a073a3c29eb40159e37be9",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fourteen/PixelOS_cepheus-14.0-20240423-0108.zip.part0"
+            },
+            {
+                "filename": "PixelOS_cepheus-14.0-20240423-0108.zip.part1",
+                "size": 536983032,
+                "SHA256": "9c2677be5a5f1f1612f75c4d0aab216d07d3af321e2a46aa371f42fd5b079b31",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fourteen/PixelOS_cepheus-14.0-20240423-0108.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_cepheus-14.0-20240516-0238.zip",
+        "size": 2266540537,
+        "SHA256": "6b3813dac6877cc3f024c2e7048805526fa3edb6779bce7e3febc78690e5660e",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cepheus/PixelOS_cepheus-14.0-20240516-0238.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fourteen/PixelOS_cepheus-14.0-20240516-0238.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_cepheus-14.0-20240516-0238.zip.part0",
+                "size": 1677721600,
+                "SHA256": "f0a5fd64962cc2ab023fa721c1811bae77b63b6981ed13975320b4e0d551e20d",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fourteen/PixelOS_cepheus-14.0-20240516-0238.zip.part0"
+            },
+            {
+                "filename": "PixelOS_cepheus-14.0-20240516-0238.zip.part1",
+                "size": 588818937,
+                "SHA256": "f66d8081017308a69a2dc6508e870aebd9e84ff6b8163c3244712ae231134000",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fourteen/PixelOS_cepheus-14.0-20240516-0238.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_cepheus-14.0-20240527-2352.zip",
+        "size": 2267749055,
+        "SHA256": "f6afec10db98dea7ccb6b7ba7d8c552f1973a10090189e43cfa643554fb3cf6b",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cepheus/PixelOS_cepheus-14.0-20240527-2352.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fourteen/PixelOS_cepheus-14.0-20240527-2352.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_cepheus-14.0-20240527-2352.zip.part0",
+                "size": 1677721600,
+                "SHA256": "7aa009957762721a46b089c597fa93921b693995a0f600443d9799bcae898ebf",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fourteen/PixelOS_cepheus-14.0-20240527-2352.zip.part0"
+            },
+            {
+                "filename": "PixelOS_cepheus-14.0-20240527-2352.zip.part1",
+                "size": 590027455,
+                "SHA256": "6c6197bd3aa2bac75febc41853426fa61d5749822239482db90ca8bc235707c3",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fourteen/PixelOS_cepheus-14.0-20240527-2352.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_cepheus-14.0-20240819-2012.zip",
+        "size": 2365982400,
+        "SHA256": "c4b3e8d3f7d4a38ffe4751a0f9f2f2f4ac61fd7372be6703fcab78b35dae35ba",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cepheus/PixelOS_cepheus-14.0-20240819-2012.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fourteen/PixelOS_cepheus-14.0-20240819-2012.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_cepheus-14.0-20240819-2012.zip.part0",
+                "size": 1677721600,
+                "SHA256": "8b6100185b453c3b7b47ebf52058a9b52b4376af8f4011f233529dbf6f4ed5f0",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fourteen/PixelOS_cepheus-14.0-20240819-2012.zip.part0"
+            },
+            {
+                "filename": "PixelOS_cepheus-14.0-20240819-2012.zip.part1",
+                "size": 688260800,
+                "SHA256": "c00a05dd09945bba5dafd3897e7776ed60530b099363fc726b4cdca577156586",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fourteen/PixelOS_cepheus-14.0-20240819-2012.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_cepheus-14.0-20240724-0121.zip",
+        "size": 2541462413,
+        "SHA256": "d20ab138dad9aba4a668c8fc83c807fc8dabfedc2cc1983c36a15291edecd626",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/cepheus/PixelOS_cepheus-14.0-20240724-0121.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fourteen/PixelOS_cepheus-14.0-20240724-0121.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_cepheus-14.0-20240724-0121.zip.part0",
+                "size": 1677721600,
+                "SHA256": "3f449259513286672408d768f94ca247068062f7bcbd7c0aa9a7cef3bc4f3769",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fourteen/PixelOS_cepheus-14.0-20240724-0121.zip.part0"
+            },
+            {
+                "filename": "PixelOS_cepheus-14.0-20240724-0121.zip.part1",
+                "size": 863740813,
+                "SHA256": "37f6bbf63ccb8e2ca7255b30691c19426d34bb48af164bd8489b406e5ecb26ae",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cepheus-fourteen/PixelOS_cepheus-14.0-20240724-0121.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_bitra-14.0-20240131-2054.zip",
+        "size": 2721143886,
+        "SHA256": "6305c51016ff1495b6e2097997fcf3e5321e6d3e8bbe73125acd85324a10c092",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/bitra/PixelOS_bitra-14.0-20240131-2054.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/bitra-fourteen/PixelOS_bitra-14.0-20240131-2054.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_bitra-14.0-20240131-2054.zip.part0",
+                "size": 1677721600,
+                "SHA256": "fb158c0d4ea150e12e6377c17319f620720f36cb048627921e5287a89b14032c",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/bitra-fourteen/PixelOS_bitra-14.0-20240131-2054.zip.part0"
+            },
+            {
+                "filename": "PixelOS_bitra-14.0-20240131-2054.zip.part1",
+                "size": 1043422286,
+                "SHA256": "6f0c15fa081debef71f3243d3723049e814a5085e42234c612575efebef40dee",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/bitra-fourteen/PixelOS_bitra-14.0-20240131-2054.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_cancunf-15.0-20250705-1051.zip",
+        "size": 2359332846,
+        "SHA256": "e3474476381dde78f77ebdd7b8c995e2e6549fab82281dcec5d1345c64684388",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/cancunf/PixelOS_cancunf-15.0-20250705-1051.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cancunf-fifteen/PixelOS_cancunf-15.0-20250705-1051.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_cancunf-15.0-20250705-1051.zip.part0",
+                "size": 1677721600,
+                "SHA256": "e4c4daad211e386741479e581ec056f90f531c087226800a70b7abd843059ef8",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cancunf-fifteen/PixelOS_cancunf-15.0-20250705-1051.zip.part0"
+            },
+            {
+                "filename": "PixelOS_cancunf-15.0-20250705-1051.zip.part1",
+                "size": 681611246,
+                "SHA256": "4ed574dfce78436ef420f08a9a2265b7606402d8e9a9b97a596c6a27bae45ebd",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/cancunf-fifteen/PixelOS_cancunf-15.0-20250705-1051.zip.part1"
+            }
+        ]
     }
 ]
