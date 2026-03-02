@@ -15,7 +15,7 @@ logging.basicConfig(
 )
 
 LOG_FILE = "log.json"
-MAX_UPLOAD_PER_RUN = 120
+MAX_UPLOAD_PER_RUN = 60
 SPLIT_SIZE_BYTES = int(1.9 * 1024**3)
 PART_SIZE_MB = "1600M" # for split command
 GH_REPO = os.environ.get("GITHUB_REPOSITORY", "user/repo")
@@ -236,10 +236,10 @@ def main():
 
 
     # Orchestrate full duplexity
-    # 30 workers for downloading explicitly
-    # 30 workers for processing/uploading
+    # 3 workers for downloading explicitly
+    # 3 workers for processing/uploading
     
-    with ThreadPoolExecutor(max_workers=30) as download_pool, ThreadPoolExecutor(max_workers=20) as upload_pool:
+    with ThreadPoolExecutor(max_workers=3) as download_pool, ThreadPoolExecutor(max_workers=3) as upload_pool:
         total_to_process = len(to_process)
         dl_futures = {}
         for idx, item in enumerate(to_process, 1):
