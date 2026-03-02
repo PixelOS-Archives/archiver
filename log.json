@@ -6492,5 +6492,1984 @@
         "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/ginkgo/PixelOS_ginkgo-13.0-20230817-2335.zip/download",
         "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/ginkgo-thirteen/PixelOS_ginkgo-13.0-20230817-2335.zip",
         "parts": false
+    },
+    {
+        "filename": "PixelOS_lancelot-13.0-20230707-1250.zip",
+        "size": 1706870283,
+        "SHA256": "d7685592083c342fcf9e8121d8563e8b6ee68cf32d64343286f17ef513f75ed6",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/lancelot/PixelOS_lancelot-13.0-20230707-1250.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lancelot-thirteen/PixelOS_lancelot-13.0-20230707-1250.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_lime-13.0-20230729-0407.zip",
+        "size": 1851775608,
+        "SHA256": "2e25e857e1861c3518143dbf44e6899f080f0af165f93d806fb8102e6ff9267f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/lime/PixelOS_lime-13.0-20230729-0407.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lime-thirteen/PixelOS_lime-13.0-20230729-0407.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_kiev-15.0-20250518-1521.zip",
+        "size": 1907246784,
+        "SHA256": "f004e4ade161fa13833524ade579e396fad925324516ff4c617f8e37e078cbd1",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/kiev/PixelOS_kiev-15.0-20250518-1521.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/kiev-fifteen/PixelOS_kiev-15.0-20250518-1521.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_lime-13.0-20230424-1046.zip",
+        "size": 1808577867,
+        "SHA256": "1156e883f07328ab12b51c1b4f937bb273be91b01f622cbe1c302397be5c8d25",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/lime/PixelOS_lime-13.0-20230424-1046.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lime-thirteen/PixelOS_lime-13.0-20230424-1046.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_lime-13.0-20230510-0907.zip",
+        "size": 1802257133,
+        "SHA256": "7057cae0b99f66aaf62e793637b2c5378492b27ae4a72039b9131f1772c14666",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/lime/PixelOS_lime-13.0-20230510-0907.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lime-thirteen/PixelOS_lime-13.0-20230510-0907.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_lisa-13.0-20230419-0128.zip",
+        "size": 1952540175,
+        "SHA256": "931b433ba701cb5ebc9d094f24b751583ed5709b3f084bfaff4bcf0a2f396247",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/lisa/PixelOS_lisa-13.0-20230419-0128.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-thirteen/PixelOS_lisa-13.0-20230419-0128.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_lisa-12.0-20220312-1953.zip",
+        "size": 1998930371,
+        "SHA256": "d4d853b6595c0ff90f3dae4eb2d0e8d1555beaa3819eefbe66128d14953ee2c7",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/lisa/PixelOS_lisa-12.0-20220312-1953.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-twelve/PixelOS_lisa-12.0-20220312-1953.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_lisa-13.0-20230413-2042.zip",
+        "size": 1952243421,
+        "SHA256": "f555a6def2721c77d1ff1e004d474d948fc5c51cd63b63e2aa021466fb9de6c7",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/lisa/PixelOS_lisa-13.0-20230413-2042.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-thirteen/PixelOS_lisa-13.0-20230413-2042.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_lime-13.0-20230723-0407.zip",
+        "size": 1849531265,
+        "SHA256": "a571d2ffdb54da1b94f9c511a9f715587b852f2d994f3b39402b2b1513c09cd1",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/lime/PixelOS_lime-13.0-20230723-0407.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lime-thirteen/PixelOS_lime-13.0-20230723-0407.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_lisa-13.0-20230510-1030.zip",
+        "size": 1943063538,
+        "SHA256": "6fad3638fa69b48c14fd1c1db4fd23abfdf56bf2f9e48f1ddbae4ce0fd4ffbe5",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/lisa/PixelOS_lisa-13.0-20230510-1030.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-thirteen/PixelOS_lisa-13.0-20230510-1030.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_lisa-12.1-20220430-1730.zip",
+        "size": 2003104561,
+        "SHA256": "0f4cef253baa640ad8c0f7709346d6c711fb54d27d70ef061a274ed779e9ec23",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/lisa/PixelOS_lisa-12.1-20220430-1730.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-twelve/PixelOS_lisa-12.1-20220430-1730.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_lisa-12.1-20220513-0320.zip",
+        "size": 2005712387,
+        "SHA256": "ecf4e0a2bdac4c8098a36e1231c56b8d77d5ddc9cd1ef8cfa945fba2dc699918",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/lisa/PixelOS_lisa-12.1-20220513-0320.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-twelve/PixelOS_lisa-12.1-20220513-0320.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_lisa-12.1-20220618-0756.zip",
+        "size": 2005783964,
+        "SHA256": "537aee2d19b4b5ace685ff900ccd82a13fd2021cfd8b104590e514e573b2128c",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/lisa/PixelOS_lisa-12.1-20220618-0756.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-twelve/PixelOS_lisa-12.1-20220618-0756.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_juice-13.0-20221124-1207.zip",
+        "size": 1947587709,
+        "SHA256": "6547dfb8378555032ec5c5220695e48da58e44c0c0a5a11b517ff4b60727aab0",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/juice/PixelOS_juice-13.0-20221124-1207.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/juice-thirteen/PixelOS_juice-13.0-20221124-1207.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_lisa-13.0-20230216-0259.zip",
+        "size": 1929060395,
+        "SHA256": "e5d327132152a0e675d1cb6b23400fd9f48bcaaa4331490221e18e8a9ae146ad",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/lisa/PixelOS_lisa-13.0-20230216-0259.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-thirteen/PixelOS_lisa-13.0-20230216-0259.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_lisa-13.0-20230123-0832.zip",
+        "size": 2032920453,
+        "SHA256": "55f99a5230bb58acf4ec665b236a737d2a50905952f97e1fc2bb81e15ae211c6",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/lisa/PixelOS_lisa-13.0-20230123-0832.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-thirteen/PixelOS_lisa-13.0-20230123-0832.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_lisa-13.0-20230215-0551.zip",
+        "size": 1929062653,
+        "SHA256": "d99a88bca19fc6eeb3d236a71fc2d40e3c261098be6b233adb41f7f8053bf792",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/lisa/PixelOS_lisa-13.0-20230215-0551.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-thirteen/PixelOS_lisa-13.0-20230215-0551.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_lisa-13.0-20230129-1023.zip",
+        "size": 2032662316,
+        "SHA256": "5789d8d5ee85c6054fef506d90b1e6a47a0ed99ab0df9676cdd8a1b4ed86277f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/lisa/PixelOS_lisa-13.0-20230129-1023.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-thirteen/PixelOS_lisa-13.0-20230129-1023.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_lisa-13.0-20221023-0320.zip",
+        "size": 2071724117,
+        "SHA256": "3ba2e4f29246f5401945389f165747663fb0032c287a5fc12294d01a2e2f2a57",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/lisa/PixelOS_lisa-13.0-20221023-0320.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-thirteen/PixelOS_lisa-13.0-20221023-0320.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lisa-13.0-20221023-0320.zip.part0",
+                "size": 1677721600,
+                "SHA256": "09cb17d04be59f1ce6e7ba9ddfa9d84ea03e382f6f3143f11feb9beb06d65c1d",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-thirteen/PixelOS_lisa-13.0-20221023-0320.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lisa-13.0-20221023-0320.zip.part1",
+                "size": 394002517,
+                "SHA256": "5c768756a52af33f8f1ae001916042804a61263c3d9a47566a49a22184d107c7",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-thirteen/PixelOS_lisa-13.0-20221023-0320.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lisa-13.0-20230829-0610.zip",
+        "size": 2006297074,
+        "SHA256": "e9632f078d9f817e7a1bc32720925b7ad83f3a84de9518d5e748f6aa94576d39",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/lisa/PixelOS_lisa-13.0-20230829-0610.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-thirteen/PixelOS_lisa-13.0-20230829-0610.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_lisa-12.1-20220711-1206.zip",
+        "size": 2103027750,
+        "SHA256": "023e6c3c3a7f90ec4d2c9fef9b6ac0080c47bebd5b216fcdfd7966d9f68ac066",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/lisa/PixelOS_lisa-12.1-20220711-1206.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-twelve/PixelOS_lisa-12.1-20220711-1206.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lisa-12.1-20220711-1206.zip.part0",
+                "size": 1677721600,
+                "SHA256": "c98511c179d3b9c6ee1230c675d3b329f03c022d00a2f05203f1aee895bb8567",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-twelve/PixelOS_lisa-12.1-20220711-1206.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lisa-12.1-20220711-1206.zip.part1",
+                "size": 425306150,
+                "SHA256": "b672634261a47add38c34e78237b44e13c161dd097eeaa5086d05e822a02b5a2",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-twelve/PixelOS_lisa-12.1-20220711-1206.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lisa-12.1-20220622-1650.zip",
+        "size": 2100173882,
+        "SHA256": "64880c004045447f34fa9bf5b024d6cf83d7cb0e2cb051109c5daef8062ae3b5",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/lisa/PixelOS_lisa-12.1-20220622-1650.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-twelve/PixelOS_lisa-12.1-20220622-1650.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lisa-12.1-20220622-1650.zip.part0",
+                "size": 1677721600,
+                "SHA256": "f1e3c98d2d9aed7eb85956c60bb9c01c81e7ae7d8138a15d98478a590b49ef6e",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-twelve/PixelOS_lisa-12.1-20220622-1650.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lisa-12.1-20220622-1650.zip.part1",
+                "size": 422452282,
+                "SHA256": "64408aac88d91271490826ec4c9c7762d199722bf283ee6d48526c440b155610",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-twelve/PixelOS_lisa-12.1-20220622-1650.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lisa-12.1-20220815-1313.zip",
+        "size": 2102007782,
+        "SHA256": "e86e0cd5b8e39ff35c8ad26733229c63bdb25c0f73efffc7829b27f1126980ab",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/lisa/PixelOS_lisa-12.1-20220815-1313.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-twelve/PixelOS_lisa-12.1-20220815-1313.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lisa-12.1-20220815-1313.zip.part0",
+                "size": 1677721600,
+                "SHA256": "c45e9a27cf09c3d94098fd314d32521ffb3458c2d1368e18c28baf6b92bdf36d",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-twelve/PixelOS_lisa-12.1-20220815-1313.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lisa-12.1-20220815-1313.zip.part1",
+                "size": 424286182,
+                "SHA256": "6916cd29526a6c036a79c92673acd83f1089d422eb25b5838dae8ba054e66769",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-twelve/PixelOS_lisa-12.1-20220815-1313.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lisa-13.0-20230705-0421.zip",
+        "size": 2059081497,
+        "SHA256": "de8659e3f8fb4d93e45847db1a5d68fc18b352da087e4c53f17e0a911cfa9a7e",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/lisa/PixelOS_lisa-13.0-20230705-0421.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-thirteen/PixelOS_lisa-13.0-20230705-0421.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lisa-13.0-20230705-0421.zip.part0",
+                "size": 1677721600,
+                "SHA256": "c951636a44f12fe6d88bd834129d1a034f220c64665c17d94bd32aafc872d47e",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-thirteen/PixelOS_lisa-13.0-20230705-0421.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lisa-13.0-20230705-0421.zip.part1",
+                "size": 381359897,
+                "SHA256": "a03b9d9bcaff9f14323c44d910334b44ceff4e3d1705db75f2cae9bba85359f8",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-thirteen/PixelOS_lisa-13.0-20230705-0421.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lisa-13.0-20230718-0229.zip",
+        "size": 2072974596,
+        "SHA256": "f6ffbf848958917bf332dacacac9860dd5da1d48d89e2adbcf5c43ffaac95dd7",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/lisa/PixelOS_lisa-13.0-20230718-0229.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-thirteen/PixelOS_lisa-13.0-20230718-0229.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lisa-13.0-20230718-0229.zip.part0",
+                "size": 1677721600,
+                "SHA256": "f76412c6d40909e03f82c2f08017cc621f6c52cfb8103b3e1525775aff949671",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-thirteen/PixelOS_lisa-13.0-20230718-0229.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lisa-13.0-20230718-0229.zip.part1",
+                "size": 395252996,
+                "SHA256": "4ed32309062950912f8b56a4d7240c2015a27f8ad28c07586fad343511f2387b",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-thirteen/PixelOS_lisa-13.0-20230718-0229.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lisa-12.1-20220712-0056.zip",
+        "size": 2103640332,
+        "SHA256": "79c8155a0e328ae47172115c4d6f1a171ee3b3ff66739b8aa7b94304a3abdb0c",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/lisa/PixelOS_lisa-12.1-20220712-0056.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-twelve/PixelOS_lisa-12.1-20220712-0056.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lisa-12.1-20220712-0056.zip.part0",
+                "size": 1677721600,
+                "SHA256": "0a58d5da11de3a12bd3c6d0175fb01cdf2e760a7ff3f252ef1c0dc264ef8ba73",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-twelve/PixelOS_lisa-12.1-20220712-0056.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lisa-12.1-20220712-0056.zip.part1",
+                "size": 425918732,
+                "SHA256": "be6863fee9ebf732d7447a95976ce72ae8c7d63acf7e8c73427985e0b5cae0e4",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-twelve/PixelOS_lisa-12.1-20220712-0056.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lisa-12.1-20220411-0526.zip",
+        "size": 2101116593,
+        "SHA256": "bdd1ca6031718ec8a2cc9e1c1c956ec58ce917a56c2757be67261355d76f34f9",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/lisa/PixelOS_lisa-12.1-20220411-0526.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-twelve/PixelOS_lisa-12.1-20220411-0526.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lisa-12.1-20220411-0526.zip.part0",
+                "size": 1677721600,
+                "SHA256": "e3964fbb6885b1e6f3753cd5a834f3f64400de6330372355749d648172f1866f",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-twelve/PixelOS_lisa-12.1-20220411-0526.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lisa-12.1-20220411-0526.zip.part1",
+                "size": 423394993,
+                "SHA256": "c03d7648589d855ad60caf4f6d682601b2f0336163a23be76feb7f0def2c5fb3",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-twelve/PixelOS_lisa-12.1-20220411-0526.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_kiev-16.2-20260225-2117.zip",
+        "size": 2126165004,
+        "SHA256": "32df224edbb8a883de1f3545f54ab71d0988a7c74191f1bb7eaa75cbe2b7c734",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/kiev/PixelOS_kiev-16.2-20260225-2117.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/kiev-sixteen/PixelOS_kiev-16.2-20260225-2117.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_kiev-16.2-20260225-2117.zip.part0",
+                "size": 1677721600,
+                "SHA256": "304a7bd6cc800b094d02d19a096c0ec5c79265b4ec356fecd26e5e254544b7b6",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/kiev-sixteen/PixelOS_kiev-16.2-20260225-2117.zip.part0"
+            },
+            {
+                "filename": "PixelOS_kiev-16.2-20260225-2117.zip.part1",
+                "size": 448443404,
+                "SHA256": "4ebf9ac3ad736c1440acb32476f58f94416a80e1cffd0506fbc8c8f3f370411f",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/kiev-sixteen/PixelOS_kiev-16.2-20260225-2117.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lisa-15.0-20250516-1908.zip",
+        "size": 2278216132,
+        "SHA256": "e65e12d961936395c9faf52124627cdf95114c58264e3bbb59c4d4bef62a7fbb",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/lisa/PixelOS_lisa-15.0-20250516-1908.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fifteen/PixelOS_lisa-15.0-20250516-1908.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lisa-15.0-20250516-1908.zip.part0",
+                "size": 1677721600,
+                "SHA256": "ac4711c819c8ba6760f49429819d28eec89526978dd887eacf5dbc64a2d9f5f7",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fifteen/PixelOS_lisa-15.0-20250516-1908.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lisa-15.0-20250516-1908.zip.part1",
+                "size": 600494532,
+                "SHA256": "248c054917d2f0b8b1ef4fb83971d55ddb72d21ed7d37f042b9094176f4060ee",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fifteen/PixelOS_lisa-15.0-20250516-1908.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lisa-13.0-20221116-0827.zip",
+        "size": 2143016189,
+        "SHA256": "b26a06f263c72e7fba4aa4afeeb238e7f08cdcb531fef403855648d66f324ded",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/lisa/PixelOS_lisa-13.0-20221116-0827.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-thirteen/PixelOS_lisa-13.0-20221116-0827.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lisa-13.0-20221116-0827.zip.part0",
+                "size": 1677721600,
+                "SHA256": "d48c3208c056e3bff7b902febca06aeafcc05728d8eb37a253253f2042dfa294",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-thirteen/PixelOS_lisa-13.0-20221116-0827.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lisa-13.0-20221116-0827.zip.part1",
+                "size": 465294589,
+                "SHA256": "001739fc386ce76e3c76d5a672427df588776ed7e80f2ce2b416956ec983c365",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-thirteen/PixelOS_lisa-13.0-20221116-0827.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lisa-13.0-20221126-1441.zip",
+        "size": 2143424097,
+        "SHA256": "0b2a8ea234bb3cc9db81f0c4edc84fcb6be29378bc483c19fc26937eb0d28ea4",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/lisa/PixelOS_lisa-13.0-20221126-1441.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-thirteen/PixelOS_lisa-13.0-20221126-1441.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lisa-13.0-20221126-1441.zip.part0",
+                "size": 1677721600,
+                "SHA256": "7909c87e1a21fd3ee354115a147cffd039469b31f697aa74b30f37235ab9971d",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-thirteen/PixelOS_lisa-13.0-20221126-1441.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lisa-13.0-20221126-1441.zip.part1",
+                "size": 465702497,
+                "SHA256": "a9059efb27ab031b62c1e71c588a864d6f7b14dc93ba6b09e2d4a2d9ac4e9865",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-thirteen/PixelOS_lisa-13.0-20221126-1441.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lisa-12.0-20220122-1511.zip",
+        "size": 2318337367,
+        "SHA256": "632fd44b1502cadd01b7e27569187d603388093d658ed2d21a31c27259cc2021",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/lisa/PixelOS_lisa-12.0-20220122-1511.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-twelve/PixelOS_lisa-12.0-20220122-1511.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lisa-12.0-20220122-1511.zip.part0",
+                "size": 1677721600,
+                "SHA256": "5d450dc5e15cad9ad8cb3e98e3b8133b3ae1994e2461246ded6a2964333802c1",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-twelve/PixelOS_lisa-12.0-20220122-1511.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lisa-12.0-20220122-1511.zip.part1",
+                "size": 640615767,
+                "SHA256": "76fafbe19c9a399db9c0016d05cb75ad3e8a988de33b25dc5b1362766e2e8aca",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-twelve/PixelOS_lisa-12.0-20220122-1511.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lisa-13.0-20230930-1653.zip",
+        "size": 2035538910,
+        "SHA256": "e605939ed214aff4add9b502f1eea3beb84c7fedb2172375c615077bca158f68",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/lisa/PixelOS_lisa-13.0-20230930-1653.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-thirteen/PixelOS_lisa-13.0-20230930-1653.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_lisa-16.1-20260115-0741.zip",
+        "size": 2480216380,
+        "SHA256": "26a6c2717d7fbc176e76a5acc0da923c321b54d8979ce66a9a4f50fedf56c4b8",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/lisa/PixelOS_lisa-16.1-20260115-0741.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-sixteen/PixelOS_lisa-16.1-20260115-0741.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lisa-16.1-20260115-0741.zip.part0",
+                "size": 1677721600,
+                "SHA256": "1bd7f72ee10dfb83b08116f56b1b66157069538ba8342ac5bafd7a333a56f554",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-sixteen/PixelOS_lisa-16.1-20260115-0741.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lisa-16.1-20260115-0741.zip.part1",
+                "size": 802494780,
+                "SHA256": "eeca069ed67e9a84583947d7f360aba5737bc798a8f60c19f43107a6873a4703",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-sixteen/PixelOS_lisa-16.1-20260115-0741.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lisa-13.0-20230718-2027.zip",
+        "size": 2072972283,
+        "SHA256": "de148843237cf076ff16c52c639a68769c0caed55e67da211d130c6120ac574f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/lisa/PixelOS_lisa-13.0-20230718-2027.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-thirteen/PixelOS_lisa-13.0-20230718-2027.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lisa-13.0-20230718-2027.zip.part0",
+                "size": 1677721600,
+                "SHA256": "8558f4a256bdb70d0229ca2a437f877e17f082fb55962a7ba410e9c21a2f4fce",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-thirteen/PixelOS_lisa-13.0-20230718-2027.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lisa-13.0-20230718-2027.zip.part1",
+                "size": 395250683,
+                "SHA256": "e4f79953b00b924c35dd3296d9f19d61deaa62ea3af802474f22bab1428dd910",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-thirteen/PixelOS_lisa-13.0-20230718-2027.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lisa-13.0-20230817-2043.zip",
+        "size": 2006279422,
+        "SHA256": "be63969ca7acbce7d06bfb32ddaa4e84402b51e910e930b02ac87cd3aa93a0c6",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/lisa/PixelOS_lisa-13.0-20230817-2043.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-thirteen/PixelOS_lisa-13.0-20230817-2043.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_lisa-14.0-20231127-1340.zip",
+        "size": 2168101481,
+        "SHA256": "396e219abd454d078bf920b8a3b5841f50e7a9325a16c1693829915860f7b136",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lisa/PixelOS_lisa-14.0-20231127-1340.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fourteen/PixelOS_lisa-14.0-20231127-1340.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lisa-14.0-20231127-1340.zip.part0",
+                "size": 1677721600,
+                "SHA256": "ae5085c19e64fdc46c4d25a6c5ca9b65c55105eb274f55074f82750417eabc75",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fourteen/PixelOS_lisa-14.0-20231127-1340.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lisa-14.0-20231127-1340.zip.part1",
+                "size": 490379881,
+                "SHA256": "3cef53565f6d4d3cc24912fc5afc973d91d954542c908e15975862b55ce67481",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fourteen/PixelOS_lisa-14.0-20231127-1340.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lisa-14.0-20231117-2337.zip",
+        "size": 2162521482,
+        "SHA256": "26a185b2b5be95cd91935364f206f42271dd1de5c19cc6dab128ff6f32a02103",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lisa/PixelOS_lisa-14.0-20231117-2337.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fourteen/PixelOS_lisa-14.0-20231117-2337.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lisa-14.0-20231117-2337.zip.part0",
+                "size": 1677721600,
+                "SHA256": "23402f1661ae2d4c2a1f4f1377d2434cea8d7b327880efecb63b3d8d7f82b37b",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fourteen/PixelOS_lisa-14.0-20231117-2337.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lisa-14.0-20231117-2337.zip.part1",
+                "size": 484799882,
+                "SHA256": "bfb8fe46008b548f5483fd949e39167834b064dfa0fe2f2436db11658f0b9446",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fourteen/PixelOS_lisa-14.0-20231117-2337.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lisa-15.0-20250117-2015.zip",
+        "size": 2217826800,
+        "SHA256": "8f855615f4a1acb1f13b67c37cc8b125e9594a7dd62f00f1fe226a58169f5ae5",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/lisa/PixelOS_lisa-15.0-20250117-2015.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fifteen/PixelOS_lisa-15.0-20250117-2015.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lisa-15.0-20250117-2015.zip.part0",
+                "size": 1677721600,
+                "SHA256": "e0eee9533e9bc1f0a401845528f0e0140620a04052c6351689e5abc6b54b0b10",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fifteen/PixelOS_lisa-15.0-20250117-2015.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lisa-15.0-20250117-2015.zip.part1",
+                "size": 540105200,
+                "SHA256": "1a6999d05ef7527e48da9b0f630c75cde0f6e73d586b0f58efd11f060ce974d2",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fifteen/PixelOS_lisa-15.0-20250117-2015.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lisa-14.0-20240126-1622.zip",
+        "size": 2223693233,
+        "SHA256": "696f221fec8ff29ba6231b65a5bc585727c5695a9a365dc672c140ca4afc1a31",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lisa/PixelOS_lisa-14.0-20240126-1622.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fourteen/PixelOS_lisa-14.0-20240126-1622.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lisa-14.0-20240126-1622.zip.part0",
+                "size": 1677721600,
+                "SHA256": "1b92843838ec5596b01df4b2f061ba38a8cc983d05486adea89a2038fa46f122",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fourteen/PixelOS_lisa-14.0-20240126-1622.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lisa-14.0-20240126-1622.zip.part1",
+                "size": 545971633,
+                "SHA256": "0fb303b91fbf4b09fadfce0e26949cdfcc944247906084f879f5692121c7b1c0",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fourteen/PixelOS_lisa-14.0-20240126-1622.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lisa-14.0-20231221-2059.zip",
+        "size": 2216842095,
+        "SHA256": "dc7e12eda79f1f1f0240cfda7bf6055af5fa618cd32f08124f9dfe966136a33b",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lisa/PixelOS_lisa-14.0-20231221-2059.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fourteen/PixelOS_lisa-14.0-20231221-2059.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lisa-14.0-20231221-2059.zip.part0",
+                "size": 1677721600,
+                "SHA256": "55bb8336deb1b19f4e94c982bb7ecaf289581f76a91af0e15f2ce3d05b3f5c16",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fourteen/PixelOS_lisa-14.0-20231221-2059.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lisa-14.0-20231221-2059.zip.part1",
+                "size": 539120495,
+                "SHA256": "ad24eb21b06437642ba4b4362592e9595b249743adca6ef65261716dbe828d99",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fourteen/PixelOS_lisa-14.0-20231221-2059.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lunaa-13.0-20230917-0425.zip",
+        "size": 2298775102,
+        "SHA256": "0571063025279741070dae44c936108ec50df0147aec233911d7a02e37ed9251",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/lunaa/PixelOS_lunaa-13.0-20230917-0425.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-thirteen/PixelOS_lunaa-13.0-20230917-0425.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lunaa-13.0-20230917-0425.zip.part0",
+                "size": 1677721600,
+                "SHA256": "a1e412b4da03eedbfc29a19b0b03944854a94a80647a970c8936e9bf8507928a",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-thirteen/PixelOS_lunaa-13.0-20230917-0425.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lunaa-13.0-20230917-0425.zip.part1",
+                "size": 621053502,
+                "SHA256": "cb7c64e19598ababecbeab59e06a6ca99d83c66cf6adc69df48ea54938085bc9",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-thirteen/PixelOS_lunaa-13.0-20230917-0425.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_martini-13.0-20221107-1503.zip",
+        "size": 1969275245,
+        "SHA256": "8096a7d386133b8836343158c5e36e1409b36dd60a2c2df55f8b717db2cbb4cc",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/martini/PixelOS_martini-13.0-20221107-1503.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-thirteen/PixelOS_martini-13.0-20221107-1503.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_lunaa-14.0-20231112-0744.zip",
+        "size": 2396287581,
+        "SHA256": "4fb5940b79f0fb0ea036c87fa28de2ea9830f3be30f14cf7b8be85890b888244",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lunaa/PixelOS_lunaa-14.0-20231112-0744.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-fourteen/PixelOS_lunaa-14.0-20231112-0744.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lunaa-14.0-20231112-0744.zip.part0",
+                "size": 1677721600,
+                "SHA256": "bc4d2958fcefafec13504aa7ca1043e6f00fe992d3eba5f3f1fd3a5581c8afa6",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-fourteen/PixelOS_lunaa-14.0-20231112-0744.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lunaa-14.0-20231112-0744.zip.part1",
+                "size": 718565981,
+                "SHA256": "180f81bf2fa0fc8411af7c256193ad6bfa3ed134cbbb0ad482e9b94a20b5393f",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-fourteen/PixelOS_lunaa-14.0-20231112-0744.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lisa-14.0-20231117-0850.zip",
+        "size": 2157948890,
+        "SHA256": "0c8e6fd5ea1e790c20c119ff4a069fafabf91b11a893c7b3351e509920fcc4d0",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lisa/PixelOS_lisa-14.0-20231117-0850.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fourteen/PixelOS_lisa-14.0-20231117-0850.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lisa-14.0-20231117-0850.zip.part0",
+                "size": 1677721600,
+                "SHA256": "60e771eb897df0579a4aeeffa220031b799c9dda965dc7f072610349cd500246",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fourteen/PixelOS_lisa-14.0-20231117-0850.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lisa-14.0-20231117-0850.zip.part1",
+                "size": 480227290,
+                "SHA256": "237bbf9c0ae4c80052ba2400c88ddde8fd071489aa3faf43463297b536069cf3",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fourteen/PixelOS_lisa-14.0-20231117-0850.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lisa-14.0-20240427-0853.zip",
+        "size": 2156887178,
+        "SHA256": "4003c58c11be83d60a7cc666ea4efd28d315aa24935fd17b7fcb4ddfff99c61d",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lisa/PixelOS_lisa-14.0-20240427-0853.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fourteen/PixelOS_lisa-14.0-20240427-0853.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lisa-14.0-20240427-0853.zip.part0",
+                "size": 1677721600,
+                "SHA256": "0278bd48f0a64635a405ca7d4a69d457e91a76562e81ea9c5eeb997a32d50dcc",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fourteen/PixelOS_lisa-14.0-20240427-0853.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lisa-14.0-20240427-0853.zip.part1",
+                "size": 479165578,
+                "SHA256": "2f6c4bebc0ba9e505b68fb565b5c5b1ed27681075658fcca7022edc96e5fc137",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fourteen/PixelOS_lisa-14.0-20240427-0853.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lunaa-13.0-20231003-0344.zip",
+        "size": 2298681485,
+        "SHA256": "93ec59e4d94fdf21420d2ca47f0c4385c6e9e938a050349950d3b8712b94a721",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/lunaa/PixelOS_lunaa-13.0-20231003-0344.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-thirteen/PixelOS_lunaa-13.0-20231003-0344.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lunaa-13.0-20231003-0344.zip.part0",
+                "size": 1677721600,
+                "SHA256": "88a53f7fe914997d2154ffa85ac88abb3141006be61cc89b0cc23ce9ced306e9",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-thirteen/PixelOS_lunaa-13.0-20231003-0344.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lunaa-13.0-20231003-0344.zip.part1",
+                "size": 620959885,
+                "SHA256": "446bab2db3b0902dc20e8f4575b272249479e66adc944e596fb494499c3c7d3c",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-thirteen/PixelOS_lunaa-13.0-20231003-0344.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lisa-14.0-20231109-1333.zip",
+        "size": 2147727402,
+        "SHA256": "d38ddddd4122c07717c88546d579a9ca4a44bcaae4e592e5f1d4f70a964460c1",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lisa/PixelOS_lisa-14.0-20231109-1333.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fourteen/PixelOS_lisa-14.0-20231109-1333.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lisa-14.0-20231109-1333.zip.part0",
+                "size": 1677721600,
+                "SHA256": "74176cc59a8475acba1f756ee7655783217c63735c18bfc6068a270770317222",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fourteen/PixelOS_lisa-14.0-20231109-1333.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lisa-14.0-20231109-1333.zip.part1",
+                "size": 470005802,
+                "SHA256": "805ccf9d5abc98e2257569c2f85e797100be745c3108734ffd24ea980e3c0f26",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fourteen/PixelOS_lisa-14.0-20231109-1333.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lisa-14.0-20241014-1651.zip",
+        "size": 2182820063,
+        "SHA256": "6e8816678284ec3ad79378038b3138588b41b4558a9cde61c467995d67e550e9",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lisa/PixelOS_lisa-14.0-20241014-1651.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fourteen/PixelOS_lisa-14.0-20241014-1651.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lisa-14.0-20241014-1651.zip.part0",
+                "size": 1677721600,
+                "SHA256": "eba3b06c2986bb172b3eda236acd5e2ec63526e3fe3259feb3c6e178c9295d7b",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fourteen/PixelOS_lisa-14.0-20241014-1651.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lisa-14.0-20241014-1651.zip.part1",
+                "size": 505098463,
+                "SHA256": "7c280150c7183963de2ac2a3ff283b9ff93ce618037fbf01e95132f784f426c0",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fourteen/PixelOS_lisa-14.0-20241014-1651.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lisa-14.0-20240215-1841.zip",
+        "size": 2178147127,
+        "SHA256": "c952c02b2b5762d119801f6d51e6dc063dca50712980481fbe54038987a038e9",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lisa/PixelOS_lisa-14.0-20240215-1841.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fourteen/PixelOS_lisa-14.0-20240215-1841.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lisa-14.0-20240215-1841.zip.part0",
+                "size": 1677721600,
+                "SHA256": "ed4e982bef48f73a944e7fae3db2e5cc60640eab26b47718270bc88b07492ec9",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fourteen/PixelOS_lisa-14.0-20240215-1841.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lisa-14.0-20240215-1841.zip.part1",
+                "size": 500425527,
+                "SHA256": "0f1e62fe07dba6697bed9832feb4112c940937c431cfd3a8e14edcccb4c8c400",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fourteen/PixelOS_lisa-14.0-20240215-1841.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lisa-15.0-20250403-1722.zip",
+        "size": 2278365227,
+        "SHA256": "32862b180f8f46c31da6e93689528e7688e02eb9af828294642bc76ad429fbc5",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/lisa/PixelOS_lisa-15.0-20250403-1722.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fifteen/PixelOS_lisa-15.0-20250403-1722.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lisa-15.0-20250403-1722.zip.part0",
+                "size": 1677721600,
+                "SHA256": "eb2040d9790b1698b4829cc347922befa0ac900849cbbce39c8a3a46db2b62f2",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fifteen/PixelOS_lisa-15.0-20250403-1722.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lisa-15.0-20250403-1722.zip.part1",
+                "size": 600643627,
+                "SHA256": "20ab62512c3bbaa40dfdb917aefe80d0605957ab645b5de31e2aa6a969d898c8",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fifteen/PixelOS_lisa-15.0-20250403-1722.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_martini-13.0-20230126-1822.zip",
+        "size": 1941007173,
+        "SHA256": "94f57e66f53421b628b19eeb2127b6b4e031a2075bb2ab8125fae37751ceeeec",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/martini/PixelOS_martini-13.0-20230126-1822.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-thirteen/PixelOS_martini-13.0-20230126-1822.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_lisa-14.0-20231107-0652.zip",
+        "size": 2147698954,
+        "SHA256": "8b8dda484a01871eeeb1c6460d452fd484f3e3f8e7a9cfc513fe05cb32f68169",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lisa/PixelOS_lisa-14.0-20231107-0652.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fourteen/PixelOS_lisa-14.0-20231107-0652.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lisa-14.0-20231107-0652.zip.part0",
+                "size": 1677721600,
+                "SHA256": "b6a7514f972a7bae75870f5356685b347ab9b343ef474caf2b8dbe7b4f6a670c",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fourteen/PixelOS_lisa-14.0-20231107-0652.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lisa-14.0-20231107-0652.zip.part1",
+                "size": 469977354,
+                "SHA256": "17ae47bd2737ee2c15b172a18af2d2e863d4405e8189911140174508dfb60591",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fourteen/PixelOS_lisa-14.0-20231107-0652.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lisa-15.0-20250422-2011.zip",
+        "size": 2278541618,
+        "SHA256": "1df7e5b6957a15ca78b3546153b4383e13e3d73bae6730b0096899804456ce29",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/lisa/PixelOS_lisa-15.0-20250422-2011.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fifteen/PixelOS_lisa-15.0-20250422-2011.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lisa-15.0-20250422-2011.zip.part0",
+                "size": 1677721600,
+                "SHA256": "6947e511e16ec16a9429cc2c2ddbb4d0c2e2838d6b9e3fb8402968a12bfdf363",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fifteen/PixelOS_lisa-15.0-20250422-2011.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lisa-15.0-20250422-2011.zip.part1",
+                "size": 600820018,
+                "SHA256": "26874c3b6e3bc6952065c8d6035f48672a6881f90f8bf88282d7b8b327f543c8",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fifteen/PixelOS_lisa-15.0-20250422-2011.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lunaa-14.0-20231223-1631.zip",
+        "size": 2598436164,
+        "SHA256": "5c256cc9e5553efa007af057d44ffee532d2e106c219309d6d57f1faaf7ab361",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lunaa/PixelOS_lunaa-14.0-20231223-1631.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-fourteen/PixelOS_lunaa-14.0-20231223-1631.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lunaa-14.0-20231223-1631.zip.part0",
+                "size": 1677721600,
+                "SHA256": "85f7c30a6ff921a2f6fe2a7c2add474c68507f7a81af38abb0aeb1c34328f73e",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-fourteen/PixelOS_lunaa-14.0-20231223-1631.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lunaa-14.0-20231223-1631.zip.part1",
+                "size": 920714564,
+                "SHA256": "e6cd64b0a57c992a7b9f172d99754a4e49e75cc58ab8ede0d38b6650d8ddf7e2",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-fourteen/PixelOS_lunaa-14.0-20231223-1631.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lunaa-13.0-20230828-1041.zip",
+        "size": 2338220985,
+        "SHA256": "14b34354890fbfa098c3790bb428a7fe3e5f9efc4f0f181a160fb612b71fb9e0",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/lunaa/PixelOS_lunaa-13.0-20230828-1041.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-thirteen/PixelOS_lunaa-13.0-20230828-1041.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lunaa-13.0-20230828-1041.zip.part0",
+                "size": 1677721600,
+                "SHA256": "b80b9f9e9e975a2db60c7eadd44b92712a46cefffd2c6b417976ee3d66588aa5",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-thirteen/PixelOS_lunaa-13.0-20230828-1041.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lunaa-13.0-20230828-1041.zip.part1",
+                "size": 660499385,
+                "SHA256": "72685af8cdd59419f5bcaf1a231122ac272e542a5257a5e7b926c73c69d1e944",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-thirteen/PixelOS_lunaa-13.0-20230828-1041.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_martini-13.0-20230223-1854.zip",
+        "size": 1952436619,
+        "SHA256": "76322b54e6a276774f9e2e9d7d492515fc0eeff7777046a0d3927bc51357ca96",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/martini/PixelOS_martini-13.0-20230223-1854.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-thirteen/PixelOS_martini-13.0-20230223-1854.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_lisa-14.0-20240527-2147.zip",
+        "size": 2186790025,
+        "SHA256": "2ed26c0cf603928c16e21059ef3c32d7486125364af8f688bf80308238d27a5d",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lisa/PixelOS_lisa-14.0-20240527-2147.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fourteen/PixelOS_lisa-14.0-20240527-2147.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lisa-14.0-20240527-2147.zip.part0",
+                "size": 1677721600,
+                "SHA256": "60436dc5d9c5863554208acbec9668cb2ea70c226dae5aaba3eec960faf81bd3",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fourteen/PixelOS_lisa-14.0-20240527-2147.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lisa-14.0-20240527-2147.zip.part1",
+                "size": 509068425,
+                "SHA256": "3d9fac2fb739af71c9a05f9f1b243eb7ac23357fca5f39a525ea5f96aa013047",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fourteen/PixelOS_lisa-14.0-20240527-2147.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lisa-14.0-20240804-0932.zip",
+        "size": 2439712063,
+        "SHA256": "d2fb4c346458cfeb4b6826d7aa75ca7edc533b0a89b3b4438d13246bce4bf323",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lisa/PixelOS_lisa-14.0-20240804-0932.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fourteen/PixelOS_lisa-14.0-20240804-0932.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lisa-14.0-20240804-0932.zip.part0",
+                "size": 1677721600,
+                "SHA256": "f55b9c742e62c8b738fc13c7134bd52b434985f0bae800b841e8c7a268ac1df6",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fourteen/PixelOS_lisa-14.0-20240804-0932.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lisa-14.0-20240804-0932.zip.part1",
+                "size": 761990463,
+                "SHA256": "4fa53fc1648556a2c64acc5c1cf0e191d90eca967b61bf457093da0489ffd920",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-fourteen/PixelOS_lisa-14.0-20240804-0932.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lunaa-14.0-20240423-1327.zip",
+        "size": 2475683139,
+        "SHA256": "1bf1dac4a3f75b73b1a4f79a56803246fab3c9e5345e59fd287a631972ab26a9",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lunaa/PixelOS_lunaa-14.0-20240423-1327.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-fourteen/PixelOS_lunaa-14.0-20240423-1327.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lunaa-14.0-20240423-1327.zip.part0",
+                "size": 1677721600,
+                "SHA256": "2332dbae3566f872eb83bc51fa37db2040855b76e75680bed3985a15d21fb150",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-fourteen/PixelOS_lunaa-14.0-20240423-1327.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lunaa-14.0-20240423-1327.zip.part1",
+                "size": 797961539,
+                "SHA256": "761ae78a118835487099074fde0302d9ca48e22546f2e0ea9ccce4ae747aa40a",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-fourteen/PixelOS_lunaa-14.0-20240423-1327.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lunaa-14.0-20231210-0828.zip",
+        "size": 2577209153,
+        "SHA256": "460e0d05edca5bd72303d81d22c088b8b5e0662c594f17e8fa2c220cc9ea2ce0",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lunaa/PixelOS_lunaa-14.0-20231210-0828.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-fourteen/PixelOS_lunaa-14.0-20231210-0828.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lunaa-14.0-20231210-0828.zip.part0",
+                "size": 1677721600,
+                "SHA256": "6e02c477e09a810c53d784ebf43f9ca471a661bd96dc0cf5476a48c28eda838d",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-fourteen/PixelOS_lunaa-14.0-20231210-0828.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lunaa-14.0-20231210-0828.zip.part1",
+                "size": 899487553,
+                "SHA256": "b76d442f0d75d14011ab1ed20e80821844f3370311674ff0ea61846ea81f2a86",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-fourteen/PixelOS_lunaa-14.0-20231210-0828.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lunaa-14.0-20240126-1021.zip",
+        "size": 2513255903,
+        "SHA256": "2c7c1dc72eb02fa2b1959e655a9d2a9daf47e25f2e7a6f6439cb78f43986578f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lunaa/PixelOS_lunaa-14.0-20240126-1021.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-fourteen/PixelOS_lunaa-14.0-20240126-1021.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lunaa-14.0-20240126-1021.zip.part0",
+                "size": 1677721600,
+                "SHA256": "203fdb3578145c26cbd20fc5f7c06e56fde3a842d4c7c7e242d0c031fbbe5350",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-fourteen/PixelOS_lunaa-14.0-20240126-1021.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lunaa-14.0-20240126-1021.zip.part1",
+                "size": 835534303,
+                "SHA256": "986821f5eb4eef46427c90970af7e6db813b62b0af28277c1d6ca48944d3f9e7",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-fourteen/PixelOS_lunaa-14.0-20240126-1021.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lunaa-14.0-20240302-1006.zip",
+        "size": 2475806732,
+        "SHA256": "d00c08cdfe18e0827dc39e331f881b1a5a5a44c5fd89f55c1964df3a52511084",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lunaa/PixelOS_lunaa-14.0-20240302-1006.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-fourteen/PixelOS_lunaa-14.0-20240302-1006.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lunaa-14.0-20240302-1006.zip.part0",
+                "size": 1677721600,
+                "SHA256": "abf907e09092bd0cbc6d03c5507cdeac00808c10416b22cd284902486cb2c998",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-fourteen/PixelOS_lunaa-14.0-20240302-1006.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lunaa-14.0-20240302-1006.zip.part1",
+                "size": 798085132,
+                "SHA256": "b367356cf9d0281f0603ee66d781df8943d68e973cc2a6cf40c0b33afba89ccf",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-fourteen/PixelOS_lunaa-14.0-20240302-1006.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lunaa-14.0-20240823-1406.zip",
+        "size": 2664297249,
+        "SHA256": "fc66cc680e600059e2efd01f602d09b9057451398d289ab5bda2429d0dcb438d",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lunaa/PixelOS_lunaa-14.0-20240823-1406.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-fourteen/PixelOS_lunaa-14.0-20240823-1406.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lunaa-14.0-20240823-1406.zip.part0",
+                "size": 1677721600,
+                "SHA256": "a8e7c3d6fb0b5636b28b2643c949b3ab6191a320d19be58baa7e536f349cbf85",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-fourteen/PixelOS_lunaa-14.0-20240823-1406.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lunaa-14.0-20240823-1406.zip.part1",
+                "size": 986575649,
+                "SHA256": "85aa71f0414312c3a19049994d0826137a3987cdad0abe9f10e78563c3f3d864",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-fourteen/PixelOS_lunaa-14.0-20240823-1406.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lunaa-14.0-20240603-1823.zip",
+        "size": 2506480180,
+        "SHA256": "2428d08db22041945a75d5b48a981b3b04fbb105969fef8db4e61d51b99cec56",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lunaa/PixelOS_lunaa-14.0-20240603-1823.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-fourteen/PixelOS_lunaa-14.0-20240603-1823.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lunaa-14.0-20240603-1823.zip.part0",
+                "size": 1677721600,
+                "SHA256": "e0e7ab35dbb223cbd84c7b3beda9ee5dc6b4239099545a6b0bfee0b7b780f11a",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-fourteen/PixelOS_lunaa-14.0-20240603-1823.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lunaa-14.0-20240603-1823.zip.part1",
+                "size": 828758580,
+                "SHA256": "3f451699bb14ce854dfed53d9a7266194eaa84886c6f4d6ffdb50247beed995a",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-fourteen/PixelOS_lunaa-14.0-20240603-1823.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_martini-13.0-20221117-0409.zip",
+        "size": 2047843553,
+        "SHA256": "16c7a2434b64121277a8c2ddfa50a6796c066cd7d591b2a778c553bba742a713",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/martini/PixelOS_martini-13.0-20221117-0409.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-thirteen/PixelOS_martini-13.0-20221117-0409.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_martini-13.0-20221117-0409.zip.part0",
+                "size": 1677721600,
+                "SHA256": "be9b0873074b7fee347e0141d7b39d9d6dd7faa1fba7a0fa0f312f5ca7e60d4a",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-thirteen/PixelOS_martini-13.0-20221117-0409.zip.part0"
+            },
+            {
+                "filename": "PixelOS_martini-13.0-20221117-0409.zip.part1",
+                "size": 370121953,
+                "SHA256": "7796309cf322fdfaf14292ff34ee8b8ce5fd67f099408e31d6f959fdeb755dd0",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-thirteen/PixelOS_martini-13.0-20221117-0409.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lunaa-15.0-20250306-1705.zip",
+        "size": 2614122830,
+        "SHA256": "ca4db07aa906b88f1362999bd3d1ee3b3ceaa8269e4d3c647d81fe13546f4151",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/lunaa/PixelOS_lunaa-15.0-20250306-1705.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-fifteen/PixelOS_lunaa-15.0-20250306-1705.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lunaa-15.0-20250306-1705.zip.part0",
+                "size": 1677721600,
+                "SHA256": "3f0765a19cd70cfaf7bd624c1ebffdfb5799841308e36fc5a2872307541aa933",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-fifteen/PixelOS_lunaa-15.0-20250306-1705.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lunaa-15.0-20250306-1705.zip.part1",
+                "size": 936401230,
+                "SHA256": "39321dcb7b18932c12dc315a4a1fa2c0b0f267cd0011470853b072fd217d9079",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-fifteen/PixelOS_lunaa-15.0-20250306-1705.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_marble-14.0-20231228-1455.zip",
+        "size": 2498902227,
+        "SHA256": "6b182a86ec9e38e9f6b326889c7af6747d7db27a0422d7c23efc506e2e7d75c4",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/marble/PixelOS_marble-14.0-20231228-1455.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/marble-fourteen/PixelOS_marble-14.0-20231228-1455.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_marble-14.0-20231228-1455.zip.part0",
+                "size": 1677721600,
+                "SHA256": "873cfbb1493319727d385b9ef9a73f7b5402ab6b7cd7377abb7640fb9d111ba2",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/marble-fourteen/PixelOS_marble-14.0-20231228-1455.zip.part0"
+            },
+            {
+                "filename": "PixelOS_marble-14.0-20231228-1455.zip.part1",
+                "size": 821180627,
+                "SHA256": "bfd726132a6a76015a02af8a1d696fae820e38c3c98e6e7658db70a759f96d7c",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/marble-fourteen/PixelOS_marble-14.0-20231228-1455.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lunaa-16.1-20260115-0307.zip",
+        "size": 2766793248,
+        "SHA256": "84b0e19b92b728308e9eb151d7149868104cca84b7193d21425de9a57fbbfca4",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/lunaa/PixelOS_lunaa-16.1-20260115-0307.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-sixteen/PixelOS_lunaa-16.1-20260115-0307.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lunaa-16.1-20260115-0307.zip.part0",
+                "size": 1677721600,
+                "SHA256": "7ae2808cd016bc8bced872820ab0b57b557e8efbe324d7ebf59323864a4da375",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-sixteen/PixelOS_lunaa-16.1-20260115-0307.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lunaa-16.1-20260115-0307.zip.part1",
+                "size": 1089071648,
+                "SHA256": "fe75a983e983b46ffc08c4b19ef30b9ca78ee61cabcc7b82c392cc163378ff88",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-sixteen/PixelOS_lunaa-16.1-20260115-0307.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_martini-13.0-20230415-0554.zip",
+        "size": 2184480847,
+        "SHA256": "e32d065ef7c3e73bbe013dea374571487492a6d91697f2d1207d9848c6cada1a",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/martini/PixelOS_martini-13.0-20230415-0554.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-thirteen/PixelOS_martini-13.0-20230415-0554.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_martini-13.0-20230415-0554.zip.part0",
+                "size": 1677721600,
+                "SHA256": "0ae8c5c6616263d4e7b8425449f8c086f2ee2fbb283ccf40d0d58a68a7217a0b",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-thirteen/PixelOS_martini-13.0-20230415-0554.zip.part0"
+            },
+            {
+                "filename": "PixelOS_martini-13.0-20230415-0554.zip.part1",
+                "size": 506759247,
+                "SHA256": "bcab999235619f0bcb560ef2b38f8a7c9099346f2dd3d2b7cb2f52c4e96d3311",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-thirteen/PixelOS_martini-13.0-20230415-0554.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_miatoll-13.0-20221104-0843.zip",
+        "size": 1837702021,
+        "SHA256": "627404b86fc2d6147f3f4a69fcbd200ea880431365f6763f6c58379e8b48abed",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/miatoll/PixelOS_miatoll-13.0-20221104-0843.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-thirteen/PixelOS_miatoll-13.0-20221104-0843.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_miatoll-12.1-20220618-1552.zip",
+        "size": 1916264875,
+        "SHA256": "6510ed58035775b6430896a3bc365375b1d6378482d3cea2795ca30c0b3fffa2",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/miatoll/PixelOS_miatoll-12.1-20220618-1552.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-twelve/PixelOS_miatoll-12.1-20220618-1552.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_martini-13.0-20230712-1118.zip",
+        "size": 2315988172,
+        "SHA256": "1eba5f8bf42d6d1cd7060526b900dce97f508d0bbeb4c01685a82f72f7347b9d",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/martini/PixelOS_martini-13.0-20230712-1118.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-thirteen/PixelOS_martini-13.0-20230712-1118.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_martini-13.0-20230712-1118.zip.part0",
+                "size": 1677721600,
+                "SHA256": "f2cadb506ad9b0670d1817fb62b02bbb63331d0089079b1eda906dd9d956b399",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-thirteen/PixelOS_martini-13.0-20230712-1118.zip.part0"
+            },
+            {
+                "filename": "PixelOS_martini-13.0-20230712-1118.zip.part1",
+                "size": 638266572,
+                "SHA256": "f7ce0f7d230ed6227dbc325141ee6f62c00944175b6d6176a052131189f1791b",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-thirteen/PixelOS_martini-13.0-20230712-1118.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_martini-13.0-20230514-1259.zip",
+        "size": 2252627363,
+        "SHA256": "5afdde962515ce284740e3042954fd8eab39af7a70f8df5e84a63001070e178a",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/martini/PixelOS_martini-13.0-20230514-1259.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-thirteen/PixelOS_martini-13.0-20230514-1259.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_martini-13.0-20230514-1259.zip.part0",
+                "size": 1677721600,
+                "SHA256": "3e52ba18d39940c5ffc730fae95f07a7a14b85c6132dfbe21d06550a011f0aee",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-thirteen/PixelOS_martini-13.0-20230514-1259.zip.part0"
+            },
+            {
+                "filename": "PixelOS_martini-13.0-20230514-1259.zip.part1",
+                "size": 574905763,
+                "SHA256": "b38388e4e61f01b8c2f5adc763866b3bddbcd04d3d1032deba3606a975d40508",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-thirteen/PixelOS_martini-13.0-20230514-1259.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_martini-13.0-20230728-2155.zip",
+        "size": 2411551476,
+        "SHA256": "0c78311b1e2fd9d076473faf1bee2ca6fe04175474a3b25f298c0c95d2419e06",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/martini/PixelOS_martini-13.0-20230728-2155.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-thirteen/PixelOS_martini-13.0-20230728-2155.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_martini-13.0-20230728-2155.zip.part0",
+                "size": 1677721600,
+                "SHA256": "3c493bd83f0c07065eda2af53f8b298e33707d199f0e3c80df1f16e1eecec47e",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-thirteen/PixelOS_martini-13.0-20230728-2155.zip.part0"
+            },
+            {
+                "filename": "PixelOS_martini-13.0-20230728-2155.zip.part1",
+                "size": 733829876,
+                "SHA256": "c07d695617ac7f5140539a0ec744c2e1bdaaca4c522da722b843d2aea2131d4b",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-thirteen/PixelOS_martini-13.0-20230728-2155.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_martini-13.0-20230910-1441.zip",
+        "size": 2219732280,
+        "SHA256": "a66c408eacc84e2310c9251bc99d0e54a924782fbc1f4a758da0dcf89c8d0353",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/martini/PixelOS_martini-13.0-20230910-1441.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-thirteen/PixelOS_martini-13.0-20230910-1441.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_martini-13.0-20230910-1441.zip.part0",
+                "size": 1677721600,
+                "SHA256": "da9ae9ca48c3d3d2acdf4d226490af609b0f93106407e4fae266ad5bbd4da033",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-thirteen/PixelOS_martini-13.0-20230910-1441.zip.part0"
+            },
+            {
+                "filename": "PixelOS_martini-13.0-20230910-1441.zip.part1",
+                "size": 542010680,
+                "SHA256": "cdf1e3ac521dbea3c6a5b9609ee0a5251731fae57db3d2a6af1f02619e3b6532",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-thirteen/PixelOS_martini-13.0-20230910-1441.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lunaa-14.0-20240723-1644.zip",
+        "size": 2750026981,
+        "SHA256": "0e86ca0485de8fbc961ee00e9cadaed214d8c04e838e2a084162fcd4909c870d",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lunaa/PixelOS_lunaa-14.0-20240723-1644.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-fourteen/PixelOS_lunaa-14.0-20240723-1644.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lunaa-14.0-20240723-1644.zip.part0",
+                "size": 1677721600,
+                "SHA256": "a4de9e37179f62e41076d383ba1b3a9b9f215a3a9dcb1f8e7784115f7ce03bb4",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-fourteen/PixelOS_lunaa-14.0-20240723-1644.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lunaa-14.0-20240723-1644.zip.part1",
+                "size": 1072305381,
+                "SHA256": "4627c2e7c818d2d33af59e3ef1ef8d9cd3485610e0f7d22a23fcbf49d3884dce",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-fourteen/PixelOS_lunaa-14.0-20240723-1644.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lunaa-14.0-20240920-1800.zip",
+        "size": 2657327712,
+        "SHA256": "219b5f17c4cb6ce054046bdbb5502dfba3c600018f91a348f2aad55db3405520",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lunaa/PixelOS_lunaa-14.0-20240920-1800.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-fourteen/PixelOS_lunaa-14.0-20240920-1800.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lunaa-14.0-20240920-1800.zip.part0",
+                "size": 1677721600,
+                "SHA256": "e947dc1964fe9b27bf4f057d9badad050ec83780ea19bf51dfad9f9c863d8327",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-fourteen/PixelOS_lunaa-14.0-20240920-1800.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lunaa-14.0-20240920-1800.zip.part1",
+                "size": 979606112,
+                "SHA256": "c0a63d12b3962c9cda6403cd419f91430c9d9b4888623c8484f65ed3e40f20ee",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-fourteen/PixelOS_lunaa-14.0-20240920-1800.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lunaa-15.0-20250122-0642.zip",
+        "size": 2615659947,
+        "SHA256": "4736e08fce2e0036598351f95ab574cccc755a9a1c1818fc7b3434bb9840532b",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/lunaa/PixelOS_lunaa-15.0-20250122-0642.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-fifteen/PixelOS_lunaa-15.0-20250122-0642.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lunaa-15.0-20250122-0642.zip.part0",
+                "size": 1677721600,
+                "SHA256": "c3cefd7b50afc137e66a20280d78d82e56096f18517225ced451c113eed10ef5",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-fifteen/PixelOS_lunaa-15.0-20250122-0642.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lunaa-15.0-20250122-0642.zip.part1",
+                "size": 937938347,
+                "SHA256": "2810ef8810f0b7de02a700ce2f919885d0471820d43c35e7e4c64bdbb64b741d",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-fifteen/PixelOS_lunaa-15.0-20250122-0642.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_miatoll-13.0-20230414-1929.zip",
+        "size": 1961443712,
+        "SHA256": "64a0fb7cdd5e8a1d49448ba42e9c353d25a6c502ed13ff97405d51936a827427",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/miatoll/PixelOS_miatoll-13.0-20230414-1929.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-thirteen/PixelOS_miatoll-13.0-20230414-1929.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_lunaa-15.0-20241206-0622.zip",
+        "size": 2685721318,
+        "SHA256": "c0abda92e192f0728a36638ac09139da2b43de842f045bddce3b8af020b2d3fa",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/lunaa/PixelOS_lunaa-15.0-20241206-0622.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-fifteen/PixelOS_lunaa-15.0-20241206-0622.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lunaa-15.0-20241206-0622.zip.part0",
+                "size": 1677721600,
+                "SHA256": "b81adc8a3d2b9cb69f0af9f519c826bbbac9f19b59e6866365aa8311b7f342c7",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-fifteen/PixelOS_lunaa-15.0-20241206-0622.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lunaa-15.0-20241206-0622.zip.part1",
+                "size": 1007999718,
+                "SHA256": "9057c5fe53b2c7a36ad070b14afe2ceead129666e2a4ad3783bfbd99425c528e",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lunaa-fifteen/PixelOS_lunaa-15.0-20241206-0622.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_miatoll-12.1-20220711-0608.zip",
+        "size": 1898766129,
+        "SHA256": "6b98fc58e221d567755109c7a081c9879654461f44ed2dae1c2695eb0932dd9a",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/miatoll/PixelOS_miatoll-12.1-20220711-0608.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-twelve/PixelOS_miatoll-12.1-20220711-0608.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_miatoll-12.1-20220817-1334.zip",
+        "size": 1899105699,
+        "SHA256": "898f8f26b28a2262d9045335b31fdd57e08b9837e02ed3862967d35b124c7aef",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/miatoll/PixelOS_miatoll-12.1-20220817-1334.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-twelve/PixelOS_miatoll-12.1-20220817-1334.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_miatoll-13.0-20230818-1206.zip",
+        "size": 1985242453,
+        "SHA256": "dfbc5d0617822cf64fd75aa314135dd4e2e4c645be08f53212fffd2f795a73d7",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/miatoll/PixelOS_miatoll-13.0-20230818-1206.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-thirteen/PixelOS_miatoll-13.0-20230818-1206.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_martini-14.0-20231112-0304.zip",
+        "size": 2373674431,
+        "SHA256": "2f5fdfca11e796c046ef88a4afef04c743285a2bd9ce91c7a9d3a950fc385a26",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/martini/PixelOS_martini-14.0-20231112-0304.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-fourteen/PixelOS_martini-14.0-20231112-0304.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_martini-14.0-20231112-0304.zip.part0",
+                "size": 1677721600,
+                "SHA256": "0577e3a4c62693b722f16b5a91a2257551b677a421f596db10f399d03f8d90af",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-fourteen/PixelOS_martini-14.0-20231112-0304.zip.part0"
+            },
+            {
+                "filename": "PixelOS_martini-14.0-20231112-0304.zip.part1",
+                "size": 695952831,
+                "SHA256": "6e7363695c7bf0d218903cd5e4cb62a46ed7ee14944eb467a2666ecb8349c2c4",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-fourteen/PixelOS_martini-14.0-20231112-0304.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_miatoll-13.0-20230511-0818.zip",
+        "size": 1936568022,
+        "SHA256": "e2974354c5e9ed1097fabd61130af5f955f0df9e1ace3c26aaee9f2e59191998",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/miatoll/PixelOS_miatoll-13.0-20230511-0818.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-thirteen/PixelOS_miatoll-13.0-20230511-0818.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_miatoll-13.0-20230418-0740.zip",
+        "size": 1961588840,
+        "SHA256": "66190dfa6f62fc0b00184409e7083f6ec5cdea891a9eb56d4e182668effad18b",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/miatoll/PixelOS_miatoll-13.0-20230418-0740.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-thirteen/PixelOS_miatoll-13.0-20230418-0740.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_martini-14.0-20240227-1837.zip",
+        "size": 2348469701,
+        "SHA256": "dafebec352e38f7f70e03bcd191ffa9a63b34af53c71b1d59236db01f905fd65",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/martini/PixelOS_martini-14.0-20240227-1837.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-fourteen/PixelOS_martini-14.0-20240227-1837.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_martini-14.0-20240227-1837.zip.part0",
+                "size": 1677721600,
+                "SHA256": "aa2d7e95b1c295aff4943e18cc2d23acb24350bd1919b7549759e5da88f2fc4f",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-fourteen/PixelOS_martini-14.0-20240227-1837.zip.part0"
+            },
+            {
+                "filename": "PixelOS_martini-14.0-20240227-1837.zip.part1",
+                "size": 670748101,
+                "SHA256": "9233145c5caaca45840c233ce06e1b6651e6c2359112273381cde4c6119f596c",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-fourteen/PixelOS_martini-14.0-20240227-1837.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_martini-14.0-20231209-0856.zip",
+        "size": 2378850099,
+        "SHA256": "e4a292be4e23d217f220f94707ba1eb01a620b0155a168b7aa8e46a442921627",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/martini/PixelOS_martini-14.0-20231209-0856.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-fourteen/PixelOS_martini-14.0-20231209-0856.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_martini-14.0-20231209-0856.zip.part0",
+                "size": 1677721600,
+                "SHA256": "e549a41e3fcd5dd54b29f24c7d06dbc139b2536e9037c11c940331a408f4a549",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-fourteen/PixelOS_martini-14.0-20231209-0856.zip.part0"
+            },
+            {
+                "filename": "PixelOS_martini-14.0-20231209-0856.zip.part1",
+                "size": 701128499,
+                "SHA256": "8a0d6754dd73f3984f9add81e0ab26bd583fe8f88085c4c5093745043c196959",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-fourteen/PixelOS_martini-14.0-20231209-0856.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_martini-14.0-20240127-1704.zip",
+        "size": 2406081328,
+        "SHA256": "22f96e3ebbae165b3b65933a738d34a0f64e160cc1ca53e4743826d8a798a276",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/martini/PixelOS_martini-14.0-20240127-1704.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-fourteen/PixelOS_martini-14.0-20240127-1704.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_martini-14.0-20240127-1704.zip.part0",
+                "size": 1677721600,
+                "SHA256": "553f3a0b866b7805f0166d6d1e129bb1260aa5e08cd8fe7284fdff68dd931463",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-fourteen/PixelOS_martini-14.0-20240127-1704.zip.part0"
+            },
+            {
+                "filename": "PixelOS_martini-14.0-20240127-1704.zip.part1",
+                "size": 728359728,
+                "SHA256": "b8ea0b9a0d4221897467e4ae5f65fcdceaddb632552ce7366ba0a74763af4daa",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-fourteen/PixelOS_martini-14.0-20240127-1704.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_martini-14.0-20231221-2303.zip",
+        "size": 2399604663,
+        "SHA256": "a9e005488b3758456d161aa6afcfed6fe44a0aaf23ebfc2c5481ed03393977b9",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/martini/PixelOS_martini-14.0-20231221-2303.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-fourteen/PixelOS_martini-14.0-20231221-2303.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_martini-14.0-20231221-2303.zip.part0",
+                "size": 1677721600,
+                "SHA256": "af21436bb6260aa6722b0fbd6488647e7be468ea22cfa6590bf001c3efa99c96",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-fourteen/PixelOS_martini-14.0-20231221-2303.zip.part0"
+            },
+            {
+                "filename": "PixelOS_martini-14.0-20231221-2303.zip.part1",
+                "size": 721883063,
+                "SHA256": "a02eb0494ee1c3ded5b5636fc931d094d755ebd2424253b0fb427dce86ba46a3",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-fourteen/PixelOS_martini-14.0-20231221-2303.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_miatoll-13.0-20231001-1316.zip",
+        "size": 2007166352,
+        "SHA256": "3f5a3a5a12a48cf17cc6e5996d5f05c25397c58cbc5495618769418925e239fb",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/miatoll/PixelOS_miatoll-13.0-20231001-1316.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-thirteen/PixelOS_miatoll-13.0-20231001-1316.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_miatoll-13.0-20230706-0943.zip",
+        "size": 1923448395,
+        "SHA256": "df0324ad6ec62868c723bd4229afa85fc485ebc03f51632c61e59ee0ce353126",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/miatoll/PixelOS_miatoll-13.0-20230706-0943.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-thirteen/PixelOS_miatoll-13.0-20230706-0943.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_miatoll-14.0-20240429-1556.zip",
+        "size": 1998126802,
+        "SHA256": "bd2000608c2e288e2f1e612a22a4731873f5a63e8b21f2c1ec7163a001a33169",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/miatoll/PixelOS_miatoll-14.0-20240429-1556.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-fourteen/PixelOS_miatoll-14.0-20240429-1556.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_martini-14.0-20240529-1536.zip",
+        "size": 2423699842,
+        "SHA256": "4d02993d00a7acefc5a925ad08f80021ba9c76581da22a469102704099c67599",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/martini/PixelOS_martini-14.0-20240529-1536.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-fourteen/PixelOS_martini-14.0-20240529-1536.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_martini-14.0-20240529-1536.zip.part0",
+                "size": 1677721600,
+                "SHA256": "de9fe6f0fdaf2f907ebd8f07cdc9fae8113d641e135a735132bcd67e9a45a156",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-fourteen/PixelOS_martini-14.0-20240529-1536.zip.part0"
+            },
+            {
+                "filename": "PixelOS_martini-14.0-20240529-1536.zip.part1",
+                "size": 745978242,
+                "SHA256": "496066a06bd136685582fb37c0e290e8fd8360325df47bd56a4af54382f63c9b",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-fourteen/PixelOS_martini-14.0-20240529-1536.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_miatoll-13.0-20230126-0748.zip",
+        "size": 2055711672,
+        "SHA256": "af306811ead880301e2be067d9b83b4bec5529ae1bc5eaa6071d7912742d5738",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/miatoll/PixelOS_miatoll-13.0-20230126-0748.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-thirteen/PixelOS_miatoll-13.0-20230126-0748.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_miatoll-13.0-20230126-0748.zip.part0",
+                "size": 1677721600,
+                "SHA256": "0949c20aa17899e7c1944856b1ce858d38b212f9c212f348a9a55a68dc49aa1a",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-thirteen/PixelOS_miatoll-13.0-20230126-0748.zip.part0"
+            },
+            {
+                "filename": "PixelOS_miatoll-13.0-20230126-0748.zip.part1",
+                "size": 377990072,
+                "SHA256": "a60dba703d55f3839bf84013c631f25d5b4f45022207c6d877ebc2b82cc80c65",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-thirteen/PixelOS_miatoll-13.0-20230126-0748.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_martini-14.0-20240510-1901.zip",
+        "size": 2422982247,
+        "SHA256": "c169b406b373a45a00db104c7953730b60d11a6606d4c4862b19a92d94b36580",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/martini/PixelOS_martini-14.0-20240510-1901.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-fourteen/PixelOS_martini-14.0-20240510-1901.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_martini-14.0-20240510-1901.zip.part0",
+                "size": 1677721600,
+                "SHA256": "5dd75a1734f560b7257e8fb567b0d8980d510675b83a660bb39fb5feaa0cdb92",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-fourteen/PixelOS_martini-14.0-20240510-1901.zip.part0"
+            },
+            {
+                "filename": "PixelOS_martini-14.0-20240510-1901.zip.part1",
+                "size": 745260647,
+                "SHA256": "80cf0603b47fd83f8194d74faed58e9b067db92cb257df253e8d0915b99fc173",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-fourteen/PixelOS_martini-14.0-20240510-1901.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_mido-13.0-20230414-0531.zip",
+        "size": 1432615788,
+        "SHA256": "2dac9d06ee7178343c124081b69ac56b114c4fc8cb9cec6fff5fcbef97aeefa3",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/mido/PixelOS_mido-13.0-20230414-0531.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/mido-thirteen/PixelOS_mido-13.0-20230414-0531.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_mido-13.0-20230413-1752.zip",
+        "size": 1432617909,
+        "SHA256": "a69cde08adcccadd95b2560c89028979612325009771727667e36423c3b9028b",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/mido/PixelOS_mido-13.0-20230413-1752.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/mido-thirteen/PixelOS_mido-13.0-20230413-1752.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_miatoll-14.0-20240215-2352.zip",
+        "size": 2033808005,
+        "SHA256": "1db6eab8d5f9f0133a3e4154d84e64d4ec212f1dba43f099842e562825396d9d",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/miatoll/PixelOS_miatoll-14.0-20240215-2352.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-fourteen/PixelOS_miatoll-14.0-20240215-2352.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_miatoll-14.0-20240515-0338.zip",
+        "size": 2044927325,
+        "SHA256": "0681088db4c7cffa3f2ffcac3f635a58fdeb854f563b04778dfb4a472c14eec3",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/miatoll/PixelOS_miatoll-14.0-20240515-0338.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-fourteen/PixelOS_miatoll-14.0-20240515-0338.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_miatoll-14.0-20240515-0338.zip.part0",
+                "size": 1677721600,
+                "SHA256": "268750b998a9357ddffd3487523f1ef99eeef6442e23435da253ae333772ede3",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-fourteen/PixelOS_miatoll-14.0-20240515-0338.zip.part0"
+            },
+            {
+                "filename": "PixelOS_miatoll-14.0-20240515-0338.zip.part1",
+                "size": 367205725,
+                "SHA256": "2ddd90483de8875261f01a45ee0f95928395828370aede802f63ed6047f35780",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-fourteen/PixelOS_miatoll-14.0-20240515-0338.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_miatoll-14.0-20240120-1557.zip",
+        "size": 2052765607,
+        "SHA256": "9c858ac873a42b108718a17d09e75b1d1d4016c765820f4c527ac84cc95615e9",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/miatoll/PixelOS_miatoll-14.0-20240120-1557.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-fourteen/PixelOS_miatoll-14.0-20240120-1557.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_miatoll-14.0-20240120-1557.zip.part0",
+                "size": 1677721600,
+                "SHA256": "d14f979099c6093fae8f14cef50c8ac3f749a4c64e9c8807f222becd93e6869d",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-fourteen/PixelOS_miatoll-14.0-20240120-1557.zip.part0"
+            },
+            {
+                "filename": "PixelOS_miatoll-14.0-20240120-1557.zip.part1",
+                "size": 375044007,
+                "SHA256": "0fe224a8001cc64e0dc87980a1ec98f177bced99b7a001913166320315e95444",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-fourteen/PixelOS_miatoll-14.0-20240120-1557.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_miatoll-14.0-20231223-0758.zip",
+        "size": 2143045333,
+        "SHA256": "cfdae119fb67aec9c42e0a35d8bfc0157a23f6ef9e2e7154c66ca2b2a2f9fab9",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/miatoll/PixelOS_miatoll-14.0-20231223-0758.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-fourteen/PixelOS_miatoll-14.0-20231223-0758.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_miatoll-14.0-20231223-0758.zip.part0",
+                "size": 1677721600,
+                "SHA256": "c93529b081e33e2674170acfb76e4b03760a7b8fbeb2554b63dd67d9c64c89fc",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-fourteen/PixelOS_miatoll-14.0-20231223-0758.zip.part0"
+            },
+            {
+                "filename": "PixelOS_miatoll-14.0-20231223-0758.zip.part1",
+                "size": 465323733,
+                "SHA256": "341cf8518e42e989fb3d28670f13c525541fe2fdffb0f5e1654cc49eaf289966",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-fourteen/PixelOS_miatoll-14.0-20231223-0758.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_miatoll-14.0-20240604-1350.zip",
+        "size": 2047197008,
+        "SHA256": "79af213b203ee858d3b86f73fe34e9c5dbec1b58cd2b9614e5db4251a4704b85",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/miatoll/PixelOS_miatoll-14.0-20240604-1350.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-fourteen/PixelOS_miatoll-14.0-20240604-1350.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_miatoll-14.0-20240604-1350.zip.part0",
+                "size": 1677721600,
+                "SHA256": "91fa16a6ef669090302ef7d43eae3b2e206690dbd8737a90432a6021a58ad63b",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-fourteen/PixelOS_miatoll-14.0-20240604-1350.zip.part0"
+            },
+            {
+                "filename": "PixelOS_miatoll-14.0-20240604-1350.zip.part1",
+                "size": 369475408,
+                "SHA256": "a41fb385272ac526b2d565f6e1e782f9b1dfc70df9d8990d9bec789b80163806",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-fourteen/PixelOS_miatoll-14.0-20240604-1350.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_martini-16.1-20260116-0410.zip",
+        "size": 2714553024,
+        "SHA256": "5913d187968f08889aec998ba768222396ac53949eac39a8a255eedac6d321fe",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/martini/PixelOS_martini-16.1-20260116-0410.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-sixteen/PixelOS_martini-16.1-20260116-0410.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_martini-16.1-20260116-0410.zip.part0",
+                "size": 1677721600,
+                "SHA256": "5ef1679b61e846986213c663029875c5fd74a0abf839ee61c87cad2b7b18d23b",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-sixteen/PixelOS_martini-16.1-20260116-0410.zip.part0"
+            },
+            {
+                "filename": "PixelOS_martini-16.1-20260116-0410.zip.part1",
+                "size": 1036831424,
+                "SHA256": "4a76186c97432601314d9aac338bfa133dcaa2641ec4dadc12ebfe1264ab882c",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-sixteen/PixelOS_martini-16.1-20260116-0410.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_martini-14.0-20240723-1547.zip",
+        "size": 2691101992,
+        "SHA256": "186a9b7046811413c4b22d98853e1e1f97d7f0cc68211328933ea3553bb63819",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/martini/PixelOS_martini-14.0-20240723-1547.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-fourteen/PixelOS_martini-14.0-20240723-1547.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_martini-14.0-20240723-1547.zip.part0",
+                "size": 1677721600,
+                "SHA256": "dbc178cfbb9b226056568dd313a4d569eeddf2b630c2ecc9020d07b28ff78998",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-fourteen/PixelOS_martini-14.0-20240723-1547.zip.part0"
+            },
+            {
+                "filename": "PixelOS_martini-14.0-20240723-1547.zip.part1",
+                "size": 1013380392,
+                "SHA256": "af3ed6bd8154e0276ba0f0d18ed83bb340736ccccf4ceab71626d7851418e8a6",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-fourteen/PixelOS_martini-14.0-20240723-1547.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_miatoll-14.0-20240802-1409.zip",
+        "size": 2272042797,
+        "SHA256": "3922e285ada4ce2529a4c3c6038ab7ff7053c68e539fd83791fa670e443d4043",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/miatoll/PixelOS_miatoll-14.0-20240802-1409.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-fourteen/PixelOS_miatoll-14.0-20240802-1409.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_miatoll-14.0-20240802-1409.zip.part0",
+                "size": 1677721600,
+                "SHA256": "18bbbbf5adbcb6c566a0a096160b93b55978379db6e7cb496629ae9e6a82704f",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-fourteen/PixelOS_miatoll-14.0-20240802-1409.zip.part0"
+            },
+            {
+                "filename": "PixelOS_miatoll-14.0-20240802-1409.zip.part1",
+                "size": 594321197,
+                "SHA256": "f3fd4daa39f6e77d3a8693921d3a659d6d0897c90bc7e8e10c3e3f465373eb3e",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-fourteen/PixelOS_miatoll-14.0-20240802-1409.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_kiev-16.1-20260115-0708.zip",
+        "size": 2114961159,
+        "SHA256": "6e413c445b3555a314a8dfcd615955b4549b77842b83b1e496b2281d1eda85c5",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/kiev/PixelOS_kiev-16.1-20260115-0708.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/kiev-sixteen/PixelOS_kiev-16.1-20260115-0708.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_kiev-16.1-20260115-0708.zip.part0",
+                "size": 1677721600,
+                "SHA256": "c3aa6deff5f155548032bf0b22ff7b65b15ec1873b0158cfce4862b5bd4b585e",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/kiev-sixteen/PixelOS_kiev-16.1-20260115-0708.zip.part0"
+            },
+            {
+                "filename": "PixelOS_kiev-16.1-20260115-0708.zip.part1",
+                "size": 437239559,
+                "SHA256": "f053d6c10d9176898a57562323a53d5fce19add320ef80de6d235f374b4b41ba",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/kiev-sixteen/PixelOS_kiev-16.1-20260115-0708.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_miatoll-14.0-20240729-1622.zip",
+        "size": 2272975138,
+        "SHA256": "b32446fd6a5dec62aa41aca48513f2e5a75b1816075bb61280b5d0cc984db739",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/miatoll/PixelOS_miatoll-14.0-20240729-1622.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-fourteen/PixelOS_miatoll-14.0-20240729-1622.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_miatoll-14.0-20240729-1622.zip.part0",
+                "size": 1677721600,
+                "SHA256": "b92867317fb6ab5aeb5921f27cbf18a04c735ba797bceb9b4d702df376c3035d",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-fourteen/PixelOS_miatoll-14.0-20240729-1622.zip.part0"
+            },
+            {
+                "filename": "PixelOS_miatoll-14.0-20240729-1622.zip.part1",
+                "size": 595253538,
+                "SHA256": "8675c0ee6253077b51e0a4751166871714a7b8b5c09eb26b94341530db6dd9b7",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-fourteen/PixelOS_miatoll-14.0-20240729-1622.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lisa-16.1-20251225-0737.zip",
+        "size": 2475034334,
+        "SHA256": "b79bffa4d35b39e26a8ea509ce7a4745bdae780b92452433429ba7652852c3bf",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/lisa/PixelOS_lisa-16.1-20251225-0737.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-sixteen/PixelOS_lisa-16.1-20251225-0737.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_lisa-16.1-20251225-0737.zip.part0",
+                "size": 1677721600,
+                "SHA256": "79c3e791bd793df24c545042cecfce08292a8b1a3de9db6afeeca4c09395056f",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-sixteen/PixelOS_lisa-16.1-20251225-0737.zip.part0"
+            },
+            {
+                "filename": "PixelOS_lisa-16.1-20251225-0737.zip.part1",
+                "size": 797312734,
+                "SHA256": "dbe7eb311061fb0d5c60a8eae40fd6fd97382379a1625367f3c7e54d2052a336",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-sixteen/PixelOS_lisa-16.1-20251225-0737.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_miatoll-16.2-20260224-0004.zip",
+        "size": 2622827394,
+        "SHA256": "ccba2252b232895bef2a26af29dacaa3632eebb57c4b5b263903b59dbcfc5a8e",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/miatoll/PixelOS_miatoll-16.2-20260224-0004.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-sixteen/PixelOS_miatoll-16.2-20260224-0004.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_miatoll-16.2-20260224-0004.zip.part0",
+                "size": 1677721600,
+                "SHA256": "5d9cedf125705009e54e6ea2fac0b310189c42c2d73197340fe0e7c8dd0ffe0a",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-sixteen/PixelOS_miatoll-16.2-20260224-0004.zip.part0"
+            },
+            {
+                "filename": "PixelOS_miatoll-16.2-20260224-0004.zip.part1",
+                "size": 945105794,
+                "SHA256": "66154390fac834e2f9cf4a72bf00c00330d83329cdc6c84d90b6088eed6c7b3c",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-sixteen/PixelOS_miatoll-16.2-20260224-0004.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_miatoll-16.1-20251231-0621.zip",
+        "size": 2436630168,
+        "SHA256": "d3381145e213c4cfe611d051900dc8859d9fc32cdb6948084850ccf08a711437",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/miatoll/PixelOS_miatoll-16.1-20251231-0621.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-sixteen/PixelOS_miatoll-16.1-20251231-0621.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_miatoll-16.1-20251231-0621.zip.part0",
+                "size": 1677721600,
+                "SHA256": "38afaede8bd699b08040ce0355ebe1df8ca278fe4143fd6739d79af7325ffe81",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-sixteen/PixelOS_miatoll-16.1-20251231-0621.zip.part0"
+            },
+            {
+                "filename": "PixelOS_miatoll-16.1-20251231-0621.zip.part1",
+                "size": 758908568,
+                "SHA256": "62cacd4295b512df6704c4e8a0444d83c39d3b23b7551a164d36175e5c47e289",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-sixteen/PixelOS_miatoll-16.1-20251231-0621.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_marble-14.0-20241005-0946.zip",
+        "size": 2758471080,
+        "SHA256": "31d1f6392e1402285fd07c51180f6a66d9a2cb509ba78aae9bdabe5b26c76cf4",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/marble/PixelOS_marble-14.0-20241005-0946.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/marble-fourteen/PixelOS_marble-14.0-20241005-0946.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_marble-14.0-20241005-0946.zip.part0",
+                "size": 1677721600,
+                "SHA256": "e594b79a2f29d8b68d7161e093f9fd8b375b4facefef2944696416c6c85c6120",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/marble-fourteen/PixelOS_marble-14.0-20241005-0946.zip.part0"
+            },
+            {
+                "filename": "PixelOS_marble-14.0-20241005-0946.zip.part1",
+                "size": 1080749480,
+                "SHA256": "4ecae63242b220bfb24adc96e0a316397186d2f62abe138db2d8f59835aac37b",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/marble-fourteen/PixelOS_marble-14.0-20241005-0946.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_miatoll-14.0-20240820-1015.zip",
+        "size": 2147657560,
+        "SHA256": "af6828fcfa0f9de9839911c8b502c88ff44e10d16bdb3a66af3009fb4f421ac6",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/miatoll/PixelOS_miatoll-14.0-20240820-1015.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-fourteen/PixelOS_miatoll-14.0-20240820-1015.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_miatoll-14.0-20240820-1015.zip.part0",
+                "size": 1677721600,
+                "SHA256": "f5b56ce3c34a4240b32d6bb1a040105444aacccb6ca8e319c01f0ca2cd3b04b1",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-fourteen/PixelOS_miatoll-14.0-20240820-1015.zip.part0"
+            },
+            {
+                "filename": "PixelOS_miatoll-14.0-20240820-1015.zip.part1",
+                "size": 469935960,
+                "SHA256": "9e88234b6d6662680fcb07d5c5eab51e485bf295c6923b5b704ff87179bd3934",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-fourteen/PixelOS_miatoll-14.0-20240820-1015.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_miatoll-16.1-20260102-1552.zip",
+        "size": 2437020286,
+        "SHA256": "6de93eefc42174e937d91b9737c4a43cb036a91ffa1aaec66dbee642150cea76",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/miatoll/PixelOS_miatoll-16.1-20260102-1552.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-sixteen/PixelOS_miatoll-16.1-20260102-1552.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_miatoll-16.1-20260102-1552.zip.part0",
+                "size": 1677721600,
+                "SHA256": "2dfa7aff2df7495e5bada9472f7c3f3dfa2edfcb3ea2df346e843bfbb1581742",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-sixteen/PixelOS_miatoll-16.1-20260102-1552.zip.part0"
+            },
+            {
+                "filename": "PixelOS_miatoll-16.1-20260102-1552.zip.part1",
+                "size": 759298686,
+                "SHA256": "835ab1ef0b167be5afc5a7c3eea4b127dca0fab3d73dc0e4ee1a6e20376c00be",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-sixteen/PixelOS_miatoll-16.1-20260102-1552.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_miatoll-16.1-20260114-1303.zip",
+        "size": 2420907594,
+        "SHA256": "91b4138636af7e382b620abb6a402da3fefeee313956c761e9d94e6b616dbe30",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/miatoll/PixelOS_miatoll-16.1-20260114-1303.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-sixteen/PixelOS_miatoll-16.1-20260114-1303.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_miatoll-16.1-20260114-1303.zip.part0",
+                "size": 1677721600,
+                "SHA256": "88ffc4f4e6e5822e4fccef81be0c3c1aded16b32cca0fbb53415ff0d32a0ef57",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-sixteen/PixelOS_miatoll-16.1-20260114-1303.zip.part0"
+            },
+            {
+                "filename": "PixelOS_miatoll-16.1-20260114-1303.zip.part1",
+                "size": 743185994,
+                "SHA256": "05aec133d671f055029ea29700ea4c9c1263ef61d38ff20f1cbdc298213c5e5f",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/miatoll-sixteen/PixelOS_miatoll-16.1-20260114-1303.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_martini-13.0-20221218-1551.zip",
+        "size": 2014793254,
+        "SHA256": "c48b84e2980ef6f9ae5241a588b6a3538f6d37ca399f1577281802975ea23be6",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/martini/PixelOS_martini-13.0-20221218-1551.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-thirteen/PixelOS_martini-13.0-20221218-1551.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_martini-14.0-20240419-1446.zip",
+        "size": 2232405463,
+        "SHA256": "93d9063113ff008e16783cff6387184aa5f931fd83dd964efd35cf88f2fa187f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/martini/PixelOS_martini-14.0-20240419-1446.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-fourteen/PixelOS_martini-14.0-20240419-1446.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_martini-14.0-20240419-1446.zip.part0",
+                "size": 1677721600,
+                "SHA256": "48e22ad452ebbdb0be199f35c74fc2d51e7093f5d6484c86eccc01700e85e7b6",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-fourteen/PixelOS_martini-14.0-20240419-1446.zip.part0"
+            },
+            {
+                "filename": "PixelOS_martini-14.0-20240419-1446.zip.part1",
+                "size": 554683863,
+                "SHA256": "ff25749026453de1c20b992ef9eafbb0af17145127d141d18ed10847d459e106",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-fourteen/PixelOS_martini-14.0-20240419-1446.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_lisa-12.1-20220611-0752.zip",
+        "size": 2007348868,
+        "SHA256": "bc117d36e3612d84e1b96cd31b73fcdc0511f5be57d8e7604efb92b3e2a18c15",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/lisa/PixelOS_lisa-12.1-20220611-0752.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-twelve/PixelOS_lisa-12.1-20220611-0752.zip",
+        "parts": false
     }
 ]
