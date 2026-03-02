@@ -8471,5 +8471,858 @@
         "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/lisa/PixelOS_lisa-12.1-20220611-0752.zip/download",
         "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/lisa-twelve/PixelOS_lisa-12.1-20220611-0752.zip",
         "parts": false
+    },
+    {
+        "filename": "PixelOS_mido-14.0-20231115-1337.zip",
+        "size": 1574940085,
+        "SHA256": "f786826e32ed74779d7e6eeaa96cd6b163004b7ad42324cf107c073a1db8d445",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/mido/PixelOS_mido-14.0-20231115-1337.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/mido-fourteen/PixelOS_mido-14.0-20231115-1337.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_mojito-12.0-20220101-1420.zip",
+        "size": 1633464188,
+        "SHA256": "0b9007ad85bbec6083e27272a4a1ae880745ddf0f90ba907b0d1d4c6eba1929d",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/mojito/PixelOS_mojito-12.0-20220101-1420.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/mojito-twelve/PixelOS_mojito-12.0-20220101-1420.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_mido-13.0-20230509-0428.zip",
+        "size": 1419056956,
+        "SHA256": "c54ef032dd812c92e0663011acf44b72120f67ac00634cb6aba20f9eaea9d8df",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/mido/PixelOS_mido-13.0-20230509-0428.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/mido-thirteen/PixelOS_mido-13.0-20230509-0428.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_mojito-12.0-20220115-0746.zip",
+        "size": 1620597283,
+        "SHA256": "0fa0e94f2422e6da5b10810209a4268208556018e05cbcc380b492ba4fe743e4",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/mojito/PixelOS_mojito-12.0-20220115-0746.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/mojito-twelve/PixelOS_mojito-12.0-20220115-0746.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_mojito-12.0-20220117-1959.zip",
+        "size": 1620553328,
+        "SHA256": "a396baebe67a52d0e27b35bac6fd76b86f7e903935763c40c4368e0ed65386a0",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/mojito/PixelOS_mojito-12.0-20220117-1959.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/mojito-twelve/PixelOS_mojito-12.0-20220117-1959.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_mojito-12.0-20220211-1953.zip",
+        "size": 1607225232,
+        "SHA256": "60014dcfd2d66fed4bf8371316699d95afe1344b171c9ff9d9abcf5c0c38fedb",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/mojito/PixelOS_mojito-12.0-20220211-1953.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/mojito-twelve/PixelOS_mojito-12.0-20220211-1953.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_mojito-12.0-20220311-1843.zip",
+        "size": 1672449820,
+        "SHA256": "db7e0d57202c312e35c7ac16cf751aafc74da5f06666cbacad079b7314a30556",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/mojito/PixelOS_mojito-12.0-20220311-1843.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/mojito-twelve/PixelOS_mojito-12.0-20220311-1843.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_mojito-12.1-20220508-1546.zip",
+        "size": 1729938401,
+        "SHA256": "50db93ca9232bc8a4ab67ae085b7175be66c5c32bd95125d449771a39c88b342",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/mojito/PixelOS_mojito-12.1-20220508-1546.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/mojito-twelve/PixelOS_mojito-12.1-20220508-1546.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_mojito-12.1-20220608-1546.zip",
+        "size": 1903255203,
+        "SHA256": "0d8fa4e14b02a73fce6bd78d03c292f91f835fe7d6b80b9751e6e87ff4dceb28",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/mojito/PixelOS_mojito-12.1-20220608-1546.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/mojito-twelve/PixelOS_mojito-12.1-20220608-1546.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_mojito-12.1-20220609-0529.zip",
+        "size": 1943169717,
+        "SHA256": "ef2a87b5d296db7b483d72a36140c2d9fdf0f842a06a92222bb7b62f62250a19",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/mojito/PixelOS_mojito-12.1-20220609-0529.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/mojito-twelve/PixelOS_mojito-12.1-20220609-0529.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_mojito-12.1-20220624-0801.zip",
+        "size": 1955251823,
+        "SHA256": "a4ed14ca46b888d71c788fe2d54941c5ae93ff9b90a99bf14697bff07d619880",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/mojito/PixelOS_mojito-12.1-20220624-0801.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/mojito-twelve/PixelOS_mojito-12.1-20220624-0801.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_mojito-12.1-20220626-1501.zip",
+        "size": 1942490465,
+        "SHA256": "b9e4f4fcc4bd1415f827b1c9b3bcc90374cb6636253dde557692d825997fb344",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/mojito/PixelOS_mojito-12.1-20220626-1501.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/mojito-twelve/PixelOS_mojito-12.1-20220626-1501.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_mojito-12.1-20220721-0346.zip",
+        "size": 1945938449,
+        "SHA256": "d03af853d609f34962c15e5176f95e985eeed2251c8ef1cd9ecc28413d7b1f5b",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/mojito/PixelOS_mojito-12.1-20220721-0346.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/mojito-twelve/PixelOS_mojito-12.1-20220721-0346.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_mojito-12.1-20220813-0516.zip",
+        "size": 1945950291,
+        "SHA256": "46faababcccd8b7803d4d17da76b9fb2e18a3dfaa6af23b52f5c9b2b8f0ec15a",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/mojito/PixelOS_mojito-12.1-20220813-0516.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/mojito-twelve/PixelOS_mojito-12.1-20220813-0516.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_mojito-13.0-20220913-1335.zip",
+        "size": 1990024677,
+        "SHA256": "d304ab87a7448efccb88ebcdaeb7229de6edc350b83d764c8f0dbffa7508f33f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/mojito/PixelOS_mojito-13.0-20220913-1335.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/mojito-thirteen/PixelOS_mojito-13.0-20220913-1335.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_mojito-13.0-20221122-0318.zip",
+        "size": 2066305720,
+        "SHA256": "81f142bcf421daffe4ecc12782b34f0f963a908970e6979eb6e08374f7c402f1",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/mojito/PixelOS_mojito-13.0-20221122-0318.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/mojito-thirteen/PixelOS_mojito-13.0-20221122-0318.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_mojito-13.0-20221122-0318.zip.part0",
+                "size": 1677721600,
+                "SHA256": "d6da55e0a36cc347c66170554466ddb73d41c30f6e9d07d7c4d4f05531d5e325",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/mojito-thirteen/PixelOS_mojito-13.0-20221122-0318.zip.part0"
+            },
+            {
+                "filename": "PixelOS_mojito-13.0-20221122-0318.zip.part1",
+                "size": 388584120,
+                "SHA256": "7005552f09d7542512114f9ff5d34b295e599cdf1b016ed22016fa94d05b8d62",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/mojito-thirteen/PixelOS_mojito-13.0-20221122-0318.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_mojito-13.0-20221020-1311.zip",
+        "size": 1975255662,
+        "SHA256": "87ea684a86190ecce2a9bf3792b1e155d2a56a19ac86343394a048df18338289",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/mojito/PixelOS_mojito-13.0-20221020-1311.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/mojito-thirteen/PixelOS_mojito-13.0-20221020-1311.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_mojito-13.0-20230122-1521.zip",
+        "size": 1960915476,
+        "SHA256": "74490dfe81981bebdc7a45224a050d0471224b0bc7f60b51ca69113dfa8a968a",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/mojito/PixelOS_mojito-13.0-20230122-1521.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/mojito-thirteen/PixelOS_mojito-13.0-20230122-1521.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_mojito-13.0-20230129-0800.zip",
+        "size": 1960945556,
+        "SHA256": "de30a45736e9918d3a2c23a309873e8030deec3271ddcf9c9a6c28ef97fae8d9",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/mojito/PixelOS_mojito-13.0-20230129-0800.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/mojito-thirteen/PixelOS_mojito-13.0-20230129-0800.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_mojito-13.0-20230428-0542.zip",
+        "size": 1980974332,
+        "SHA256": "3de6de64757d4c4c0b6f94876e958238da8b2657dc91bcbb23f8f2375f379025",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/mojito/PixelOS_mojito-13.0-20230428-0542.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/mojito-thirteen/PixelOS_mojito-13.0-20230428-0542.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_mojito-13.0-20230601-1150.zip",
+        "size": 1974891137,
+        "SHA256": "f33ce2e946c1a2fea9a21d2cc21a18fce7265243a0876cf7b3356773bc78ab3a",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/mojito/PixelOS_mojito-13.0-20230601-1150.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/mojito-thirteen/PixelOS_mojito-13.0-20230601-1150.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_mojito-13.0-20230707-1957.zip",
+        "size": 2023618886,
+        "SHA256": "8edcaab703ce32f70cb59d868a1fa5f3e0073d40f1f66106ce2e7d914beddc9f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/mojito/PixelOS_mojito-13.0-20230707-1957.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/mojito-thirteen/PixelOS_mojito-13.0-20230707-1957.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_mojito-13.0-20230724-1438.zip",
+        "size": 2036851332,
+        "SHA256": "bce7c092d5482fefff628f69ae21ce8dd5fa790f0a300eac4681cd5611b361e4",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/mojito/PixelOS_mojito-13.0-20230724-1438.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/mojito-thirteen/PixelOS_mojito-13.0-20230724-1438.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_mojito-13.0-20230818-1054.zip",
+        "size": 1969362032,
+        "SHA256": "6b9d40835c2cdeaeb04cc53f160daa81f6dab0df10cb381615c6d81804ad8c26",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/mojito/PixelOS_mojito-13.0-20230818-1054.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/mojito-thirteen/PixelOS_mojito-13.0-20230818-1054.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_munch-13.0-20221117-1448.zip",
+        "size": 2182784528,
+        "SHA256": "316a33b1165d3ef2ceb2414d4b04f5f8522f2eab9719e4033c79e7d5b9f44823",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/munch/PixelOS_munch-13.0-20221117-1448.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/munch-thirteen/PixelOS_munch-13.0-20221117-1448.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_munch-13.0-20221117-1448.zip.part0",
+                "size": 1677721600,
+                "SHA256": "d76939dcbe1115124b989d9ac9597b2a367905ae59bd1d708048cd111cbd02c8",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/munch-thirteen/PixelOS_munch-13.0-20221117-1448.zip.part0"
+            },
+            {
+                "filename": "PixelOS_munch-13.0-20221117-1448.zip.part1",
+                "size": 505062928,
+                "SHA256": "f01492376925cb197aa0f3d499a59720ac9f70e6f62f0cf4e072b29b45f298c5",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/munch-thirteen/PixelOS_munch-13.0-20221117-1448.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_munch-13.0-20230123-1156.zip",
+        "size": 1833304175,
+        "SHA256": "dadd7b8d8bdd77c555bf451ba12dc6b61f93b7d1c141a77381b30869bc1cddcd",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/munch/PixelOS_munch-13.0-20230123-1156.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/munch-thirteen/PixelOS_munch-13.0-20230123-1156.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_munch-13.0-20230215-0339.zip",
+        "size": 2066028693,
+        "SHA256": "7e203b69e20ec92b8bdea4f2518b070bc06a433529c4da49200a2dc800179d5f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/munch/PixelOS_munch-13.0-20230215-0339.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/munch-thirteen/PixelOS_munch-13.0-20230215-0339.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_munch-13.0-20230215-0339.zip.part0",
+                "size": 1677721600,
+                "SHA256": "4202eee61edd0c0b924ad6e8fcfdd2e63abb072bbc8391f40c0968e40db45ab8",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/munch-thirteen/PixelOS_munch-13.0-20230215-0339.zip.part0"
+            },
+            {
+                "filename": "PixelOS_munch-13.0-20230215-0339.zip.part1",
+                "size": 388307093,
+                "SHA256": "0f78a95f8f4f29a854f86a07c6a4caa06b75d4b72cb26cd4d92bcc3b93e154e9",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/munch-thirteen/PixelOS_munch-13.0-20230215-0339.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_munch-13.0-20230216-1300.zip",
+        "size": 2072549549,
+        "SHA256": "38202730212c2906cce2f67a9355236cc75fc61c893c1f30ecb84ec5bd6e0a46",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/munch/PixelOS_munch-13.0-20230216-1300.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/munch-thirteen/PixelOS_munch-13.0-20230216-1300.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_munch-13.0-20230216-1300.zip.part0",
+                "size": 1677721600,
+                "SHA256": "22c777086dd5e88553508ec747649f4d17e75e20b0c4936b033dade90b24054c",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/munch-thirteen/PixelOS_munch-13.0-20230216-1300.zip.part0"
+            },
+            {
+                "filename": "PixelOS_munch-13.0-20230216-1300.zip.part1",
+                "size": 394827949,
+                "SHA256": "be2d548e852be58cb91ea60247eb0a37bf3bd16aee0db5306e4d5119316c9fd1",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/munch-thirteen/PixelOS_munch-13.0-20230216-1300.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_munch-13.0-20230510-0219.zip",
+        "size": 2185494465,
+        "SHA256": "cfcca667a01310271dd079b566d4bfc72b869579264877fcc5e069c47d252c49",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/munch/PixelOS_munch-13.0-20230510-0219.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/munch-thirteen/PixelOS_munch-13.0-20230510-0219.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_munch-13.0-20230510-0219.zip.part0",
+                "size": 1677721600,
+                "SHA256": "dc794fa27f5675fcba191b94c609298fd149785114dfa3b9543e4a7e015345c4",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/munch-thirteen/PixelOS_munch-13.0-20230510-0219.zip.part0"
+            },
+            {
+                "filename": "PixelOS_munch-13.0-20230510-0219.zip.part1",
+                "size": 507772865,
+                "SHA256": "ab14fbdb0c686c0ca4826756c4082c8cd4e4805c7edd67b9706d59d8d4fac827",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/munch-thirteen/PixelOS_munch-13.0-20230510-0219.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_munch-13.0-20230713-0211.zip",
+        "size": 1988934991,
+        "SHA256": "94994dffbc0ecf721af2f3b4af932944759bf43c734d2600987f817f3a59ab2f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/munch/PixelOS_munch-13.0-20230713-0211.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/munch-thirteen/PixelOS_munch-13.0-20230713-0211.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_munch-13.0-20230715-1431.zip",
+        "size": 1988366113,
+        "SHA256": "8160fed158673dff39296e2180f3174dd9d37cf86773e56dd5cacf4f4d2a5099",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/munch/PixelOS_munch-13.0-20230715-1431.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/munch-thirteen/PixelOS_munch-13.0-20230715-1431.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_munch-13.0-20230818-0919.zip",
+        "size": 1927474799,
+        "SHA256": "e13f00d9490a75d7bb225e439a26ab19263d37c60e30b4d883d4b3be8c9ce4b3",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/munch/PixelOS_munch-13.0-20230818-0919.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/munch-thirteen/PixelOS_munch-13.0-20230818-0919.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_munch-14.0-20231117-1820.zip",
+        "size": 1979447633,
+        "SHA256": "51589d748c3de8b0a2baf5f692601fe31c8b03635271eaf9d75c22417618143b",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/munch/PixelOS_munch-14.0-20231117-1820.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/munch-fourteen/PixelOS_munch-14.0-20231117-1820.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_munch-14.0-20231129-1202.zip",
+        "size": 1991162618,
+        "SHA256": "9054fdc0b9c943824dd2fbdc8a6d2ece9ab0688e45f1d82af6299fbed7ec1afc",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/munch/PixelOS_munch-14.0-20231129-1202.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/munch-fourteen/PixelOS_munch-14.0-20231129-1202.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_munch-14.0-20231222-0411.zip",
+        "size": 2037066877,
+        "SHA256": "c0fdb72257a0f4a0c58d953257de9f52b645bc59d8f25a9235a6289fa7658c2a",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/munch/PixelOS_munch-14.0-20231222-0411.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/munch-fourteen/PixelOS_munch-14.0-20231222-0411.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_munch-14.0-20240117-0316.zip",
+        "size": 2043313670,
+        "SHA256": "9a4db0af95da6a3caa0c29f8eb2e60d9881d447a543dd13e3ca14d9757a9e7a5",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/munch/PixelOS_munch-14.0-20240117-0316.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/munch-fourteen/PixelOS_munch-14.0-20240117-0316.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_munch-14.0-20240117-0316.zip.part0",
+                "size": 1677721600,
+                "SHA256": "73e1d011ef4509b4cc4201345a9be7a209707a82f5527017ade4801ad6da9abb",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/munch-fourteen/PixelOS_munch-14.0-20240117-0316.zip.part0"
+            },
+            {
+                "filename": "PixelOS_munch-14.0-20240117-0316.zip.part1",
+                "size": 365592070,
+                "SHA256": "4add61cb0fd5ce741df8b74b3d81a1bef63feb8de9442b60611e995ed7cbfd87",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/munch-fourteen/PixelOS_munch-14.0-20240117-0316.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_nemo-16.1-20251231-0713.zip",
+        "size": 2416441428,
+        "SHA256": "0df7272e4c5b490686117610edba412ea6a6989b80eae9f4e6e62d02f5a9f591",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/nemo/PixelOS_nemo-16.1-20251231-0713.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/nemo-sixteen/PixelOS_nemo-16.1-20251231-0713.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_nemo-16.1-20251231-0713.zip.part0",
+                "size": 1677721600,
+                "SHA256": "d8d8c437c11afcdf7bb0a366b0cc3fb8bb65c19bf64a0e25d85d5b3744656b92",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/nemo-sixteen/PixelOS_nemo-16.1-20251231-0713.zip.part0"
+            },
+            {
+                "filename": "PixelOS_nemo-16.1-20251231-0713.zip.part1",
+                "size": 738719828,
+                "SHA256": "7f436f10326212a025e283d45019685037ab5921d0d8eb1aa17f1a48efcd152f",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/nemo-sixteen/PixelOS_nemo-16.1-20251231-0713.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_munch-14.0-20240125-0104.zip",
+        "size": 2043184172,
+        "SHA256": "042362bf0eb08584e07f22720c76ee6ac47125374070912c50e4197006ed9cb8",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/munch/PixelOS_munch-14.0-20240125-0104.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/munch-fourteen/PixelOS_munch-14.0-20240125-0104.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_munch-14.0-20240125-0104.zip.part0",
+                "size": 1677721600,
+                "SHA256": "aaf802b2f735b5771a799143173b96230b6b5e5a04b41017d8f72af64d44b37f",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/munch-fourteen/PixelOS_munch-14.0-20240125-0104.zip.part0"
+            },
+            {
+                "filename": "PixelOS_munch-14.0-20240125-0104.zip.part1",
+                "size": 365462572,
+                "SHA256": "c16e4410c9fa873204f2d41cbd40bb4039a562530722f10ad98ac00eda9814d3",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/munch-fourteen/PixelOS_munch-14.0-20240125-0104.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_nemo-16.1-20260101-1915.zip",
+        "size": 2416472917,
+        "SHA256": "a74d3c3155b54434394b7d0a19857843cc747186dbbd2f580528544a50ae65d6",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/nemo/PixelOS_nemo-16.1-20260101-1915.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/nemo-sixteen/PixelOS_nemo-16.1-20260101-1915.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_nemo-16.1-20260101-1915.zip.part0",
+                "size": 1677721600,
+                "SHA256": "25d6aa9d5a356db276ffb44a7e55df6a2e996979d1421f3f83282155f0d1b155",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/nemo-sixteen/PixelOS_nemo-16.1-20260101-1915.zip.part0"
+            },
+            {
+                "filename": "PixelOS_nemo-16.1-20260101-1915.zip.part1",
+                "size": 738751317,
+                "SHA256": "6f4a883ceaf3e2e02eb615b7bc33a1b9c052cb5cee4e71475a4fa162a72c4381",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/nemo-sixteen/PixelOS_nemo-16.1-20260101-1915.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_nemo-16.2-20260225-2038.zip",
+        "size": 2411390917,
+        "SHA256": "5f54d2c2eb7b87baf1d6b1c5a62e823c1291f47ad8a7dc45fc2a5a2ede6bb3b8",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/nemo/PixelOS_nemo-16.2-20260225-2038.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/nemo-sixteen/PixelOS_nemo-16.2-20260225-2038.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_nemo-16.2-20260225-2038.zip.part0",
+                "size": 1677721600,
+                "SHA256": "10028b2c05acdfa20da54f52db7e2c86e7c2dbe22694cb4012f3604d6fc8247b",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/nemo-sixteen/PixelOS_nemo-16.2-20260225-2038.zip.part0"
+            },
+            {
+                "filename": "PixelOS_nemo-16.2-20260225-2038.zip.part1",
+                "size": 733669317,
+                "SHA256": "393d8e3cd33e88df5a9581fa8d1c140953cbe57dc2e645dc2cd702211d050b3f",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/nemo-sixteen/PixelOS_nemo-16.2-20260225-2038.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_onyx-16.1-20260125-1141.zip",
+        "size": 4194009324,
+        "SHA256": "aad0fb3bb07437794192265b875f38ee28bf0f0e4578ca22afeccd45dc69b8d2",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/onyx/PixelOS_onyx-16.1-20260125-1141.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/onyx-sixteen/PixelOS_onyx-16.1-20260125-1141.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_onyx-16.1-20260125-1141.zip.part0",
+                "size": 1677721600,
+                "SHA256": "acfde30acdf9998f4095122e81c307bdea7568f82b47bbb2b07a3ce0870b85e3",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/onyx-sixteen/PixelOS_onyx-16.1-20260125-1141.zip.part0"
+            },
+            {
+                "filename": "PixelOS_onyx-16.1-20260125-1141.zip.part1",
+                "size": 1677721600,
+                "SHA256": "f0c30fa42adaa80a151cf2ccc807755483a23f5e4db5a9990e1ec925dba8344c",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/onyx-sixteen/PixelOS_onyx-16.1-20260125-1141.zip.part1"
+            },
+            {
+                "filename": "PixelOS_onyx-16.1-20260125-1141.zip.part2",
+                "size": 838566124,
+                "SHA256": "de92ce59ca25728bc92ec88eb7010c6ecb43ca4641ad5a644e5018ab6d7c1287",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/onyx-sixteen/PixelOS_onyx-16.1-20260125-1141.zip.part2"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_onyx-16.1-20251214-0816.zip",
+        "size": 4024396928,
+        "SHA256": "d701c99a85e2835c9a9813d8ad4555fa4e9c652bd1eb410886ed3a69ca10afc0",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/onyx/PixelOS_onyx-16.1-20251214-0816.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/onyx-sixteen/PixelOS_onyx-16.1-20251214-0816.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_onyx-16.1-20251214-0816.zip.part0",
+                "size": 1677721600,
+                "SHA256": "7b4a6cbe38220c888db790befedc3af564fe9134d57aced934deda66bc1013fe",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/onyx-sixteen/PixelOS_onyx-16.1-20251214-0816.zip.part0"
+            },
+            {
+                "filename": "PixelOS_onyx-16.1-20251214-0816.zip.part1",
+                "size": 1677721600,
+                "SHA256": "3a95aa17f8cc185bb46bca1bab1e21e0344f47aff116697f32a5db9ff95de864",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/onyx-sixteen/PixelOS_onyx-16.1-20251214-0816.zip.part1"
+            },
+            {
+                "filename": "PixelOS_onyx-16.1-20251214-0816.zip.part2",
+                "size": 668953728,
+                "SHA256": "c68bc9c7b62afbe8f2fa64f7852801b3d8e32fdbf873cc83545bf983d19bf9f6",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/onyx-sixteen/PixelOS_onyx-16.1-20251214-0816.zip.part2"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_onyx-16.1-20260126-2041.zip",
+        "size": 4194009277,
+        "SHA256": "06b5c836a3a5c8a1a24fb8d8cc6c3ff549d3c06d6d6c3e44e657790962f0b4cb",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/onyx/PixelOS_onyx-16.1-20260126-2041.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/onyx-sixteen/PixelOS_onyx-16.1-20260126-2041.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_onyx-16.1-20260126-2041.zip.part0",
+                "size": 1677721600,
+                "SHA256": "97574a10285c3e7477f470edfb8c56eb162f081c67c94bce8d1209762c7143b8",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/onyx-sixteen/PixelOS_onyx-16.1-20260126-2041.zip.part0"
+            },
+            {
+                "filename": "PixelOS_onyx-16.1-20260126-2041.zip.part1",
+                "size": 1677721600,
+                "SHA256": "825aadbdaea60382215fa8d76c55d52737c11ab40c1d823e7d439cd381913d42",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/onyx-sixteen/PixelOS_onyx-16.1-20260126-2041.zip.part1"
+            },
+            {
+                "filename": "PixelOS_onyx-16.1-20260126-2041.zip.part2",
+                "size": 838566077,
+                "SHA256": "22865d47a30bdc43ce1850ee1f2f46c45ae9a644df36bfe41c84fb8cb1a5f48d",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/onyx-sixteen/PixelOS_onyx-16.1-20260126-2041.zip.part2"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_onyx-16.1-20260206-2050.zip",
+        "size": 4181472178,
+        "SHA256": "b6f01f304511e87acf9a0876f49613bc68abcf786ff1e7f34d3e3bcf4d5f5718",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/onyx/PixelOS_onyx-16.1-20260206-2050.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/onyx-sixteen/PixelOS_onyx-16.1-20260206-2050.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_onyx-16.1-20260206-2050.zip.part0",
+                "size": 1677721600,
+                "SHA256": "3d6c42509d6f61027745dbc66c856e61bf40c623afc7d1ba3105d9652e727c59",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/onyx-sixteen/PixelOS_onyx-16.1-20260206-2050.zip.part0"
+            },
+            {
+                "filename": "PixelOS_onyx-16.1-20260206-2050.zip.part1",
+                "size": 1677721600,
+                "SHA256": "ec7471f05ff0e4a02a0fb1df05eef2531261c958c75e1d632359d64dbdde966b",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/onyx-sixteen/PixelOS_onyx-16.1-20260206-2050.zip.part1"
+            },
+            {
+                "filename": "PixelOS_onyx-16.1-20260206-2050.zip.part2",
+                "size": 826028978,
+                "SHA256": "d303ac34acfd23ff2bbd0d25754825cce9e25f2c16069d23ed1160527ba56da8",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/onyx-sixteen/PixelOS_onyx-16.1-20260206-2050.zip.part2"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_oscar-14.0-20231223-0934.zip",
+        "size": 2177033676,
+        "SHA256": "3d85da040b33fe56e1b2ca85656acfe06506609b95e0c8e901fa888446a24366",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/oscar/PixelOS_oscar-14.0-20231223-0934.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/oscar-fourteen/PixelOS_oscar-14.0-20231223-0934.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_oscar-14.0-20231223-0934.zip.part0",
+                "size": 1677721600,
+                "SHA256": "2ea04da79bc43c11d59fb2714fed8cf0ea7a0b8c8dd03adae0db13665c016cc1",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/oscar-fourteen/PixelOS_oscar-14.0-20231223-0934.zip.part0"
+            },
+            {
+                "filename": "PixelOS_oscar-14.0-20231223-0934.zip.part1",
+                "size": 499312076,
+                "SHA256": "c38dc6c2103d92eca73dc5b264f149a975a9b9b0c44a61d9f96b810be8f5fe8d",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/oscar-fourteen/PixelOS_oscar-14.0-20231223-0934.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_onyx-16.2-20260302-0853.zip",
+        "size": 4195291113,
+        "SHA256": "ba74ae037cef46b31a7730be4664734945734a324fe427b63ff093634c6bc5b3",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/onyx/PixelOS_onyx-16.2-20260302-0853.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/onyx-sixteen/PixelOS_onyx-16.2-20260302-0853.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_onyx-16.2-20260302-0853.zip.part0",
+                "size": 1677721600,
+                "SHA256": "44c99ffcdb29ee7ca2bcf0972b56f0a4bbf9a89bd4510aba1f87588acf7cff54",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/onyx-sixteen/PixelOS_onyx-16.2-20260302-0853.zip.part0"
+            },
+            {
+                "filename": "PixelOS_onyx-16.2-20260302-0853.zip.part1",
+                "size": 1677721600,
+                "SHA256": "e2c3cfda000e5a5cdc53f26739d2fe665329f1441694cfa64c17ae3a42192403",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/onyx-sixteen/PixelOS_onyx-16.2-20260302-0853.zip.part1"
+            },
+            {
+                "filename": "PixelOS_onyx-16.2-20260302-0853.zip.part2",
+                "size": 839847913,
+                "SHA256": "791b98a711be4ccd4f0a3f6942b69d902171b80785fc5535f0470cfc88b91f22",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/onyx-sixteen/PixelOS_onyx-16.2-20260302-0853.zip.part2"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_oscar-14.0-20240226-1516.zip",
+        "size": 2241635774,
+        "SHA256": "28330a6f198cf9c9a9da7afb3ea7532079135bf26e779b68cd3554970d41cafc",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/oscar/PixelOS_oscar-14.0-20240226-1516.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/oscar-fourteen/PixelOS_oscar-14.0-20240226-1516.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_oscar-14.0-20240226-1516.zip.part0",
+                "size": 1677721600,
+                "SHA256": "c72f9d311a6a827fd8486e972b7b976afe68600fafca56343133d27cdbf63a69",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/oscar-fourteen/PixelOS_oscar-14.0-20240226-1516.zip.part0"
+            },
+            {
+                "filename": "PixelOS_oscar-14.0-20240226-1516.zip.part1",
+                "size": 563914174,
+                "SHA256": "577339532758512dc4f2fab57811741ede6f8b67081e36a13b9d861ddecddd3d",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/oscar-fourteen/PixelOS_oscar-14.0-20240226-1516.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_oscar-14.0-20240502-1142.zip",
+        "size": 2159474236,
+        "SHA256": "b148e5ecfa08c13bc6e41c822e663dd6219f7ac4704c4d668177514ca5f9dfb7",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/oscar/PixelOS_oscar-14.0-20240502-1142.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/oscar-fourteen/PixelOS_oscar-14.0-20240502-1142.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_oscar-14.0-20240502-1142.zip.part0",
+                "size": 1677721600,
+                "SHA256": "5cda016b677f4182543e5e370d447fd219711e477025f927b58d656a76e86a25",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/oscar-fourteen/PixelOS_oscar-14.0-20240502-1142.zip.part0"
+            },
+            {
+                "filename": "PixelOS_oscar-14.0-20240502-1142.zip.part1",
+                "size": 481752636,
+                "SHA256": "eafe42c52ca9a612a51fb2b7beb11c6faf8361af77d9723c16ec572983971ee3",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/oscar-fourteen/PixelOS_oscar-14.0-20240502-1142.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_oscar-14.0-20240528-1845.zip",
+        "size": 2424988964,
+        "SHA256": "77644c6a88d2170192d929181599079e081582b546224812c13af017e53ec2a5",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/oscar/PixelOS_oscar-14.0-20240528-1845.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/oscar-fourteen/PixelOS_oscar-14.0-20240528-1845.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_oscar-14.0-20240528-1845.zip.part0",
+                "size": 1677721600,
+                "SHA256": "69df712c869e75cb17f463c57dac6786a4c41f4367f0764d929c2d2cda9b51fe",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/oscar-fourteen/PixelOS_oscar-14.0-20240528-1845.zip.part0"
+            },
+            {
+                "filename": "PixelOS_oscar-14.0-20240528-1845.zip.part1",
+                "size": 747267364,
+                "SHA256": "26519f6538dd5d1d5331d8848d7dd50f962788c6512fa1d59bb5ae7e08b5ae46",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/oscar-fourteen/PixelOS_oscar-14.0-20240528-1845.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_oscar-14.0-20240723-1307.zip",
+        "size": 2691133791,
+        "SHA256": "3f3b6ce659111d1cdd9657939486f20df53516cf2d8da0abb873195f95188803",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/oscar/PixelOS_oscar-14.0-20240723-1307.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/oscar-fourteen/PixelOS_oscar-14.0-20240723-1307.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_oscar-14.0-20240723-1307.zip.part0",
+                "size": 1677721600,
+                "SHA256": "67eabf7a79787f0e35696862308b57b63bb5fcdeb5485865a728181c31e17ec9",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/oscar-fourteen/PixelOS_oscar-14.0-20240723-1307.zip.part0"
+            },
+            {
+                "filename": "PixelOS_oscar-14.0-20240723-1307.zip.part1",
+                "size": 1013412191,
+                "SHA256": "6f2fc0df43dc2f69fcf12c0b04b32f364e4984a9fc72a91056abefc2e1cf8668",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/oscar-fourteen/PixelOS_oscar-14.0-20240723-1307.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_oscar-14.0-20240826-1213.zip",
+        "size": 2566067454,
+        "SHA256": "227a8436112d06cc5f8302f650e5e75b614a31138b93f7f57e6c9c305dcdbe7b",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/oscar/PixelOS_oscar-14.0-20240826-1213.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/oscar-fourteen/PixelOS_oscar-14.0-20240826-1213.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_oscar-14.0-20240826-1213.zip.part0",
+                "size": 1677721600,
+                "SHA256": "0c618642103f1f8e66cf30047d8d5c4b3586c8c657836a0364b2b1209f387ef0",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/oscar-fourteen/PixelOS_oscar-14.0-20240826-1213.zip.part0"
+            },
+            {
+                "filename": "PixelOS_oscar-14.0-20240826-1213.zip.part1",
+                "size": 888345854,
+                "SHA256": "cefb43e86661c29d4f0297a9e11baed76bcc7e3246edcb276ea5510188ef8838",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/oscar-fourteen/PixelOS_oscar-14.0-20240826-1213.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_oscar-15.0-20250123-0615.zip",
+        "size": 2371358005,
+        "SHA256": "a0afce1b7c418f41a545b6f3e62d5626efcd0099babc2a9ca84dafb1ed2ef80c",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/oscar/PixelOS_oscar-15.0-20250123-0615.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/oscar-fifteen/PixelOS_oscar-15.0-20250123-0615.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_oscar-15.0-20250123-0615.zip.part0",
+                "size": 1677721600,
+                "SHA256": "d780d664fa5834c29ea33f0047700acd21959fc4fd81c497a7cca86d2b84a175",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/oscar-fifteen/PixelOS_oscar-15.0-20250123-0615.zip.part0"
+            },
+            {
+                "filename": "PixelOS_oscar-15.0-20250123-0615.zip.part1",
+                "size": 693636405,
+                "SHA256": "a2cdc100a813adbcd16e035245b71c9952b8966847862eb82d517b314c5dfae2",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/oscar-fifteen/PixelOS_oscar-15.0-20250123-0615.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_oscar-15.0-20250307-1147.zip",
+        "size": 2371955455,
+        "SHA256": "f6d24a6a85a00f90903fafb7a98372b39dbb917c11529fddea72dfb6ee346494",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/oscar/PixelOS_oscar-15.0-20250307-1147.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/oscar-fifteen/PixelOS_oscar-15.0-20250307-1147.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_oscar-15.0-20250307-1147.zip.part0",
+                "size": 1677721600,
+                "SHA256": "60a45fdac337a04cc93bb78e3e6cb6e823e6e1810ede7898e8c81c3c1133a763",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/oscar-fifteen/PixelOS_oscar-15.0-20250307-1147.zip.part0"
+            },
+            {
+                "filename": "PixelOS_oscar-15.0-20250307-1147.zip.part1",
+                "size": 694233855,
+                "SHA256": "c81f3ab2a01b45e6b6fc099799eeca29cf0a95e1cb13e36b9ba5cdfa63bb4395",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/oscar-fifteen/PixelOS_oscar-15.0-20250307-1147.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_oscar-16.0-20251127-1148.zip",
+        "size": 2547578568,
+        "SHA256": "e6bb4ff50265d2d8060cc59c27c7eb505ff6e3bbfb0ff69cd34f169e46a7c25a",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/oscar/PixelOS_oscar-16.0-20251127-1148.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/oscar-sixteen/PixelOS_oscar-16.0-20251127-1148.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_oscar-16.0-20251127-1148.zip.part0",
+                "size": 1677721600,
+                "SHA256": "80f9eef301de21f1596fdfdeccbee93f2fd133aa9a825306b75da3b07efc21c8",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/oscar-sixteen/PixelOS_oscar-16.0-20251127-1148.zip.part0"
+            },
+            {
+                "filename": "PixelOS_oscar-16.0-20251127-1148.zip.part1",
+                "size": 869856968,
+                "SHA256": "93788eb1ba9c2674c4dac9c9a797dae13ff49d39ed9705a73e96721088141b76",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/oscar-sixteen/PixelOS_oscar-16.0-20251127-1148.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_oscar-15.0-20250312-1459.zip",
+        "size": 2371933481,
+        "SHA256": "0bb39478e86792ce4a96e1716527b72b324ab70e55deda7d05e4903975f4102d",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/oscar/PixelOS_oscar-15.0-20250312-1459.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/oscar-fifteen/PixelOS_oscar-15.0-20250312-1459.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_oscar-15.0-20250312-1459.zip.part0",
+                "size": 1677721600,
+                "SHA256": "b57e989d5d0aa27883c809c222b48ad4f4057190d8f6083a411be991e66defed",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/oscar-fifteen/PixelOS_oscar-15.0-20250312-1459.zip.part0"
+            },
+            {
+                "filename": "PixelOS_oscar-15.0-20250312-1459.zip.part1",
+                "size": 694211881,
+                "SHA256": "6cdd9711192bd027471c50ffe389e6bf6dba87c9bc742cc2cdcaf040672fe61d",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/oscar-fifteen/PixelOS_oscar-15.0-20250312-1459.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_panther-13.0-20230723-0200.zip",
+        "size": 1828329112,
+        "SHA256": "26998646dc417516aa246c5109217fa38102a304c648e1e23eae27a46f8277ae",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/panther/PixelOS_panther-13.0-20230723-0200.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/panther-thirteen/PixelOS_panther-13.0-20230723-0200.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_panther-13.0-20230828-0141.zip",
+        "size": 1762500419,
+        "SHA256": "1f392e4accfc5acf5228fc17e8e4d0bd779a63060370b1ef96ae6112036a7893",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/panther/PixelOS_panther-13.0-20230828-0141.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/panther-thirteen/PixelOS_panther-13.0-20230828-0141.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_oscar-16.2-20260227-0943.zip",
+        "size": 2584187403,
+        "SHA256": "b6bf896f687bbe5122fbd6e5d2f168d4264892c5635e73436650c34ca5bcca14",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/oscar/PixelOS_oscar-16.2-20260227-0943.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/oscar-sixteen/PixelOS_oscar-16.2-20260227-0943.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_oscar-16.2-20260227-0943.zip.part0",
+                "size": 1677721600,
+                "SHA256": "dc82ea263ec5207b4680cc7640060a593589add8ef4970be16b41090e215e1d3",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/oscar-sixteen/PixelOS_oscar-16.2-20260227-0943.zip.part0"
+            },
+            {
+                "filename": "PixelOS_oscar-16.2-20260227-0943.zip.part1",
+                "size": 906465803,
+                "SHA256": "86b3e04bb56a121eb176d2a04fcfbc34015e0362cbeabc9fe82988230d1f2c2f",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/oscar-sixteen/PixelOS_oscar-16.2-20260227-0943.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_martini-14.0-20240925-1724.zip",
+        "size": 2560303873,
+        "SHA256": "bad4edb5cecc441a494302bbe2dc5956c73292b047aa8c1e93e01683161f1556",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/martini/PixelOS_martini-14.0-20240925-1724.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-fourteen/PixelOS_martini-14.0-20240925-1724.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_martini-14.0-20240925-1724.zip.part0",
+                "size": 1677721600,
+                "SHA256": "167267c93d6f320e87a0487204743934f94f85ed6086729e18b7ea7dd43d23d2",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-fourteen/PixelOS_martini-14.0-20240925-1724.zip.part0"
+            },
+            {
+                "filename": "PixelOS_martini-14.0-20240925-1724.zip.part1",
+                "size": 882582273,
+                "SHA256": "3e22517e5d31c4e43ca49bbad54d98ca63f5c3caaf39d9109775086e1deaf877",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-fourteen/PixelOS_martini-14.0-20240925-1724.zip.part1"
+            }
+        ]
     }
 ]
