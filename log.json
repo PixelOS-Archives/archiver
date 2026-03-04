@@ -10342,5 +10342,771 @@
                 "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/salaa-fifteen/PixelOS_salaa-15.0-20250407-2218.zip.part1"
             }
         ]
+    },
+    {
+        "filename": "PixelOS_sky-14.0-20231222-0152.zip",
+        "size": 1686619855,
+        "SHA256": "a7be1ae528766e904f37fc1c3185b07f8d31a82393c77f588b79f8ca5212b310",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sky/PixelOS_sky-14.0-20231222-0152.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sky-fourteen/PixelOS_sky-14.0-20231222-0152.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_sky-14.0-20231222-1152.zip",
+        "size": 1700288575,
+        "SHA256": "7810a57bd1acef7137ebb47543d90416df8311b9fe78ce0e045b9078553a54cc",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sky/PixelOS_sky-14.0-20231222-1152.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sky-fourteen/PixelOS_sky-14.0-20231222-1152.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_salaa-16.2-20260226-1432.zip",
+        "size": 2432231478,
+        "SHA256": "d10fe0b240e4da7b12ad9dcab22b448a690ecfabff38cfec6226839ae0e5ba86",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/salaa/PixelOS_salaa-16.2-20260226-1432.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/salaa-sixteen/PixelOS_salaa-16.2-20260226-1432.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_salaa-16.2-20260226-1432.zip.part0",
+                "size": 1677721600,
+                "SHA256": "03bceab97be9b6a0fe9de61f78ddad755765926259da9ab3de220835120d6a3e",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/salaa-sixteen/PixelOS_salaa-16.2-20260226-1432.zip.part0"
+            },
+            {
+                "filename": "PixelOS_salaa-16.2-20260226-1432.zip.part1",
+                "size": 754509878,
+                "SHA256": "93f8afb006e57ade73c144b52c0ae6b4c7aadc002a52bcf8af4825f7c314bfae",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/salaa-sixteen/PixelOS_salaa-16.2-20260226-1432.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_sky-14.0-20240120-0403.zip",
+        "size": 1863241196,
+        "SHA256": "7b0354ae13e83299a258620b8204a46a8bfd4d4095efbf7eb442f28bb5cb9625",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sky/PixelOS_sky-14.0-20240120-0403.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sky-fourteen/PixelOS_sky-14.0-20240120-0403.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_sky-14.0-20240216-0734.zip",
+        "size": 1817457836,
+        "SHA256": "ce5fd5dfd1126c967dd1acf9e6e84a8cdfcf608ebcffbccddebdff75be76d1d6",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sky/PixelOS_sky-14.0-20240216-0734.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sky-fourteen/PixelOS_sky-14.0-20240216-0734.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_sky-14.0-20240501-1915.zip",
+        "size": 1702926399,
+        "SHA256": "0d260f9c096ac8c1f629f3a03af8c523703f20f93080e4a6d1cc138767f75f04",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sky/PixelOS_sky-14.0-20240501-1915.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sky-fourteen/PixelOS_sky-14.0-20240501-1915.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_sky-14.0-20240511-1939.zip",
+        "size": 1731981373,
+        "SHA256": "8c9c39ecb7a5e94c08f5937c7c9de4d670230ef0586b2597ef23a0eb011f7deb",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sky/PixelOS_sky-14.0-20240511-1939.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sky-fourteen/PixelOS_sky-14.0-20240511-1939.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_sky-14.0-20240530-0555.zip",
+        "size": 1732485409,
+        "SHA256": "1d74635dc3f84fff3d7f4660f81f98379853959c15b3a5271e242b85304fa10e",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sky/PixelOS_sky-14.0-20240530-0555.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sky-fourteen/PixelOS_sky-14.0-20240530-0555.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_sky-14.0-20240730-1621.zip",
+        "size": 1751121920,
+        "SHA256": "3c861f6ba407ad4c5797105300916a058ec71aa7f33cfbdf4b9ef98f2992d266",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sky/PixelOS_sky-14.0-20240730-1621.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sky-fourteen/PixelOS_sky-14.0-20240730-1621.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_sky-14.0-20240922-0137.zip",
+        "size": 1752887998,
+        "SHA256": "f37e76809187646b24408fda323f8f11851d347f30969fc17d295b19bc8e3b48",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sky/PixelOS_sky-14.0-20240922-0137.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sky-fourteen/PixelOS_sky-14.0-20240922-0137.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_sky-14.0-20240820-0241.zip",
+        "size": 1840506847,
+        "SHA256": "64c3c446844b7f20ba442603e6ccdac8c869b488ea183655620c69845a7f98d2",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sky/PixelOS_sky-14.0-20240820-0241.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sky-fourteen/PixelOS_sky-14.0-20240820-0241.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_sky-14.0-20241015-1937.zip",
+        "size": 1746735187,
+        "SHA256": "8b4fd691c73101fbbe09de5f1bd1cfec73362ca87312b981276392ff5663cac7",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sky/PixelOS_sky-14.0-20241015-1937.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sky-fourteen/PixelOS_sky-14.0-20241015-1937.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_sky-15.0-20241206-1728.zip",
+        "size": 1748142942,
+        "SHA256": "9c08a1f53e6ac3a5957073aceb70ae67330e14b46c12936f02642238d0ea2860",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/sky/PixelOS_sky-15.0-20241206-1728.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sky-fifteen/PixelOS_sky-15.0-20241206-1728.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_sky-14.0-20241016-1947.zip",
+        "size": 1746952908,
+        "SHA256": "83c5d2558e12a8946bf7977a527fac8bf361a5115e6271cf3441e1e1e66577d8",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sky/PixelOS_sky-14.0-20241016-1947.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sky-fourteen/PixelOS_sky-14.0-20241016-1947.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_sky-15.0-20250401-0858.zip",
+        "size": 1813230365,
+        "SHA256": "fbbf8941a679c7c8c96503bf986933d06c34e7a884ab42efd5470e91f3bd7077",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/sky/PixelOS_sky-15.0-20250401-0858.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sky-fifteen/PixelOS_sky-15.0-20250401-0858.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_sky-15.0-20250518-0321.zip",
+        "size": 1813339721,
+        "SHA256": "1674d599e0511ef477e171d2a6617656fe1b209b66d86631ff6565f6b2299af6",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/sky/PixelOS_sky-15.0-20250518-0321.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sky-fifteen/PixelOS_sky-15.0-20250518-0321.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_spaced-13.0-20230503-0523.zip",
+        "size": 1813756144,
+        "SHA256": "118a8e509b34715cee34da5ab57cd0ca24e1749d882d8983ba85af2502dba620",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/spaced/PixelOS_spaced-13.0-20230503-0523.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/spaced-thirteen/PixelOS_spaced-13.0-20230503-0523.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_sky-15.0-20250501-0946.zip",
+        "size": 1813357146,
+        "SHA256": "59b7344df39a0b15634b1a08bb79cd9ce55069eaea7120c1d7753c00c944cff6",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/sky/PixelOS_sky-15.0-20250501-0946.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sky-fifteen/PixelOS_sky-15.0-20250501-0946.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_star2lte-12.1-20220619-0213.zip",
+        "size": 1504387421,
+        "SHA256": "099a5f2bb2468c3792c75cb03434ce308fea3cfd5f9b9d569eb744553bc7a112",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/star2lte/PixelOS_star2lte-12.1-20220619-0213.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/star2lte-twelve/PixelOS_star2lte-12.1-20220619-0213.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_starlte-12.1-20220619-0129.zip",
+        "size": 1504215007,
+        "SHA256": "640f27b7ef8875b6eeaae51efb3972fabc9ce5043dc55169a1712ebb9c5a38bf",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/starlte/PixelOS_starlte-12.1-20220619-0129.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/starlte-twelve/PixelOS_starlte-12.1-20220619-0129.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_starlte-12.1-20220625-0956.zip",
+        "size": 1532058023,
+        "SHA256": "cef8851fcee866a4072a2216f1a10051f6cbc93efbf202f4de37a9714db62926",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/starlte/PixelOS_starlte-12.1-20220625-0956.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/starlte-twelve/PixelOS_starlte-12.1-20220625-0956.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_starlte-12.1-20220709-1151.zip",
+        "size": 1556125346,
+        "SHA256": "f8d6985234e8adebfb6df1a38b0fbb787ce52696b0c4c4f09320a0e7777333b0",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/starlte/PixelOS_starlte-12.1-20220709-1151.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/starlte-twelve/PixelOS_starlte-12.1-20220709-1151.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_sunny-14.0-20231118-1021.zip",
+        "size": 2046139196,
+        "SHA256": "d538d83e1fb272284ebfb595f5c43dd20e22d7142387860eb28e350275a89aa8",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sunny/PixelOS_sunny-14.0-20231118-1021.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fourteen/PixelOS_sunny-14.0-20231118-1021.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_sunny-14.0-20231118-1021.zip.part0",
+                "size": 1677721600,
+                "SHA256": "232235cde61494b5a89994901c83f9632052c9b0b394c3372961cb4cab5fa6c0",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fourteen/PixelOS_sunny-14.0-20231118-1021.zip.part0"
+            },
+            {
+                "filename": "PixelOS_sunny-14.0-20231118-1021.zip.part1",
+                "size": 368417596,
+                "SHA256": "45fc03a43b068367de5393bbfd8619b58d95ed6359c10d6ab811aacf47392f48",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fourteen/PixelOS_sunny-14.0-20231118-1021.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_star2lte-12.1-20220814-0832.zip",
+        "size": 1535499755,
+        "SHA256": "d90f9176c2d72f3e74ff4df379aba2482ab3b2201f1851ede4823d3caedbb08e",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/star2lte/PixelOS_star2lte-12.1-20220814-0832.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/star2lte-twelve/PixelOS_star2lte-12.1-20220814-0832.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_sunny-14.0-20231222-1354.zip",
+        "size": 2120686716,
+        "SHA256": "291318642382d8fe8bea965c91b166902b9b1c2941967b15f04e40724190c15e",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sunny/PixelOS_sunny-14.0-20231222-1354.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fourteen/PixelOS_sunny-14.0-20231222-1354.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_sunny-14.0-20231222-1354.zip.part0",
+                "size": 1677721600,
+                "SHA256": "e514ea717146b03d39e31575d280fcb5d774242a6a713bcffb600c51cf942f37",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fourteen/PixelOS_sunny-14.0-20231222-1354.zip.part0"
+            },
+            {
+                "filename": "PixelOS_sunny-14.0-20231222-1354.zip.part1",
+                "size": 442965116,
+                "SHA256": "69e03645d5fb35fb584ef7d6717156626ea746d78442aaea48c1233ff3f1f115",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fourteen/PixelOS_sunny-14.0-20231222-1354.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_sunny-14.0-20240117-1305.zip",
+        "size": 2128941259,
+        "SHA256": "d3f0fa9605d72ca01c4eac80dd45917dfc030e0ac32b13a8767bd75dfe021be1",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sunny/PixelOS_sunny-14.0-20240117-1305.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fourteen/PixelOS_sunny-14.0-20240117-1305.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_sunny-14.0-20240117-1305.zip.part0",
+                "size": 1677721600,
+                "SHA256": "21b9e1d1f11c0edfa1bcac9a61644904c2864626ef54aeac0f3986362ed56b80",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fourteen/PixelOS_sunny-14.0-20240117-1305.zip.part0"
+            },
+            {
+                "filename": "PixelOS_sunny-14.0-20240117-1305.zip.part1",
+                "size": 451219659,
+                "SHA256": "a4e86264d5336063d533594b5b9271f74909930c1d1826c167a40611f6e2d7ce",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fourteen/PixelOS_sunny-14.0-20240117-1305.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_starlte-12.1-20220814-0746.zip",
+        "size": 1535307275,
+        "SHA256": "aae90d74091dcbfdce2a3e720885c82b2767b1da98b7d3f760d2e4e1f927a26a",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/starlte/PixelOS_starlte-12.1-20220814-0746.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/starlte-twelve/PixelOS_starlte-12.1-20220814-0746.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_sunny-14.0-20240125-1426.zip",
+        "size": 2128826738,
+        "SHA256": "19d32ce7841d89f27e608865bff9fb318cff56e95804a47fd0abe608ae42f0e7",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sunny/PixelOS_sunny-14.0-20240125-1426.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fourteen/PixelOS_sunny-14.0-20240125-1426.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_sunny-14.0-20240125-1426.zip.part0",
+                "size": 1677721600,
+                "SHA256": "a0d4907e4bcb12f210ca810f063473f5cd23f84558184dcd5f855e77c0a1a408",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fourteen/PixelOS_sunny-14.0-20240125-1426.zip.part0"
+            },
+            {
+                "filename": "PixelOS_sunny-14.0-20240125-1426.zip.part1",
+                "size": 451105138,
+                "SHA256": "f59cea80953644f6aee6ca3aacf2a29aaa57749b44c8cceb12983942587bbf98",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fourteen/PixelOS_sunny-14.0-20240125-1426.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_sunny-14.0-20240417-1938.zip",
+        "size": 2053204520,
+        "SHA256": "7e61c123b4cfae394869a60a70902024e9bd93cca361a539b0c2967ee74331ca",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sunny/PixelOS_sunny-14.0-20240417-1938.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fourteen/PixelOS_sunny-14.0-20240417-1938.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_sunny-14.0-20240417-1938.zip.part0",
+                "size": 1677721600,
+                "SHA256": "12ad3f7b9802cd39218925faad8063bee0e63a5aa6df9c1b3a966c6d64867a34",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fourteen/PixelOS_sunny-14.0-20240417-1938.zip.part0"
+            },
+            {
+                "filename": "PixelOS_sunny-14.0-20240417-1938.zip.part1",
+                "size": 375482920,
+                "SHA256": "c699ce73812bf17d43b235c5fa7839fa8e7a90d3dd8cb8a0f8774a3151779e98",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fourteen/PixelOS_sunny-14.0-20240417-1938.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_sunny-14.0-20240511-0704.zip",
+        "size": 2083004266,
+        "SHA256": "cc3741ffac5aae6041bb5e11c59a151aa4471e02d1c862aa67c614c071137dce",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sunny/PixelOS_sunny-14.0-20240511-0704.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fourteen/PixelOS_sunny-14.0-20240511-0704.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_sunny-14.0-20240511-0704.zip.part0",
+                "size": 1677721600,
+                "SHA256": "abf950b875630b8a2b54af65187d666536838d8a4de3d53cbeeef4e5d2b3b1cf",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fourteen/PixelOS_sunny-14.0-20240511-0704.zip.part0"
+            },
+            {
+                "filename": "PixelOS_sunny-14.0-20240511-0704.zip.part1",
+                "size": 405282666,
+                "SHA256": "d09298cc768269ae2a4f1c6069415dfefbbfd8e6a5c00c4814f6993e97462481",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fourteen/PixelOS_sunny-14.0-20240511-0704.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_sunny-14.0-20240527-1542.zip",
+        "size": 2083894540,
+        "SHA256": "c56acb157b533dfdfe451b262ddf36457d28de5a5e917b008aaeefa5ac25ae2d",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sunny/PixelOS_sunny-14.0-20240527-1542.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fourteen/PixelOS_sunny-14.0-20240527-1542.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_sunny-14.0-20240527-1542.zip.part0",
+                "size": 1677721600,
+                "SHA256": "c6813de0153f0f64a8f6207fb01df203a87a414a1bbf8f2f50fb79f5eb12c6a2",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fourteen/PixelOS_sunny-14.0-20240527-1542.zip.part0"
+            },
+            {
+                "filename": "PixelOS_sunny-14.0-20240527-1542.zip.part1",
+                "size": 406172940,
+                "SHA256": "ae8cf6fe89100a63e7408ad66473373bb8fe08425e13978c83acd502de263c13",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fourteen/PixelOS_sunny-14.0-20240527-1542.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_sunny-14.0-20240530-1338.zip",
+        "size": 2083954848,
+        "SHA256": "941716f99c0d2ef04da0668e54c4f6944a62370615c875317bddcfe72792a043",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sunny/PixelOS_sunny-14.0-20240530-1338.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fourteen/PixelOS_sunny-14.0-20240530-1338.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_sunny-14.0-20240530-1338.zip.part0",
+                "size": 1677721600,
+                "SHA256": "521bec5a740f4b0388699a95f747d02dbb1664cc6dddfa7263c08aa00ff4ccc4",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fourteen/PixelOS_sunny-14.0-20240530-1338.zip.part0"
+            },
+            {
+                "filename": "PixelOS_sunny-14.0-20240530-1338.zip.part1",
+                "size": 406233248,
+                "SHA256": "91412c2989c0157bb3778d9b84a90feec4cb6bb07ad22a82451f24a4875e400a",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fourteen/PixelOS_sunny-14.0-20240530-1338.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_sunny-14.0-20240722-1710.zip",
+        "size": 2344879556,
+        "SHA256": "2b24942788d6e97fc934d5895bfc9aa396de0ed28b6f96343454d7a0eade18ed",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sunny/PixelOS_sunny-14.0-20240722-1710.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fourteen/PixelOS_sunny-14.0-20240722-1710.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_sunny-14.0-20240722-1710.zip.part0",
+                "size": 1677721600,
+                "SHA256": "386bc98fefa75fb4965ce138f0d04a74867a2b4a5a443cfa16ef77705738de51",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fourteen/PixelOS_sunny-14.0-20240722-1710.zip.part0"
+            },
+            {
+                "filename": "PixelOS_sunny-14.0-20240722-1710.zip.part1",
+                "size": 667157956,
+                "SHA256": "d50281478e48565cd7426175798c2762d9c32ec1735ea5923a8a03297350c2d8",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fourteen/PixelOS_sunny-14.0-20240722-1710.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_sunny-14.0-20240729-0858.zip",
+        "size": 2344857637,
+        "SHA256": "966b49b0e052fb145f76df8a6c529938a47b1325d2d1b4ec1614688c68d81166",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sunny/PixelOS_sunny-14.0-20240729-0858.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fourteen/PixelOS_sunny-14.0-20240729-0858.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_sunny-14.0-20240729-0858.zip.part0",
+                "size": 1677721600,
+                "SHA256": "7362c838a59be402fc98d14133d038e432030bfcd8be80667b7cae01fefad319",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fourteen/PixelOS_sunny-14.0-20240729-0858.zip.part0"
+            },
+            {
+                "filename": "PixelOS_sunny-14.0-20240729-0858.zip.part1",
+                "size": 667136037,
+                "SHA256": "7526b312b7595f0a0fb2fa31d2512586a3f756a61f22344f10dfa4042ec22109",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fourteen/PixelOS_sunny-14.0-20240729-0858.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_sunny-14.0-20240820-1906.zip",
+        "size": 2212788135,
+        "SHA256": "53084a4c702ff9b762faf8f479b46623319f1670146aefb8abb89c05e057453a",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sunny/PixelOS_sunny-14.0-20240820-1906.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fourteen/PixelOS_sunny-14.0-20240820-1906.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_sunny-14.0-20240820-1906.zip.part0",
+                "size": 1677721600,
+                "SHA256": "ca1e999cf0280f9c7e23c8349709d9a51735a51cabb89ca8bcf10b71a60c448f",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fourteen/PixelOS_sunny-14.0-20240820-1906.zip.part0"
+            },
+            {
+                "filename": "PixelOS_sunny-14.0-20240820-1906.zip.part1",
+                "size": 535066535,
+                "SHA256": "c68fbce70094ea658a8056e085924778618930e0637dba1dd83fa8abdf290bf1",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fourteen/PixelOS_sunny-14.0-20240820-1906.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_sunny-14.0-20241016-0753.zip",
+        "size": 2203368620,
+        "SHA256": "f11b7a281c41a11faec31f6e5bac022197e3669032c14e8474acfd4fa00f2b72",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sunny/PixelOS_sunny-14.0-20241016-0753.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fourteen/PixelOS_sunny-14.0-20241016-0753.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_sunny-14.0-20241016-0753.zip.part0",
+                "size": 1677721600,
+                "SHA256": "f9c85e42c194f620d1b4b1ba93fc6a52f7ce8437b25fe0e5d0c981ca4e917bc1",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fourteen/PixelOS_sunny-14.0-20241016-0753.zip.part0"
+            },
+            {
+                "filename": "PixelOS_sunny-14.0-20241016-0753.zip.part1",
+                "size": 525647020,
+                "SHA256": "d04be96f388539cb18defa9f79b60a8cd51308b5a4f2ca17373e76094489f79a",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fourteen/PixelOS_sunny-14.0-20241016-0753.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_sunny-15.0-20241216-0949.zip",
+        "size": 2227897759,
+        "SHA256": "188643f566eee7c8dbfc960bdc6b26387971a6cb8e31f067792d3ba183b376a2",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/sunny/PixelOS_sunny-15.0-20241216-0949.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fifteen/PixelOS_sunny-15.0-20241216-0949.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_sunny-15.0-20241216-0949.zip.part0",
+                "size": 1677721600,
+                "SHA256": "b4c5912e5ec8dfd7e4d830625cec9cac4e8402f8b64e180c408b0a4dfc2f58b0",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fifteen/PixelOS_sunny-15.0-20241216-0949.zip.part0"
+            },
+            {
+                "filename": "PixelOS_sunny-15.0-20241216-0949.zip.part1",
+                "size": 550176159,
+                "SHA256": "894defa24fd15d6186f444c8703534c3f84fb5900e883574566c532c1435b1e2",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fifteen/PixelOS_sunny-15.0-20241216-0949.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_sunny-15.0-20250117-1635.zip",
+        "size": 2249987200,
+        "SHA256": "2c8059b86a9e8f7e61782b3ecf99c8f30743bffac861d368838ef154f1bb895e",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/sunny/PixelOS_sunny-15.0-20250117-1635.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fifteen/PixelOS_sunny-15.0-20250117-1635.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_sunny-15.0-20250117-1635.zip.part0",
+                "size": 1677721600,
+                "SHA256": "d7c37cc4024d1b723cf3840feb412312f38959e32e4277197cf80ca73456c464",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fifteen/PixelOS_sunny-15.0-20250117-1635.zip.part0"
+            },
+            {
+                "filename": "PixelOS_sunny-15.0-20250117-1635.zip.part1",
+                "size": 572265600,
+                "SHA256": "a1007ec157c73d1ebdb87be2c4a2065528d9e1a795a00392f4f40849a6e3502e",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fifteen/PixelOS_sunny-15.0-20250117-1635.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_sunny-15.0-20250217-1024.zip",
+        "size": 2256496034,
+        "SHA256": "3ffaf99355d9f372680462bf9dc7655f00ee026131c1e8b823c97a325b2a4dcd",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/sunny/PixelOS_sunny-15.0-20250217-1024.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fifteen/PixelOS_sunny-15.0-20250217-1024.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_sunny-15.0-20250217-1024.zip.part0",
+                "size": 1677721600,
+                "SHA256": "309bd24a42ed20b4fb931c24426df5f67eb058260066a531344ca14d82519ef4",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fifteen/PixelOS_sunny-15.0-20250217-1024.zip.part0"
+            },
+            {
+                "filename": "PixelOS_sunny-15.0-20250217-1024.zip.part1",
+                "size": 578774434,
+                "SHA256": "fd803714ad7cdb836aadc9cac2882e74244cc5a7fb54d324fd07e56c7f0c53fa",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fifteen/PixelOS_sunny-15.0-20250217-1024.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_sunny-15.0-20250517-1731.zip",
+        "size": 2300811086,
+        "SHA256": "bbd8aab4fad9df8a7c9d2635b28aa18c89db8bb66e99f6b3f4054507171f6126",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/sunny/PixelOS_sunny-15.0-20250517-1731.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fifteen/PixelOS_sunny-15.0-20250517-1731.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_sunny-15.0-20250517-1731.zip.part0",
+                "size": 1677721600,
+                "SHA256": "d62ffb0b8e08ba6693959d0d2f54e156f2b5323c2fdb38273306c4f46a764f8d",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fifteen/PixelOS_sunny-15.0-20250517-1731.zip.part0"
+            },
+            {
+                "filename": "PixelOS_sunny-15.0-20250517-1731.zip.part1",
+                "size": 623089486,
+                "SHA256": "d0ecca894f95cefbb769afdcf722dc5a2a3131f1ce038f9461bb7fe65d43f6bc",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fifteen/PixelOS_sunny-15.0-20250517-1731.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_sunny-16.1-20251220-1236.zip",
+        "size": 2501596713,
+        "SHA256": "e818f5ec30fd813a51a23c0b3619175f3ecbdc48349a7ae923454a0ef183517d",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/sunny/PixelOS_sunny-16.1-20251220-1236.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-sixteen/PixelOS_sunny-16.1-20251220-1236.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_sunny-16.1-20251220-1236.zip.part0",
+                "size": 1677721600,
+                "SHA256": "1f998cb1fe83dc33bf558394b959325c6192009a1ad464952d19ac370f59b88e",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-sixteen/PixelOS_sunny-16.1-20251220-1236.zip.part0"
+            },
+            {
+                "filename": "PixelOS_sunny-16.1-20251220-1236.zip.part1",
+                "size": 823875113,
+                "SHA256": "7a05028785d1fab76607476463061213d5c09c2cc618fbfd967b977d6e2281ad",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-sixteen/PixelOS_sunny-16.1-20251220-1236.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_sunny-16.1-20260128-1031.zip",
+        "size": 2514242322,
+        "SHA256": "29b3130ff190094d21ddb67026311e36503eff7768d791cd468fddad358883dc",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/sunny/PixelOS_sunny-16.1-20260128-1031.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-sixteen/PixelOS_sunny-16.1-20260128-1031.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_sunny-16.1-20260128-1031.zip.part0",
+                "size": 1677721600,
+                "SHA256": "ce51df5343ef87c9233494a3e9542eb8f578fa587db51b34ce43bb7c29f7485c",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-sixteen/PixelOS_sunny-16.1-20260128-1031.zip.part0"
+            },
+            {
+                "filename": "PixelOS_sunny-16.1-20260128-1031.zip.part1",
+                "size": 836520722,
+                "SHA256": "d70d23bd9c11f3095f8359ff6e074c62e2f984c0e87ca7905aa73906c63cdc18",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-sixteen/PixelOS_sunny-16.1-20260128-1031.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_sunny-16.2-20260224-0355.zip",
+        "size": 2541687957,
+        "SHA256": "9684bb1e6b12f4e78320f99c12c22d28978f83f42b7a013841a8333752d200b5",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/sunny/PixelOS_sunny-16.2-20260224-0355.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-sixteen/PixelOS_sunny-16.2-20260224-0355.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_sunny-16.2-20260224-0355.zip.part0",
+                "size": 1677721600,
+                "SHA256": "38918a858064d8cb07266bf4a1e9765254ab693c2be9ffac08993380de2a9442",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-sixteen/PixelOS_sunny-16.2-20260224-0355.zip.part0"
+            },
+            {
+                "filename": "PixelOS_sunny-16.2-20260224-0355.zip.part1",
+                "size": 863966357,
+                "SHA256": "bf0886bcde7ac1efa6536d1f57f483972d19e454d746cf6503855ba4c8b0934a",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-sixteen/PixelOS_sunny-16.2-20260224-0355.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_surya-12.1-20220812-0618.zip",
+        "size": 1972756285,
+        "SHA256": "43e871917d0465b2aa7c414041ce175e204cd0e5e9a398027fdc3f75dce22b83",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/surya/PixelOS_surya-12.1-20220812-0618.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/surya-twelve/PixelOS_surya-12.1-20220812-0618.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_surya-12.1-20220814-1827.zip",
+        "size": 1883674535,
+        "SHA256": "0e44d1863107dff9ea7f081cb52626742c18dd3d062447b3b5f5962c5fe4103f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/surya/PixelOS_surya-12.1-20220814-1827.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/surya-twelve/PixelOS_surya-12.1-20220814-1827.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_surya-12.1-20220816-1820.zip",
+        "size": 1905397151,
+        "SHA256": "c63ac461dd6e83f1b046541e26a9d53d8b2197a9d1c9ac0fb4fd1d4f90770992",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/surya/PixelOS_surya-12.1-20220816-1820.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/surya-twelve/PixelOS_surya-12.1-20220816-1820.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_surya-13.0-20220911-1708.zip",
+        "size": 1921179116,
+        "SHA256": "cf6c1e639c04f1986e17cf0f10a84f67d954f7fee0e1dcf42faa749a09ca64e0",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/surya/PixelOS_surya-13.0-20220911-1708.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/surya-thirteen/PixelOS_surya-13.0-20220911-1708.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_surya-13.0-20221024-2344.zip",
+        "size": 1909335528,
+        "SHA256": "e608ac42d81b8c25f77ddf689880c53030620158731a778cb98553ddff34b084",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/surya/PixelOS_surya-13.0-20221024-2344.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/surya-thirteen/PixelOS_surya-13.0-20221024-2344.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_surya-13.0-20221030-2347.zip",
+        "size": 1891629934,
+        "SHA256": "7d826f5a2afc999d23d611a9202832bd51d2c728bd2ec95dc076b71470a607db",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/surya/PixelOS_surya-13.0-20221030-2347.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/surya-thirteen/PixelOS_surya-13.0-20221030-2347.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_sunny-15.0-20250525-1910.zip",
+        "size": 2289275940,
+        "SHA256": "0c768daf9aa9c0fd5086f2939387b0165ec81a7fcbb2a0e4c086c372c958df5f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/sunny/PixelOS_sunny-15.0-20250525-1910.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fifteen/PixelOS_sunny-15.0-20250525-1910.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_sunny-15.0-20250525-1910.zip.part0",
+                "size": 1677721600,
+                "SHA256": "a07bb7e0457ea08328811c567f5714c240df1133ceef1ada3c8fa14217131193",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fifteen/PixelOS_sunny-15.0-20250525-1910.zip.part0"
+            },
+            {
+                "filename": "PixelOS_sunny-15.0-20250525-1910.zip.part1",
+                "size": 611554340,
+                "SHA256": "1d0bd79a414623d19dd73e46415255a42d527f477655ac98e21d80c90344b44f",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-fifteen/PixelOS_sunny-15.0-20250525-1910.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_surya-13.0-20221116-1037.zip",
+        "size": 1972818995,
+        "SHA256": "3b0aee52b93184d5f1e922d6bcc308ac02a23d52355a70844a4b8b01314088b2",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/surya/PixelOS_surya-13.0-20221116-1037.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/surya-thirteen/PixelOS_surya-13.0-20221116-1037.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_surya-13.0-20230122-0900.zip",
+        "size": 1810971450,
+        "SHA256": "71161db27c85cfb9546723315865763babb6914006a366e0df3c837fe363caf7",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/surya/PixelOS_surya-13.0-20230122-0900.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/surya-thirteen/PixelOS_surya-13.0-20230122-0900.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_surya-13.0-20230126-0846.zip",
+        "size": 1813301879,
+        "SHA256": "43d9d05034473233755a4d492e79f292b404d2573f6b0240ce5b8253895bd0d5",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/surya/PixelOS_surya-13.0-20230126-0846.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/surya-thirteen/PixelOS_surya-13.0-20230126-0846.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_surya-13.0-20230214-1834.zip",
+        "size": 1809792042,
+        "SHA256": "cbfc9c3db384e54fcfa915687e69e9196e5efddfd79e59e216889ba808d1f16a",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/surya/PixelOS_surya-13.0-20230214-1834.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/surya-thirteen/PixelOS_surya-13.0-20230214-1834.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_surya-13.0-20230417-1653.zip",
+        "size": 1821132639,
+        "SHA256": "d534a8cbbff82810bf7fd5abda0c4696260540693f0978be549c0a0fe399a3c8",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/surya/PixelOS_surya-13.0-20230417-1653.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/surya-thirteen/PixelOS_surya-13.0-20230417-1653.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_surya-13.0-20230509-0028.zip",
+        "size": 1808049891,
+        "SHA256": "66b9c2fb178720bc94e3c1611b9c784dbf14ca7572f0dd5e481bbcdb0adce68e",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/surya/PixelOS_surya-13.0-20230509-0028.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/surya-thirteen/PixelOS_surya-13.0-20230509-0028.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_surya-13.0-20230705-1406.zip",
+        "size": 1844426594,
+        "SHA256": "c03aa0381a783d9ca1d1d4bedbfd0dd88fe0cceef66fa1007120830232a9b226",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/surya/PixelOS_surya-13.0-20230705-1406.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/surya-thirteen/PixelOS_surya-13.0-20230705-1406.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_star2lte-12.1-20220625-1151.zip",
+        "size": 1532215635,
+        "SHA256": "619dbe8520e741519ea95d4104f0e98e3f7231f38f3900172c78b742315c115b",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/star2lte/PixelOS_star2lte-12.1-20220625-1151.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/star2lte-twelve/PixelOS_star2lte-12.1-20220625-1151.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_star2lte-12.1-20220709-1331.zip",
+        "size": 1556311406,
+        "SHA256": "587636823a9aa7c8802d76dd76d0ccb8b8f4cbbb170111f35fe1cff2f8ae5f8c",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/star2lte/PixelOS_star2lte-12.1-20220709-1331.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/star2lte-twelve/PixelOS_star2lte-12.1-20220709-1331.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_sunny-16.1-20260114-2016.zip",
+        "size": 2514149990,
+        "SHA256": "f22cc03dec042a363387d3580d2c11179fc584efc375e23b4abf225db4ccdb7d",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/sunny/PixelOS_sunny-16.1-20260114-2016.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-sixteen/PixelOS_sunny-16.1-20260114-2016.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_sunny-16.1-20260114-2016.zip.part0",
+                "size": 1677721600,
+                "SHA256": "0e8d6b0d03e0ad12f1e1efd28c426b9930b2592abfba6b0703d022b3533531bd",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-sixteen/PixelOS_sunny-16.1-20260114-2016.zip.part0"
+            },
+            {
+                "filename": "PixelOS_sunny-16.1-20260114-2016.zip.part1",
+                "size": 836428390,
+                "SHA256": "174903cffa0299e81b37f083f4a45afc429798f09aacb3ad69a9d6e4768314bb",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-sixteen/PixelOS_sunny-16.1-20260114-2016.zip.part1"
+            }
+        ]
     }
 ]
