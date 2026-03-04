@@ -9324,5 +9324,1023 @@
                 "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/martini-fourteen/PixelOS_martini-14.0-20240925-1724.zip.part1"
             }
         ]
+    },
+    {
+        "filename": "PixelOS_pdx206-14.0-20231112-0548.zip",
+        "size": 1663914806,
+        "SHA256": "354829b37b87613cda0b6cfe7a36fc257f6361eecca44865bfb192e75eddbc83",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/pdx206/PixelOS_pdx206-14.0-20231112-0548.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/pdx206-fourteen/PixelOS_pdx206-14.0-20231112-0548.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_panther-13.0-20231003-0230.zip",
+        "size": 1770122536,
+        "SHA256": "bedb5d689c1a07c700e11f825176297636ee801c1ae117481b2c8860c74725ae",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/panther/PixelOS_panther-13.0-20231003-0230.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/panther-thirteen/PixelOS_panther-13.0-20231003-0230.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_oscar-15.0-20241203-1715.zip",
+        "size": 2584121886,
+        "SHA256": "b5e916ffd0e769d219b04259f691b5ae270f064127e5f2539f3ad8df00e062c6",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/oscar/PixelOS_oscar-15.0-20241203-1715.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/oscar-fifteen/PixelOS_oscar-15.0-20241203-1715.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_oscar-15.0-20241203-1715.zip.part0",
+                "size": 1677721600,
+                "SHA256": "3f34c4d14bf3ee2db615ac9072bcc90b8b835b82cd3f21f6ff6f615e78d2388f",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/oscar-fifteen/PixelOS_oscar-15.0-20241203-1715.zip.part0"
+            },
+            {
+                "filename": "PixelOS_oscar-15.0-20241203-1715.zip.part1",
+                "size": 906400286,
+                "SHA256": "4f1b61dbab7f7d12c5a1b005e6bcdd491896b4459a1ef47254902ad8ed337b47",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/oscar-fifteen/PixelOS_oscar-15.0-20241203-1715.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_pdx206-14.0-20231117-1931.zip",
+        "size": 1666577194,
+        "SHA256": "f94b838b71010209bde06a2b5b41100ac9899a916552552daca72e2e363d8b9a",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/pdx206/PixelOS_pdx206-14.0-20231117-1931.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/pdx206-fourteen/PixelOS_pdx206-14.0-20231117-1931.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_pdx206-14.0-20231128-1638.zip",
+        "size": 1901050550,
+        "SHA256": "faa579c5de9bbc0b1cc1cf7993a790de537ea4275f286e4521cb11053a8119e0",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/pdx206/PixelOS_pdx206-14.0-20231128-1638.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/pdx206-fourteen/PixelOS_pdx206-14.0-20231128-1638.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_pdx206-14.0-20231222-0253.zip",
+        "size": 1919796825,
+        "SHA256": "9b6c0b7b9dbd39dbb74e96e479b71bf85eaec3823f9a38b13cb35f9f506fb8f1",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/pdx206/PixelOS_pdx206-14.0-20231222-0253.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/pdx206-fourteen/PixelOS_pdx206-14.0-20231222-0253.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_pdx206-14.0-20240215-2253.zip",
+        "size": 1912527234,
+        "SHA256": "d15d36e13f2c7af0b3fa13a9a94b358f6a4eee1a8f08fa7495821a263378e4e6",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/pdx206/PixelOS_pdx206-14.0-20240215-2253.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/pdx206-fourteen/PixelOS_pdx206-14.0-20240215-2253.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_pdx206-14.0-20240629-1057.zip",
+        "size": 2136358325,
+        "SHA256": "d97f22333507183d7a2aa33f7d199f0edd4a9a487a46563d49a899eec5046706",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/pdx206/PixelOS_pdx206-14.0-20240629-1057.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/pdx206-fourteen/PixelOS_pdx206-14.0-20240629-1057.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_pdx206-14.0-20240629-1057.zip.part0",
+                "size": 1677721600,
+                "SHA256": "60e84e43f4e28a6fdf0e97342a1d35a77da2c758dc4216339b63fdc6e0512ecc",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/pdx206-fourteen/PixelOS_pdx206-14.0-20240629-1057.zip.part0"
+            },
+            {
+                "filename": "PixelOS_pdx206-14.0-20240629-1057.zip.part1",
+                "size": 458636725,
+                "SHA256": "1c007b31d849aaac378da58a99da3ef421c1f6bd2ba08a64ecb99bf93933e4b0",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/pdx206-fourteen/PixelOS_pdx206-14.0-20240629-1057.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_peridot-14.0-20241027-1000.zip",
+        "size": 3100641362,
+        "SHA256": "d34f4eb3dfd65264b8299d80199c80f6707cf6606d8c0e7a2ebe650133678b80",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/peridot/PixelOS_peridot-14.0-20241027-1000.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/peridot-fourteen/PixelOS_peridot-14.0-20241027-1000.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_peridot-14.0-20241027-1000.zip.part0",
+                "size": 1677721600,
+                "SHA256": "77dce418723975f018e82938caf2f893739888883cfbfbac3d6fa79934ee1285",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/peridot-fourteen/PixelOS_peridot-14.0-20241027-1000.zip.part0"
+            },
+            {
+                "filename": "PixelOS_peridot-14.0-20241027-1000.zip.part1",
+                "size": 1422919762,
+                "SHA256": "e83e35424501760033ef098f456dca6356b1a4326f539be4235da1057099c27e",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/peridot-fourteen/PixelOS_peridot-14.0-20241027-1000.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_peridot-15.0-20250117-1812.zip",
+        "size": 3129924843,
+        "SHA256": "3a7a6d3da129fa66ef617c229ce24d2d34e7bb4c051416c204199da8fc56b1a5",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/peridot/PixelOS_peridot-15.0-20250117-1812.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/peridot-fifteen/PixelOS_peridot-15.0-20250117-1812.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_peridot-15.0-20250117-1812.zip.part0",
+                "size": 1677721600,
+                "SHA256": "26c242a43e5f7031611be789e87ff2773af2384f40a90be05b9b94ce30f1d30c",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/peridot-fifteen/PixelOS_peridot-15.0-20250117-1812.zip.part0"
+            },
+            {
+                "filename": "PixelOS_peridot-15.0-20250117-1812.zip.part1",
+                "size": 1452203243,
+                "SHA256": "845be6d92d2a429caaee19b32126a71bdbc918f0011825f60269747241fadba2",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/peridot-fifteen/PixelOS_peridot-15.0-20250117-1812.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_peridot-16.0-20251121-0901.zip",
+        "size": 3235082428,
+        "SHA256": "0235ed33f5a4691039c787325a13d1d51d43ef6998877682bfd03ae78e10d686",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/peridot/PixelOS_peridot-16.0-20251121-0901.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/peridot-sixteen/PixelOS_peridot-16.0-20251121-0901.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_peridot-16.0-20251121-0901.zip.part0",
+                "size": 1677721600,
+                "SHA256": "5599f983e3fa61949246a876f37c1db4bdbf61a11725507bc148f1397c25cf4f",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/peridot-sixteen/PixelOS_peridot-16.0-20251121-0901.zip.part0"
+            },
+            {
+                "filename": "PixelOS_peridot-16.0-20251121-0901.zip.part1",
+                "size": 1557360828,
+                "SHA256": "b533801279638fbbae02d28cc7248ce587745699326fa49c9ba573179b4d6881",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/peridot-sixteen/PixelOS_peridot-16.0-20251121-0901.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_peridot-16.1-20260125-1452.zip",
+        "size": 3459885802,
+        "SHA256": "bc9adc83eaa4309b0ae7cdf2b203b8ce5874d5d7853573f33ea0ef115b1fe92d",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/peridot/PixelOS_peridot-16.1-20260125-1452.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/peridot-sixteen/PixelOS_peridot-16.1-20260125-1452.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_peridot-16.1-20260125-1452.zip.part0",
+                "size": 1677721600,
+                "SHA256": "cab1e7652d9c3b4905a5adc109423c6982e4b978147dece44042e0edafbcf2bf",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/peridot-sixteen/PixelOS_peridot-16.1-20260125-1452.zip.part0"
+            },
+            {
+                "filename": "PixelOS_peridot-16.1-20260125-1452.zip.part1",
+                "size": 1677721600,
+                "SHA256": "a8189490fa012365eaffca4b4108927ba115c9f1d709fba3d256dd91248674d9",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/peridot-sixteen/PixelOS_peridot-16.1-20260125-1452.zip.part1"
+            },
+            {
+                "filename": "PixelOS_peridot-16.1-20260125-1452.zip.part2",
+                "size": 104442602,
+                "SHA256": "06dbbcf16f615d38150ea5fc79ca99f9381657d5dd66e99b8c53ba2ece75bdc4",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/peridot-sixteen/PixelOS_peridot-16.1-20260125-1452.zip.part2"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_peridot-16.2-20260301-1347.zip",
+        "size": 3453329387,
+        "SHA256": "ba3edd9a25ba6ce2f9ef2a3dd95d873bacde89ec2e7a16d33a1fc13ec438bd09",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/peridot/PixelOS_peridot-16.2-20260301-1347.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/peridot-sixteen/PixelOS_peridot-16.2-20260301-1347.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_peridot-16.2-20260301-1347.zip.part0",
+                "size": 1677721600,
+                "SHA256": "6949c382e8128e517c652af14b0b9843e2214d2c127cd007233f0daa4f983002",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/peridot-sixteen/PixelOS_peridot-16.2-20260301-1347.zip.part0"
+            },
+            {
+                "filename": "PixelOS_peridot-16.2-20260301-1347.zip.part1",
+                "size": 1677721600,
+                "SHA256": "36697c339e6da2945cd27198d3e1c5455d615ee1529252ec9f26fbc3d3f19239",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/peridot-sixteen/PixelOS_peridot-16.2-20260301-1347.zip.part1"
+            },
+            {
+                "filename": "PixelOS_peridot-16.2-20260301-1347.zip.part2",
+                "size": 97886187,
+                "SHA256": "73217c3fd5c1e3c433949fda11f5f0082a7c69392e84709fc74665abf78a73f8",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/peridot-sixteen/PixelOS_peridot-16.2-20260301-1347.zip.part2"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_pipa-15.0-20241202-2238.zip",
+        "size": 2061497855,
+        "SHA256": "00d58572c1d5c4be0f90d46905f7ca9acfd5a390dce0f8870034968e2fc11cb7",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/pipa/PixelOS_pipa-15.0-20241202-2238.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/pipa-fifteen/PixelOS_pipa-15.0-20241202-2238.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_pipa-15.0-20241202-2238.zip.part0",
+                "size": 1677721600,
+                "SHA256": "ca7761620d0070a980b6e75efd71fc6900b0de362efc3bae9c9cc91e3d6307bb",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/pipa-fifteen/PixelOS_pipa-15.0-20241202-2238.zip.part0"
+            },
+            {
+                "filename": "PixelOS_pipa-15.0-20241202-2238.zip.part1",
+                "size": 383776255,
+                "SHA256": "04adeb4440feb7931f6a8ecc358e2c157e42d5fce10ba0efde64eaf6cca6610b",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/pipa-fifteen/PixelOS_pipa-15.0-20241202-2238.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_pipa-15.0-20250130-1233.zip",
+        "size": 1968641672,
+        "SHA256": "5f66bc4ba0974860eb9ebc6124c117a116b94f27c0f1ca78df4806a524791544",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/pipa/PixelOS_pipa-15.0-20250130-1233.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/pipa-fifteen/PixelOS_pipa-15.0-20250130-1233.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_pipa-15.0-20250308-1707.zip",
+        "size": 1902260902,
+        "SHA256": "9ff35642cc3eaa46e0f2d47701de727f748e4339183a26c661ba59fce1afec42",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/pipa/PixelOS_pipa-15.0-20250308-1707.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/pipa-fifteen/PixelOS_pipa-15.0-20250308-1707.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_porsche-13.0-20230414-1519.zip",
+        "size": 2394778667,
+        "SHA256": "47a63cbea1569117461b133de36ed2cd50f8f4b503afeb08bdf6c4a7bf6eed15",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/porsche/PixelOS_porsche-13.0-20230414-1519.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-thirteen/PixelOS_porsche-13.0-20230414-1519.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_porsche-13.0-20230414-1519.zip.part0",
+                "size": 1677721600,
+                "SHA256": "8fe0a1f323fab1414c0da2018c2f283f3ac908ffbc40fdc27614cc98c7fa616c",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-thirteen/PixelOS_porsche-13.0-20230414-1519.zip.part0"
+            },
+            {
+                "filename": "PixelOS_porsche-13.0-20230414-1519.zip.part1",
+                "size": 717057067,
+                "SHA256": "c21d61e8538c6821a944b93b7243cb3b9f0169a8f8570265f05b26c33c95ed30",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-thirteen/PixelOS_porsche-13.0-20230414-1519.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_porsche-13.0-20230514-1352.zip",
+        "size": 2455225359,
+        "SHA256": "4f91c01b00bf4145f1a8aabe03ce5c458b4a649b15468ddef4a7a3d1dc350ab8",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/porsche/PixelOS_porsche-13.0-20230514-1352.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-thirteen/PixelOS_porsche-13.0-20230514-1352.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_porsche-13.0-20230514-1352.zip.part0",
+                "size": 1677721600,
+                "SHA256": "21883d34d38a871da5db655c7ea0f5ea26437679a95eb9add9f983d82a9bdd38",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-thirteen/PixelOS_porsche-13.0-20230514-1352.zip.part0"
+            },
+            {
+                "filename": "PixelOS_porsche-13.0-20230514-1352.zip.part1",
+                "size": 777503759,
+                "SHA256": "af67c8f120a3a43b482fd1732b456f28765663b7742b4be24d6633dee56cc143",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-thirteen/PixelOS_porsche-13.0-20230514-1352.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_peridot-16.1-20260206-1753.zip",
+        "size": 3438504467,
+        "SHA256": "f66ab86a7412419d6c2404f98037601e579dedc4958f2178d12cebd3b7e9610b",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/peridot/PixelOS_peridot-16.1-20260206-1753.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/peridot-sixteen/PixelOS_peridot-16.1-20260206-1753.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_peridot-16.1-20260206-1753.zip.part0",
+                "size": 1677721600,
+                "SHA256": "c205fe950ea68694ef338b6f373a28f7f9f1447a44362bf3824295a176616aa3",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/peridot-sixteen/PixelOS_peridot-16.1-20260206-1753.zip.part0"
+            },
+            {
+                "filename": "PixelOS_peridot-16.1-20260206-1753.zip.part1",
+                "size": 1677721600,
+                "SHA256": "d5c73e7b2cdbd011215b8ec8bb26418269366e11ac1373ee00ce1e269924b33d",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/peridot-sixteen/PixelOS_peridot-16.1-20260206-1753.zip.part1"
+            },
+            {
+                "filename": "PixelOS_peridot-16.1-20260206-1753.zip.part2",
+                "size": 83061267,
+                "SHA256": "1ddb51558185bbdf5e834247da00a6afedd2d9a8337a6a64637ef119ded0d311",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/peridot-sixteen/PixelOS_peridot-16.1-20260206-1753.zip.part2"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_peridot-16.1-20251214-0901.zip",
+        "size": 3301984933,
+        "SHA256": "842eb1a53b1919c74f9462f28a2d295a73d4e50974c233fd66a96aace30f25f2",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/peridot/PixelOS_peridot-16.1-20251214-0901.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/peridot-sixteen/PixelOS_peridot-16.1-20251214-0901.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_peridot-16.1-20251214-0901.zip.part0",
+                "size": 1677721600,
+                "SHA256": "39d93322b9a4ff4e8dab6cbb9ec7aaf218671254ded46c9ad2f62b33cd4840f0",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/peridot-sixteen/PixelOS_peridot-16.1-20251214-0901.zip.part0"
+            },
+            {
+                "filename": "PixelOS_peridot-16.1-20251214-0901.zip.part1",
+                "size": 1624263333,
+                "SHA256": "2200f85627e115fa6da42eb1b207dd1e76174fc5082dbfbd90c21b04222be543",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/peridot-sixteen/PixelOS_peridot-16.1-20251214-0901.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_porsche-13.0-20230712-0350.zip",
+        "size": 2516620541,
+        "SHA256": "5fa40aa749d4a5ea77f6dc19a2da88d80ff7e25665d64422d9361b9a5139e4c1",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/porsche/PixelOS_porsche-13.0-20230712-0350.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-thirteen/PixelOS_porsche-13.0-20230712-0350.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_porsche-13.0-20230712-0350.zip.part0",
+                "size": 1677721600,
+                "SHA256": "07963cf75ef789824c0f2bde48c2e18921d3c276e043806c9aab8d68ba141484",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-thirteen/PixelOS_porsche-13.0-20230712-0350.zip.part0"
+            },
+            {
+                "filename": "PixelOS_porsche-13.0-20230712-0350.zip.part1",
+                "size": 838898941,
+                "SHA256": "7220a4b046092347a9b64222d92441a82a45e3790d12010914e8472b9935e6ed",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-thirteen/PixelOS_porsche-13.0-20230712-0350.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_porsche-13.0-20230729-1728.zip",
+        "size": 2611935032,
+        "SHA256": "328d7f2b60c3288dc66f01bdf2c93edb30b9a8d37e1e502517ac6dec67edb654",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/porsche/PixelOS_porsche-13.0-20230729-1728.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-thirteen/PixelOS_porsche-13.0-20230729-1728.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_porsche-13.0-20230729-1728.zip.part0",
+                "size": 1677721600,
+                "SHA256": "2fa2c370bf42ff0b97e1cca3f570e1a3d40360eecf5136896a7e136a5158782a",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-thirteen/PixelOS_porsche-13.0-20230729-1728.zip.part0"
+            },
+            {
+                "filename": "PixelOS_porsche-13.0-20230729-1728.zip.part1",
+                "size": 934213432,
+                "SHA256": "6fc4e71d06c0833932a59ab89a865dc6a3e2c424ff1413e991f8135bc1c82c80",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-thirteen/PixelOS_porsche-13.0-20230729-1728.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_porsche-13.0-20230912-1541.zip",
+        "size": 2450144079,
+        "SHA256": "d2d8aea01f2e8c432777adcb211ae9c49393a021b362fa965df84f0a2ccccd26",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/porsche/PixelOS_porsche-13.0-20230912-1541.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-thirteen/PixelOS_porsche-13.0-20230912-1541.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_porsche-13.0-20230912-1541.zip.part0",
+                "size": 1677721600,
+                "SHA256": "bf35083e205952dde3ab862cb897a9aecdbd1ca70fc118b1fe9971924dd8c1be",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-thirteen/PixelOS_porsche-13.0-20230912-1541.zip.part0"
+            },
+            {
+                "filename": "PixelOS_porsche-13.0-20230912-1541.zip.part1",
+                "size": 772422479,
+                "SHA256": "e4625b7b98ae5c2834699ec914d9bf1037cbda5b727a4b328b94ab3de22c6854",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-thirteen/PixelOS_porsche-13.0-20230912-1541.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_porsche-14.0-20231126-1620.zip",
+        "size": 2486999877,
+        "SHA256": "858fd5a43fd42cff8a00f4b7f6745377d14a6e018efc0d0ced0016e3b5b3a0b3",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/porsche/PixelOS_porsche-14.0-20231126-1620.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20231126-1620.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_porsche-14.0-20231126-1620.zip.part0",
+                "size": 1677721600,
+                "SHA256": "5524ec560d60beb1983fe98703efb46410160bcac7afc3db273a9a62404e5095",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20231126-1620.zip.part0"
+            },
+            {
+                "filename": "PixelOS_porsche-14.0-20231126-1620.zip.part1",
+                "size": 809278277,
+                "SHA256": "42f0eebf4f6532263ef6d590525edf3b8af5f24c7372c8f5e6ef8995580eb42e",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20231126-1620.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_porsche-14.0-20240116-2219.zip",
+        "size": 2636648274,
+        "SHA256": "2b19d9deea2ad967ef896d6d090984903e339dd1798435f35f177cdf2c879a55",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/porsche/PixelOS_porsche-14.0-20240116-2219.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20240116-2219.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_porsche-14.0-20240116-2219.zip.part0",
+                "size": 1677721600,
+                "SHA256": "75a2efddf1b2156c214db17e340c1194088a3f6cde4ddba767fb8546272c57cf",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20240116-2219.zip.part0"
+            },
+            {
+                "filename": "PixelOS_porsche-14.0-20240116-2219.zip.part1",
+                "size": 958926674,
+                "SHA256": "82752e6051563d47b723129548db02841d23be58627ef05317d6b0a9ae3066ba",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20240116-2219.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_porsche-14.0-20240117-0220.zip",
+        "size": 2636632999,
+        "SHA256": "96cc9a904b1d13e6c1fb345f5a3cefe53e30d33eab3ad954a928265d0fb4bd4a",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/porsche/PixelOS_porsche-14.0-20240117-0220.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20240117-0220.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_porsche-14.0-20240117-0220.zip.part0",
+                "size": 1677721600,
+                "SHA256": "f74a5eca2aaaccebeb570974d4fac9dfc80a9019d6047cf0c1956bfb7937ec35",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20240117-0220.zip.part0"
+            },
+            {
+                "filename": "PixelOS_porsche-14.0-20240117-0220.zip.part1",
+                "size": 958911399,
+                "SHA256": "0492461266eacd150c7ffb5d643915464ce86ddb5a0c783c784b04e59b8bc70a",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20240117-0220.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_porsche-14.0-20240127-1806.zip",
+        "size": 2639997690,
+        "SHA256": "2b31cfa9ae5baebb459d77255b1e675ef5ecd7ab9521753d19186b6cd51ca436",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/porsche/PixelOS_porsche-14.0-20240127-1806.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20240127-1806.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_porsche-14.0-20240127-1806.zip.part0",
+                "size": 1677721600,
+                "SHA256": "485cbb0ac23181906ed0b6e95c3817b14a91f21f0a19c24240de1c78d04c560e",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20240127-1806.zip.part0"
+            },
+            {
+                "filename": "PixelOS_porsche-14.0-20240127-1806.zip.part1",
+                "size": 962276090,
+                "SHA256": "5002f0766488773da0d69e1f72dd673dcfcfd9c3a1f6b1f4afc7999f561651df",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20240127-1806.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_porsche-14.0-20240215-1946.zip",
+        "size": 2591851573,
+        "SHA256": "fedf1676ff04e747dae7cd32327bd680d683af5257f5949f3c2b0c37bc97f6fc",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/porsche/PixelOS_porsche-14.0-20240215-1946.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20240215-1946.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_porsche-14.0-20240215-1946.zip.part0",
+                "size": 1677721600,
+                "SHA256": "6b98eab64ecccb0d168be5b93e62f4a85928fc6cf5366909fe96b5d2ca0663ff",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20240215-1946.zip.part0"
+            },
+            {
+                "filename": "PixelOS_porsche-14.0-20240215-1946.zip.part1",
+                "size": 914129973,
+                "SHA256": "54238c8d308c5efa28580e22bdd15f7e68dedd856d84e54ee825322d7baa11ce",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20240215-1946.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_porsche-14.0-20240227-1939.zip",
+        "size": 2540684004,
+        "SHA256": "abef8ba0d3c9fab7ef60d83c0c61895ffa1e997145bdb0554d74a3134d7b7964",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/porsche/PixelOS_porsche-14.0-20240227-1939.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20240227-1939.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_porsche-14.0-20240227-1939.zip.part0",
+                "size": 1677721600,
+                "SHA256": "d8d1d8398b6e2a67a95bf62104f1c3de62b8a69684f7e072b524c3df60904e29",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20240227-1939.zip.part0"
+            },
+            {
+                "filename": "PixelOS_porsche-14.0-20240227-1939.zip.part1",
+                "size": 862962404,
+                "SHA256": "59610202ae154431e465cd1fcae18d09ed4c75a42e21d51409aeedf52efe6986",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20240227-1939.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_porsche-14.0-20240417-1626.zip",
+        "size": 2500156620,
+        "SHA256": "b08722b5b2d4b0a51935a63db4235f44fba809308ce16debcc1d43990a781b39",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/porsche/PixelOS_porsche-14.0-20240417-1626.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20240417-1626.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_porsche-14.0-20240417-1626.zip.part0",
+                "size": 1677721600,
+                "SHA256": "71fed9111aee8d5f769ca1a121636242a34eb9cfb441bdef400b36119a25330a",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20240417-1626.zip.part0"
+            },
+            {
+                "filename": "PixelOS_porsche-14.0-20240417-1626.zip.part1",
+                "size": 822435020,
+                "SHA256": "89bed4a92155a8758eb55cdefd58c7d9f16aaaca958952137b79c7d2d268c91e",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20240417-1626.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_porsche-14.0-20240510-1436.zip",
+        "size": 2616055793,
+        "SHA256": "c510afc5a7fbff4ee5f3cdec890b5e0e2d7fbb68a536f7c41d9415a5bbe59cda",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/porsche/PixelOS_porsche-14.0-20240510-1436.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20240510-1436.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_porsche-14.0-20240510-1436.zip.part0",
+                "size": 1677721600,
+                "SHA256": "e26a665294ef65ab3bf95a4cd72a2565f2af0e93b1b7d0ae2c011e4fef424010",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20240510-1436.zip.part0"
+            },
+            {
+                "filename": "PixelOS_porsche-14.0-20240510-1436.zip.part1",
+                "size": 938334193,
+                "SHA256": "6a3eeda4d633914a584b222cf410777e9b1a7bc3d67edb5d7ae33120b2cc31aa",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20240510-1436.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_porsche-14.0-20240529-1618.zip",
+        "size": 2616794961,
+        "SHA256": "28be70faa79923771ca602b47937c41ba86d9fab24b6280949ddd395dccfb759",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/porsche/PixelOS_porsche-14.0-20240529-1618.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20240529-1618.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_porsche-14.0-20240529-1618.zip.part0",
+                "size": 1677721600,
+                "SHA256": "a83e14751426c6b739875e3848e10b64eae378a3718f43543e4d5a92a66c6131",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20240529-1618.zip.part0"
+            },
+            {
+                "filename": "PixelOS_porsche-14.0-20240529-1618.zip.part1",
+                "size": 939073361,
+                "SHA256": "16bc1b4c5dc4d3d690351072587ab940af1e4d354c7129fdcb1d2b1567173a5f",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20240529-1618.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_porsche-14.0-20240628-1851.zip",
+        "size": 2843137263,
+        "SHA256": "963e154bec03ad52e009efc8df95948b2be5f458ea5bf14e4256ca12636fa8dc",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/porsche/PixelOS_porsche-14.0-20240628-1851.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20240628-1851.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_porsche-14.0-20240628-1851.zip.part0",
+                "size": 1677721600,
+                "SHA256": "6e589954c930cccd390721ed01a7a660fe73a4be3cb75686158696b0140055cc",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20240628-1851.zip.part0"
+            },
+            {
+                "filename": "PixelOS_porsche-14.0-20240628-1851.zip.part1",
+                "size": 1165415663,
+                "SHA256": "e8a48aaf09a409bd32632d3e8aaf593c16eb1a66e42a04e9297ad3cf8b9eb7f2",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20240628-1851.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_porsche-14.0-20240723-0843.zip",
+        "size": 2859840134,
+        "SHA256": "cc1314143de0b421df14d1b393c1d2aca085be7b5d3b8a853040c2b28ef2a33c",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/porsche/PixelOS_porsche-14.0-20240723-0843.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20240723-0843.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_porsche-14.0-20240723-0843.zip.part0",
+                "size": 1677721600,
+                "SHA256": "aacc1aaa6a978aa3b9573f8d1ef759d51f8cfa2479251f0c3371c1b3ab114ac2",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20240723-0843.zip.part0"
+            },
+            {
+                "filename": "PixelOS_porsche-14.0-20240723-0843.zip.part1",
+                "size": 1182118534,
+                "SHA256": "74810cc5da7e879a193d4be428b638e9bbe4f202cdadb65af9db0b39d6f263c9",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20240723-0843.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_porsche-14.0-20240803-0301.zip",
+        "size": 2859717554,
+        "SHA256": "0d7660c4269ba38506d1da53abade80b815a74d945617ee3c363e905ae956b9b",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/porsche/PixelOS_porsche-14.0-20240803-0301.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20240803-0301.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_porsche-14.0-20240803-0301.zip.part0",
+                "size": 1677721600,
+                "SHA256": "f6e8cdc8246d41e3a3f3f8295166a996220f4c99d681e4ccbec9e208411aafd9",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20240803-0301.zip.part0"
+            },
+            {
+                "filename": "PixelOS_porsche-14.0-20240803-0301.zip.part1",
+                "size": 1181995954,
+                "SHA256": "6c430e9b13247eca24830c413312709249c5e4662c93b3fb93284cf5f8486755",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20240803-0301.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_porsche-14.0-20240819-2218.zip",
+        "size": 2735979228,
+        "SHA256": "4a745b7af38693d4da94c97e628d32e22ae917c6ba1a6831311ee20ad6015d30",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/porsche/PixelOS_porsche-14.0-20240819-2218.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20240819-2218.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_porsche-14.0-20240819-2218.zip.part0",
+                "size": 1677721600,
+                "SHA256": "71cac4f3bf8049e955dd04637bb29078a99c6e1b384d9db64655e54183febec7",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20240819-2218.zip.part0"
+            },
+            {
+                "filename": "PixelOS_porsche-14.0-20240819-2218.zip.part1",
+                "size": 1058257628,
+                "SHA256": "362d9841ffe42ec7beb438ce1e82919ec86219a85e7efa7296aae94032584de4",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20240819-2218.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_porsche-14.0-20240925-1558.zip",
+        "size": 2755947888,
+        "SHA256": "4bed20fadf840eef21b6572a9995002b25560c7ce69ecf7068086e235cac36c9",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/porsche/PixelOS_porsche-14.0-20240925-1558.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20240925-1558.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_porsche-14.0-20240925-1558.zip.part0",
+                "size": 1677721600,
+                "SHA256": "ade3e1c375f2ff3fb21eddd1abf65f61f3b585e17435518da4eb4f2836331ce5",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20240925-1558.zip.part0"
+            },
+            {
+                "filename": "PixelOS_porsche-14.0-20240925-1558.zip.part1",
+                "size": 1078226288,
+                "SHA256": "e05689cbdc81162cc768d0f46c00fea4f98dbbb06199170f23a864b51c9832d5",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fourteen/PixelOS_porsche-14.0-20240925-1558.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_porsche-15.0-20250118-1747.zip",
+        "size": 2559448784,
+        "SHA256": "575e1ee7fad620001324db1609101e0fe15bee01240ea6cda17a2d10e193e3e3",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/porsche/PixelOS_porsche-15.0-20250118-1747.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fifteen/PixelOS_porsche-15.0-20250118-1747.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_porsche-15.0-20250118-1747.zip.part0",
+                "size": 1677721600,
+                "SHA256": "2a13376a6bd27b816aba0b1358434c0c2e970436d94aef3313095faaab5b830f",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fifteen/PixelOS_porsche-15.0-20250118-1747.zip.part0"
+            },
+            {
+                "filename": "PixelOS_porsche-15.0-20250118-1747.zip.part1",
+                "size": 881727184,
+                "SHA256": "e20a2c5afc658b33d5d5f7dea0d02d5ce971526a49d20f4aa46fc83d0a8a2c1b",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fifteen/PixelOS_porsche-15.0-20250118-1747.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_porsche-15.0-20250306-0934.zip",
+        "size": 2557899777,
+        "SHA256": "c54de977e3978db8dd8e44f8a9fd0a9a2f441e107e5392548315cc788fbd0eee",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/porsche/PixelOS_porsche-15.0-20250306-0934.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fifteen/PixelOS_porsche-15.0-20250306-0934.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_porsche-15.0-20250306-0934.zip.part0",
+                "size": 1677721600,
+                "SHA256": "0a2121a1216de5d1d393f4a62f6210e7147b137f5f4b258467f4cda4f3b08856",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fifteen/PixelOS_porsche-15.0-20250306-0934.zip.part0"
+            },
+            {
+                "filename": "PixelOS_porsche-15.0-20250306-0934.zip.part1",
+                "size": 880178177,
+                "SHA256": "13ca6045706267007bbe8735723fea1b7351de4d0ac54719d5bd21fe36999167",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fifteen/PixelOS_porsche-15.0-20250306-0934.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_porsche-15.0-20250403-0756.zip",
+        "size": 2611448712,
+        "SHA256": "e40fcda95eba66461ad0619b7b27f13e6eeb23757b2ae93838d82d5c4b57b38d",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/porsche/PixelOS_porsche-15.0-20250403-0756.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fifteen/PixelOS_porsche-15.0-20250403-0756.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_porsche-15.0-20250403-0756.zip.part0",
+                "size": 1677721600,
+                "SHA256": "8b2f9a7d14a640ebbe7a8c495b891f71aee7a9d0c56a8109fc9a9f90041ec232",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fifteen/PixelOS_porsche-15.0-20250403-0756.zip.part0"
+            },
+            {
+                "filename": "PixelOS_porsche-15.0-20250403-0756.zip.part1",
+                "size": 933727112,
+                "SHA256": "a3ee202659fdc771db648f6ff676bc544a77be2e6476b00100a989cf72705ee9",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fifteen/PixelOS_porsche-15.0-20250403-0756.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_porsche-16.1-20260116-0254.zip",
+        "size": 2943694533,
+        "SHA256": "f69f4243a3d472dbd7e63672e9b9f49805918f21378d00c84e6dd5508c27a92f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/porsche/PixelOS_porsche-16.1-20260116-0254.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-sixteen/PixelOS_porsche-16.1-20260116-0254.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_porsche-16.1-20260116-0254.zip.part0",
+                "size": 1677721600,
+                "SHA256": "10d5db76783ee2659b6e3cdfa7f26728b3d8d26eaa4fa9db22a9f954bf621d33",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-sixteen/PixelOS_porsche-16.1-20260116-0254.zip.part0"
+            },
+            {
+                "filename": "PixelOS_porsche-16.1-20260116-0254.zip.part1",
+                "size": 1265972933,
+                "SHA256": "ff75718e8f692902ab8021e8d01a28e88341d8f02136c8976db2c590b83b6890",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-sixteen/PixelOS_porsche-16.1-20260116-0254.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_porsche-15.0-20250506-1611.zip",
+        "size": 2611142191,
+        "SHA256": "4c66e6d269fbdd65e97a70a19f6ae4951bb5b2c10ecfe1c094b962078c9d5b62",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/porsche/PixelOS_porsche-15.0-20250506-1611.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fifteen/PixelOS_porsche-15.0-20250506-1611.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_porsche-15.0-20250506-1611.zip.part0",
+                "size": 1677721600,
+                "SHA256": "7c9b5e6e0cbe30792c11014f640256e4db412498590f86135766676b320c090c",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fifteen/PixelOS_porsche-15.0-20250506-1611.zip.part0"
+            },
+            {
+                "filename": "PixelOS_porsche-15.0-20250506-1611.zip.part1",
+                "size": 933420591,
+                "SHA256": "2034947f271eef8092e830482b59f668995b7435bb1a7ddd55cbb30b9be47ec1",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fifteen/PixelOS_porsche-15.0-20250506-1611.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_porsche-15.0-20250519-0722.zip",
+        "size": 2611178818,
+        "SHA256": "d6312f0012323b15c5e14cd5da553ecbdaa0c0315b37799a251dcb7c75314842",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/porsche/PixelOS_porsche-15.0-20250519-0722.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fifteen/PixelOS_porsche-15.0-20250519-0722.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_porsche-15.0-20250519-0722.zip.part0",
+                "size": 1677721600,
+                "SHA256": "7028e547c87b6fdab84c5fb1cb160e7898e115301b7c7fb1206fa960b83d8252",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fifteen/PixelOS_porsche-15.0-20250519-0722.zip.part0"
+            },
+            {
+                "filename": "PixelOS_porsche-15.0-20250519-0722.zip.part1",
+                "size": 933457218,
+                "SHA256": "86b4590a7dd1f63b6be556fe7420158a08b7469839bc6629c55d6ed359a5ef8d",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/porsche-fifteen/PixelOS_porsche-15.0-20250519-0722.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_r5x-12.1-20220610-1711.zip",
+        "size": 1782583865,
+        "SHA256": "fd2980ccf9dd2b5225037a2f5728d3662cb2df097aa03c9833a1e45b4bef654d",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/r5x/PixelOS_r5x-12.1-20220610-1711.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/r5x-twelve/PixelOS_r5x-12.1-20220610-1711.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_r5x-13.0-20221123-0502.zip",
+        "size": 1880648890,
+        "SHA256": "d7eece524e70fda7a7853f2c2cdc993c16d4728763d4799756f9b0479b63582a",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/r5x/PixelOS_r5x-13.0-20221123-0502.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/r5x-thirteen/PixelOS_r5x-13.0-20221123-0502.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_r5x-13.0-20230122-1351.zip",
+        "size": 1738464959,
+        "SHA256": "016d20b1d2c6f40b660968ab8f4dfbe115151cd3a50680ad39a4693c65dfbd9a",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/r5x/PixelOS_r5x-13.0-20230122-1351.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/r5x-thirteen/PixelOS_r5x-13.0-20230122-1351.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_r5x-13.0-20230215-0932.zip",
+        "size": 1734926241,
+        "SHA256": "1c6bee9806acd1cefbd4c1bee9e58bc85c412479a0f7c6249ea68fa843fb2102",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/r5x/PixelOS_r5x-13.0-20230215-0932.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/r5x-thirteen/PixelOS_r5x-13.0-20230215-0932.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_salaa-14.0-20231125-1055.zip",
+        "size": 1984377687,
+        "SHA256": "5d969a770de503ba18f3cb5bdfaa26050085960eff65baca498888fba7c7bb31",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/salaa/PixelOS_salaa-14.0-20231125-1055.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/salaa-fourteen/PixelOS_salaa-14.0-20231125-1055.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_salaa-14.0-20231222-2103.zip",
+        "size": 1963118997,
+        "SHA256": "6c8c362a477a1ca244e4968d343f86b2c80b74e319227c79bffcd872a48e8cb8",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/salaa/PixelOS_salaa-14.0-20231222-2103.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/salaa-fourteen/PixelOS_salaa-14.0-20231222-2103.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_salaa-14.0-20240117-1200.zip",
+        "size": 1963988027,
+        "SHA256": "d208b1acd8e71c6630470b97b719d079ed26a0b1a8f781ce94ddb6c39e00c466",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/salaa/PixelOS_salaa-14.0-20240117-1200.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/salaa-fourteen/PixelOS_salaa-14.0-20240117-1200.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_salaa-14.0-20240216-1623.zip",
+        "size": 1923716792,
+        "SHA256": "fa8f56227ca83a3a6c7c8ad81bd1b42e0800399aebde540be3e22677f41f1da2",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/salaa/PixelOS_salaa-14.0-20240216-1623.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/salaa-fourteen/PixelOS_salaa-14.0-20240216-1623.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_salaa-14.0-20240223-0524.zip",
+        "size": 1923858831,
+        "SHA256": "b196e66aae6054940f7d076c80e5643903b3f6f0b166e24a27def20b1909e88f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/salaa/PixelOS_salaa-14.0-20240223-0524.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/salaa-fourteen/PixelOS_salaa-14.0-20240223-0524.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_salaa-14.0-20240417-1900.zip",
+        "size": 1897332699,
+        "SHA256": "62625a574bbf7c003f3e929fa3997e544c879a05e65880d3db55d67671fb3fb5",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/salaa/PixelOS_salaa-14.0-20240417-1900.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/salaa-fourteen/PixelOS_salaa-14.0-20240417-1900.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_salaa-14.0-20240530-1740.zip",
+        "size": 1947175175,
+        "SHA256": "23e3ecde4adc47bfa321567ee5d3acd99a67d47b2f890ae31aa31e19cff8c35a",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/salaa/PixelOS_salaa-14.0-20240530-1740.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/salaa-fourteen/PixelOS_salaa-14.0-20240530-1740.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_salaa-14.0-20240821-0837.zip",
+        "size": 2085034974,
+        "SHA256": "387f09620d98b29fcd197142a58b2e63436ef074bd74bc20f9e54fec0dfb2d94",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/salaa/PixelOS_salaa-14.0-20240821-0837.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/salaa-fourteen/PixelOS_salaa-14.0-20240821-0837.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_salaa-14.0-20240821-0837.zip.part0",
+                "size": 1677721600,
+                "SHA256": "7ba71a3ee565c40f11c63d4ccbbe4ddec5b16856b746f6772a467ee345d2def3",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/salaa-fourteen/PixelOS_salaa-14.0-20240821-0837.zip.part0"
+            },
+            {
+                "filename": "PixelOS_salaa-14.0-20240821-0837.zip.part1",
+                "size": 407313374,
+                "SHA256": "7e9e2aac159fb6e652eafe62b39c85bce63af13896544975e2c7fe0e62fe33d8",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/salaa-fourteen/PixelOS_salaa-14.0-20240821-0837.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_salaa-14.0-20240922-1259.zip",
+        "size": 2077854376,
+        "SHA256": "9e928538fc59095517cf097ebd3d072664fec911a5145406e48f8455421b0dd1",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/salaa/PixelOS_salaa-14.0-20240922-1259.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/salaa-fourteen/PixelOS_salaa-14.0-20240922-1259.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_salaa-14.0-20240922-1259.zip.part0",
+                "size": 1677721600,
+                "SHA256": "a0a5ff0375918337988404301f5911b8ea1b4ce235fdf8b081cbbe4045712788",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/salaa-fourteen/PixelOS_salaa-14.0-20240922-1259.zip.part0"
+            },
+            {
+                "filename": "PixelOS_salaa-14.0-20240922-1259.zip.part1",
+                "size": 400132776,
+                "SHA256": "528db9ebf88a95a9cf581c433b9220bc69db22489326d63c58c2ee0d90e56190",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/salaa-fourteen/PixelOS_salaa-14.0-20240922-1259.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_salaa-14.0-20241015-1512.zip",
+        "size": 2077701862,
+        "SHA256": "dd64e5230eaa26579e8128d7f41ae868e0c579dc779f41ada4522d218b942e2d",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/salaa/PixelOS_salaa-14.0-20241015-1512.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/salaa-fourteen/PixelOS_salaa-14.0-20241015-1512.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_salaa-14.0-20241015-1512.zip.part0",
+                "size": 1677721600,
+                "SHA256": "ed3766a8c18d4e70eeb67947256005e68c827cc5fa84ad7488fce335034a9c6d",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/salaa-fourteen/PixelOS_salaa-14.0-20241015-1512.zip.part0"
+            },
+            {
+                "filename": "PixelOS_salaa-14.0-20241015-1512.zip.part1",
+                "size": 399980262,
+                "SHA256": "3cc717285311c9a4e4ae5b9f1a6b404dce1a3fddfb4160ef649b6de6ac0f03ec",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/salaa-fourteen/PixelOS_salaa-14.0-20241015-1512.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_salaa-15.0-20250219-1851.zip",
+        "size": 2112437107,
+        "SHA256": "53fdafbe0a3a61514f0112e00784aeba27f0df10c70249743dcd1e522004c35f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/salaa/PixelOS_salaa-15.0-20250219-1851.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/salaa-fifteen/PixelOS_salaa-15.0-20250219-1851.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_salaa-15.0-20250219-1851.zip.part0",
+                "size": 1677721600,
+                "SHA256": "bc6e871f511d5e23b1f925be519c8f820b24eacc68b09a3df62527b5749ce7c6",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/salaa-fifteen/PixelOS_salaa-15.0-20250219-1851.zip.part0"
+            },
+            {
+                "filename": "PixelOS_salaa-15.0-20250219-1851.zip.part1",
+                "size": 434715507,
+                "SHA256": "98c2b5f89f85b168a37631d04ca8ebf9872347bc3c9499d39a9ba787a82b30a0",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/salaa-fifteen/PixelOS_salaa-15.0-20250219-1851.zip.part1"
+            }
+        ]
+    },
+    {
+        "filename": "PixelOS_r5x-13.0-20230228-1202.zip",
+        "size": 1756303069,
+        "SHA256": "b7f03eb7e44468accdd86627d0a082be97b3e5ccdb2dbb6b79e1e16a6ab99898",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/r5x/PixelOS_r5x-13.0-20230228-1202.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/r5x-thirteen/PixelOS_r5x-13.0-20230228-1202.zip",
+        "parts": false
+    },
+    {
+        "filename": "PixelOS_salaa-15.0-20250407-2218.zip",
+        "size": 2154715444,
+        "SHA256": "bd44807bd0306b895a2d9e1aec04b549a59ded416a10b3b7877d2c6fe7d74841",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/salaa/PixelOS_salaa-15.0-20250407-2218.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/salaa-fifteen/PixelOS_salaa-15.0-20250407-2218.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_salaa-15.0-20250407-2218.zip.part0",
+                "size": 1677721600,
+                "SHA256": "d6287ac560e12a981584eb3f3af0ac3379673898e9e2f1c1388a02a36cc5250c",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/salaa-fifteen/PixelOS_salaa-15.0-20250407-2218.zip.part0"
+            },
+            {
+                "filename": "PixelOS_salaa-15.0-20250407-2218.zip.part1",
+                "size": 476993844,
+                "SHA256": "533f2d0a346451a37315b1450f304ff3af48cecf246f10dd9d4d0209b9b79aff",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/salaa-fifteen/PixelOS_salaa-15.0-20250407-2218.zip.part1"
+            }
+        ]
     }
 ]
