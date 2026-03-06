@@ -11200,5 +11200,26 @@
                 "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/surya-sixteen/PixelOS_surya-16.1-20260116-1642.zip.part1"
             }
         ]
+    },
+    {
+        "filename": "PixelOS_surya-15.0-20250402-0314.zip",
+        "size": 2206136663,
+        "SHA256": "2ee5672f86f5473d2ef8f76ac35c6097041f2b39055c70cd9378ec2be5959396",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/surya/PixelOS_surya-15.0-20250402-0314.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/surya-fifteen/PixelOS_surya-15.0-20250402-0314.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_surya-15.0-20250402-0314.zip.part0",
+                "size": 1677721600,
+                "SHA256": "11ce6853515cf0d414702283abcfbffd625a2ac28aecee280de0e78e14e87fb1",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/surya-fifteen/PixelOS_surya-15.0-20250402-0314.zip.part0"
+            },
+            {
+                "filename": "PixelOS_surya-15.0-20250402-0314.zip.part1",
+                "size": 528415063,
+                "SHA256": "0cc23aa062481b9de74fdf701ee8fa76f85c6a5029d06769ae4b60dc09a5ab9b",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/surya-fifteen/PixelOS_surya-15.0-20250402-0314.zip.part1"
+            }
+        ]
     }
 ]
