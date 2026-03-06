@@ -11221,5 +11221,13 @@
                 "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/surya-fifteen/PixelOS_surya-15.0-20250402-0314.zip.part1"
             }
         ]
+    },
+    {
+        "filename": "PixelOS_sweet-12.0-20220101-0018.zip",
+        "size": 1367643985,
+        "SHA256": "73a3931118a04dff09dfad469aa9eabc945b50b9a7634000246e06f821c7294c",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/sweet/PixelOS_sweet-12.0-20220101-0018.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sweet-twelve/PixelOS_sweet-12.0-20220101-0018.zip",
+        "parts": false
     }
 ]
