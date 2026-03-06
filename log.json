@@ -12023,5 +12023,26 @@
                 "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sweet-fifteen/PixelOS_sweet-15.0-20250517-1357.zip.part1"
             }
         ]
+    },
+    {
+        "filename": "PixelOS_sweet-15.0-20250505-1620.zip",
+        "size": 2554588671,
+        "SHA256": "ad01b50f73b3e7fc3a1dd5b3b17d393f0fc3fc19f70ddbfcdc11e1831499d53b",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/sweet/PixelOS_sweet-15.0-20250505-1620.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sweet-fifteen/PixelOS_sweet-15.0-20250505-1620.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_sweet-15.0-20250505-1620.zip.part0",
+                "size": 1677721600,
+                "SHA256": "ec13aa9cb8c84b0b8b07a6bd15800c2619ecb154e26921a60fcc49de1e2efd8c",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sweet-fifteen/PixelOS_sweet-15.0-20250505-1620.zip.part0"
+            },
+            {
+                "filename": "PixelOS_sweet-15.0-20250505-1620.zip.part1",
+                "size": 876867071,
+                "SHA256": "80995e2a515d7046c618c3607f5edba3c2cae9fcbf7c6bb8c0915bda746a9dfa",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sweet-fifteen/PixelOS_sweet-15.0-20250505-1620.zip.part1"
+            }
+        ]
     }
 ]
