@@ -11108,5 +11108,13 @@
                 "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-sixteen/PixelOS_sunny-16.1-20260114-2016.zip.part1"
             }
         ]
+    },
+    {
+        "filename": "PixelOS_surya-13.0-20230706-1536.zip",
+        "size": 1855277935,
+        "SHA256": "7cddc219d9c3a00c61f5989bd11f423aae69be1b4205e581116b326242070ab4",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/surya/PixelOS_surya-13.0-20230706-1536.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/surya-thirteen/PixelOS_surya-13.0-20230706-1536.zip",
+        "parts": false
     }
 ]
