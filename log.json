@@ -11393,5 +11393,26 @@
                 "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sweet-twelve/PixelOS_sweet-12.1-20220718-1137.zip.part1"
             }
         ]
+    },
+    {
+        "filename": "PixelOS_sweet-12.1-20220718-1358.zip",
+        "size": 2067391955,
+        "SHA256": "7bee192f0ae2fc8f289a4ad0d57666da4079f27903d055b671054c15bee755af",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/sweet/PixelOS_sweet-12.1-20220718-1358.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sweet-twelve/PixelOS_sweet-12.1-20220718-1358.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_sweet-12.1-20220718-1358.zip.part0",
+                "size": 1677721600,
+                "SHA256": "51fd8d1f1461bf7dbfe4f3c5485969d93d862ce9725b0f562acb9647788ac86d",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sweet-twelve/PixelOS_sweet-12.1-20220718-1358.zip.part0"
+            },
+            {
+                "filename": "PixelOS_sweet-12.1-20220718-1358.zip.part1",
+                "size": 389670355,
+                "SHA256": "a22b502847df59cdc80fe86c7e5aa81a30630e8487e94ea1bc2874add1269690",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sweet-twelve/PixelOS_sweet-12.1-20220718-1358.zip.part1"
+            }
+        ]
     }
 ]
