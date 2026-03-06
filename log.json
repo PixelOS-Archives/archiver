@@ -11855,5 +11855,26 @@
                 "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sweet-fourteen/PixelOS_sweet-14.0-20240611-1630.zip.part1"
             }
         ]
+    },
+    {
+        "filename": "PixelOS_sweet-14.0-20240530-1628.zip",
+        "size": 2315897826,
+        "SHA256": "a2a90bd7a4b571ffe5730e9fd12044ddfcce168bc2631584326850f64219fe81",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/sweet/PixelOS_sweet-14.0-20240530-1628.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sweet-fourteen/PixelOS_sweet-14.0-20240530-1628.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_sweet-14.0-20240530-1628.zip.part0",
+                "size": 1677721600,
+                "SHA256": "63eea525a8429e75c32ac3a977ac95fe9907624805f90114df46eb56846142a7",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sweet-fourteen/PixelOS_sweet-14.0-20240530-1628.zip.part0"
+            },
+            {
+                "filename": "PixelOS_sweet-14.0-20240530-1628.zip.part1",
+                "size": 638176226,
+                "SHA256": "480a5236086e2b2dd27e1dd8f4013b915396e43e04dd132c97ab81707dd9ff48",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sweet-fourteen/PixelOS_sweet-14.0-20240530-1628.zip.part1"
+            }
+        ]
     }
 ]
