@@ -11245,5 +11245,13 @@
         "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/sweet/PixelOS_sweet-12.0-20220211-1915.zip/download",
         "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sweet-twelve/PixelOS_sweet-12.0-20220211-1915.zip",
         "parts": false
+    },
+    {
+        "filename": "PixelOS_sweet-12.0-20220214-2122.zip",
+        "size": 1484004532,
+        "SHA256": "d3b4224e6ebe136bc3ca482d9968bfd00e81f523aa4892ddd1663b847cf8fd6f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/sweet/PixelOS_sweet-12.0-20220214-2122.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sweet-twelve/PixelOS_sweet-12.0-20220214-2122.zip",
+        "parts": false
     }
 ]
