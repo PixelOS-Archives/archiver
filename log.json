@@ -12178,5 +12178,26 @@
         "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/toco/PixelOS_toco-12.1-20220502-1655.zip/download",
         "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/toco-twelve/PixelOS_toco-12.1-20220502-1655.zip",
         "parts": false
+    },
+    {
+        "filename": "PixelOS_toco-12.1-20220506-2257.zip",
+        "size": 2122609935,
+        "SHA256": "c28687f48935c98b63863e31eb6ebb327d9846fdcbe069c65a771f04e3fadf9d",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/toco/PixelOS_toco-12.1-20220506-2257.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/toco-twelve/PixelOS_toco-12.1-20220506-2257.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_toco-12.1-20220506-2257.zip.part0",
+                "size": 1677721600,
+                "SHA256": "284f269e5195c29640a998f2016b5a00304096b367626f4031c99a3d96ec1181",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/toco-twelve/PixelOS_toco-12.1-20220506-2257.zip.part0"
+            },
+            {
+                "filename": "PixelOS_toco-12.1-20220506-2257.zip.part1",
+                "size": 444888335,
+                "SHA256": "5701c9da5b778fba88e2a1827969ef5e9c67e23db51dede090fd919126ba0348",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/toco-twelve/PixelOS_toco-12.1-20220506-2257.zip.part1"
+            }
+        ]
     }
 ]
