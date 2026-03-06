@@ -6,6 +6,7 @@ on:
 jobs:
   mirror:
     runs-on: ubuntu-latest
+    timeout-minutes: 360
     permissions:
       contents: write
     steps:
@@ -30,9 +31,12 @@ jobs:
         run: python mirror.py
         
       - name: Commit and Push log.json
+        if: always()
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin HEAD || true
           git add log.json || echo "No log.json to add"
           git commit -m "chore: Update mirror log.json [skip ci]" || echo "No changes to commit"
           git push origin HEAD || echo "No changes to push"
+

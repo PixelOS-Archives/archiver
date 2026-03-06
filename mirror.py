@@ -6,6 +6,8 @@ import subprocess
 import hashlib
 import sys
 import time
+import signal
+import atexit
 import logging
 
 logging.basicConfig(
@@ -19,6 +21,50 @@ MAX_UPLOAD_PER_RUN = 60
 SPLIT_SIZE_BYTES = int(1.9 * 1024**3)
 PART_SIZE_MB = "1600M" # for split command
 GH_REPO = os.environ.get("GITHUB_REPOSITORY", "user/repo")
+
+# Deadline: stop processing 15 minutes before the 6-hour GitHub Actions limit
+RUN_START_TIME = time.time()
+MAX_RUN_SECONDS = 5 * 3600 + 45 * 60  # 5 hours 45 minutes
+
+_push_done = False
+
+def git_push_log():
+    """Commit and push log.json to preserve progress."""
+    global _push_done
+    if _push_done:
+        return
+    try:
+        logging.info("[GIT] Committing and pushing log.json...")
+        subprocess.run(["git", "config", "--global", "user.name", "github-actions[bot]"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+        subprocess.run(["git", "config", "--global", "user.email", "github-actions[bot]@users.noreply.github.com"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+        subprocess.run(["git", "add", LOG_FILE], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+        result = subprocess.run(["git", "commit", "-m", "chore: Update mirror log.json [skip ci]"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+        if result.returncode == 0:
+            subprocess.run(["git", "push", "origin", "HEAD"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, timeout=120)
+            logging.info("[GIT] Successfully pushed log.json")
+        else:
+            logging.info("[GIT] No changes to commit")
+        _push_done = True
+    except Exception as e:
+        logging.error(f"[GIT] Failed to push log.json: {e}")
+
+def _shutdown_handler(signum=None, frame=None):
+    """Handle SIGTERM/SIGINT by pushing log.json before exit."""
+    sig_name = signal.Signals(signum).name if signum else "atexit"
+    logging.warning(f"[!] Received {sig_name} — force-pushing log.json before shutdown...")
+    git_push_log()
+    if signum:
+        sys.exit(128 + signum)
+
+# Register handlers so log.json is always pushed
+signal.signal(signal.SIGTERM, _shutdown_handler)
+signal.signal(signal.SIGINT, _shutdown_handler)
+atexit.register(git_push_log)
+
+def is_past_deadline():
+    """Check if we've exceeded our self-imposed time limit."""
+    elapsed = time.time() - RUN_START_TIME
+    return elapsed >= MAX_RUN_SECONDS
 
 def get_sha256(filepath):
     sha256_hash = hashlib.sha256()
@@ -218,6 +264,10 @@ def main():
                 log_data.append(log_entry)
                 with open(LOG_FILE, "w") as f:
                     json.dump(log_data, f, indent=4)
+                # Push progress after each successful upload
+                global _push_done
+                _push_done = False
+                git_push_log()
                     
             logging.info(f"[*] Successfully recorded {local_filename} to log.json")
 
@@ -249,15 +299,25 @@ def main():
         # As soon as a download finishes, ship it immediately to the upload pool while the DL pool pulls the next file
         up_futures = []
         uploaded_count = 0
+        deadline_hit = False
         for future in as_completed(dl_futures):
+            if is_past_deadline():
+                logging.warning("[!] Approaching 6-hour limit — stopping new uploads.")
+                deadline_hit = True
+                break
             f_info, dl_time, local_filename, actual_size = future.result()
             if actual_size > 0:
                 uploaded_count += 1
                 up_futures.append(upload_pool.submit(process_and_upload, f_info, dl_time, local_filename, actual_size, uploaded_count, total_to_process))
                 
-        # Wait for all uploads to complete
+        # Wait for all in-flight uploads to complete
         for future in as_completed(up_futures):
             future.result()
+
+        if deadline_hit:
+            logging.warning("[!] Deadline reached. Pushing final log.json and exiting.")
+            _push_done = False
+            git_push_log()
 
 if __name__ == "__main__":
     main()
