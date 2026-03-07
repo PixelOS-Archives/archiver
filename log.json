@@ -12459,5 +12459,26 @@
                 "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/toco-thirteen/PixelOS_toco-13.0-20230819-0534.zip.part1"
             }
         ]
+    },
+    {
+        "filename": "PixelOS_toco-13.0-20230916-1020.zip",
+        "size": 2080648790,
+        "SHA256": "a83c5f96a4cddcdd3a09ca8592384ca829d50d18bae10eb821bde446683e57b5",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/toco/PixelOS_toco-13.0-20230916-1020.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/toco-thirteen/PixelOS_toco-13.0-20230916-1020.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_toco-13.0-20230916-1020.zip.part0",
+                "size": 1677721600,
+                "SHA256": "971a226064c78c5db875a5e7e6e0e519e3d3ae34cf1186bebb86af1f6b6c0a54",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/toco-thirteen/PixelOS_toco-13.0-20230916-1020.zip.part0"
+            },
+            {
+                "filename": "PixelOS_toco-13.0-20230916-1020.zip.part1",
+                "size": 402927190,
+                "SHA256": "ff34b8ab3e5f858ba2e73b7737b253aeb8e05b2a0df07b6f78df3f06f2161e1f",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/toco-thirteen/PixelOS_toco-13.0-20230916-1020.zip.part1"
+            }
+        ]
     }
 ]
