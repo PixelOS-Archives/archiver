@@ -13055,5 +13055,13 @@
         "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/violet/PixelOS_violet-12.0-20220115-0944.zip/download",
         "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/violet-twelve/PixelOS_violet-12.0-20220115-0944.zip",
         "parts": false
+    },
+    {
+        "filename": "PixelOS_violet-12.0-20220211-2019.zip",
+        "size": 1622830207,
+        "SHA256": "03ead9a2ddef25c8da12d0e0ef856fb9a2f3c6f0e05c34ea8a968bcb9f937b00",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/violet/PixelOS_violet-12.0-20220211-2019.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/violet-twelve/PixelOS_violet-12.0-20220211-2019.zip",
+        "parts": false
     }
 ]
