@@ -12913,5 +12913,26 @@
                 "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/vayu-fourteen/PixelOS_vayu-14.0-20231118-1352.zip.part1"
             }
         ]
+    },
+    {
+        "filename": "PixelOS_vayu-14.0-20231223-1523.zip",
+        "size": 2259913731,
+        "SHA256": "cdf871afc1bda3d5bddf692e7f3db6cfa2f5fec10bef9e9f30a3bd7c94575237",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/vayu/PixelOS_vayu-14.0-20231223-1523.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/vayu-fourteen/PixelOS_vayu-14.0-20231223-1523.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_vayu-14.0-20231223-1523.zip.part0",
+                "size": 1677721600,
+                "SHA256": "53946779c7d92f3c733ea1b10828762955d6309b77cb17bdbe453372237ef727",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/vayu-fourteen/PixelOS_vayu-14.0-20231223-1523.zip.part0"
+            },
+            {
+                "filename": "PixelOS_vayu-14.0-20231223-1523.zip.part1",
+                "size": 582192131,
+                "SHA256": "c1c90f489516d1c63d73a21250745461187213eb033bd29b03271bdddafbb419",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/vayu-fourteen/PixelOS_vayu-14.0-20231223-1523.zip.part1"
+            }
+        ]
     }
 ]
