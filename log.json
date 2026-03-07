@@ -12648,5 +12648,13 @@
                 "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/toco-fourteen/PixelOS_toco-14.0-20241026-1004.zip.part1"
             }
         ]
+    },
+    {
+        "filename": "PixelOS_tundra-14.0-20231115-1157.zip",
+        "size": 1891651063,
+        "SHA256": "fecead255fc05ff1abb5bcfc4f3d41eb993d5d1bc82db815fe03def697cc9918",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/tundra/PixelOS_tundra-14.0-20231115-1157.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/tundra-fourteen/PixelOS_tundra-14.0-20231115-1157.zip",
+        "parts": false
     }
 ]
