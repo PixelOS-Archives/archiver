@@ -12712,5 +12712,13 @@
         "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/vayu/PixelOS_vayu-12.0-20220311-1226.zip/download",
         "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/vayu-twelve/PixelOS_vayu-12.0-20220311-1226.zip",
         "parts": false
+    },
+    {
+        "filename": "PixelOS_vayu-12.1-20220411-1032.zip",
+        "size": 1947484945,
+        "SHA256": "def56316b24f091f0f4271f1e47bc095e4c02b83bb6c67326f8f64cd5ab50dc9",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/vayu/PixelOS_vayu-12.1-20220411-1032.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/vayu-twelve/PixelOS_vayu-12.1-20220411-1032.zip",
+        "parts": false
     }
 ]
