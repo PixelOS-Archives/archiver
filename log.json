@@ -12672,5 +12672,13 @@
         "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/tundra/PixelOS_tundra-14.0-20240518-1607.zip/download",
         "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/tundra-fourteen/PixelOS_tundra-14.0-20240518-1607.zip",
         "parts": false
+    },
+    {
+        "filename": "PixelOS_tundra-14.0-20240520-1612.zip",
+        "size": 1907674870,
+        "SHA256": "e508ce2992b79a269db672076ae47e083c9af1d0c13def1b2b6ad46a073d6aa5",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/tundra/PixelOS_tundra-14.0-20240520-1612.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/tundra-fourteen/PixelOS_tundra-14.0-20240520-1612.zip",
+        "parts": false
     }
 ]
