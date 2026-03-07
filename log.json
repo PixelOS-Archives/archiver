@@ -12262,5 +12262,13 @@
                 "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/toco-twelve/PixelOS_toco-12.1-20220708-2000.zip.part1"
             }
         ]
+    },
+    {
+        "filename": "PixelOS_toco-13.0-20221020-1457.zip",
+        "size": 1989723236,
+        "SHA256": "cbd8cb789bf4de54a1ea526d4357e183de58a9ca8bd49ad87114f95460e8417b",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/toco/PixelOS_toco-13.0-20221020-1457.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/toco-thirteen/PixelOS_toco-13.0-20221020-1457.zip",
+        "parts": false
     }
 ]
