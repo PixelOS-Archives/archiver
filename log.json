@@ -13100,5 +13100,13 @@
                 "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/vayu-thirteen/PixelOS_vayu-13.0-20221021-1025.zip.part1"
             }
         ]
+    },
+    {
+        "filename": "PixelOS_tundra-14.0-20240604-1525.zip",
+        "size": 1905966069,
+        "SHA256": "d9bffbb6fabe005b97b81e64cd494d282d012b4007da18be2dae5ba5a90460b4",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/tundra/PixelOS_tundra-14.0-20240604-1525.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/tundra-fourteen/PixelOS_tundra-14.0-20240604-1525.zip",
+        "parts": false
     }
 ]
