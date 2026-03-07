@@ -12680,5 +12680,13 @@
         "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/tundra/PixelOS_tundra-14.0-20240520-1612.zip/download",
         "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/tundra-fourteen/PixelOS_tundra-14.0-20240520-1612.zip",
         "parts": false
+    },
+    {
+        "filename": "PixelOS_vayu-12.0-20220102-0608.zip",
+        "size": 1880637409,
+        "SHA256": "2b3cc577ec80ad2c5993c99a4bbb8587566b849ad1a00bd91b47c0a7759b1e5b",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/vayu/PixelOS_vayu-12.0-20220102-0608.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/vayu-twelve/PixelOS_vayu-12.0-20220102-0608.zip",
+        "parts": false
     }
 ]
