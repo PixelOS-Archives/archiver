@@ -13247,5 +13247,13 @@
         "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/violet/PixelOS_violet-13.0-20231002-0528.zip/download",
         "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/violet-thirteen/PixelOS_violet-13.0-20231002-0528.zip",
         "parts": false
+    },
+    {
+        "filename": "PixelOS_yogurt-13.0-20230216-0609.zip",
+        "size": 1462501336,
+        "SHA256": "601164f45271c9be5a57b6f47b5095199097aef2d890cd30062641fa4e6c5eb7",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/yogurt/PixelOS_yogurt-13.0-20230216-0609.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/yogurt-thirteen/PixelOS_yogurt-13.0-20230216-0609.zip",
+        "parts": false
     }
 ]
