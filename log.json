@@ -13204,5 +13204,13 @@
         "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/violet/PixelOS_violet-13.0-20230828-0237.zip/download",
         "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/violet-thirteen/PixelOS_violet-13.0-20230828-0237.zip",
         "parts": false
+    },
+    {
+        "filename": "PixelOS_whyred-12.1-20220812-1527.zip",
+        "size": 1597018693,
+        "SHA256": "5c3a5d8480cca52bdb72ec8a0685ee3c938b02b24765594e2a9493dac2a905f4",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/whyred/PixelOS_whyred-12.1-20220812-1527.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/whyred-twelve/PixelOS_whyred-12.1-20220812-1527.zip",
+        "parts": false
     }
 ]
