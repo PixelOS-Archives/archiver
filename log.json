@@ -13108,5 +13108,13 @@
         "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/tundra/PixelOS_tundra-14.0-20240604-1525.zip/download",
         "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/tundra-fourteen/PixelOS_tundra-14.0-20240604-1525.zip",
         "parts": false
+    },
+    {
+        "filename": "PixelOS_violet-12.1-20220622-1508.zip",
+        "size": 1768521265,
+        "SHA256": "887a048c5b0011e9c91b46138fa33d71c161b956d0b8b859efdc0b4f0e48873c",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/violet/PixelOS_violet-12.1-20220622-1508.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/violet-twelve/PixelOS_violet-12.1-20220622-1508.zip",
+        "parts": false
     }
 ]
