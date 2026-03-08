@@ -13212,5 +13212,32 @@
         "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/twelve/whyred/PixelOS_whyred-12.1-20220812-1527.zip/download",
         "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/whyred-twelve/PixelOS_whyred-12.1-20220812-1527.zip",
         "parts": false
+    },
+    {
+        "filename": "PixelOS_waffle-16.1-20251230-0547.zip",
+        "size": 3674777621,
+        "SHA256": "9f1b76dc9aa8bf73a6da88b2470dd2a5f5cafa00dbb6a7f81335eb416350e834",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/waffle/PixelOS_waffle-16.1-20251230-0547.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/waffle-sixteen/PixelOS_waffle-16.1-20251230-0547.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_waffle-16.1-20251230-0547.zip.part0",
+                "size": 1677721600,
+                "SHA256": "42f03603dcf42cdd98f20aa083cdec3bb7016f8fcc4a96451222498e4ff372c6",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/waffle-sixteen/PixelOS_waffle-16.1-20251230-0547.zip.part0"
+            },
+            {
+                "filename": "PixelOS_waffle-16.1-20251230-0547.zip.part1",
+                "size": 1677721600,
+                "SHA256": "548a413101dcba7c705d27584513b6359dfaf2aece9f5b71f9b966a3b936a016",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/waffle-sixteen/PixelOS_waffle-16.1-20251230-0547.zip.part1"
+            },
+            {
+                "filename": "PixelOS_waffle-16.1-20251230-0547.zip.part2",
+                "size": 319334421,
+                "SHA256": "8beb9b72c569862e103d045ddf7aa11c2b57e1dbc67f63b0431d7cc794801ebe",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/waffle-sixteen/PixelOS_waffle-16.1-20251230-0547.zip.part2"
+            }
+        ]
     }
 ]
