@@ -13239,5 +13239,13 @@
                 "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/waffle-sixteen/PixelOS_waffle-16.1-20251230-0547.zip.part2"
             }
         ]
+    },
+    {
+        "filename": "PixelOS_violet-13.0-20231002-0528.zip",
+        "size": 1738672753,
+        "SHA256": "ecb8dc3c18be22755a9adab7476a9495b94cb8cdbf85f6a965775a2335fbbd3f",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/violet/PixelOS_violet-13.0-20231002-0528.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/violet-thirteen/PixelOS_violet-13.0-20231002-0528.zip",
+        "parts": false
     }
 ]
