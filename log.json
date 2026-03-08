@@ -13279,5 +13279,13 @@
         "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/yogurt/PixelOS_yogurt-13.0-20230909-1915.zip/download",
         "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/yogurt-thirteen/PixelOS_yogurt-13.0-20230909-1915.zip",
         "parts": false
+    },
+    {
+        "filename": "PixelOS_yogurt-13.0-20231007-1204.zip",
+        "size": 1624820336,
+        "SHA256": "886ecb2d5a0b501eacefa7428636265bfdf5dda8367ef40f2ffee7fe0302a4b8",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/yogurt/PixelOS_yogurt-13.0-20231007-1204.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/yogurt-thirteen/PixelOS_yogurt-13.0-20231007-1204.zip",
+        "parts": false
     }
 ]
