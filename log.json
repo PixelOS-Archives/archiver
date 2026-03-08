@@ -13287,5 +13287,26 @@
         "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/yogurt/PixelOS_yogurt-13.0-20231007-1204.zip/download",
         "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/yogurt-thirteen/PixelOS_yogurt-13.0-20231007-1204.zip",
         "parts": false
+    },
+    {
+        "filename": "PixelOS_zeus-14.0-20240424-1124.zip",
+        "size": 2509657794,
+        "SHA256": "e76603225d63a092c88bad917b33ef3b70084be6fc054fef8957e6e400d70957",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/zeus/PixelOS_zeus-14.0-20240424-1124.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/zeus-fourteen/PixelOS_zeus-14.0-20240424-1124.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_zeus-14.0-20240424-1124.zip.part0",
+                "size": 1677721600,
+                "SHA256": "9fb76eb25b1ab42f1c2496e00fd59f16bfe5322067fd61d50b43fde9320b984b",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/zeus-fourteen/PixelOS_zeus-14.0-20240424-1124.zip.part0"
+            },
+            {
+                "filename": "PixelOS_zeus-14.0-20240424-1124.zip.part1",
+                "size": 831936194,
+                "SHA256": "d221b38e2e7154d70f894f700dad7ffb93b48036097fcecf20962afb9759414d",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/zeus-fourteen/PixelOS_zeus-14.0-20240424-1124.zip.part1"
+            }
+        ]
     }
 ]
