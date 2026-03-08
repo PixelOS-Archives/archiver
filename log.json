@@ -13196,5 +13196,13 @@
         "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/violet/PixelOS_violet-13.0-20230722-0442.zip/download",
         "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/violet-thirteen/PixelOS_violet-13.0-20230722-0442.zip",
         "parts": false
+    },
+    {
+        "filename": "PixelOS_violet-13.0-20230828-0237.zip",
+        "size": 1707470464,
+        "SHA256": "880dcb0a76578441fc5c2c6856577cabe904d09e95d21d7b79ff5927ab1f7def",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/thirteen/violet/PixelOS_violet-13.0-20230828-0237.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/violet-thirteen/PixelOS_violet-13.0-20230828-0237.zip",
+        "parts": false
     }
 ]
