@@ -13371,5 +13371,26 @@
                 "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/zeus-fifteen/PixelOS_zeus-15.0-20241213-0628.zip.part1"
             }
         ]
+    },
+    {
+        "filename": "PixelOS_zeus-15.0-20250226-1349.zip",
+        "size": 2528934712,
+        "SHA256": "ce14b1322fb8858871accbc025d7276f8e3e071bc089131bd815e392e17944f4",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/zeus/PixelOS_zeus-15.0-20250226-1349.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/zeus-fifteen/PixelOS_zeus-15.0-20250226-1349.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_zeus-15.0-20250226-1349.zip.part0",
+                "size": 1677721600,
+                "SHA256": "995716ed398bc9ae26aa37547cae8d15923333cdb44ddea47c4f28d9b5f1b8e3",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/zeus-fifteen/PixelOS_zeus-15.0-20250226-1349.zip.part0"
+            },
+            {
+                "filename": "PixelOS_zeus-15.0-20250226-1349.zip.part1",
+                "size": 851213112,
+                "SHA256": "b8252d58b59a60a65d6dcf52ff44551cd9470fcffb54f3bbaab998a00849a954",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/zeus-fifteen/PixelOS_zeus-15.0-20250226-1349.zip.part1"
+            }
+        ]
     }
 ]
