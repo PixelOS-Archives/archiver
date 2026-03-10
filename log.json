@@ -13551,5 +13551,26 @@
                 "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/peridot-sixteen/PixelOS_peridot-16.2-20260309-1855.zip.part2"
             }
         ]
+    },
+    {
+        "filename": "PixelOS_kiev-16.2-20260309-2107.zip",
+        "size": 2125941954,
+        "SHA256": "39ec07cf4c8bda7bc821308914611e5dc50d9ac9b623b473a969cfb9d35a67e8",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/kiev/PixelOS_kiev-16.2-20260309-2107.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/kiev-sixteen/PixelOS_kiev-16.2-20260309-2107.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_kiev-16.2-20260309-2107.zip.part0",
+                "size": 1677721600,
+                "SHA256": "e01f6d0df8684b07e62eaa416d296241839665feeca985f1ca65b40ce8ec3da0",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/kiev-sixteen/PixelOS_kiev-16.2-20260309-2107.zip.part0"
+            },
+            {
+                "filename": "PixelOS_kiev-16.2-20260309-2107.zip.part1",
+                "size": 448220354,
+                "SHA256": "6b134cd1433d7732669aac2de3079a8a3b0a8336ce14760bdf276177e2120a55",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/kiev-sixteen/PixelOS_kiev-16.2-20260309-2107.zip.part1"
+            }
+        ]
     }
 ]
