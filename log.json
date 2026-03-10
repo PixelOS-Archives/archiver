@@ -13434,5 +13434,26 @@
                 "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/zeus-fifteen/PixelOS_zeus-15.0-20250424-0348.zip.part1"
             }
         ]
+    },
+    {
+        "filename": "PixelOS_dubai-16.2-20260309-0902.zip",
+        "size": 2417036593,
+        "SHA256": "30c055001ece8e91132d0c282919144febbd40ed277cdc878729f293c94a7f9e",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/dubai/PixelOS_dubai-16.2-20260309-0902.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/dubai-sixteen/PixelOS_dubai-16.2-20260309-0902.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_dubai-16.2-20260309-0902.zip.part0",
+                "size": 1677721600,
+                "SHA256": "1864582a52abd6e778228130bb1a2848efdbe0cf03b98d4cf9a9447fe8fe19a2",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/dubai-sixteen/PixelOS_dubai-16.2-20260309-0902.zip.part0"
+            },
+            {
+                "filename": "PixelOS_dubai-16.2-20260309-0902.zip.part1",
+                "size": 739314993,
+                "SHA256": "177cac9ebfdda9139fe1c1d5597b8f1e1faa32f47d42a240e702ea088bd00fdd",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/dubai-sixteen/PixelOS_dubai-16.2-20260309-0902.zip.part1"
+            }
+        ]
     }
 ]
