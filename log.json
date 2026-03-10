@@ -13476,5 +13476,26 @@
                 "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-sixteen/PixelOS_davinci-16.2-20260309-2009.zip.part1"
             }
         ]
+    },
+    {
+        "filename": "PixelOS_garnet-16.2-20260309-1622.zip",
+        "size": 2719415332,
+        "SHA256": "c44e80be7553e2978bed79f4fd845cf0db9e822953413a7a345fe5229f0fe224",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/garnet/PixelOS_garnet-16.2-20260309-1622.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/garnet-sixteen/PixelOS_garnet-16.2-20260309-1622.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_garnet-16.2-20260309-1622.zip.part0",
+                "size": 1677721600,
+                "SHA256": "17d4e7e76085e03fd0a88cbee86a06074472f65f33e6e439a5580679cabb6e10",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/garnet-sixteen/PixelOS_garnet-16.2-20260309-1622.zip.part0"
+            },
+            {
+                "filename": "PixelOS_garnet-16.2-20260309-1622.zip.part1",
+                "size": 1041693732,
+                "SHA256": "77da77a0c9b9ab3e7a3fb60231bf775047ad16a134e3309f6bbc7b5718518e09",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/garnet-sixteen/PixelOS_garnet-16.2-20260309-1622.zip.part1"
+            }
+        ]
     }
 ]
