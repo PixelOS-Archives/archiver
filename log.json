@@ -13572,5 +13572,26 @@
                 "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/kiev-sixteen/PixelOS_kiev-16.2-20260309-2107.zip.part1"
             }
         ]
+    },
+    {
+        "filename": "PixelOS_sunny-16.2-20260309-2138.zip",
+        "size": 2541758922,
+        "SHA256": "8e5ae05559712ac2e758192f8cc9345ad3c8b196e82a2de34ff38e5655c2595a",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/sunny/PixelOS_sunny-16.2-20260309-2138.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-sixteen/PixelOS_sunny-16.2-20260309-2138.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_sunny-16.2-20260309-2138.zip.part0",
+                "size": 1677721600,
+                "SHA256": "436d56d1b9cb7cb52dc31e0c3491cc25ca8f208b5380268567036a870b5d1230",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-sixteen/PixelOS_sunny-16.2-20260309-2138.zip.part0"
+            },
+            {
+                "filename": "PixelOS_sunny-16.2-20260309-2138.zip.part1",
+                "size": 864037322,
+                "SHA256": "efaee29b424259c69c5f3b55e5f0dfcfb9de6c5ebad4006270a6c925644c5e0b",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sunny-sixteen/PixelOS_sunny-16.2-20260309-2138.zip.part1"
+            }
+        ]
     }
 ]
