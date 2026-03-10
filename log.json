@@ -13455,5 +13455,26 @@
                 "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/dubai-sixteen/PixelOS_dubai-16.2-20260309-0902.zip.part1"
             }
         ]
+    },
+    {
+        "filename": "PixelOS_davinci-16.2-20260309-2009.zip",
+        "size": 2674940869,
+        "SHA256": "a0e8624893ad20e52f3ecde0bf696952245297a9df2b7bf4fd4d7f67b6d10ef2",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/davinci/PixelOS_davinci-16.2-20260309-2009.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-sixteen/PixelOS_davinci-16.2-20260309-2009.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_davinci-16.2-20260309-2009.zip.part0",
+                "size": 1677721600,
+                "SHA256": "9832cf60390e32d0fb65792a0fecf5ed234644180874fa851772a49522b182a6",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-sixteen/PixelOS_davinci-16.2-20260309-2009.zip.part0"
+            },
+            {
+                "filename": "PixelOS_davinci-16.2-20260309-2009.zip.part1",
+                "size": 997219269,
+                "SHA256": "6a8210e9a168bcf03ab1f1d83ad0622cdf09173915165ecc52bc6d9edf63518f",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/davinci-sixteen/PixelOS_davinci-16.2-20260309-2009.zip.part1"
+            }
+        ]
     }
 ]
