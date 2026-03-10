@@ -13497,5 +13497,32 @@
                 "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/garnet-sixteen/PixelOS_garnet-16.2-20260309-1622.zip.part1"
             }
         ]
+    },
+    {
+        "filename": "PixelOS_onyx-16.2-20260309-1521.zip",
+        "size": 4195215555,
+        "SHA256": "a0ef2fa9722c3a1a2151fbe04a95d26f46a4c896508186c252e5875243eeaae9",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/onyx/PixelOS_onyx-16.2-20260309-1521.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/onyx-sixteen/PixelOS_onyx-16.2-20260309-1521.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_onyx-16.2-20260309-1521.zip.part0",
+                "size": 1677721600,
+                "SHA256": "020d429ef33c186d362251c443d565e2b7dc7dfa1ae8ea93fd187ec501166728",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/onyx-sixteen/PixelOS_onyx-16.2-20260309-1521.zip.part0"
+            },
+            {
+                "filename": "PixelOS_onyx-16.2-20260309-1521.zip.part1",
+                "size": 1677721600,
+                "SHA256": "7cb272c98d143d852f1d4000c23bd512bbcb28098080354b7d49d96f3ec9a7b4",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/onyx-sixteen/PixelOS_onyx-16.2-20260309-1521.zip.part1"
+            },
+            {
+                "filename": "PixelOS_onyx-16.2-20260309-1521.zip.part2",
+                "size": 839772355,
+                "SHA256": "a18940c6ff69b3431dde87ba11998fed46e790324efd07a22f7623398b82d0b0",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/onyx-sixteen/PixelOS_onyx-16.2-20260309-1521.zip.part2"
+            }
+        ]
     }
 ]
