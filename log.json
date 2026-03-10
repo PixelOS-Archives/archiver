@@ -13614,5 +13614,26 @@
                 "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/sweet-sixteen/PixelOS_sweet-16.2-20260309-0805.zip.part1"
             }
         ]
+    },
+    {
+        "filename": "PixelOS_gauguin-16.2-20260309-1708.zip",
+        "size": 2654371893,
+        "SHA256": "3ea63fe4a33dc2212a83126f1aecb5ef7b834a85063cfcbf2df7c5e2df2300cf",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/gauguin/PixelOS_gauguin-16.2-20260309-1708.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-sixteen/PixelOS_gauguin-16.2-20260309-1708.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_gauguin-16.2-20260309-1708.zip.part0",
+                "size": 1677721600,
+                "SHA256": "10a3f907475e722cf1f7911a1da53ba862e1682b9c0726d5810abe998655432e",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-sixteen/PixelOS_gauguin-16.2-20260309-1708.zip.part0"
+            },
+            {
+                "filename": "PixelOS_gauguin-16.2-20260309-1708.zip.part1",
+                "size": 976650293,
+                "SHA256": "e92966cc701ada395babdb2e5909acca205a3f663240a4f156d5c1d84275ea33",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/gauguin-sixteen/PixelOS_gauguin-16.2-20260309-1708.zip.part1"
+            }
+        ]
     }
 ]
