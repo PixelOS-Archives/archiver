@@ -13524,5 +13524,32 @@
                 "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/onyx-sixteen/PixelOS_onyx-16.2-20260309-1521.zip.part2"
             }
         ]
+    },
+    {
+        "filename": "PixelOS_peridot-16.2-20260309-1855.zip",
+        "size": 3453182103,
+        "SHA256": "143362d1df7ddcf6b5d2533d88110d683400e4601a574b49a0fd5f2fe3d5a9c5",
+        "SF URL": "https://sourceforge.net/projects/pixelos-releases/files/sixteen/peridot/PixelOS_peridot-16.2-20260309-1855.zip/download",
+        "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/peridot-sixteen/PixelOS_peridot-16.2-20260309-1855.zip.part*",
+        "parts": [
+            {
+                "filename": "PixelOS_peridot-16.2-20260309-1855.zip.part0",
+                "size": 1677721600,
+                "SHA256": "59b9be45299db0bc45cee975e30ce70c837f9b26f9f3b57be2813817f5b99aca",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/peridot-sixteen/PixelOS_peridot-16.2-20260309-1855.zip.part0"
+            },
+            {
+                "filename": "PixelOS_peridot-16.2-20260309-1855.zip.part1",
+                "size": 1677721600,
+                "SHA256": "bc8a141b26e68f7be18baa8c37a8f5f5f8cf881693dc1e0632148ab1bf3320ef",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/peridot-sixteen/PixelOS_peridot-16.2-20260309-1855.zip.part1"
+            },
+            {
+                "filename": "PixelOS_peridot-16.2-20260309-1855.zip.part2",
+                "size": 97738903,
+                "SHA256": "208004ae3317e13e1db583e23fdbfe597a38d46123aa7576df131e05088be99c",
+                "GH URL": "https://github.com/PixelOS-Archives/archiver/releases/download/peridot-sixteen/PixelOS_peridot-16.2-20260309-1855.zip.part2"
+            }
+        ]
     }
 ]
